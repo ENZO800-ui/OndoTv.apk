@@ -1,6 +1,6 @@
 [
   {
-    "name": "🏆  EVENTOS",
+    "name": "EVENTOS",
     "samples": [
       {
         "name": "EVENTOS",
@@ -19,18 +19,6 @@
         "uri": "https://cdn-py.cvattv.com.ar/live/c4eds/Eventos2_PY/SA_Live_dash_enc/Eventos2_PY.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_Eventos2",
-        "icono": "https://i.ibb.co/3WZtzG3/eventos-py.png",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
-            "Origin": "https://portal.app.flow.com.py",
-            "Referer": "https://portal.app.flow.com.py/"
-          }
-      },
-      {
-        "name": "EVENTOS 3",
-        "uri": "https://cdn-py.cvattv.com.ar/live/c7eds/GEN_CAM2/SA_Live_dash_enc/GEN_CAM2.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_Eventos",
         "icono": "https://i.ibb.co/3WZtzG3/eventos-py.png",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
@@ -879,20 +867,8 @@
     ]
   },
   {
-    "name": "HBO",
+    "name": "HBO/UNIVERSAL+",
     "samples": [
-   {
-    "name": "HBO",
-    "uri": "https://live1-ott.izzigo.tv/7/out/u/dash/HBO-HD-H265/default.mpd",
-    "drm_scheme": "clearkey",
-    "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/HBO_MX",
-    "icono": "https://geo.edge.pontiscloud.com:9002/images/100/CH_LOGO/800/542/0/0/228799490721.png",
-	 "headers": {
-      "origin": "https://www.izzigo.tv",
-      "referer": "https://www.izzigo.tv/",
-      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
-    	}
-   },
    {
     "name": "HBO",
     "uri": "https://cdn.sensa.com.ar/live/eds/HBO/live_dash_cld/HBO.mpd",
@@ -906,18 +882,6 @@
    },
    {
     "name": "HBO 2",
-    "uri": "https://live1-ott.izzigo.tv/8/out/u/dash/HBO2-HD-H265/default.mpd",
-    "drm_scheme": "clearkey",
-    "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/HBO2_MX",
-    "icono": "https://geo.edge.pontiscloud.com:9002/images/101/CH_LOGO/800/542/0/0/36093751072127.png",
-	 "headers": {
-      "origin": "https://www.izzigo.tv",
-      "referer": "https://www.izzigo.tv/",
-      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
-    	 }
-   },
-   {
-    "name": "HBO 2",
     "uri": "https://cdn.sensa.com.ar/live/eds/HBO2/live_dash_cld/HBO2.mpd",
     "drm_scheme": "clearkey",
     "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/HBO2_AR",
@@ -928,19 +892,7 @@
           }
    },
    {
-    "name": "HBO Family",
-    "uri": "https://live1-ott.izzigo.tv/8/out/u/dash/HBO-FAMILY-HD-H265/default.mpd",
-    "drm_scheme": "clearkey",
-    "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/HBOFAMILY_MX",
-    "icono": "https://geo.edge.pontiscloud.com:9002/images/102/CH_LOGO/800/542/0/0/7354519807335.png",
-	 "headers": {
-      "origin": "https://www.izzigo.tv",
-      "referer": "https://www.izzigo.tv/",
-      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
-	     }
-   },
-   {
-    "name": "HBO Family",
+    "name": "HBO FAMILY",
     "uri": "https://cdn.sensa.com.ar/live/eds/HBOFamily/live_dash_cld/HBOFamily.mpd",
     "drm_scheme": "clearkey",
     "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/HBOFAMILY_AR",
@@ -951,19 +903,7 @@
        }
    },
    {
-    "name": "HBO Mundi",
-    "uri": "https://live1-ott.izzigo.tv/8/out/u/dash/HBO-MUNDI-HD-H265/default.mpd",
-    "drm_scheme": "clearkey",
-    "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/HBOMUDI_MX",
-    "icono": "https://geo.edge.pontiscloud.com:9002/images/107/CH_LOGO/800/542/0/0/61157416071448.png",
-	 "headers": {
-      "origin": "https://www.izzigo.tv",
-      "referer": "https://www.izzigo.tv/",
-      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
-	     }
-   },
-   {
-    "name": "HBO Mudi",
+    "name": "HBO MUDI",
     "uri": "https://cdn.sensa.com.ar/live/eds/HBOMundi/live_dash_cld/HBOMundi.mpd",
     "drm_scheme": "clearkey",
     "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/HBOMUDI_AR",
@@ -974,19 +914,7 @@
          }
    },	
    {
-    "name": "HBO Plus",
-    "uri": "https://live1-ott.izzigo.tv/8/out/u/dash/HBO-PLUS-HD-H265/default.mpd",
-    "drm_scheme": "clearkey",
-    "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/HBOPLUS_MX",
-    "icono": "https://geo.edge.pontiscloud.com:9002/images/124/CH_LOGO/800/542/0/0/10237380072165.png",
-	 "headers": {
-      "origin": "https://www.izzigo.tv",
-      "referer": "https://www.izzigo.tv/",
-      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
-         }
-   },
-   {
-    "name": "HBO Plus",
+    "name": "HBO PLUS",
     "uri": "https://cdn.sensa.com.ar/live/eds/HBOPlus/live_dash_cld/HBOPlus.mpd",
     "drm_scheme": "clearkey",
     "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/HBOPLUS_AR",
@@ -997,19 +925,7 @@
          }
    },
    {
-    "name": "HBO Pop",
-    "uri": "https://live1-ott.izzigo.tv/8/out/u/dash/HBO-POP-HD-H265/default.mpd",
-    "drm_scheme": "clearkey",
-    "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/HBOPOP_MX",
-    "icono": "https://geo.edge.pontiscloud.com:9002/images/109/CH_LOGO/800/542/0/0/68908128073927.png",
-	 "headers": {
-      "origin": "https://www.izzigo.tv",
-      "referer": "https://www.izzigo.tv/",
-      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
-         }
-   },
-   {
-    "name": "HBO Pop",
+    "name": "HBO POP",
     "uri": "https://cdn.sensa.com.ar/live/eds/HBOPop/live_dash_cld/HBOPop.mpd",
     "drm_scheme": "clearkey",
     "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/HBOPOP_AR",
@@ -1020,19 +936,7 @@
          }
    },
    {
-    "name": "HBO Signature",
-    "uri": "https://live1-ott.izzigo.tv/8/out/u/dash/HBO-SIGNATURE-HD-H265/default.mpd",
-    "drm_scheme": "clearkey",
-    "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/HBOSIGNATURE_MX",
-    "icono": "https://geo.edge.pontiscloud.com:9002/images/49/CH_LOGO/800/542/0/0/3657655307500.png",
-	 "headers": {
-      "origin": "https://www.izzigo.tv",
-      "referer": "https://www.izzigo.tv/",
-      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
-         }
-   },
-   {
-    "name": "HBO Signature",
+    "name": "HBO SIGNATURE",
     "uri": "https://cdn.sensa.com.ar/live/eds/HBOSignature/live_dash_cld/HBOSignature.mpd",
     "drm_scheme": "clearkey",
     "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/HBOSIGNATURE_AR",
@@ -1043,19 +947,7 @@
         }
    },
    {
-    "name": "HBO Xtreme",
-    "uri": "https://live1-ott.izzigo.tv/8/out/u/dash/HBO-XTREME-HD-H265/default.mpd",
-    "drm_scheme": "clearkey",
-    "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/HBOEXTREME_MX",
-    "icono": "https://geo.edge.pontiscloud.com:9002/images/108/CH_LOGO/800/542/0/0/6041444607334.png",
-	 "headers": {
-      "origin": "https://www.izzigo.tv",
-      "referer": "https://www.izzigo.tv/",
-      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
-          }
-   },
-   {
-    "name": "HBO Xtreme",
+    "name": "HBO XTREME",
     "uri": "https://cdn.sensa.com.ar/live/eds/HBOXtreme/live_dash_cld/HBOXtreme.mpd",
     "drm_scheme": "clearkey",
     "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/HBOEXTREME_MX",
@@ -1064,7 +956,57 @@
       "referer": "https://webclient.ctcplus.com.ar/",
       "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
         }
-   }
+   },
+   {
+    "name": "UNIVERSAL CINEMA",
+    "uri": "https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/eishhvjuuz/out/v1/92b27f5cd5244bba8071fcd0d09be067/cenc.mpd",
+    "drm_scheme": "clearkey",
+    "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/UNIVERSAL_CINEMA",
+    "icono": "https://geo.edge.pontiscloud.com:9002/images/1282/CH_LOGO/800/542/0/0/21817888076947.png",
+	 "headers": {
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+        }
+   },
+   {
+    "name": "UNIVERSAL COMEDY",
+    "uri": "https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/pfpdcsvoyd/out/v1/1bb43614ccd348fd8b9cc4d4fc5be059/cenc.mpd",
+    "drm_scheme": "clearkey",
+    "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/UNIVERSAL_COMEDY",
+    "icono": "https://geo.edge.pontiscloud.com:9002/images/1283/CH_LOGO/800/542/0/0/94843453076948.png",
+	 "headers": {
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+		}
+   },
+   {
+    "name": "UNIVERSAL CRIME",
+    "uri": "https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/xuvkx1kkfl/out/v1/6a977f46a77b4a03a1e55db484c1695a/cenc.mpd",
+    "drm_scheme": "clearkey",
+    "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/UNIVERSAL_CRIME",
+    "icono": "https://geo.edge.pontiscloud.com:9002/images/1284/CH_LOGO/800/542/0/0/34307524076949.png",
+	 "headers": {
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+        }
+   },
+   {
+    "name": "UNIVERSAL PREMIERE",
+    "uri": "https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/ciqsqqxp8g/out/v1/e9283351f50849a8ab602a894772649f/cenc.mpd",
+    "drm_scheme": "clearkey",
+    "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/UNIVERSAL_PREMIERE",
+    "icono": "https://geo.edge.pontiscloud.com:9002/images/1285/CH_LOGO/800/542/0/0/62685863076950.png",
+	 "headers": {
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+	    }
+   },
+   {
+    "name": "UNIVERSAL REALITY",
+    "uri": "https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/tezhlmgs1w/out/v1/362fef2b778b4531b4e0dd3db6acf805/cenc.mpd",
+    "drm_scheme": "clearkey",
+    "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/UNIVERSAL_REALITY",
+    "icono": "https://geo.edge.pontiscloud.com:9002/images/1281/CH_LOGO/800/542/0/0/16370616076951.png",
+	 "headers": {
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+		}
+     }
     ]
   },
   {
