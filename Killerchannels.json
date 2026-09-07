@@ -382,14 +382,13 @@
     "samples": [
       {
         "name": "TNT SPORTS PREMIUM",
-        "uri": "https://cdn-py.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd",
+        "uri": "https://cdn.sensa.com.ar/bpk-tv/TNTSports/default/index.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_TNTSportsAr",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/TNT_SPORTS-SENSA",
         "icono": "https://i.ibb.co/zGzJ3jw/tnt-sports-premium.png",
           "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
-            "Origin": "https://portal.app.flow.com.py",
-            "Referer": "https://portal.app.flow.com.py/"
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36",
+            "Referer": "https://webclient.ctcplus.com.ar/"
           }
       },
       {
@@ -406,7 +405,7 @@
       },
       {
         "name": "TYC SPORTS 2",
-        "uri": "https://flow-cdn-gcp.app.flow.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc/TyC_Internacional.mpd",
+        "uri": "https://cdn-py.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc/TyC_Internacional.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_TyCSportsInternacionalAr",
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0cZ8nMWRTKx1QQcSrb2uq3cXZ-jkmclRxuRSBkCCxRrWz8uBzE4x7IuGN&s=10",
@@ -436,18 +435,6 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/DSPORTPLUS",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png/960px-DirecTV_Sports%2B_Latin_America_%282018%29.png"
-      },
-      {
-        "name": "DSPORTS PREMIUM",
-        "uri": "https://099ed2f3014c41e78f3c7bc29b21bc11.mediatailor.us-east-1.amazonaws.com/v1/dash/dffceb859a31f14d0ed059ef6b4e2e4d850e60b1/live_1062/1062_DIRECTV_SPORTS_URU_DASH/manifest.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "kid:0H3S2EVuO1ms-a4AN5uL-g,k:XXXVj6w7qR4goCSyaKyWTw",
-        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEnP-k7Cm69smRzjNxuck0YaV66KoJ_4jyvGOzsnBwMg&s=10",
-          "headers": {
-            "User-Agent": "dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1 Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
-            "Origin": "android_mobile.directvgo.com",
-            "Referer": "android_mobile.directvgo.com/"
-          }
       },
       {
         "name": "ESPN PREMIUM",
