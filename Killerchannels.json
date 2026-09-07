@@ -425,7 +425,6 @@
       {
         "name": "ESPN PREMIUM",
         "uri": "https://cdn.sensa.com.ar/bpk-tv/ESPNPremium/default/index.mpd",
-		"uri2": "https://cdn.sensa.com.ar/live/eds/ESPNPremium/live_dash_cld/ESPNPremium.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/ESPN_PREMIUN-SENSA",
         "icono": "https://i.ibb.co/LrNsJsP/espnpremium.png",
