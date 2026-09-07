@@ -424,14 +424,14 @@
       },
       {
         "name": "ESPN PREMIUM",
-        "uri": "https://cdn-py.cvattv.com.ar/live/c4eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd",
+        "uri": "https://cdn.sensa.com.ar/bpk-tv/ESPNPremium/default/index.mpd",
+		"uri2": "https://cdn.sensa.com.ar/live/eds/ESPNPremium/live_dash_cld/ESPNPremium.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_ESPNPREMIUNAR",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/ESPN_PREMIUN-SENSA",
         "icono": "https://i.ibb.co/LrNsJsP/espnpremium.png",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
-            "Origin": "https://portal.app.flow.com.py",
-            "Referer": "https://portal.app.flow.com.py/"
+            "Referer": "https://webclient.ctcplus.com.ar/"
           }
       },
       {
