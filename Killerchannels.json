@@ -51,7 +51,7 @@
       },
       {
         "name": "TELEFUTURO",
-        "uri": "https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_alta/playlist.m3u8",
+        "uri": "https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_alta/playlist.m3u8?admin=tvaccion",
         "icono": "https://i.imgur.com/6lVrFvb.png"
       },
       {
@@ -67,7 +67,7 @@
           }
       },
       {
-        "name": "LA TRIBU NEWS",
+        "name": "UNICANAL",
         "uri": "https://cdn-py.cvattv.com.ar/live/c4eds/UNICANAL_C4/SA_Live_dash_enc/UNICANAL_C4.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_UnicanalPY",
@@ -85,7 +85,7 @@
       },
       {
         "name": "TV CÁMARA",
-        "uri": "https://flow-cdn-gcp.app.flow.com.ar/live/c4eds/TV_Camara/SA_Live_dash_full_e_7CF9BB041AD89713AD8CF4CF/TV_Camara.mpd",
+        "uri": "https://cdn-py.cvattv.com.ar/live/c4eds/TV_Camara/SA_Live_dash_enc/TV_Camara.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_TvCamaraPy",
         "icono": "https://i.ibb.co/TkT1Dbm/tvcamara.jpg",
@@ -107,7 +107,7 @@
       },
       {
         "name": "5 DÍAS",
-        "uri": "https://flow-cdn-gcp.app.flow.com.ar/live/c4eds/5_Dias_PY/SA_Live_dash_enc/5_Dias_PY.mpd",
+        "uri": "https://cdn-py.cvattv.com.ar/live/c4eds/5_Dias_PY/SA_Live_dash_enc/5_Dias_PY.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_5diasPy",
         "icono": "https://i.ibb.co/k48NKrR/5diaspy.png",
@@ -119,7 +119,7 @@
       },
       {
         "name": "SURTV",
-        "uri": "https://flow-cdn-gcp.app.flow.com.ar/live/c4eds/SUR_TV_C4/SA_Live_dash_enc/SUR_TV_C4.mpd",
+        "uri": "https://cdn-py.cvattv.com.ar/live/c4eds/SUR_TV_C4/SA_Live_dash_enc/SUR_TV_C4.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_SurTVPY",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Sur_TV_Itap%C3%BAa_logo_2022.png",
@@ -187,7 +187,7 @@
       },
       {
         "name": "ABC TV",
-        "uri": "https://flow-cdn-gcp.app.flow.com.ar/live/c5eds/ABC_TV_C4/SA_Live_dash_enc/ABC_TV_C4.mpd",
+        "uri": "https://cdn-py.cvattv.com.ar/live/c5eds/ABC_TV_C4/SA_Live_dash_enc/ABC_TV_C4.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/ABCPY_ONLYPERSONAL",
         "icono": "https://i.ibb.co/dGqjksf/descarga.png",
