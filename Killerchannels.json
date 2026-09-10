@@ -84,18 +84,6 @@
         "icono": "https://i.ibb.co/hfFmYXz/WW.jpg"
       },
       {
-        "name": "TV CÁMARA",
-        "uri": "https://cdn-py.cvattv.com.ar/live/c4eds/TV_Camara/SA_Live_dash_enc/TV_Camara.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/TV-CAMARA_PY",
-        "icono": "https://i.ibb.co/TkT1Dbm/tvcamara.jpg",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
-            "Origin": "https://portal.app.flow.com.py",
-            "Referer": "https://portal.app.flow.com.py/"
-          }
-      },
-      {
         "name": "PARAGUAY TV",
         "uri": "https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8",
         "icono": "https://bestleague.world/img/pytv.png"
@@ -220,11 +208,6 @@
         "icono": "https://i.imgur.com/857OkFf.png"
       },
       {
-        "name": "COSMOS TV",
-        "uri": "https://rds3gen.desdeparaguay.net/cosmostv/cosmostv/playlist.m3u8",
-        "icono": "https://i.imgur.com/dAMyExY.jpg"
-      },
-      {
         "name": "VENUS MEDIA",
         "uri": "https://copacogen.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8",
         "icono": "https://bestleague.world/img/venus.png"
@@ -280,11 +263,6 @@
         "icono": "https://i.postimg.cc/2ybtwqbp/productiva-tv.png"
       },
       {
-        "name": "CANAL 6 TVL LAMBARÉ",
-        "uri": "https://video.hostingcaaguazu.com:19360/tvlambare/tvlambare.m3u8",
-        "icono": "https://i.postimg.cc/Kcn21MLX/tv-lambare.png"
-      },
-      {
         "name": "CANAL 12  REGIONAL TV",
         "uri": "https://video.hostingcaaguazu.com:19360/regionaltv/regionaltv.m3u8",
         "icono": "https://i.ibb.co/0nRfZNd/canal12regional.png"
@@ -293,11 +271,6 @@
         "name": "MI TV ITAPÚA",
         "uri": "https://rds3gen.desdeparaguay.net/mitv/mitv/playlist.m3u8?admin=mitvitapua",
         "icono": "https://i.ibb.co/6RqpxYR/mitv.png"
-      },
-      {
-        "name": "SOMOS DEL ESTE",
-        "uri": "https://live.enhdtv.com:8081/8062/index.m3u8",
-        "icono": "https://i.postimg.cc/c1nzTv79/somos-del-este.png"
       },
       {
         "name": "VISIÓN TV VILLARRICA",
@@ -328,16 +301,6 @@
         "name": "TVA CORONEL OVIEDO",
         "uri": "https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8",
         "icono": "https://i.postimg.cc/LX4WNDTj/tva.png"
-      },
-      {
-        "name": "RTV PARANÁ",
-        "uri": "https://video.hostingcaaguazu.com:19360/rtvhd/rtvhd.m3u8",
-        "icono": "https://i.postimg.cc/gcHT1f58/rtv.png"
-      },
-      {
-        "name": "MOTOR SUR TV",
-        "uri": "https://video.hostingcaaguazu.com:19360/motorsurtv/motorsurtv.m3u8",
-        "icono": "https://i.postimg.cc/PqHfrGXh/motor-sur-tv.png"
       }
     ]
   },
