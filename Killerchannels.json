@@ -351,7 +351,7 @@
         "name": "TYC SPORTS",
         "uri": "https://cdn-py.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_TyCSportsAr",
+        "drm_license_uri": "kid:KyHI-poynM4xGkxKSqmWoQ,k:zCPqH7MmKfnh9IyN7q4-Ww",
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0cZ8nMWRTKx1QQcSrb2uq3cXZ-jkmclRxuRSBkCCxRrWz8uBzE4x7IuGN&s=10",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
