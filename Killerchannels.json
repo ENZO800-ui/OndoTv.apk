@@ -31,7 +31,7 @@
         "name": "VS SPORTS",
         "uri": "https://cdn-py.cvattv.com.ar/live/c7eds/GEN__CAM1/SA_Live_dash_enc/GEN__CAM1.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_VSSPORTSPY",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/VS-SPORTS_PY",
         "icono": "https://yt3.googleusercontent.com/ocGBV0__RCpVxkRB6TljzVu0l2WLun9mzU_eVcvBAc3GoDYe6I0yCNrPN2dPdS4TrftmJYcl64Q=s160-c-k-c0x00ffffff-no-rj",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
@@ -87,7 +87,7 @@
         "name": "TV CÁMARA",
         "uri": "https://cdn-py.cvattv.com.ar/live/c4eds/TV_Camara/SA_Live_dash_enc/TV_Camara.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_TvCamaraPy",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/TV-CAMARA_PY",
         "icono": "https://i.ibb.co/TkT1Dbm/tvcamara.jpg",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
@@ -106,22 +106,10 @@
         "icono": "https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/pro.png"
       },
       {
-        "name": "5 DÍAS",
-        "uri": "https://cdn-py.cvattv.com.ar/live/c4eds/5_Dias_PY/SA_Live_dash_enc/5_Dias_PY.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_5diasPy",
-        "icono": "https://i.ibb.co/k48NKrR/5diaspy.png",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
-            "Origin": "https://portal.app.flow.com.py",
-            "Referer": "https://portal.app.flow.com.py/"
-          }
-      },
-      {
         "name": "SURTV",
         "uri": "https://cdn-py.cvattv.com.ar/live/c4eds/SUR_TV_C4/SA_Live_dash_enc/SUR_TV_C4.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_SurTVPY",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/SUR_PY",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Sur_TV_Itap%C3%BAa_logo_2022.png",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
@@ -136,7 +124,7 @@
       },
       {
         "name": "PARAVISIÓN",
-        "uri": "https://flow-cdn-gcp.app.flow.com.ar/live/c4eds/PARAVISION_C4/SA_Live_dash_enc/PARAVISION_C4.mpd",
+        "uri": "https://cdn-py.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_Live_dash_enc/PARAVISION_C4.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_Paravision",
         "icono": "https://i.ibb.co/FXnvNPk/paravision.png",
@@ -155,7 +143,7 @@
         "name": "GEN TV",
         "uri": "https://cdn-py.cvattv.com.ar/live/c7eds/GEN_TV/SA_Live_dash_enc/GEN_TV.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_GenPY",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/GEN_PY",
         "icono": "https://i.ibb.co/jyh9z2W/gentv.png",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
@@ -167,7 +155,7 @@
         "name": "POPU TV",
         "uri": "https://cdn-py.cvattv.com.ar/live/c7eds/Universo/SA_Live_dash_enc/Universo.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_PopuPY",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/POPU_PY",
         "icono": "https://www.popular.com.py/wp-content/themes/popu/assets/img/popu-tv.png",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
@@ -189,7 +177,7 @@
         "name": "ABC TV",
         "uri": "https://cdn-py.cvattv.com.ar/live/c5eds/ABC_TV_C4/SA_Live_dash_enc/ABC_TV_C4.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/ABCPY_ONLYPERSONAL",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/ABCTV_PY",
         "icono": "https://i.ibb.co/dGqjksf/descarga.png",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
@@ -300,16 +288,6 @@
         "name": "CANAL 12  REGIONAL TV",
         "uri": "https://video.hostingcaaguazu.com:19360/regionaltv/regionaltv.m3u8",
         "icono": "https://i.ibb.co/0nRfZNd/canal12regional.png"
-      },
-      {
-        "name": "TVS ENCARNACIÓN",
-        "uri": "https://m.mtd.llc/get-stream.m3u8?url=http://www.twitch.tv/tvs_encarnacion&uuid=Tx+c02/KVcNzYQNqvLhhD6L0ZQRv7KDKzhU+LiI2z08=",
-        "icono": "https://i.ibb.co/NCqC4h7/tvs.png"
-      },
-      {
-        "name": "MÁS TV ENCARNACIÓN",
-        "uri": "https://m.mtd.llc/get-stream.m3u8?url=http://www.twitch.tv/mastvonline&uuid=Tx+c02/KVcNzYQNqvLhhD6L0ZQRv7KDKzhU+LiI2z08=",
-        "icono": "https://i.ibb.co/t24y0LM/mas-tv.png"
       },
       {
         "name": "MI TV ITAPÚA",
