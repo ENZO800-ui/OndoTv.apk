@@ -3,6 +3,30 @@
     "name": "EVENTOS PY",
     "samples": [
       {
+        "name": "EVENTOS",
+        "uri": "https://cdn-py.cvattv.com.ar/live/c3eds/Eventos_PY/SA_Live_dash_enc/Eventos_PY.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/EVENTOS_PY",
+        "icono": "https://i.ibb.co/3WZtzG3/eventos-py.png",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
+      },
+      {
+        "name": "EVENTOS 2",
+        "uri": "https://cdn-py.cvattv.com.ar/live/c4eds/Eventos2_PY/SA_Live_dash_enc/Eventos2_PY.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/EVENTOS-_PY",
+        "icono": "https://i.ibb.co/3WZtzG3/eventos-py.png",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
+      },
+      {
         "name": "NOVAPLAY SPORTS",
         "uri": "https://lbgo.bozztv.com/ssh101/ssh101/novasports001/playlist.m3u8",
         "icono": "https://i.ibb.co/5X20hxjL/KN-copia-4.png"
@@ -26,6 +50,11 @@
         "name": "EN VIVO 2",
         "uri": "https://lbgo.bozztv.com/ssh101/ssh101/events2py/playlist.m3u8",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png"
+      },
+      {
+       "name": "N Sports (C. DEL ESTE)",
+       "uri": "https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt_1080p.m3u8",
+       "icono": "https://i.postimg.cc/8P9QK5mB/xsports-branco-3.png"
       },
       {
         "name": "VS SPORTS",
