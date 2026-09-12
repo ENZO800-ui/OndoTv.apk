@@ -1704,18 +1704,6 @@
         }
       },
       {
-        "name": "PLIM PLIM",
-        "uri": "https://cdn-py.cvattv.com.ar/live/c6eds/Plim_Plim/SA_Live_dash_enc/Plim_Plim.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "",
-        "icono": "https://i.ibb.co/HgqtG9q/plim-plim.png",
-        "headers": {
-          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/"
-        }
-      },
-      {
         "name": "KIDOO",
         "uri": "https://cdn-py.cvattv.com.ar/live/c6eds/Kidoo/SA_Live_dash_enc/Kidoo.mpd",
         "drm_scheme": "clearkey",
