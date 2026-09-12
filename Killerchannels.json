@@ -573,6 +573,13 @@
         "uri": "https://d1cfxove8uup6f.cloudfront.net/live/20d97871-da2b-4b9a-9ad5-5c1be98c37e1/live.isml/manifest.mpd"
       },
       {
+        "name": "LA LIGA HYPERMOTION",
+        "url": "https://cache2.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
+        "type": "clearkey",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/LIGAHYPERMOTION",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxMYOVIrxGVOmraAM-ocdYFnkea-trVkR5fU8vsBkrBA&s"
+      },
+      {
         "name": "TUDN",
         "uri": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd",
         "drm_scheme": "clearkey",
@@ -590,6 +597,69 @@
         "name": "ZONA TUDN",
         "uri": "https://4fd7193b903d414f925451792be9753a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-357-ZONATUDNUS-VIZIO/mt/vizio/357/hls/master/playlist.m3u8",
         "icono": "https://i.imgur.com/oT5CAvd.png"
+      },
+      {
+        "name": "CAZETV",
+        "uri": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd",
+        "type": "clearkey",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/CAZETV",
+        "icono": "https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Caz%C3%A9TV_logo.svg/1280px-Caz%C3%A9TV_logo.svg.png"
+      },
+      {
+        "name": "PREMIERE  CLUBES",
+        "uri": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
+        "type": "clearkey",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PREMIERE_CLUBES",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/960px-Premiere_(2017)_logo.png"
+      },
+      {
+        "name": "SPORTV",
+        "uri": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd?amznDtid=AOAGZA014O5RE&amznPN=xp&amznPV=ATVWebPlayerSDK-1.0.238964.0",
+        "type": "clearkey",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/SPORTV1",
+        "icono": "https://i.postimg.cc/gr9x3z71/Spor-TV-2021.png",
+         "headers": {
+          "Referer": "https://www.primevideo.com/",
+          "User-Agent": "ATVWebPlayerSDK-1.0.238964.0 (AndroidDevice)"
+        }
+      },
+      {
+        "name": "SPORTV 2",
+        "uri": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/dsa3hwuhd1/out/v1/631b48c8d9ea437e8309d1a4b55acef5/cenc.mpd",
+        "type": "clearkey",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/SPORTV2",
+        "icono": "https://i.imgur.com/pBiUnb2.png"
+      },
+      {
+        "name": "SPORTV 3",
+        "uri": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd",
+        "type": "clearkey",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/SPORTV3",
+        "icono": "https://i.imgur.com/mWOR8pi.png"
+      },
+      {
+        "name": "EUROSPORT 1",
+        "uri": "https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd",
+        "type": "widevine",
+        "drm_license_uri": "https://drm.antik.sk/widevine/key",
+        "icono": "https://i.imgur.com/olQJgm7.png",
+         "headers": {
+          "Origin": "https://webtv.sk",
+          "Referer": "https://webtv.sk",
+          "User-Agent": "AntikTVExoPlayer/1.1.47 (Linux;Android 15) ExoPlayerLib/2.14.2"
+         }
+      },
+      {
+        "name": "EUROSPORT 2",
+        "uri": "https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd",
+        "type": "widevine",
+        "drm_license_uri": "https://drm.antik.sk/widevine/key",
+        "icono": "https://i.imgur.com/f56dHgR.png",
+         "headers": {
+          "Origin": "https://webtv.sk",
+          "Referer": "https://webtv.sk",
+          "User-Agent": "AntikTVExoPlayer/1.1.47 (Linux;Android 15) ExoPlayerLib/2.14.2"
+        }
       }
     ]
   },
