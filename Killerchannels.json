@@ -334,43 +334,8 @@
     ]
   },
   {
-    "name": "DEPORTIVOS",
+    "name": "DSPORTS LATAM",
     "samples": [
-      {
-        "name": "TNT SPORTS PREMIUM",
-        "uri": "https://cdn.sensa.com.ar/bpk-tv/TNTSports/default/index.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/TNT_SPORTS-SENSA",
-        "icono": "https://i.ibb.co/zGzJ3jw/tnt-sports-premium.png",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36",
-            "Referer": "https://webclient.ctcplus.com.ar/"
-          }
-      },
-      {
-        "name": "TYC SPORTS",
-        "uri": "https://cdn-py.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "kid:KyHI-poynM4xGkxKSqmWoQ,k:zCPqH7MmKfnh9IyN7q4-Ww",
-        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0cZ8nMWRTKx1QQcSrb2uq3cXZ-jkmclRxuRSBkCCxRrWz8uBzE4x7IuGN&s=10",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
-            "Origin": "https://portal.app.flow.com.py",
-            "Referer": "https://portal.app.flow.com.py/"
-          }
-      },
-      {
-        "name": "TYC SPORTS 2",
-        "uri": "https://cdn-py.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc/TyC_Internacional.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_TyCSportsInternacionalAr",
-        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0cZ8nMWRTKx1QQcSrb2uq3cXZ-jkmclRxuRSBkCCxRrWz8uBzE4x7IuGN&s=10",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
-            "Origin": "https://portal.app.flow.com.py",
-            "Referer": "https://portal.app.flow.com.py/"
-          }
-      },
 	  {
         "name": "DSPORTS",
         "uri": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd",
@@ -391,8 +356,13 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/DSPORTPLUS",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png/960px-DirecTV_Sports%2B_Latin_America_%282018%29.png"
-      },
-      {
+      }
+    ]
+  },
+  {
+    "name": "ESPN & FOX SPORTS",
+    "samples": [
+	  {
         "name": "ESPN PREMIUM",
         "uri": "https://cdn-py.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd",
         "drm_scheme": "clearkey",
@@ -418,9 +388,9 @@
       },
       {
         "name": "ESPN 2",
-        "uri": "https://cdn-py.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_Live_dash_enc/ESPN2_Arg.mpd",
+        "uri": "https://cdn-py.cvattv.com.ar/live/c7eds/ESPN2HD_Uy/SA_Live_dash_enc/ESPN2HD_Uy.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://pqlbatyoaawbhfyldlpw.supabase.co/functions/v1/ESPN_EASTLATAM2",
+        "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_ESPN2SUR",
         "icono": "https://i.ibb.co/RCMYFsv/espn-2B.png",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
@@ -593,6 +563,59 @@
     "name": "UNIVISION",
     "uri": "http://190.197.41.183/Univision/tracks-v1a1/mono.m3u8",
     "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNduHSDu0FEYjesczKNEK9jrJvepPUUilOYFJDIJPdFw&s=10"
+   },
+   {
+    "name": "LAS ESTRELLAS",
+    "uri": "https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8",
+    "icono": "https://i.imgur.com/g5ShxZ7.png"
+   },
+   {
+    "name": "EL NU9VE",
+    "uri": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/skz7pgjdyp/out/v1/8e7377f4d3154738b7f48baa996b35a5/cenc.mpd",
+    "drm_scheme": "clearkey",
+    "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/NUEVE002",
+    "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Nueve_%282018_logo%29.png/960px-Nueve_%282018_logo%29.png"
+   },
+   {
+    "name": "CANAL 5",
+    "uri": "https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
+    "drm_scheme": "clearkey",
+    "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/canal5mx",
+    "icono": "https://i.imgur.com/uZdVSoW.png"
+      }
+    ]
+  },
+  {
+    "name": "MAS DEPORTES",
+    "samples": [
+  {
+    "name": "BEIN SPORTS XTRA Ñ",
+	"url": "https://bein-esp-xumo.amagi.tv/playlist.m3u8",
+    "icono": "https://raw.githubusercontent.com/novaplaytv/novaimg/main/icons/124.webp",
+  },
+  {
+    "name": "CLARO SPORTS",
+	"url": "https://d1cfxove8uup6f.cloudfront.net/live/20d97871-da2b-4b9a-9ad5-5c1be98c37e1/live.isml/manifest.mpd",
+    "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJGOJ2Q4cUN2vnmKwyRp74TxVzc3kS7WnXPpK4YI7fQA&s",
+  },
+   {
+    "name": "TUDN",
+    "uri": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd",
+    "drm_scheme": "clearkey",
+    "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/TUDNMX",
+    "icono": "https://i.imgur.com/oT5CAvd.png"
+   },
+   {
+    "name": "TUDN en VIX",
+    "uri": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/mitr07scim/out/v1/4fb1073240a549479fd2f343e6cad4ba/cenc.mpd",
+    "drm_scheme": "clearkey",
+    "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/VIXTUDN",
+    "icono": "https://i.imgur.com/oT5CAvd.png"
+   },
+   {
+    "name": "ZONA TUDN",
+    "uri": "https://4fd7193b903d414f925451792be9753a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-357-ZONATUDNUS-VIZIO/mt/vizio/357/hls/master/playlist.m3u8",
+    "icono": "https://i.imgur.com/oT5CAvd.png"
    }
     ]
   },
