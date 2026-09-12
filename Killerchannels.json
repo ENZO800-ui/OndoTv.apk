@@ -8,11 +8,11 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/EVENTOS_PY",
         "icono": "https://i.ibb.co/3WZtzG3/eventos-py.png",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
-            "Origin": "https://portal.app.flow.com.py",
-            "Referer": "https://portal.app.flow.com.py/"
-          }
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
       },
       {
         "name": "EVENTOS 2",
@@ -20,11 +20,11 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/EVENTOS-_PY",
         "icono": "https://i.ibb.co/3WZtzG3/eventos-py.png",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
-            "Origin": "https://portal.app.flow.com.py",
-            "Referer": "https://portal.app.flow.com.py/"
-          }
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
       },
       {
         "name": "NOVAPLAY SPORTS",
@@ -52,9 +52,9 @@
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png"
       },
       {
-       "name": "N Sports (C. DEL ESTE)",
-       "uri": "https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt_1080p.m3u8",
-       "icono": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8bbe6817af0af2e0e5a6df96f245b752.webp"
+        "name": "N Sports (C. DEL ESTE)",
+        "uri": "https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt_1080p.m3u8",
+        "icono": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8bbe6817af0af2e0e5a6df96f245b752.webp"
       },
       {
         "name": "VS SPORTS",
@@ -62,11 +62,11 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/VS-SPORTS_PY",
         "icono": "https://yt3.googleusercontent.com/ocGBV0__RCpVxkRB6TljzVu0l2WLun9mzU_eVcvBAc3GoDYe6I0yCNrPN2dPdS4TrftmJYcl64Q=s160-c-k-c0x00ffffff-no-rj",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
-            "Origin": "https://portal.app.flow.com.py",
-            "Referer": "https://portal.app.flow.com.py/"
-          }
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
       }
     ]
   },
@@ -89,11 +89,11 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_TrecePY",
         "icono": "https://bestleague.world/img/trecepy.webp",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
-            "Origin": "https://portal.app.flow.com.py",
-            "Referer": "https://portal.app.flow.com.py/"
-          }
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
       },
       {
         "name": "UNICANAL",
@@ -101,11 +101,11 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_UnicanalPY",
         "icono": "https://iptvstudio.pages.dev/logos/paraguay/unicanal.png",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
-            "Origin": "https://portal.app.flow.com.py",
-            "Referer": "https://portal.app.flow.com.py/"
-          }
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
       },
       {
         "name": "MEGA TV",
@@ -128,11 +128,11 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/SUR_PY",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Sur_TV_Itap%C3%BAa_logo_2022.png",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
-            "Origin": "https://portal.app.flow.com.py",
-            "Referer": "https://portal.app.flow.com.py/"
-          }
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
       },
       {
         "name": "NPY",
@@ -145,11 +145,11 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_Paravision",
         "icono": "https://i.ibb.co/FXnvNPk/paravision.png",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
-            "Origin": "https://portal.app.flow.com.py",
-            "Referer": "https://portal.app.flow.com.py/"
-          }
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
       },
       {
         "name": "C9N",
@@ -162,11 +162,11 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/GEN_PY",
         "icono": "https://i.ibb.co/jyh9z2W/gentv.png",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
-            "Origin": "https://portal.app.flow.com.py",
-            "Referer": "https://portal.app.flow.com.py/"
-          }
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
       },
       {
         "name": "POPU TV",
@@ -174,11 +174,11 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/POPU_PY",
         "icono": "https://www.popular.com.py/wp-content/themes/popu/assets/img/popu-tv.png",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
-            "Origin": "https://portal.app.flow.com.py",
-            "Referer": "https://portal.app.flow.com.py/"
-          }
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
       },
       {
         "name": "LA TELE",
@@ -196,11 +196,11 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/ABCTV_PY",
         "icono": "https://i.ibb.co/dGqjksf/descarga.png",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
-            "Origin": "https://portal.app.flow.com.py",
-            "Referer": "https://portal.app.flow.com.py/"
-          }
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
       },
       {
         "name": "AMERICA PY",
@@ -208,11 +208,11 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_AmericaPY",
         "icono": "https://i.ibb.co/FbvZ6t5t/america-py.png",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
-            "Origin": "https://portal.app.flow.com.py",
-            "Referer": "https://portal.app.flow.com.py/"
-          }
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
       },
       {
         "name": "A24",
@@ -220,11 +220,11 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/A24_PY",
         "icono": "https://i.ibb.co/ZpPpv9tJ/a24-py.png",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
-            "Origin": "https://portal.app.flow.com.py",
-            "Referer": "https://portal.app.flow.com.py/"
-          }
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
       },
       {
         "name": "HEI",
@@ -261,17 +261,17 @@
         "uri": "https://stream.farra.com.py/live/farra.m3u8",
         "icono": "https://i.ibb.co/99DzY4J/farra-play.png"
       },
-	    {
+      {
         "name": "BRUNO MASI TV",
         "uri": "https://rds3gen.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8",
         "icono": "https://i.ibb.co/pK5SNMT/bruno-masi-tv.png"
       },
-	    {
+      {
         "name": "4D MÁS NOTICIAS",
         "uri": "https://rds3gen.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8",
         "icono": "https://i.ibb.co/Vw7gVWz/4d-noticias.png"
       },
-	    {
+      {
         "name": "ASPEN",
         "uri": "https://rds3gen.desdeparaguay.net/aspentv/aspentv/playlist.m3u8",
         "icono": "https://i.ibb.co/sJRyc31/aspen-classic.png"
@@ -336,21 +336,21 @@
   {
     "name": "DSPORTS LATAM",
     "samples": [
-	  {
+      {
         "name": "DSPORTS",
         "uri": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/DSPORT1",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png"
       },
-	  {
+      {
         "name": "DSPORTS 2",
         "uri": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/nzl2d4ffbw/out/v1/d094dc6ba8354f3e88b7efa32f80cc33/cenc.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/DSPORT2",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg/960px-DIRECTV_Sports_2_Latin_America_%282018%29.svg.png"
       },
-	  {
+      {
         "name": "DSPORTS +",
         "uri": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/kp7qfx2tly/out/v1/bbfb730b45b74d4ea875d75786ea3f13/cenc-sd.mpd",
         "drm_scheme": "clearkey",
@@ -362,17 +362,17 @@
   {
     "name": "ESPN & FOX SPORTS",
     "samples": [
-	  {
+      {
         "name": "ESPN PREMIUM",
         "uri": "https://cdn-py.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://pqlbatyoaawbhfyldlpw.supabase.co/functions/v1/ESPN_PLUS",
         "icono": "https://i.ibb.co/LrNsJsP/espnpremium.png",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
-            "Origin": "https://portal.app.flow.com.py",
-            "Referer": "https://portal.app.flow.com.py/"
-          }
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
       },
       {
         "name": "ESPN",
@@ -380,11 +380,11 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://pqlbatyoaawbhfyldlpw.supabase.co/functions/v1/ESPN_EASTLATAM1",
         "icono": "https://i.ibb.co/s37NZCT/espn-1B.png",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
-            "Origin": "https://portal.app.flow.com.py",
-            "Referer": "https://portal.app.flow.com.py/"
-          }
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
       },
       {
         "name": "ESPN 2",
@@ -392,11 +392,11 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_ESPN2SUR",
         "icono": "https://i.ibb.co/RCMYFsv/espn-2B.png",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
-            "Origin": "https://portal.app.flow.com.py",
-            "Referer": "https://portal.app.flow.com.py/"
-          }
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
       },
       {
         "name": "ESPN 3",
@@ -404,11 +404,11 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://pqlbatyoaawbhfyldlpw.supabase.co/functions/v1/ESPN_EASTLATAM3",
         "icono": "https://i.ibb.co/TLcGvdv/espn-3B.png",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
-            "Origin": "https://portal.app.flow.com.py",
-            "Referer": "https://portal.app.flow.com.py/"
-          }
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
       },
       {
         "name": "ESPN 4",
@@ -416,11 +416,11 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://pqlbatyoaawbhfyldlpw.supabase.co/functions/v1/ESPN_EASTLATAM4",
         "icono": "https://i.ibb.co/pJK6xQ0/espn-4B.png",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
-            "Origin": "https://portal.app.flow.com.py",
-            "Referer": "https://portal.app.flow.com.py/"
-          }
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
       },
       {
         "name": "ESPN 5",
@@ -428,11 +428,11 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://pqlbatyoaawbhfyldlpw.supabase.co/functions/v1/ESPN_EASTLATAM5",
         "icono": "https://i.ibb.co/6bvjxGP/espn-5B.png",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
-            "Origin": "https://portal.app.flow.com.py",
-            "Referer": "https://portal.app.flow.com.py/"
-          }
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
       },
       {
         "name": "ESPN 6",
@@ -440,11 +440,11 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://pqlbatyoaawbhfyldlpw.supabase.co/functions/v1/ESPN_EASTLATAM6",
         "icono": "https://i.ibb.co/CsyhPz4/espn-6B.png",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
-            "Origin": "https://portal.app.flow.com.py",
-            "Referer": "https://portal.app.flow.com.py/"
-          }
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
       },
       {
         "name": "ESPN 7",
@@ -452,11 +452,11 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://pqlbatyoaawbhfyldlpw.supabase.co/functions/v1/ESPN_EASTLATAM7",
         "icono": "https://i.ibb.co/LSQFzkw/espn-7B.png",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
-            "Origin": "https://portal.app.flow.com.py",
-            "Referer": "https://portal.app.flow.com.py/"
-          }
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
       },
       {
         "name": "FOX SPORTS",
@@ -464,68 +464,68 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/FOX_SPORTS-SENSA",
         "icono": "https://geo.edge.pontiscloud.com:9002/images/93/CH_LOGO/320/320/0/0/1455190607979.png",
-	     "headers": {
+        "headers": {
           "referer": "https://webclient.ctcplus.com.ar/",
           "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
-		 }
+        }
       },
-	  {
+      {
         "name": "FOX SPORTS LAUMAN",
         "uri": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/FSPORTSMX",
         "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/115.webp"
       },
-	  {
+      {
         "name": "FOX SPORTS 2 MAUMAN",
         "uri": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/FSPORTS2MX",
         "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/117.webp"
       },
-	  {
+      {
         "name": "FOX SPORTS 3 MAUMAN",
         "uri": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wybgz0orr8/out/v1/2f6d1612abd44f5883917f8a585b955f/cenc.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/FSPORTS3MX",
         "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/119.webp"
       },
-	  {
+      {
         "name": "FS PREMIUM LAUMAN",
         "uri": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/FSPORTSPREMIUMMX",
         "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/121.webp"
       },
-	  {
+      {
         "name": "FOX DEPORTES",
         "uri": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/FOXDEPORTES",
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqnWoMgNNVSs7Mz64A3PW7Q_N9oFYapHkwLX8ol_hM2w&s=10",
-          "headers": {
-            "User-Agent": "AivAndroidPlayer/1.0 (AndroidDevice)",
-			"Origin": "https://www.primevideo.com",
-            "Referer": "https://www.primevideo.com/"
-          }
+        "headers": {
+          "User-Agent": "AivAndroidPlayer/1.0 (AndroidDevice)",
+          "Origin": "https://www.primevideo.com",
+          "Referer": "https://www.primevideo.com/"
+        }
       },
-	  {
+      {
         "name": "FOX SPORTS EN ESPAÑOL",
         "uri": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/worucjnctz/out/v1/20ac5ecdc9b848dc92e7f1188bdf6ff6/cenc.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/KEY_FOX-",
         "icono": "https://i.postimg.cc/v8tSQ1fQ/fox-sports-en-espanol.png",
-          "headers": {
-            "User-Agent": "AivAndroidPlayer/1.0 (AndroidDevice)",
-            "Referer": "https://www.primevideo.com/"
-          }
+        "headers": {
+          "User-Agent": "AivAndroidPlayer/1.0 (AndroidDevice)",
+          "Referer": "https://www.primevideo.com/"
+        }
       },
-	  {
+      {
         "name": "FOX TUBI",
         "uri": "https://amg00733-tubi-amg00733c2-tubi-us-8155.playouts.now.amagi.tv/playlist.m3u8",
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_qVKfmwp8YJ8wct17HSC0-bVFeGFWPLJhKw&s"
       },
-	  {
+      {
         "name": "FOX XTRA TUBI",
         "uri": "https://aegis-cloudfront-1.tubi.video/0b3b6122-078c-4c89-ae5e-f548b9b1e382/playlist720p.m3u8",
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_qVKfmwp8YJ8wct17HSC0-bVFeGFWPLJhKw&s"
@@ -535,1030 +535,1030 @@
   {
     "name": "ESTADOS UNIDOS Y MEXICO",
     "samples": [
-   {
-    "name": "TELEMUNDO WEST",
-    "uri": "https://cdn.stmify.com/peacock/stream/TELEMUNDO/master.mpd",
-    "drm_scheme": "clearkey",
-    "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/TELEMUNDO_USA",
-    "icono": "https://ver.zapitv.com/images/ch/213/LOGO/m/0"
-   },
-   {
-    "name": "TELEMUNDO EAST",
-    "uri": "https://streamer1.nexgen.bz/TELEMUNDO/tracks-v3a1/mono.ts.m3u8",
-    "icono": "https://ver.zapitv.com/images/ch/213/LOGO/m/0"
-   },
-   {
-    "name": "UNIVERSO WEST",
-    "uri": "https://cdn.stmify.com/peacock/stream/UNIVERSO_WEST/master.mpd",
-    "drm_scheme": "clearkey",
-    "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/UNIVERSO_USA",
-    "icono": "https://i.ibb.co/2SYRLkw/nbc-universo.png"
-   },
-   {
-    "name": "UNIVERSO EAST",
-    "uri": "http://190.11.225.124:5000/live/universo_hd/playlist.m3u8",
-    "icono": "https://i.ibb.co/2SYRLkw/nbc-universo.png"
-   },
-   {
-    "name": "UNIVISION",
-    "uri": "http://190.197.41.183/Univision/tracks-v1a1/mono.m3u8",
-    "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNduHSDu0FEYjesczKNEK9jrJvepPUUilOYFJDIJPdFw&s=10"
-   },
-   {
-    "name": "LAS ESTRELLAS",
-    "uri": "https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8",
-    "icono": "https://i.imgur.com/g5ShxZ7.png"
-   },
-   {
-    "name": "EL NU9VE",
-    "uri": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/skz7pgjdyp/out/v1/8e7377f4d3154738b7f48baa996b35a5/cenc.mpd",
-    "drm_scheme": "clearkey",
-    "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/NUEVE002",
-    "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Nueve_%282018_logo%29.png/960px-Nueve_%282018_logo%29.png"
-   },
-   {
-    "name": "CANAL 5",
-    "uri": "https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
-    "drm_scheme": "clearkey",
-    "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/canal5mx",
-    "icono": "https://i.imgur.com/uZdVSoW.png"
+      {
+        "name": "TELEMUNDO WEST",
+        "uri": "https://cdn.stmify.com/peacock/stream/TELEMUNDO/master.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/TELEMUNDO_USA",
+        "icono": "https://ver.zapitv.com/images/ch/213/LOGO/m/0"
+      },
+      {
+        "name": "TELEMUNDO EAST",
+        "uri": "https://streamer1.nexgen.bz/TELEMUNDO/tracks-v3a1/mono.ts.m3u8",
+        "icono": "https://ver.zapitv.com/images/ch/213/LOGO/m/0"
+      },
+      {
+        "name": "UNIVERSO WEST",
+        "uri": "https://cdn.stmify.com/peacock/stream/UNIVERSO_WEST/master.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/UNIVERSO_USA",
+        "icono": "https://i.ibb.co/2SYRLkw/nbc-universo.png"
+      },
+      {
+        "name": "UNIVERSO EAST",
+        "uri": "http://190.11.225.124:5000/live/universo_hd/playlist.m3u8",
+        "icono": "https://i.ibb.co/2SYRLkw/nbc-universo.png"
+      },
+      {
+        "name": "UNIVISION",
+        "uri": "http://190.197.41.183/Univision/tracks-v1a1/mono.m3u8",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNduHSDu0FEYjesczKNEK9jrJvepPUUilOYFJDIJPdFw&s=10"
+      },
+      {
+        "name": "LAS ESTRELLAS",
+        "uri": "https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8",
+        "icono": "https://i.imgur.com/g5ShxZ7.png"
+      },
+      {
+        "name": "EL NU9VE",
+        "uri": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/skz7pgjdyp/out/v1/8e7377f4d3154738b7f48baa996b35a5/cenc.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/NUEVE002",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Nueve_%282018_logo%29.png/960px-Nueve_%282018_logo%29.png"
+      },
+      {
+        "name": "CANAL 5",
+        "uri": "https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/canal5mx",
+        "icono": "https://i.imgur.com/uZdVSoW.png"
       }
     ]
   },
   {
     "name": "MAS DEPORTES",
     "samples": [
-  {
-    "name": "BEIN SPORTS XTRA Ñ",
-	"url": "https://bein-esp-xumo.amagi.tv/playlist.m3u8",
-    "icono": "https://raw.githubusercontent.com/novaplaytv/novaimg/main/icons/124.webp",
-  },
-  {
-    "name": "CLARO SPORTS",
-	"url": "https://d1cfxove8uup6f.cloudfront.net/live/20d97871-da2b-4b9a-9ad5-5c1be98c37e1/live.isml/manifest.mpd",
-    "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJGOJ2Q4cUN2vnmKwyRp74TxVzc3kS7WnXPpK4YI7fQA&s",
-  },
-   {
-    "name": "TUDN",
-    "uri": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd",
-    "drm_scheme": "clearkey",
-    "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/TUDNMX",
-    "icono": "https://i.imgur.com/oT5CAvd.png"
-   },
-   {
-    "name": "TUDN en VIX",
-    "uri": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/mitr07scim/out/v1/4fb1073240a549479fd2f343e6cad4ba/cenc.mpd",
-    "drm_scheme": "clearkey",
-    "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/VIXTUDN",
-    "icono": "https://i.imgur.com/oT5CAvd.png"
-   },
-   {
-    "name": "ZONA TUDN",
-    "uri": "https://4fd7193b903d414f925451792be9753a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-357-ZONATUDNUS-VIZIO/mt/vizio/357/hls/master/playlist.m3u8",
-    "icono": "https://i.imgur.com/oT5CAvd.png"
-   }
+      {
+        "name": "BEIN SPORTS XTRA Ñ",
+        "icono": "https://raw.githubusercontent.com/novaplaytv/novaimg/main/icons/124.webp",
+        "uri": "https://bein-esp-xumo.amagi.tv/playlist.m3u8"
+      },
+      {
+        "name": "CLARO SPORTS",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJGOJ2Q4cUN2vnmKwyRp74TxVzc3kS7WnXPpK4YI7fQA&s",
+        "uri": "https://d1cfxove8uup6f.cloudfront.net/live/20d97871-da2b-4b9a-9ad5-5c1be98c37e1/live.isml/manifest.mpd"
+      },
+      {
+        "name": "TUDN",
+        "uri": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/TUDNMX",
+        "icono": "https://i.imgur.com/oT5CAvd.png"
+      },
+      {
+        "name": "TUDN en VIX",
+        "uri": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/mitr07scim/out/v1/4fb1073240a549479fd2f343e6cad4ba/cenc.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/VIXTUDN",
+        "icono": "https://i.imgur.com/oT5CAvd.png"
+      },
+      {
+        "name": "ZONA TUDN",
+        "uri": "https://4fd7193b903d414f925451792be9753a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-357-ZONATUDNUS-VIZIO/mt/vizio/357/hls/master/playlist.m3u8",
+        "icono": "https://i.imgur.com/oT5CAvd.png"
+      }
     ]
   },
   {
     "name": "HBO/UNIVERSAL+",
     "samples": [
-   {
-    "name": "HBO",
-    "uri": "https://cdn.sensa.com.ar/live/eds/HBO/live_dash_cld/HBO.mpd",
-    "drm_scheme": "clearkey",
-    "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/HBO_AR",
-    "icono": "https://geo.edge.pontiscloud.com:9002/images/100/CH_LOGO/320/320/0/0/228799490721.png",
-	 "headers": {
-      "referer": "https://webclient.ctcplus.com.ar/",
-      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
-         }
-   },
-   {
-    "name": "HBO 2",
-    "uri": "https://cdn.sensa.com.ar/live/eds/HBO2/live_dash_cld/HBO2.mpd",
-    "drm_scheme": "clearkey",
-    "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/HBO2_AR",
-    "icono": "https://geo.edge.pontiscloud.com:9002/images/101/CH_LOGO/320/320/0/0/36093751072127.png",
-	 "headers": {
-      "referer": "https://webclient.ctcplus.com.ar/",
-      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
-          }
-   },
-   {
-    "name": "HBO FAMILY",
-    "uri": "https://cdn.sensa.com.ar/live/eds/HBOFamily/live_dash_cld/HBOFamily.mpd",
-    "drm_scheme": "clearkey",
-    "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/HBOFAMILY_AR",
-    "icono": "https://geo.edge.pontiscloud.com:9002/images/102/CH_LOGO/320/320/0/0/7354519807335.png",
-	 "headers": {
-      "referer": "https://webclient.ctcplus.com.ar/",
-      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
-       }
-   },
-   {
-    "name": "HBO MUDI",
-    "uri": "https://cdn.sensa.com.ar/live/eds/HBOMundi/live_dash_cld/HBOMundi.mpd",
-    "drm_scheme": "clearkey",
-    "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/HBOMUDI_AR",
-    "icono": "https://geo.edge.pontiscloud.com:9002/images/107/CH_LOGO/320/320/0/0/61157416071448.png",
-	 "headers": {
-      "referer": "https://webclient.ctcplus.com.ar/",
-      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
-         }
-   },	
-   {
-    "name": "HBO PLUS",
-    "uri": "https://cdn.sensa.com.ar/live/eds/HBOPlus/live_dash_cld/HBOPlus.mpd",
-    "drm_scheme": "clearkey",
-    "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/HBOPLUS_AR",
-    "icono": "https://geo.edge.pontiscloud.com:9002/images/124/CH_LOGO/320/320/0/0/10237380072165.png",
-	 "headers": {
-      "referer": "https://webclient.ctcplus.com.ar/",
-      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
-         }
-   },
-   {
-    "name": "HBO POP",
-    "uri": "https://cdn.sensa.com.ar/live/eds/HBOPop/live_dash_cld/HBOPop.mpd",
-    "drm_scheme": "clearkey",
-    "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/HBOPOP_AR",
-    "icono": "https://geo.edge.pontiscloud.com:9002/images/109/CH_LOGO/320/320/0/0/68908128073927.png",
-	 "headers": {
-      "referer": "https://webclient.ctcplus.com.ar/",
-      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
-         }
-   },
-   {
-    "name": "HBO SIGNATURE",
-    "uri": "https://cdn.sensa.com.ar/live/eds/HBOSignature/live_dash_cld/HBOSignature.mpd",
-    "drm_scheme": "clearkey",
-    "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/HBOSIGNATURE_AR",
-    "icono": "https://geo.edge.pontiscloud.com:9002/images/49/CH_LOGO/320/320/0/0/3657655307500.png",
-	 "headers": {
-      "referer": "https://webclient.ctcplus.com.ar/",
-      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+      {
+        "name": "HBO",
+        "uri": "https://cdn.sensa.com.ar/live/eds/HBO/live_dash_cld/HBO.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/HBO_AR",
+        "icono": "https://geo.edge.pontiscloud.com:9002/images/100/CH_LOGO/320/320/0/0/228799490721.png",
+        "headers": {
+          "referer": "https://webclient.ctcplus.com.ar/",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
         }
-   },
-   {
-    "name": "HBO XTREME",
-    "uri": "https://cdn.sensa.com.ar/live/eds/HBOXtreme/live_dash_cld/HBOXtreme.mpd",
-    "drm_scheme": "clearkey",
-    "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/HBOEXTREME_MX",
-    "icono": "https://geo.edge.pontiscloud.com:9002/images/108/CH_LOGO/320/320/0/0/6041444607334.png",
-	 "headers": {
-      "referer": "https://webclient.ctcplus.com.ar/",
-      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+      },
+      {
+        "name": "HBO 2",
+        "uri": "https://cdn.sensa.com.ar/live/eds/HBO2/live_dash_cld/HBO2.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/HBO2_AR",
+        "icono": "https://geo.edge.pontiscloud.com:9002/images/101/CH_LOGO/320/320/0/0/36093751072127.png",
+        "headers": {
+          "referer": "https://webclient.ctcplus.com.ar/",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
         }
-   },
-   {
-    "name": "UNIVERSAL CINEMA",
-    "uri": "https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/eishhvjuuz/out/v1/92b27f5cd5244bba8071fcd0d09be067/cenc.mpd",
-    "drm_scheme": "clearkey",
-    "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/UNIVERSAL_CINEMA",
-    "icono": "https://geo.edge.pontiscloud.com:9002/images/1282/CH_LOGO/800/542/0/0/21817888076947.png",
-	 "headers": {
-      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      },
+      {
+        "name": "HBO FAMILY",
+        "uri": "https://cdn.sensa.com.ar/live/eds/HBOFamily/live_dash_cld/HBOFamily.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/HBOFAMILY_AR",
+        "icono": "https://geo.edge.pontiscloud.com:9002/images/102/CH_LOGO/320/320/0/0/7354519807335.png",
+        "headers": {
+          "referer": "https://webclient.ctcplus.com.ar/",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
         }
-   },
-   {
-    "name": "UNIVERSAL COMEDY",
-    "uri": "https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/pfpdcsvoyd/out/v1/1bb43614ccd348fd8b9cc4d4fc5be059/cenc.mpd",
-    "drm_scheme": "clearkey",
-    "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/UNIVERSAL_COMEDY",
-    "icono": "https://geo.edge.pontiscloud.com:9002/images/1283/CH_LOGO/800/542/0/0/94843453076948.png",
-	 "headers": {
-      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-		}
-   },
-   {
-    "name": "UNIVERSAL CRIME",
-    "uri": "https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/xuvkx1kkfl/out/v1/6a977f46a77b4a03a1e55db484c1695a/cenc.mpd",
-    "drm_scheme": "clearkey",
-    "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/UNIVERSAL_CRIME",
-    "icono": "https://geo.edge.pontiscloud.com:9002/images/1284/CH_LOGO/800/542/0/0/34307524076949.png",
-	 "headers": {
-      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      },
+      {
+        "name": "HBO MUDI",
+        "uri": "https://cdn.sensa.com.ar/live/eds/HBOMundi/live_dash_cld/HBOMundi.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/HBOMUDI_AR",
+        "icono": "https://geo.edge.pontiscloud.com:9002/images/107/CH_LOGO/320/320/0/0/61157416071448.png",
+        "headers": {
+          "referer": "https://webclient.ctcplus.com.ar/",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
         }
-   },
-   {
-    "name": "UNIVERSAL PREMIERE",
-    "uri": "https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/ciqsqqxp8g/out/v1/e9283351f50849a8ab602a894772649f/cenc.mpd",
-    "drm_scheme": "clearkey",
-    "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/UNIVERSAL_PREMIERE",
-    "icono": "https://geo.edge.pontiscloud.com:9002/images/1285/CH_LOGO/800/542/0/0/62685863076950.png",
-	 "headers": {
-      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-	    }
-   },
-   {
-    "name": "UNIVERSAL REALITY",
-    "uri": "https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/tezhlmgs1w/out/v1/362fef2b778b4531b4e0dd3db6acf805/cenc.mpd",
-    "drm_scheme": "clearkey",
-    "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/UNIVERSAL_REALITY",
-    "icono": "https://geo.edge.pontiscloud.com:9002/images/1281/CH_LOGO/800/542/0/0/16370616076951.png",
-	 "headers": {
-      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-		}
-     }
+      },
+      {
+        "name": "HBO PLUS",
+        "uri": "https://cdn.sensa.com.ar/live/eds/HBOPlus/live_dash_cld/HBOPlus.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/HBOPLUS_AR",
+        "icono": "https://geo.edge.pontiscloud.com:9002/images/124/CH_LOGO/320/320/0/0/10237380072165.png",
+        "headers": {
+          "referer": "https://webclient.ctcplus.com.ar/",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "HBO POP",
+        "uri": "https://cdn.sensa.com.ar/live/eds/HBOPop/live_dash_cld/HBOPop.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/HBOPOP_AR",
+        "icono": "https://geo.edge.pontiscloud.com:9002/images/109/CH_LOGO/320/320/0/0/68908128073927.png",
+        "headers": {
+          "referer": "https://webclient.ctcplus.com.ar/",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "HBO SIGNATURE",
+        "uri": "https://cdn.sensa.com.ar/live/eds/HBOSignature/live_dash_cld/HBOSignature.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/HBOSIGNATURE_AR",
+        "icono": "https://geo.edge.pontiscloud.com:9002/images/49/CH_LOGO/320/320/0/0/3657655307500.png",
+        "headers": {
+          "referer": "https://webclient.ctcplus.com.ar/",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "HBO XTREME",
+        "uri": "https://cdn.sensa.com.ar/live/eds/HBOXtreme/live_dash_cld/HBOXtreme.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/HBOEXTREME_MX",
+        "icono": "https://geo.edge.pontiscloud.com:9002/images/108/CH_LOGO/320/320/0/0/6041444607334.png",
+        "headers": {
+          "referer": "https://webclient.ctcplus.com.ar/",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "UNIVERSAL CINEMA",
+        "uri": "https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/eishhvjuuz/out/v1/92b27f5cd5244bba8071fcd0d09be067/cenc.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/UNIVERSAL_CINEMA",
+        "icono": "https://geo.edge.pontiscloud.com:9002/images/1282/CH_LOGO/800/542/0/0/21817888076947.png",
+        "headers": {
+          "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "UNIVERSAL COMEDY",
+        "uri": "https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/pfpdcsvoyd/out/v1/1bb43614ccd348fd8b9cc4d4fc5be059/cenc.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/UNIVERSAL_COMEDY",
+        "icono": "https://geo.edge.pontiscloud.com:9002/images/1283/CH_LOGO/800/542/0/0/94843453076948.png",
+        "headers": {
+          "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "UNIVERSAL CRIME",
+        "uri": "https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/xuvkx1kkfl/out/v1/6a977f46a77b4a03a1e55db484c1695a/cenc.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/UNIVERSAL_CRIME",
+        "icono": "https://geo.edge.pontiscloud.com:9002/images/1284/CH_LOGO/800/542/0/0/34307524076949.png",
+        "headers": {
+          "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "UNIVERSAL PREMIERE",
+        "uri": "https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/ciqsqqxp8g/out/v1/e9283351f50849a8ab602a894772649f/cenc.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/UNIVERSAL_PREMIERE",
+        "icono": "https://geo.edge.pontiscloud.com:9002/images/1285/CH_LOGO/800/542/0/0/62685863076950.png",
+        "headers": {
+          "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "UNIVERSAL REALITY",
+        "uri": "https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/tezhlmgs1w/out/v1/362fef2b778b4531b4e0dd3db6acf805/cenc.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/UNIVERSAL_REALITY",
+        "icono": "https://geo.edge.pontiscloud.com:9002/images/1281/CH_LOGO/800/542/0/0/16370616076951.png",
+        "headers": {
+          "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+        }
+      }
     ]
   },
   {
     "name": "MÚSICALES",
     "samples": [
-   {
-    "name": "Ritmos Inolvidables",
-    "uri": "https://amg00658-amg00658c44-canelatv-international-7299.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-channelc-canelatvinternational/playlist.m3u8",
-    "icono": "https://i.postimg.cc/fWcvNHh5/ritmos-inolvidables.webp",
-	    "headers": {
-    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
-		}
-   },
-   {
-    "name": "FREETV BANDA",
-    "uri": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=16334",
-    "icono": "https://i.postimg.cc/1Xz8HGWF/freetvbanda.png"
-   },
-   {
-    "name": "FREETV HITS",
-    "uri": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=16322",
-    "icono": "https://i.postimg.cc/5twQNNYy/freetvhits-png.png"
-   },
-   {
-    "name": "MTV JP",
-    "uri": "http://42.118.247.37:9394/stream/74.m3u8",
-    "icono": "https://i.ibb.co/HqPNtN1/mtv.png"
-   },
-   {
-    "name": "MTV CLASSIC",
-    "uri": "https://fl2.moveonjoy.com/MTV_CLASSIC/index.m3u8",
-    "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfZUzZxiadpAzqrjeCbiQm7dud7SN3loIvlB1fxMCSGg&s=10",
-	    "headers": {
-    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
-		}
-   },
-   {
-    "name": "MTV LIVE",
-    "uri": "http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8",
-    "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkJwBI-U2pFet6MiLI2_Masq9PZFnyAw7lwvrs5p7ymg&s=10"
-   },
-   {
-    "name": "CONCERT CHANNEL",
-    "uri": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/labtefjwbn/out/v1/1b1ca0a8ecbb4e03ba9327fd099911d2/cenc.mpd",
-    "drm_scheme": "clearkey",
-    "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/CONCERT_CHANNEL",
-    "icono": "https://images.pluto.tv/channels/6868152657543d1f8be4ece3/thumbnail.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=2&q=50",
-	    "headers": {
-    "referer": "https://www.primevideo.com/",
-    "user-agent": "AivAndroidPlayer/1.0 (AndroidDevice)"
-   }
-   },
-   {
-    "name": "Stingray LOUD",
-    "uri": "https://lott5-web-opus.cdn.avp.telus.net/232006004120/vxfmt=dp/manifest.mpd?device_profile=dashvmx",
-    "drm_scheme": "clearkey",
-    "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/STINGRAY_LOUD",
-    "icono": "https://gn-images-stb-opus.cdn.avp.telus.net/assets/s104955_ld_h15_aa.png?w=400",
-	    "headers": {
-    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
-		}
-   },
-   {
-    "name": "Stingray VIBE",
-    "uri": "https://lott5-web-opus.cdn.avp.telus.net/232006004119/vxfmt=dp/manifest.mpd?device_profile=dashvmx",
-    "drm_scheme": "clearkey",
-    "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/STINGRAY_VIBE",
-    "icono": "https://gn-images-stb-opus.cdn.avp.telus.net/assets/s104956_ld_h15_aa.png?w=400",
-	    "headers": {
-    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
-		}
-   },
-   {
-    "name": "Stingray FESTIVAL",
-    "uri": "https://lott3-stb-opus.cdn.avp.telus.net/232006004231/vxfmt=dp/manifest.mpd?device_profile=dashvmx",
-    "drm_scheme": "clearkey",
-    "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/STINGRAY_FESTIVAL",
-    "icono": "https://images.ctfassets.net/8utyj17y1gom/4mcs4Lo3QhnPyINCeu6M7Z/055e05d60f9f225aa3273c92c413f53b/Desktop_TVChannelPage_Festival.png?w=400",
-	       "headers": {
-    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
-		   }
-   },
-   {
-    "name": "Stingray HITS! UK",
-    "uri": "https://lott5-web-opus.cdn.avp.telus.net/232006004108/vxfmt=dp/manifest.mpd?device_profile=dashvmx",
-    "drm_scheme": "clearkey",
-    "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/STINGRAY_HITS-4K",
-    "icono": "https://gn-images-stb-opus.cdn.avp.telus.net/assets/s108571_ld_h15_aa.png?w=400",
-	       "headers": {
-    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
-		   }
-   },
-   {
-    "name": "Stingray HITS! US",
-    "uri": "https://live1-ott.izzigo.tv/6/out/u/dash/SKY-STINGRAY-HITS-HD-H265/default.mpd",
-    "drm_scheme": "clearkey",
-    "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/STINGRAY_HITS-",
-    "icono": "https://i.postimg.cc/mZFt4LLJ/stingray-hits.png",
-	    "headers": {
-    "origin": "https://www.izzigo.tv",
-    "referer": "https://www.izzigo.tv/",
-    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
-		}
-   },
-   {
-    "name": "Stingray Classica",
-    "uri": "https://live1-ott.izzigo.tv/8/out/u/dash/SKY-STINGRAY-CLASSICA-HD-H265/default.mpd",
-    "drm_scheme": "clearkey",
-    "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/STINGRAY_CLASSICA",
-    "icono": "https://i.postimg.cc/Fzk3S0Xx/stingray-classica.png",
-	    "headers": {
-    "origin": "https://www.izzigo.tv",
-    "referer": "https://www.izzigo.tv/",
-    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
-		}
-   },
-   {
-    "name": "Stingray Juicebox",
-    "uri": "https://live1-ott.izzigo.tv/8/out/u/dash/SKY-STINGRAY-JUICEBOX-HD-H265/default.mpd",
-    "drm_scheme": "clearkey",
-    "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/STINGRAY_JUICEBOX",
-    "icono": "https://i.postimg.cc/MZcjG0DV/stingray-juicebox.png",
-	    "headers": {
-    "origin": "https://www.izzigo.tv",
-    "referer": "https://www.izzigo.tv/",
-    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
-		}
-   },
-   {
-    "name": "Stingray Retro",
-    "uri": "https://live1-ott.izzigo.tv/8/out/u/dash/STINGRAY-RETRO-HD-H265/default.mpd",
-    "drm_scheme": "clearkey",
-    "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/STINGRAY_RETRO",
-    "icono": "https://i.postimg.cc/4yC4ycft/stingray-retro.png",
-          "headers": {
-    "origin": "https://www.izzigo.tv",
-    "referer": "https://www.izzigo.tv/",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
-		  }
-   },
-   {
-    "name": "PALMARÈSADISQ PAR STINGRAY",
-    "uri": "https://lott3-web-opus.cdn.avp.telus.net/232006004107/vxfmt=dp/manifest.mpd?device_profile=dashvmx",
-    "drm_scheme": "clearkey",
-    "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/STINGRAY_PALMAR-SADISQ",
-    "icono": "https://gn-images-stb-opus.cdn.avp.telus.net/assets/s108572_ld_h15_aa.png?w=400",
-	       "headers": {
-    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
-		   }
-   },
-   {
-    "name": "Stingray CLASSICA",
-    "uri": "https://lott-web-opus.cdn.avp.telus.net/232006004230/vxfmt=dp/manifest.mpd?device_profile=dashvmx",
-    "drm_scheme": "clearkey",
-    "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/STINGRAY_CLASSICA_4K",
-    "icono": "https://gn-images-stb-opus.cdn.avp.telus.net/assets/s109160_ld_h9_aa.png?w=400",
-	       "headers": {
-    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
-		   }
-   },
-   {
-    "name": "Stingray COUNTRY",
-    "uri": "https://lott2-web-opus.cdn.avp.telus.net/232006004084/vxfmt=dp/manifest.mpd?device_profile=dashvmx",
-    "drm_scheme": "clearkey",
-    "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/STINGRAY_COUNTRY",
-    "icono": "https://gn-images-stb-opus.cdn.avp.telus.net/assets/s21642_ld_h8_aa.png?w=400",
-	       "headers": {
-    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
-		   }
-   },
-   {
-    "name": "Stingray NOW 4K",
-    "uri": "https://lott4-stb-opus.cdn.avp.telus.net/232006004232/vxfmt=dp/manifest.mpd?device_profile=dashvmx",
-    "drm_scheme": "clearkey",
-    "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/STINGRAY_NOW_4K",
-    "icono": "https://videostars.stingray.com/images/now4k-channel.png?w=400",
-	       "headers": {
-    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
-		   }
-   },
-   {
-    "name": "Stingray iCONCERTS",
-    "uri": "https://dash4.antik.sk/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8",
-    "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3lrCNErQ3GVpyWZx0bZytQv5xIy1vOHjWpuNpX9qB2Q&s=10"
-   },
-   {
-    "name": "QELLO CONCERTS BY STINGRAY",
-    "uri": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray/qello-qello001-montreal/distrotv/master.m3u8?ads.dpname=distrotv&ads.rnd=w1sc&ads.env_i=b5a80031-f6a3-468d-bc31-43e7d78fbc98&ads.env_u=&ads.name=DistroTV&ads.bundle=&ads.storeurl=&ads.appCategory=entertainment&ads.app_version=202105131041&ads.width=601&ads.height=338&ads.deviceId=&ads.deviceDNT=0&ads.gdpr=0&ads.us_privacy=0&ads.aid=&ads.deviceMake=Web&ads.deviceIdType=localStorage&ads.deviceConnectionType=2&ads.deviceCategory=web&ads.client_ip=96.0.50.248&ads.geo=CL&ads.lat=-33.45210&ads.long=-70.65360&ads.dma=&ads.geoType=2&ads.contentid=22865&ads.content_duration=18000&ads.episode_id=35967&ads.show_id=1101&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Music%2CMusic%20Video%2CEnglish&ads.showRating=TV-PG&ads.episodeRating=TV-PG&ads.language=en&ads.showtitle=Qello%20Concerts&ads.episodetitle=Qello&ads.keywords=stingray%2Cqello&ads.contenturl=https%3A%2F%2Fwww.google.com%2F&ads.gdprConsent=&ads.paln=&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=RQY0AGlmJWe",
-    "icono": "https://i.ibb.co/LQ4BkD1/Qello-Stingray.png",
-       "headers": {
-    "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-           }
-   },
-   {
-    "name": "Stingray CLASSICA",
-    "uri": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray/classica-cla008-montreal/distrotv/master.m3u8?ads.dpname=distrotv&ads.rnd=2irm&ads.env_i=1df9896d-c1d0-45e5-8f1a-47c8ce63320e&ads.env_u=&ads.name=DistroTV&ads.bundle=&ads.storeurl=&ads.appCategory=entertainment&ads.app_version=202105131041&ads.width=984&ads.height=553&ads.deviceId=&ads.deviceDNT=0&ads.gdpr=0&ads.us_privacy=0&ads.aid=&ads.deviceMake=Web&ads.deviceIdType=localStorage&ads.deviceConnectionType=2&ads.deviceCategory=web&ads.client_ip=96.0.50.248&ads.geo=CL&ads.lat=-33.45210&ads.long=-70.65360&ads.dma=&ads.geoType=2&ads.contentid=22865&ads.content_duration=18000&ads.episode_id=35970&ads.show_id=1104&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Music%2CMusic%20Video%2CClassical%20Music%2CEnglish&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=Stingray%20Classica&ads.episodetitle=Classica&ads.keywords=stingray%2Cclassica&ads.contenturl=https%3A%2F%2Fwww.google.com%2F&ads.gdprConsent=&ads.paln=&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=napCoUTJsja",
-    "icono": "https://i.ibb.co/nCkKKQ5/stingray-classica.jpg"
-   },
-   {
-    "name": "Stingray DJAZZ",
-    "uri": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray/djazz-djaads-montreal/distrotv/master.m3u8?ads.dpname=distrotv&ads.rnd=en6g&ads.env_i=8bb3b6e2-496c-4637-823c-9eab5d611b2a&ads.env_u=&ads.name=DistroTV&ads.bundle=&ads.storeurl=&ads.appCategory=entertainment&ads.app_version=202105131041&ads.width=601&ads.height=338&ads.deviceId=&ads.deviceDNT=0&ads.gdpr=0&ads.us_privacy=0&ads.aid=&ads.deviceMake=Web&ads.deviceIdType=localStorage&ads.deviceConnectionType=2&ads.deviceCategory=web&ads.client_ip=96.0.50.248&ads.geo=CL&ads.lat=-33.45210&ads.long=-70.65360&ads.dma=&ads.geoType=2&ads.contentid=22865&ads.content_duration=18000&ads.episode_id=35971&ads.show_id=1105&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Music%2CMusic%20Video%2CJAzz%2CEnglish&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=Stingray%20DJAZZ&ads.episodetitle=DJazz&ads.keywords=stingray%2Cdjazz&ads.contenturl=https%3A%2F%2Fwww.google.com%2F&ads.gdprConsent=&ads.paln=&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=O4kUIMQ5Oiq",
-    "icono": "https://i.ibb.co/g6FnxXk/Stingray-Djazz.png"
-   },
-   {
-    "name": "MOVIE MUSIC BY STINGRAY",
-    "uri": "https://d3f4oii5n0oeqi.cloudfront.net/11701/88814585/hls/master.m3u8?ads.xumo_channelId=88814585",
-    "icono": "https://i.postimg.cc/mrFCmvpg/movie-music-by-stingray.png"
-   },
-   {
-    "name": "TIKTOK RADIO",
-    "uri": "https://d3f4oii5n0oeqi.cloudfront.net/11701/88814594/hls/master.m3u8?ads.xumo_channelId=88814594",
-    "icono": "https://i.postimg.cc/LsbR87mL/tiktok-radio.png"
-   },
-   {
-    "name": "RETRO MUSIC TELEVISION",
-    "uri": "https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8",
-    "icono": "https://play-lh.googleusercontent.com/1DLP1wx7J-7mecGjQjtec9NVzkNxkG6Yv4LzyUf4ltjnoYCYucAYksREJWa5lwWS3BWc"
-   },
-   {
-    "name": "TV REBEL",
-    "uri": "https://dash2.antik.sk/live/test_rebel/playlist.m3u8",
-    "icono": "https://i.postimg.cc/P5nmttGx/rebel-rock-tv.png",
-	    "headers": {
-    "origin": "https://webtv.sk",
-    "referer": "https://webtv.sk/",
-    "user-agent": "AntikTVExoPlayer/1.1.47 (Linux;Android 15) ExoPlayerLib/2.14.2"
-         }
-   },
-   {
-    "name": "VEVO 2K",
-    "uri": "https://d1s6jz7jeei17.cloudfront.net/playlist/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8",
-    "icono": "https://i.postimg.cc/MKqyZbNc/vevo-2k.png"
-   },
-   {
-    "name": "VEVO POP",
-    "uri": "https://d1ktssaxrjabsg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1vshdbah8e4f8/playlist.m3u8",
-    "icono": "https://i.postimg.cc/L8HKV77H/vevo-pop.png"
-   },
-   {
-    "name": "VEVO POP ESPAÑOL",
-    "uri": "https://d3e0llp20n59j5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fs5u02h1uaofy/playlist.m3u8",
-    "icono": "https://i.postimg.cc/L8HKV77H/vevo-pop.png"
-   },
-   {
-    "name": "VEVO LATINO",
-    "uri": "https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevolatinoes-rakutenes/playlist.m3u8",
-    "icono": "https://i.postimg.cc/VsGDhhdf/vevo-latino.png"
-   },
-   {
-    "name": "VEVO RETRO",
-    "uri": "https://dh732bpen9wqx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xpcm3pisx9sj8/VevoRetro_ES.m3u8",
-    "icono": "https://i.postimg.cc/FsHZjDN8/vevo-retro.png"
-   },
-   {
-    "name": "VEVO ´70s",
-    "uri": "https://amg00056-vevotv-vevo70saunz-samsungau-xzszd.amagi.tv/ts-us-w2-n1/playlist/amg00056-vevotv-vevo70saunz-samsungau/playlist.m3u8",
-    "icono": "https://i.postimg.cc/XY3xhBwW/vevo-70s.png"
-   },
-   {
-    "name": "VEVO ´70s & ´80s",
-    "uri": "https://d38e11bvtr8xdq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jlzlygsoesvmj/Vevo70sand80s_GB.m3u8",
-    "icono": "https://i.postimg.cc/ZKTdpP70/vevo-70s-80s.png"
-   },
-   {
-    "name": "VEVO ´80s",
-    "uri": "https://d2puurghvvgsae.cloudfront.net/playlist/amg00056-vevotv-vevo80saunz-samsungau/playlist.m3u8",
-    "icono": "https://i.postimg.cc/bJHwmM8p/vevo-80s.png"
-   },
-   {
-    "name": "VEVO ´90s",
-    "uri": "https://amg00056-vevotv-vevo90saunz-samsungau-n6a0d.amagi.tv/ts-us-e2-n1/playlist/amg00056-vevotv-vevo90saunz-samsungau/playlist.m3u8",
-    "icono": "https://i.postimg.cc/NF5ZK9dS/vevo-90s.png"
-   },
-   {
-    "name": "VEVO '90s & '00s",
-    "uri": "https://d1cj21il6keqa2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1jatv2dap12i7/playlist.m3u8",
-    "icono": "https://i.postimg.cc/GhvPrh4f/vevo-90s-00s.png"
-   },
-   {
-    "name": "VEVO 2010s",
-    "uri": "https://d3j50s1rkjmwi9.cloudfront.net/Vevo_2010s.m3u8",
-    "icono": "https://i.postimg.cc/xdKWMM5p/vevo-2010s.png"
-   },
-   {
-    "name": "VEVO COUNTRY",
-    "uri": "https://amg00056-vevotv-vevocountryau-samsungau-ktmqm.amagi.tv/ts-us-e2-n1/playlist/amg00056-vevotv-vevocountryau-samsungau/playlist.m3u8",
-    "icono": "https://i.postimg.cc/bvsc2nD8/vevo-country.png"
-   },
-   {
-    "name": "VEVO R&B",
-    "uri": "https://jmp2.uk/plu-5da0d83f66c9700009b96d0e.m3u8",
-    "icono": "https://i.postimg.cc/L8WQwb5K/vevo-r-b.png"
-   },
-   {
-    "name": "VEVO HIP-HOP & R&B",
-    "uri": "https://d7i20u8nlyf1b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lymqk2na77cwn/VevoHipHopRB_GB.m3u8",
-    "icono": "https://i.postimg.cc/ZnpKVkmr/vevo-hip-hop-r-b.png"
-   },
-   {
-    "name": "VEVO TRUE SCHOOL HIP-HOP",
-    "uri": "https://jmp2.uk/plu-61d4c2817a823d00070ba53e.m3u8",
-    "icono": "https://i.postimg.cc/TYPzKF6q/vevo-true-school-hip-hop.png"
-   },
-   {
-    "name": "VEVO REGIONAL MEXICANO",
-    "uri": "https://jmp2.uk/plu-64dab5fe35425100080e2991.m3u8",
-    "icono": "https://i.postimg.cc/V61TmHgb/vevo-regional-mx.png"
-   },
-   {
-    "name": "VEVO ÍCONOS LATINOS",
-    "uri": "https://jmp2.uk/plu-64d161c93c785e0008df575e.m3u8",
-    "icono": "https://i.postimg.cc/mk36NZ9v/vevo-iconos-latinos.png"
-   },
-   {
-    "name": "VEVO NAVIDAD",
-    "uri": "https://d3gvsgk1wzcus5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9n2dbsm9s7w96/VevoNavidad_ES.m3u8",
-    "icono": "https://i.postimg.cc/3r0rkkFd/vevo-navidad.png"
-   },
-   {
-    "name": "VEVO CHRISTMAS",
-    "uri": "https://d2iwbme1fhlm5y.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dhh5tap5387o2/VevoChristmas_GB.m3u8",
-    "icono": "https://i.postimg.cc/k5MXGwf8/vevo-christmas.png"
-   },
-   {
-    "name": "VEVO ROCK",
-    "uri": "https://d2hdqrshyzxswl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-neu8sqvbxozkb/Vevo_Retro_Rock.m3u8",
-    "icono": "https://i.postimg.cc/QMq2q4ch/vevo-rock.png"
-   },
-   {
-    "name": "VEVO RETRO ROCK",
-    "uri": "https://d2lyea6if8kkz9.cloudfront.net/playlist/amg00056-vevotv-vevoretrorockau-samsungau/playlist.m3u8",
-    "icono": "https://i.postimg.cc/PrDV845d/vevo-retro-rock.png"
-   },
-   {
-    "name": "METAL ROCKS",
-    "uri": "https://amg00771-amg00771c5-rakuten-gb-9713.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00771-kochfilmsfast-metalrocks-rakutengb/playlist.m3u8",
-    "icono": "https://images.plex.tv/photo?size=medium-360&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F4171a6a6-6d73-481a-ad91-15166befee06%2FChannel_Logo_MetalRocks_Color_-_Ricardo_RivasRDX.png"
-   },
-   {
-    "name": "XITE HITS",
-    "uri": "https://xite-rakuten.amagi.tv/playlist.m3u8",
-    "icono": "https://i.postimg.cc/YCJZJZCX/xite-hits.png"
-   },
-   {
-    "name": "XITE HITS DE",
-    "uri": "https://xite-germany-lg.amagi.tv/playlist.m3u8",
-    "icono": "https://i.postimg.cc/YCJZJZCX/xite-hits.png"
-   },
-   {
-    "name": "XITE HITS UK",
-    "uri": "https://amg01243-xitenetworksint-hitsuk-samsunguk-mvovq.amagi.tv/playlist/amg01243-xitenetworksint-hitsuk-samsunguk/playlist.m3u8",
-    "icono": "https://i.postimg.cc/YCJZJZCX/xite-hits.png"
-   },
-   {
-    "name": "XITE CELEBRATES",
-    "uri": "https://dt1s4l2cmiyit.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fcwpee1h7t5cs/XITE_Celebrates.m3u8",
-    "icono": "https://i.postimg.cc/25SLNc9Z/xite-celebrates.png"
-   },
-   {
-    "name": "XITE ROCK X METAL",
-    "uri": "https://d198ro05q94rc4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-c5xdq9qwilrd2/XITE_Rock_On.m3u8",
-    "icono": "https://i.postimg.cc/Fs7XJjdQ/xite-rock-x-metal.png"
-   },
-   {
-    "name": "XITE 60s & 70s GROOVE",
-    "uri": "https://amg01243-xite-amg01243c16-tcl-us-6476.playouts.now.amagi.tv/480p-cc/index.m3u8",
-    "icono": "https://i.postimg.cc/6Qkp5r31/xite-60-70.png"
-   },
-   {
-    "name": "XITE 80s FLASHBACK",
-    "uri": "https://d1n314cytqn9r3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bklagqy82v0pr/XITE_80s_Flashback.m3u8",
-    "icono": "https://i.postimg.cc/43fFc9Bg/xite-80s.png"
-   },
-   {
-    "name": "XITE 90s THROWBACK",
-    "uri": "https://d284aawtm5vi48.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fjdfi2br1jtq7/XITE_90s_Throwback.m3u8",
-    "icono": "https://i.postimg.cc/bwB20XRw/xite-90s.png"
-   },
-   {
-    "name": "XITE JUST CHILL",
-    "uri": "https://dvnftgdlbnemm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dh48uzd9o895t/XITE_Just_Chill.m3u8",
-    "icono": "https://i.postimg.cc/K8NmFmC9/xite-just-chill.png"
-   },
-   {
-    "name": "XITE NUEVO LATINO",
-    "uri": "https://d3bsgqzbpkrvbb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w288eaw03izg1/XITE_Nuevo_Latino.m3u8",
-    "icono": "https://i.postimg.cc/Bny1Tcn9/xite-nuevo-latino.png"
-   },
-   {
-    "name": "XITE SIEMPRE LATINO",
-    "uri": "https://d1xc25jm9e0l4b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xplkt8i7m24dc/XITE_Siempre_Latino.m3u8",
-    "icono": "https://i.postimg.cc/YC8dMPRN/xite-siempre-latino.png"
-   },
-   {
-    "name": "XITE GOSPEL",
-    "uri": "https://jmp2.uk/plu-623b93628e6ded0007337d4d.m3u8",
-    "icono": "https://i.postimg.cc/qBZDCWH1/xite-gospel.png"
-   },
-   {
-    "name": "XITE CHRISTIAN HITS",
-    "uri": "https://amg01243-xite-amg01243c25-tcl-us-6509.playouts.now.amagi.tv/playlist.m3u8",
-    "icono": "https://i.postimg.cc/9Fg20LL2/xite-christian-hits.png"
-   },
-   {
-    "name": "XITE REGGAE VIBES",
-    "uri": "https://amg01243-xite-amg01243c26-tcl-us-6510.playouts.now.amagi.tv/playlist.m3u8",
-    "icono": "https://i.postimg.cc/J0wyf1BT/xite-reggae-vibes.png"
-   },
-   {
-    "name": "XITE R&B FEELS",
-    "uri": "https://amg01243-xite-amg01243c13-tcl-us-6478.playouts.now.amagi.tv/playlist.m3u8",
-    "icono": "https://i.postimg.cc/T1rLXkJW/r-b-feels.png"
-   },
-   {
-    "name": "XITE R&B CLASSIC JAMS",
-    "uri": "https://d163j5tlekse0h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-133wbycdrwhvy/XITE_RnB_Classic_Jams.m3u8",
-    "icono": "https://i.postimg.cc/0QyKYW1f/xite-r-b.png"
-   },
-   {
-    "name": "XITE RAP GAME",
-    "uri": "https://amg01243-xite-amg01243c8-tcl-us-6477.playouts.now.amagi.tv/playlist.m3u8",
-    "icono": "https://i.postimg.cc/DfDb4XNk/xite-rap-game.png"
-   },
-   {
-    "name": "XITE HIP-HOP EVOLUTION",
-    "uri": "https://amg01243-xite-amg01243c7-tcl-us-6479.playouts.now.amagi.tv/playlist.m3u8",
-    "icono": "https://i.postimg.cc/PfBQs9TW/xite-hip-hop-evolution.png"
-   },
-   {
-    "name": "XITE CLASSIC COUNTRY",
-    "uri": "https://d2xm7fwgbakh1x.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ltmgkaa20sgt9/XITE_Countrys_Finest.m3u8",
-    "icono": "https://i.postimg.cc/8CD1W7gB/xite-classic-country.png"
-   },
-   {
-    "name": "XITE COUNTRY TODAY",
-    "uri": "https://d18gddrg3q1rlq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l4hn4yums84y5/XITE_Country_Today.m3u8",
-    "icono": "https://i.postimg.cc/902tHP6w/xite-country-today.png"
-   },
-   {
-    "name": "MUSIC BOX SEXY",
-    "uri": "http://88.212.15.19/live/mb_sexy/index.m3u8",
-    "icono": "https://i.postimg.cc/CLPZ0ZN3/music-box-sexy.png"
-   },
-   {
-    "name": "MUSIC BOX HITS",
-    "uri": "http://88.212.15.19/live/mb_hits/index.m3u8",
-    "icono": "https://i.postimg.cc/zBFBc3vh/music-box-hits.png"
-   },
-   {
-    "name": "MUSIC BOX DANCE",
-    "uri": "http://88.212.15.19/live/mb_dance/index.m3u8",
-    "icono": "https://i.postimg.cc/2jTydqP6/music-box-dance.png"
-   },
-   {
-    "name": "MUSIC BOX CLASSIC",
-    "uri": "http://88.212.15.19/live/mb_classic/index.m3u8",
-    "icono": "https://i.postimg.cc/d0MVQGT4/music-box-classic.png"
-   },
-   {
-    "name": "Billboard  ",
-    "uri": "https://cdn.sensa.com.ar/output/SMT1/BLBH/playlist.m3u8",
-    "icono": "https://geo.edge.pontiscloud.com:9002/images/901/CH_LOGO/320/320/0/0/12050400077728.png"
-   },
-   {
-    "name": "MUSIC TOP",
-    "uri": "http://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8#t=0.1",
-    "icono": "https://i.postimg.cc/fLwCYCTP/music-top.png"
-   },
-   {
-    "name": "Telehit ",
-    "uri": "https://live1-ott.izzigo.tv/15/out/u/dash/TELEHIT-SD/default.mpd",
-    "drm_scheme": "clearkey",
-    "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/TELEHIT",
-    "icono": "https://i.ibb.co/5Y4C401/telehit.png",
-	    "headers": {
-    "origin": "https://www.izzigo.tv",
-    "referer": "https://www.izzigo.tv/",
-    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
-		}
-   },
-   {
-    "name": "Telehit Música",
-    "uri": "https://live1-ott.izzigo.tv/12/out/u/dash/TELEHIT-MUSICA-SD/default.mpd",
-    "drm_scheme": "clearkey",
-    "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/TELEHIT_MUSICA",
-    "icono": "https://i.ibb.co/p4243Nf/Telehit-M-sica.png",
-	    "headers": {
-    "origin": "https://www.izzigo.tv",
-    "referer": "https://www.izzigo.tv/",
-    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
-		}
-   },
-   {
-    "name": "Telehit  Plus",
-    "uri": "https://live1-ott.izzigo.tv/12/out/u/dash/TELEHIT-MUSICA-PLUS-HD/default.mpd",
-    "drm_scheme": "clearkey",
-    "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/TELEHIT_PLUS",
-    "icono": "https://i.postimg.cc/G36X3gB3/telehit-musica-plus.png",
-	    "headers": {
-    "origin": "https://www.izzigo.tv",
-    "referer": "https://www.izzigo.tv/",
-    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
-		}
-   },
-   {
-    "name": "TeleRitmo",
-    "uri": "https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8",
-    "icono": "https://i.postimg.cc/bwscY8fp/tele-ritmo.png"
-   },
-   {
-    "name": " Bandamax",
-    "uri": "https://live1-ott.izzigo.tv/12/out/u/dash/BANDAMAX-HD/default.mpd",
-    "drm_scheme": "clearkey",
-    "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/BANDAMAX",
-    "icono": "https://i.ibb.co/0D7TMmZ/Bandamax.png",
-	    "headers": {
-    "origin": "https://www.izzigo.tv",
-    "referer": "https://www.izzigo.tv/",
-    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
-		}
-   },
-   {
-    "name": "CANAL DE LA MÚSICA",
-    "uri": "https://g5.vxral-hor.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-100044_all/Playlist.m3u8?sense=true",
-    "icono": "https://i.postimg.cc/mD65XXc9/cm.png",
-	    "headers": {
-    "user-agent": "Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36  WebAppManager"
-		}
-   },
-   {
-    "name": "SOL MÚSICA",
-    "uri": "https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8",
-    "icono": "https://i.postimg.cc/RhWwrHfD/sol-musica.png"
-   },
-   {
-    "name": "QWEST TV",
-    "uri": "https://amg00447-qwesttv-amg00447c1-vidaa-us-9656.playouts.now.amagi.tv/playlist/amg00447-qwesttvfast-qwesttv-vidaaus/playlist.m3u8",
-    "icono": "https://media.tvup.cloud/canales/color_lg_67b4ba5dfdf20e048d551fab_1739965973280.png"
-   },
-   {
-    "name": "BOX PLAYLIST",
-    "uri": "https://d3e900fnvjyq99.cloudfront.net/d/BKFNLVLBL20NVRK6FYE0/hls3/now_-1m_15s/m.m3u8",
-    "icono": "https://i.ibb.co/RHVnH98/box-playlist.png"
-   },
-   {
-    "name": "VClassicTV",
-    "uri": "https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8",
-    "icono": "https://i.postimg.cc/ZK6g0tTn/vclassic-tv.png"
-   },
-   {
-    "name": "VClassicTV Tropical",
-    "uri": "https://5eaccbab48461.streamlock.net:1936/8076/8076/playlist.m3u8",
-    "icono": "https://i.postimg.cc/SRLDDptg/vclassic-tv-tropical.png"
-   },
-   {
-    "name": "CANELA MUSIC HITS",
-    "uri": "https://amg00658-amg00658c45-canelatv-international-7232.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg00658-canelamediafast-canelamusichits-canelatvinternational/playlist.m3u8",
-    "icono": "https://i.postimg.cc/QCWpnNFS/CANELA-HITS-0-16x9.webp"
-   },
-   {
-    "name": "CANELA REGIONAL MX",
-    "uri": "https://amg00658-amg00658c46-canelatv-international-7298.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-channelb-canelatvinternational/playlist.m3u8",
-    "icono": "https://i.postimg.cc/bNk5Zpmk/CANELA-REGIONAL-MX-0-16x9.webp"
-   },
-   {
-    "name": "MI GENTE 3.0",
-    "uri": "https://byecableiptvnew3.ddns.net:443/ENVIVOMIGENTE/index.m3u8",
-    "icono": "https://i.ibb.co/QMJ9YNS/mi-gente-3-0.png"
-   },
-   {
-    "name": "TOP TV",
-    "uri": "https://isaocorp.cloudecast.com/toptv/tracks-v1a1/mono.m3u8",
-    "icono": "https://i.ibb.co/svkq8Y7H/Top-TV-logo-svg.png"
-   },
-   {
-    "name": "NEW KPOP",
-    "uri": "https://d3sp12rkfenklh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8590bzk53m6cd/live/newid_338_fd18dfd9/samsung_tvplus/index.m3u8?apikey=b97c7a7d0c82424bb607e141ef215779&auth=2fc034f7-8ea7eec6-1badd192-856e5919",
-    "icono": "https://i.ibb.co/BGxBxvX/new-kpop.png"
-   },
-   {
-    "name": "K-POP BY CJ ENM",
-    "uri": "https://d3kmrn2mstrnk5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7ppcp3lxg7oer/f4acc9ba_daae_4ed0_b836_32126cead919/hls/playlist.m3u8",
-    "icono": "https://i.ibb.co/WkFpM7k/k-pop-cj-enm.png"
-   },
-   {
-    "name": "TRACE LATINA",
-    "uri": "https://channels.trace.plus/Traceprod/LATINA_hd/index.m3u8",
-    "icono": "https://i.ibb.co/M5syQ3Yq/Tracelatina2022.png"
-   },
-   {
-    "name": "TRACE BRASIL",
-    "uri": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8",
-    "icono": "https://i.ibb.co/MkQnY5kS/Trace-Brasil-logo.png"
-   },
-   {
-    "name": "TRACE BRASIL HD",
-    "uri": "https://channels.trace.plus/Traceprod/BRAZIL_hd/index.m3u8",
-    "icono": "https://i.ibb.co/MkQnY5kS/Trace-Brasil-logo.png"
-   },
-   {
-    "name": "TRACE URBAN",
-    "uri": "https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8",
-    "icono": "https://i.ibb.co/6RrTk75m/Trace-urban.png"
-   },
-   {
-    "name": "TRACE URBAN AFRICA FRANCO",
-    "uri": "https://channels.trace.plus/Traceprod/URBAN_AFRIC_FR_hd/index.m3u8",
-    "icono": "https://i.ibb.co/6RrTk75m/Trace-urban.png"
-   },
-   {
-    "name": "TRACE URBAN Caribbean And Indian Ocean",
-    "uri": "https://channels.trace.plus/Traceprod/URBAN_DOM_hd/index.m3u8",
-    "icono": "https://i.ibb.co/6RrTk75m/Trace-urban.png"
-   },
-   {
-    "name": "TRACE URBAN HD",
-    "uri": "https://channels.trace.plus/Traceprod/URBAN_INTER_hd/index.m3u8",
-    "icono": "https://i.ibb.co/6RrTk75m/Trace-urban.png"
-   },
-   {
-    "name": "TRACE URBAN FEANCE",
-    "uri": "https://channels.trace.plus/Traceprod/URBAN_FR_hd/index.m3u8",
-    "icono": "https://i.ibb.co/6RrTk75m/Trace-urban.png"
-   },
-   {
-    "name": "TRACE URBAN AFRICA",
-    "uri": "https://channels.trace.plus/Traceprod/URBAN_SA_hd/index.m3u8",
-    "icono": "https://i.ibb.co/6RrTk75m/Trace-urban.png"
-   },
-   {
-    "name": "TRACE UK",
-    "uri": "https://channels.trace.plus/Traceprod/UK_FAST_hd/index.m3u8",
-    "icono": "https://i.ibb.co/Q3TwBJBB/Trace-UK-Logo.png"
-   },
-   {
-    "name": "TRACE UK GB",
-    "uri": "https://d2l4tng0wskzvn.cloudfront.net/Trace_GB.m3u8",
-    "icono": "https://i.ibb.co/Q3TwBJBB/Trace-UK-Logo.png"
-   },
-   {
-    "name": "TRACE CARIBBEAN",
-    "uri": "https://channels.trace.plus/Traceprod/CARIBBEAN_hd/index.m3u8",
-    "icono": "https://i.ibb.co/V0KfxSrS/Trace-Caribbean-Logo.png"
-   },
-   {
-    "name": "TRACE AFRICA",
-    "uri": "https://channels.trace.plus/Traceprod/AFRICA_FR_hd/index.m3u8",
-    "icono": "https://i.imgur.com/kPUkoS7.png"
-   },
-   {
-    "name": "TRACE AFRIKORA",
-    "uri": "https://channels.trace.plus/Traceprod/TERANGA_hd/index.m3u8",
-    "icono": "https://i.imgur.com/CQDdnhp.png"
-   },
-   {
-    "name": "TRACE AYITI",
-    "uri": "https://channels.trace.plus/Traceprod/AYITI_hd/index.m3u8",
-    "icono": "https://i.imgur.com/KkJ6fet.png"
-   },
-   {
-    "name": "TRACE GOSPEL",
-    "uri": "https://channels.trace.plus/Traceprod/GOSPEL_FR_hd/index.m3u8",
-    "icono": "https://i.imgur.com/X0UmU3K.png"
-   },
-   {
-    "name": "TRACE GOSPEL ROA",
-    "uri": "https://channels.trace.plus/Traceprod/GOSPEL_ROA_hd/index.m3u8",
-    "icono": "https://i.imgur.com/X0UmU3K.png"
-   },
-   {
-    "name": "TRACE GOSPEL SA",
-    "uri": "https://channels.trace.plus/Traceprod/GOSPEL_SA_hd/index.m3u8",
-    "icono": "https://i.imgur.com/X0UmU3K.png"
-   },
-   {
-    "name": "TRACE IVOIRE",
-    "uri": "https://channels.trace.plus/Traceprod/TRACE_IVOIRE_hd/index.m3u8",
-    "icono": "https://i.imgur.com/W2l3rVx.png"
-   },
-   {
-    "name": "TRACE JAMA",
-    "uri": "https://channels.trace.plus/Traceprod/JAMA_hd/index.m3u8",
-    "icono": "https://i.imgur.com/pthX34m.png"
-   },
-   {
-    "name": "TRACE KITOKO",
-    "uri": "https://channels.trace.plus/Traceprod/KITOKO_hd/index.m3u8",
-    "icono": "https://i.imgur.com/q6vkMrU.png"
-   },
-   {
-    "name": "TRACE MBOA",
-    "uri": "https://channels.trace.plus/Traceprod/MBOA_hd/index.m3u8",
-    "icono": "https://i.imgur.com/cYwkCj2.png"
-   },
-   {
-    "name": "TRACE MZIKI",
-    "uri": "https://channels.trace.plus/Traceprod/MZIKI_hd/index.m3u8",
-    "icono": "https://i.imgur.com/l3X9Gg4.png"
-   },
-   {
-    "name": "TRACE NAIJA",
-    "uri": "https://channels.trace.plus/Traceprod/NAIJA_hd/index.m3u8",
-    "icono": "https://i.imgur.com/Rguekcp.png"
-   },
-   {
-    "name": "TRACE NGOMA",
-    "uri": "https://channels.trace.plus/Traceprod/AFRICA_EN_hd/index.m3u8",
-    "icono": "https://www.hypresslive.com/wp-content/uploads/2025/12/9cf0931b-5e1e-16da-515a-bd203ca3c928-1536x1074.png"
-   },
-   {
-    "name": "TRACE TOCA",
-    "uri": "https://channels.trace.plus/Traceprod/TOCA_hd/index.m3u8",
-    "icono": "https://i.postimg.cc/Bv7dJpSR/Trace-Toca-Logo.png"
-   },
-   {
-    "name": "TRACE MUZIKA",
-    "uri": "https://channels.trace.plus/Traceprod/MUZIKA_hd/index.m3u8",
-    "icono": "https://i.postimg.cc/cJDNrZhy/Trace-Muzika-Logo.png"
-   },
-   {
-    "name": "COOL SUMMER",
-    "uri": "https://d3mza6qljp67l5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rpc4qub3zg7qt/csts.m3u8",
-    "icono": "https://i.ibb.co/7k7VVLd/cool-summer.png"
-   },
-   {
-    "name": "CMC TV",
-    "uri": "https://cmc-ono.amagi.tv/playlist504_p.m3u8",
-    "icono": "https://media.tvup.cloud/canales/color_lg_5b1e8713dd713247dee47267.png"
-   },
-   {
-    "name": "CMC USA",
-    "uri": "https://hwlive.streamingmediahosting.com/14215-live/0_obd393sh/chunklist.m3u8",
-    "icono": "https://i.postimg.cc/65BkhL87/cmc-usa.png"
-   },
-   {
-    "name": "CMT EQUAL PLAY",
-    "uri": "https://jmp2.uk/plu-5f68f53eb1e5800007390bf8.m3u8",
-    "icono": "https://i.ibb.co/NjxpfVp/cmt-music.png"
-   },
-   {
-    "name": "DEF JAM",
-    "uri": "https://d1t9jj3kgy7bur.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m84lyt8jpwc3r/gigs.m3u8",
-    "icono": "https://i.ibb.co/Bq0jhwL/def-jam.png"
-   },
-   {
-    "name": "HIP HOP TV",
-    "uri": "https://9ea6ba0f84904cf4b17433f6a489638b.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-it_HipHopTV/playlist.m3u8",
-    "icono": "https://i.ibb.co/JrGSVR4/hip-hop-tv.png"
-   },
-   {
-    "name": "ROCK TV",
-    "uri": "https://3ff10b5c36cb4729a63d9a2eb5e629f7.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-it_RockTV/playlist.m3u8",
-    "icono": "https://i.ibb.co/myJgqVR/ROCK-TV.png"
-   },
-   {
-    "name": "70-80 ®it",
-    "uri": "https://585b674743bbb.streamlock.net/9050/9050/chunklist_w2077975936.m3u8",
-    "icono": "https://i.ibb.co/HTm3wJW/70-80-it.png"
-   },
-   {
-    "name": "NOW 70s",
-    "uri": "http://118.142.17.190:8278/now70hls/playlist.m3u8",
-    "icono": "https://i.ibb.co/nyVp8rQ/NOW-70s.png"
-   },
-   {
-    "name": "NOW 80s",
-    "uri": "http://118.142.17.190:8278/now80hls/playlist.m3u8",
-    "icono": "https://i.ibb.co/MxMq06s1/NOW-80s-logo.png"
-   },
-   {
-    "name": "NOW 90s 00s",
-    "uri": "http://118.142.17.190:8278/now00hls/playlist.m3u8",
-    "icono": "https://i.postimg.cc/Jn7T2Zmz/now-90s00s.png"
-   },
-   {
-    "name": "NOW ROCK",
-    "uri": "http://118.142.17.190:8278/now90hls/playlist.m3u8",
-    "icono": "https://i.postimg.cc/BQ8g5X43/NOW-Rock-logo.png"
-   },
-   {
-    "name": "THAT'S 70s",
-    "uri": "https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8",
-    "icono": "https://i.postimg.cc/rp05QXG6/thats-70s.png"
-   },
-   {
-    "name": "THAT'S 80s",
-    "uri": "https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8",
-    "icono": "https://i.postimg.cc/t4R5dMvW/thats-80s.png"
-   },
-   {
-    "name": "THAT'S 90s 00s",
-    "uri": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-lightning-now90s00s-rakutenjp/playlist.m3u8",
-    "icono": "https://i.postimg.cc/JnK7XtyL/thats-90s-00s.png"
-   },
-   {
-    "name": "THAT'S ROCK",
-    "uri": "https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8",
-    "icono": "https://i.postimg.cc/NMv2Dyfr/thats-rock.png"
-   }
+      {
+        "name": "Ritmos Inolvidables",
+        "uri": "https://amg00658-amg00658c44-canelatv-international-7299.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-channelc-canelatvinternational/playlist.m3u8",
+        "icono": "https://i.postimg.cc/fWcvNHh5/ritmos-inolvidables.webp",
+        "headers": {
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "FREETV BANDA",
+        "uri": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=16334",
+        "icono": "https://i.postimg.cc/1Xz8HGWF/freetvbanda.png"
+      },
+      {
+        "name": "FREETV HITS",
+        "uri": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=16322",
+        "icono": "https://i.postimg.cc/5twQNNYy/freetvhits-png.png"
+      },
+      {
+        "name": "MTV JP",
+        "uri": "http://42.118.247.37:9394/stream/74.m3u8",
+        "icono": "https://i.ibb.co/HqPNtN1/mtv.png"
+      },
+      {
+        "name": "MTV CLASSIC",
+        "uri": "https://fl2.moveonjoy.com/MTV_CLASSIC/index.m3u8",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfZUzZxiadpAzqrjeCbiQm7dud7SN3loIvlB1fxMCSGg&s=10",
+        "headers": {
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "MTV LIVE",
+        "uri": "http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkJwBI-U2pFet6MiLI2_Masq9PZFnyAw7lwvrs5p7ymg&s=10"
+      },
+      {
+        "name": "CONCERT CHANNEL",
+        "uri": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/labtefjwbn/out/v1/1b1ca0a8ecbb4e03ba9327fd099911d2/cenc.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/CONCERT_CHANNEL",
+        "icono": "https://images.pluto.tv/channels/6868152657543d1f8be4ece3/thumbnail.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=2&q=50",
+        "headers": {
+          "referer": "https://www.primevideo.com/",
+          "user-agent": "AivAndroidPlayer/1.0 (AndroidDevice)"
+        }
+      },
+      {
+        "name": "Stingray LOUD",
+        "uri": "https://lott5-web-opus.cdn.avp.telus.net/232006004120/vxfmt=dp/manifest.mpd?device_profile=dashvmx",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/STINGRAY_LOUD",
+        "icono": "https://gn-images-stb-opus.cdn.avp.telus.net/assets/s104955_ld_h15_aa.png?w=400",
+        "headers": {
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "Stingray VIBE",
+        "uri": "https://lott5-web-opus.cdn.avp.telus.net/232006004119/vxfmt=dp/manifest.mpd?device_profile=dashvmx",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/STINGRAY_VIBE",
+        "icono": "https://gn-images-stb-opus.cdn.avp.telus.net/assets/s104956_ld_h15_aa.png?w=400",
+        "headers": {
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "Stingray FESTIVAL",
+        "uri": "https://lott3-stb-opus.cdn.avp.telus.net/232006004231/vxfmt=dp/manifest.mpd?device_profile=dashvmx",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/STINGRAY_FESTIVAL",
+        "icono": "https://images.ctfassets.net/8utyj17y1gom/4mcs4Lo3QhnPyINCeu6M7Z/055e05d60f9f225aa3273c92c413f53b/Desktop_TVChannelPage_Festival.png?w=400",
+        "headers": {
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "Stingray HITS! UK",
+        "uri": "https://lott5-web-opus.cdn.avp.telus.net/232006004108/vxfmt=dp/manifest.mpd?device_profile=dashvmx",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/STINGRAY_HITS-4K",
+        "icono": "https://gn-images-stb-opus.cdn.avp.telus.net/assets/s108571_ld_h15_aa.png?w=400",
+        "headers": {
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "Stingray HITS! US",
+        "uri": "https://live1-ott.izzigo.tv/6/out/u/dash/SKY-STINGRAY-HITS-HD-H265/default.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/STINGRAY_HITS-",
+        "icono": "https://i.postimg.cc/mZFt4LLJ/stingray-hits.png",
+        "headers": {
+          "origin": "https://www.izzigo.tv",
+          "referer": "https://www.izzigo.tv/",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "Stingray Classica",
+        "uri": "https://live1-ott.izzigo.tv/8/out/u/dash/SKY-STINGRAY-CLASSICA-HD-H265/default.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/STINGRAY_CLASSICA",
+        "icono": "https://i.postimg.cc/Fzk3S0Xx/stingray-classica.png",
+        "headers": {
+          "origin": "https://www.izzigo.tv",
+          "referer": "https://www.izzigo.tv/",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "Stingray Juicebox",
+        "uri": "https://live1-ott.izzigo.tv/8/out/u/dash/SKY-STINGRAY-JUICEBOX-HD-H265/default.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/STINGRAY_JUICEBOX",
+        "icono": "https://i.postimg.cc/MZcjG0DV/stingray-juicebox.png",
+        "headers": {
+          "origin": "https://www.izzigo.tv",
+          "referer": "https://www.izzigo.tv/",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "Stingray Retro",
+        "uri": "https://live1-ott.izzigo.tv/8/out/u/dash/STINGRAY-RETRO-HD-H265/default.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/STINGRAY_RETRO",
+        "icono": "https://i.postimg.cc/4yC4ycft/stingray-retro.png",
+        "headers": {
+          "origin": "https://www.izzigo.tv",
+          "referer": "https://www.izzigo.tv/",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "PALMARÈSADISQ PAR STINGRAY",
+        "uri": "https://lott3-web-opus.cdn.avp.telus.net/232006004107/vxfmt=dp/manifest.mpd?device_profile=dashvmx",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/STINGRAY_PALMAR-SADISQ",
+        "icono": "https://gn-images-stb-opus.cdn.avp.telus.net/assets/s108572_ld_h15_aa.png?w=400",
+        "headers": {
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "Stingray CLASSICA",
+        "uri": "https://lott-web-opus.cdn.avp.telus.net/232006004230/vxfmt=dp/manifest.mpd?device_profile=dashvmx",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/STINGRAY_CLASSICA_4K",
+        "icono": "https://gn-images-stb-opus.cdn.avp.telus.net/assets/s109160_ld_h9_aa.png?w=400",
+        "headers": {
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "Stingray COUNTRY",
+        "uri": "https://lott2-web-opus.cdn.avp.telus.net/232006004084/vxfmt=dp/manifest.mpd?device_profile=dashvmx",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/STINGRAY_COUNTRY",
+        "icono": "https://gn-images-stb-opus.cdn.avp.telus.net/assets/s21642_ld_h8_aa.png?w=400",
+        "headers": {
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "Stingray NOW 4K",
+        "uri": "https://lott4-stb-opus.cdn.avp.telus.net/232006004232/vxfmt=dp/manifest.mpd?device_profile=dashvmx",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/STINGRAY_NOW_4K",
+        "icono": "https://videostars.stingray.com/images/now4k-channel.png?w=400",
+        "headers": {
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "Stingray iCONCERTS",
+        "uri": "https://dash4.antik.sk/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3lrCNErQ3GVpyWZx0bZytQv5xIy1vOHjWpuNpX9qB2Q&s=10"
+      },
+      {
+        "name": "QELLO CONCERTS BY STINGRAY",
+        "uri": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray/qello-qello001-montreal/distrotv/master.m3u8?ads.dpname=distrotv&ads.rnd=w1sc&ads.env_i=b5a80031-f6a3-468d-bc31-43e7d78fbc98&ads.env_u=&ads.name=DistroTV&ads.bundle=&ads.storeurl=&ads.appCategory=entertainment&ads.app_version=202105131041&ads.width=601&ads.height=338&ads.deviceId=&ads.deviceDNT=0&ads.gdpr=0&ads.us_privacy=0&ads.aid=&ads.deviceMake=Web&ads.deviceIdType=localStorage&ads.deviceConnectionType=2&ads.deviceCategory=web&ads.client_ip=96.0.50.248&ads.geo=CL&ads.lat=-33.45210&ads.long=-70.65360&ads.dma=&ads.geoType=2&ads.contentid=22865&ads.content_duration=18000&ads.episode_id=35967&ads.show_id=1101&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Music%2CMusic%20Video%2CEnglish&ads.showRating=TV-PG&ads.episodeRating=TV-PG&ads.language=en&ads.showtitle=Qello%20Concerts&ads.episodetitle=Qello&ads.keywords=stingray%2Cqello&ads.contenturl=https%3A%2F%2Fwww.google.com%2F&ads.gdprConsent=&ads.paln=&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=RQY0AGlmJWe",
+        "icono": "https://i.ibb.co/LQ4BkD1/Qello-Stingray.png",
+        "headers": {
+          "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "Stingray CLASSICA",
+        "uri": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray/classica-cla008-montreal/distrotv/master.m3u8?ads.dpname=distrotv&ads.rnd=2irm&ads.env_i=1df9896d-c1d0-45e5-8f1a-47c8ce63320e&ads.env_u=&ads.name=DistroTV&ads.bundle=&ads.storeurl=&ads.appCategory=entertainment&ads.app_version=202105131041&ads.width=984&ads.height=553&ads.deviceId=&ads.deviceDNT=0&ads.gdpr=0&ads.us_privacy=0&ads.aid=&ads.deviceMake=Web&ads.deviceIdType=localStorage&ads.deviceConnectionType=2&ads.deviceCategory=web&ads.client_ip=96.0.50.248&ads.geo=CL&ads.lat=-33.45210&ads.long=-70.65360&ads.dma=&ads.geoType=2&ads.contentid=22865&ads.content_duration=18000&ads.episode_id=35970&ads.show_id=1104&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Music%2CMusic%20Video%2CClassical%20Music%2CEnglish&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=Stingray%20Classica&ads.episodetitle=Classica&ads.keywords=stingray%2Cclassica&ads.contenturl=https%3A%2F%2Fwww.google.com%2F&ads.gdprConsent=&ads.paln=&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=napCoUTJsja",
+        "icono": "https://i.ibb.co/nCkKKQ5/stingray-classica.jpg"
+      },
+      {
+        "name": "Stingray DJAZZ",
+        "uri": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray/djazz-djaads-montreal/distrotv/master.m3u8?ads.dpname=distrotv&ads.rnd=en6g&ads.env_i=8bb3b6e2-496c-4637-823c-9eab5d611b2a&ads.env_u=&ads.name=DistroTV&ads.bundle=&ads.storeurl=&ads.appCategory=entertainment&ads.app_version=202105131041&ads.width=601&ads.height=338&ads.deviceId=&ads.deviceDNT=0&ads.gdpr=0&ads.us_privacy=0&ads.aid=&ads.deviceMake=Web&ads.deviceIdType=localStorage&ads.deviceConnectionType=2&ads.deviceCategory=web&ads.client_ip=96.0.50.248&ads.geo=CL&ads.lat=-33.45210&ads.long=-70.65360&ads.dma=&ads.geoType=2&ads.contentid=22865&ads.content_duration=18000&ads.episode_id=35971&ads.show_id=1105&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Music%2CMusic%20Video%2CJAzz%2CEnglish&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=Stingray%20DJAZZ&ads.episodetitle=DJazz&ads.keywords=stingray%2Cdjazz&ads.contenturl=https%3A%2F%2Fwww.google.com%2F&ads.gdprConsent=&ads.paln=&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=O4kUIMQ5Oiq",
+        "icono": "https://i.ibb.co/g6FnxXk/Stingray-Djazz.png"
+      },
+      {
+        "name": "MOVIE MUSIC BY STINGRAY",
+        "uri": "https://d3f4oii5n0oeqi.cloudfront.net/11701/88814585/hls/master.m3u8?ads.xumo_channelId=88814585",
+        "icono": "https://i.postimg.cc/mrFCmvpg/movie-music-by-stingray.png"
+      },
+      {
+        "name": "TIKTOK RADIO",
+        "uri": "https://d3f4oii5n0oeqi.cloudfront.net/11701/88814594/hls/master.m3u8?ads.xumo_channelId=88814594",
+        "icono": "https://i.postimg.cc/LsbR87mL/tiktok-radio.png"
+      },
+      {
+        "name": "RETRO MUSIC TELEVISION",
+        "uri": "https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8",
+        "icono": "https://play-lh.googleusercontent.com/1DLP1wx7J-7mecGjQjtec9NVzkNxkG6Yv4LzyUf4ltjnoYCYucAYksREJWa5lwWS3BWc"
+      },
+      {
+        "name": "TV REBEL",
+        "uri": "https://dash2.antik.sk/live/test_rebel/playlist.m3u8",
+        "icono": "https://i.postimg.cc/P5nmttGx/rebel-rock-tv.png",
+        "headers": {
+          "origin": "https://webtv.sk",
+          "referer": "https://webtv.sk/",
+          "user-agent": "AntikTVExoPlayer/1.1.47 (Linux;Android 15) ExoPlayerLib/2.14.2"
+        }
+      },
+      {
+        "name": "VEVO 2K",
+        "uri": "https://d1s6jz7jeei17.cloudfront.net/playlist/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8",
+        "icono": "https://i.postimg.cc/MKqyZbNc/vevo-2k.png"
+      },
+      {
+        "name": "VEVO POP",
+        "uri": "https://d1ktssaxrjabsg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1vshdbah8e4f8/playlist.m3u8",
+        "icono": "https://i.postimg.cc/L8HKV77H/vevo-pop.png"
+      },
+      {
+        "name": "VEVO POP ESPAÑOL",
+        "uri": "https://d3e0llp20n59j5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fs5u02h1uaofy/playlist.m3u8",
+        "icono": "https://i.postimg.cc/L8HKV77H/vevo-pop.png"
+      },
+      {
+        "name": "VEVO LATINO",
+        "uri": "https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevolatinoes-rakutenes/playlist.m3u8",
+        "icono": "https://i.postimg.cc/VsGDhhdf/vevo-latino.png"
+      },
+      {
+        "name": "VEVO RETRO",
+        "uri": "https://dh732bpen9wqx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xpcm3pisx9sj8/VevoRetro_ES.m3u8",
+        "icono": "https://i.postimg.cc/FsHZjDN8/vevo-retro.png"
+      },
+      {
+        "name": "VEVO ´70s",
+        "uri": "https://amg00056-vevotv-vevo70saunz-samsungau-xzszd.amagi.tv/ts-us-w2-n1/playlist/amg00056-vevotv-vevo70saunz-samsungau/playlist.m3u8",
+        "icono": "https://i.postimg.cc/XY3xhBwW/vevo-70s.png"
+      },
+      {
+        "name": "VEVO ´70s & ´80s",
+        "uri": "https://d38e11bvtr8xdq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jlzlygsoesvmj/Vevo70sand80s_GB.m3u8",
+        "icono": "https://i.postimg.cc/ZKTdpP70/vevo-70s-80s.png"
+      },
+      {
+        "name": "VEVO ´80s",
+        "uri": "https://d2puurghvvgsae.cloudfront.net/playlist/amg00056-vevotv-vevo80saunz-samsungau/playlist.m3u8",
+        "icono": "https://i.postimg.cc/bJHwmM8p/vevo-80s.png"
+      },
+      {
+        "name": "VEVO ´90s",
+        "uri": "https://amg00056-vevotv-vevo90saunz-samsungau-n6a0d.amagi.tv/ts-us-e2-n1/playlist/amg00056-vevotv-vevo90saunz-samsungau/playlist.m3u8",
+        "icono": "https://i.postimg.cc/NF5ZK9dS/vevo-90s.png"
+      },
+      {
+        "name": "VEVO '90s & '00s",
+        "uri": "https://d1cj21il6keqa2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1jatv2dap12i7/playlist.m3u8",
+        "icono": "https://i.postimg.cc/GhvPrh4f/vevo-90s-00s.png"
+      },
+      {
+        "name": "VEVO 2010s",
+        "uri": "https://d3j50s1rkjmwi9.cloudfront.net/Vevo_2010s.m3u8",
+        "icono": "https://i.postimg.cc/xdKWMM5p/vevo-2010s.png"
+      },
+      {
+        "name": "VEVO COUNTRY",
+        "uri": "https://amg00056-vevotv-vevocountryau-samsungau-ktmqm.amagi.tv/ts-us-e2-n1/playlist/amg00056-vevotv-vevocountryau-samsungau/playlist.m3u8",
+        "icono": "https://i.postimg.cc/bvsc2nD8/vevo-country.png"
+      },
+      {
+        "name": "VEVO R&B",
+        "uri": "https://jmp2.uk/plu-5da0d83f66c9700009b96d0e.m3u8",
+        "icono": "https://i.postimg.cc/L8WQwb5K/vevo-r-b.png"
+      },
+      {
+        "name": "VEVO HIP-HOP & R&B",
+        "uri": "https://d7i20u8nlyf1b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lymqk2na77cwn/VevoHipHopRB_GB.m3u8",
+        "icono": "https://i.postimg.cc/ZnpKVkmr/vevo-hip-hop-r-b.png"
+      },
+      {
+        "name": "VEVO TRUE SCHOOL HIP-HOP",
+        "uri": "https://jmp2.uk/plu-61d4c2817a823d00070ba53e.m3u8",
+        "icono": "https://i.postimg.cc/TYPzKF6q/vevo-true-school-hip-hop.png"
+      },
+      {
+        "name": "VEVO REGIONAL MEXICANO",
+        "uri": "https://jmp2.uk/plu-64dab5fe35425100080e2991.m3u8",
+        "icono": "https://i.postimg.cc/V61TmHgb/vevo-regional-mx.png"
+      },
+      {
+        "name": "VEVO ÍCONOS LATINOS",
+        "uri": "https://jmp2.uk/plu-64d161c93c785e0008df575e.m3u8",
+        "icono": "https://i.postimg.cc/mk36NZ9v/vevo-iconos-latinos.png"
+      },
+      {
+        "name": "VEVO NAVIDAD",
+        "uri": "https://d3gvsgk1wzcus5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9n2dbsm9s7w96/VevoNavidad_ES.m3u8",
+        "icono": "https://i.postimg.cc/3r0rkkFd/vevo-navidad.png"
+      },
+      {
+        "name": "VEVO CHRISTMAS",
+        "uri": "https://d2iwbme1fhlm5y.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dhh5tap5387o2/VevoChristmas_GB.m3u8",
+        "icono": "https://i.postimg.cc/k5MXGwf8/vevo-christmas.png"
+      },
+      {
+        "name": "VEVO ROCK",
+        "uri": "https://d2hdqrshyzxswl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-neu8sqvbxozkb/Vevo_Retro_Rock.m3u8",
+        "icono": "https://i.postimg.cc/QMq2q4ch/vevo-rock.png"
+      },
+      {
+        "name": "VEVO RETRO ROCK",
+        "uri": "https://d2lyea6if8kkz9.cloudfront.net/playlist/amg00056-vevotv-vevoretrorockau-samsungau/playlist.m3u8",
+        "icono": "https://i.postimg.cc/PrDV845d/vevo-retro-rock.png"
+      },
+      {
+        "name": "METAL ROCKS",
+        "uri": "https://amg00771-amg00771c5-rakuten-gb-9713.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00771-kochfilmsfast-metalrocks-rakutengb/playlist.m3u8",
+        "icono": "https://images.plex.tv/photo?size=medium-360&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F4171a6a6-6d73-481a-ad91-15166befee06%2FChannel_Logo_MetalRocks_Color_-_Ricardo_RivasRDX.png"
+      },
+      {
+        "name": "XITE HITS",
+        "uri": "https://xite-rakuten.amagi.tv/playlist.m3u8",
+        "icono": "https://i.postimg.cc/YCJZJZCX/xite-hits.png"
+      },
+      {
+        "name": "XITE HITS DE",
+        "uri": "https://xite-germany-lg.amagi.tv/playlist.m3u8",
+        "icono": "https://i.postimg.cc/YCJZJZCX/xite-hits.png"
+      },
+      {
+        "name": "XITE HITS UK",
+        "uri": "https://amg01243-xitenetworksint-hitsuk-samsunguk-mvovq.amagi.tv/playlist/amg01243-xitenetworksint-hitsuk-samsunguk/playlist.m3u8",
+        "icono": "https://i.postimg.cc/YCJZJZCX/xite-hits.png"
+      },
+      {
+        "name": "XITE CELEBRATES",
+        "uri": "https://dt1s4l2cmiyit.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fcwpee1h7t5cs/XITE_Celebrates.m3u8",
+        "icono": "https://i.postimg.cc/25SLNc9Z/xite-celebrates.png"
+      },
+      {
+        "name": "XITE ROCK X METAL",
+        "uri": "https://d198ro05q94rc4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-c5xdq9qwilrd2/XITE_Rock_On.m3u8",
+        "icono": "https://i.postimg.cc/Fs7XJjdQ/xite-rock-x-metal.png"
+      },
+      {
+        "name": "XITE 60s & 70s GROOVE",
+        "uri": "https://amg01243-xite-amg01243c16-tcl-us-6476.playouts.now.amagi.tv/480p-cc/index.m3u8",
+        "icono": "https://i.postimg.cc/6Qkp5r31/xite-60-70.png"
+      },
+      {
+        "name": "XITE 80s FLASHBACK",
+        "uri": "https://d1n314cytqn9r3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bklagqy82v0pr/XITE_80s_Flashback.m3u8",
+        "icono": "https://i.postimg.cc/43fFc9Bg/xite-80s.png"
+      },
+      {
+        "name": "XITE 90s THROWBACK",
+        "uri": "https://d284aawtm5vi48.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fjdfi2br1jtq7/XITE_90s_Throwback.m3u8",
+        "icono": "https://i.postimg.cc/bwB20XRw/xite-90s.png"
+      },
+      {
+        "name": "XITE JUST CHILL",
+        "uri": "https://dvnftgdlbnemm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dh48uzd9o895t/XITE_Just_Chill.m3u8",
+        "icono": "https://i.postimg.cc/K8NmFmC9/xite-just-chill.png"
+      },
+      {
+        "name": "XITE NUEVO LATINO",
+        "uri": "https://d3bsgqzbpkrvbb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w288eaw03izg1/XITE_Nuevo_Latino.m3u8",
+        "icono": "https://i.postimg.cc/Bny1Tcn9/xite-nuevo-latino.png"
+      },
+      {
+        "name": "XITE SIEMPRE LATINO",
+        "uri": "https://d1xc25jm9e0l4b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xplkt8i7m24dc/XITE_Siempre_Latino.m3u8",
+        "icono": "https://i.postimg.cc/YC8dMPRN/xite-siempre-latino.png"
+      },
+      {
+        "name": "XITE GOSPEL",
+        "uri": "https://jmp2.uk/plu-623b93628e6ded0007337d4d.m3u8",
+        "icono": "https://i.postimg.cc/qBZDCWH1/xite-gospel.png"
+      },
+      {
+        "name": "XITE CHRISTIAN HITS",
+        "uri": "https://amg01243-xite-amg01243c25-tcl-us-6509.playouts.now.amagi.tv/playlist.m3u8",
+        "icono": "https://i.postimg.cc/9Fg20LL2/xite-christian-hits.png"
+      },
+      {
+        "name": "XITE REGGAE VIBES",
+        "uri": "https://amg01243-xite-amg01243c26-tcl-us-6510.playouts.now.amagi.tv/playlist.m3u8",
+        "icono": "https://i.postimg.cc/J0wyf1BT/xite-reggae-vibes.png"
+      },
+      {
+        "name": "XITE R&B FEELS",
+        "uri": "https://amg01243-xite-amg01243c13-tcl-us-6478.playouts.now.amagi.tv/playlist.m3u8",
+        "icono": "https://i.postimg.cc/T1rLXkJW/r-b-feels.png"
+      },
+      {
+        "name": "XITE R&B CLASSIC JAMS",
+        "uri": "https://d163j5tlekse0h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-133wbycdrwhvy/XITE_RnB_Classic_Jams.m3u8",
+        "icono": "https://i.postimg.cc/0QyKYW1f/xite-r-b.png"
+      },
+      {
+        "name": "XITE RAP GAME",
+        "uri": "https://amg01243-xite-amg01243c8-tcl-us-6477.playouts.now.amagi.tv/playlist.m3u8",
+        "icono": "https://i.postimg.cc/DfDb4XNk/xite-rap-game.png"
+      },
+      {
+        "name": "XITE HIP-HOP EVOLUTION",
+        "uri": "https://amg01243-xite-amg01243c7-tcl-us-6479.playouts.now.amagi.tv/playlist.m3u8",
+        "icono": "https://i.postimg.cc/PfBQs9TW/xite-hip-hop-evolution.png"
+      },
+      {
+        "name": "XITE CLASSIC COUNTRY",
+        "uri": "https://d2xm7fwgbakh1x.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ltmgkaa20sgt9/XITE_Countrys_Finest.m3u8",
+        "icono": "https://i.postimg.cc/8CD1W7gB/xite-classic-country.png"
+      },
+      {
+        "name": "XITE COUNTRY TODAY",
+        "uri": "https://d18gddrg3q1rlq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l4hn4yums84y5/XITE_Country_Today.m3u8",
+        "icono": "https://i.postimg.cc/902tHP6w/xite-country-today.png"
+      },
+      {
+        "name": "MUSIC BOX SEXY",
+        "uri": "http://88.212.15.19/live/mb_sexy/index.m3u8",
+        "icono": "https://i.postimg.cc/CLPZ0ZN3/music-box-sexy.png"
+      },
+      {
+        "name": "MUSIC BOX HITS",
+        "uri": "http://88.212.15.19/live/mb_hits/index.m3u8",
+        "icono": "https://i.postimg.cc/zBFBc3vh/music-box-hits.png"
+      },
+      {
+        "name": "MUSIC BOX DANCE",
+        "uri": "http://88.212.15.19/live/mb_dance/index.m3u8",
+        "icono": "https://i.postimg.cc/2jTydqP6/music-box-dance.png"
+      },
+      {
+        "name": "MUSIC BOX CLASSIC",
+        "uri": "http://88.212.15.19/live/mb_classic/index.m3u8",
+        "icono": "https://i.postimg.cc/d0MVQGT4/music-box-classic.png"
+      },
+      {
+        "name": "Billboard  ",
+        "uri": "https://cdn.sensa.com.ar/output/SMT1/BLBH/playlist.m3u8",
+        "icono": "https://geo.edge.pontiscloud.com:9002/images/901/CH_LOGO/320/320/0/0/12050400077728.png"
+      },
+      {
+        "name": "MUSIC TOP",
+        "uri": "http://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8#t=0.1",
+        "icono": "https://i.postimg.cc/fLwCYCTP/music-top.png"
+      },
+      {
+        "name": "Telehit ",
+        "uri": "https://live1-ott.izzigo.tv/15/out/u/dash/TELEHIT-SD/default.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/TELEHIT",
+        "icono": "https://i.ibb.co/5Y4C401/telehit.png",
+        "headers": {
+          "origin": "https://www.izzigo.tv",
+          "referer": "https://www.izzigo.tv/",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "Telehit Música",
+        "uri": "https://live1-ott.izzigo.tv/12/out/u/dash/TELEHIT-MUSICA-SD/default.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/TELEHIT_MUSICA",
+        "icono": "https://i.ibb.co/p4243Nf/Telehit-M-sica.png",
+        "headers": {
+          "origin": "https://www.izzigo.tv",
+          "referer": "https://www.izzigo.tv/",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "Telehit  Plus",
+        "uri": "https://live1-ott.izzigo.tv/12/out/u/dash/TELEHIT-MUSICA-PLUS-HD/default.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/TELEHIT_PLUS",
+        "icono": "https://i.postimg.cc/G36X3gB3/telehit-musica-plus.png",
+        "headers": {
+          "origin": "https://www.izzigo.tv",
+          "referer": "https://www.izzigo.tv/",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "TeleRitmo",
+        "uri": "https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8",
+        "icono": "https://i.postimg.cc/bwscY8fp/tele-ritmo.png"
+      },
+      {
+        "name": " Bandamax",
+        "uri": "https://live1-ott.izzigo.tv/12/out/u/dash/BANDAMAX-HD/default.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/BANDAMAX",
+        "icono": "https://i.ibb.co/0D7TMmZ/Bandamax.png",
+        "headers": {
+          "origin": "https://www.izzigo.tv",
+          "referer": "https://www.izzigo.tv/",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "CANAL DE LA MÚSICA",
+        "uri": "https://g5.vxral-hor.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-100044_all/Playlist.m3u8?sense=true",
+        "icono": "https://i.postimg.cc/mD65XXc9/cm.png",
+        "headers": {
+          "user-agent": "Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36  WebAppManager"
+        }
+      },
+      {
+        "name": "SOL MÚSICA",
+        "uri": "https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8",
+        "icono": "https://i.postimg.cc/RhWwrHfD/sol-musica.png"
+      },
+      {
+        "name": "QWEST TV",
+        "uri": "https://amg00447-qwesttv-amg00447c1-vidaa-us-9656.playouts.now.amagi.tv/playlist/amg00447-qwesttvfast-qwesttv-vidaaus/playlist.m3u8",
+        "icono": "https://media.tvup.cloud/canales/color_lg_67b4ba5dfdf20e048d551fab_1739965973280.png"
+      },
+      {
+        "name": "BOX PLAYLIST",
+        "uri": "https://d3e900fnvjyq99.cloudfront.net/d/BKFNLVLBL20NVRK6FYE0/hls3/now_-1m_15s/m.m3u8",
+        "icono": "https://i.ibb.co/RHVnH98/box-playlist.png"
+      },
+      {
+        "name": "VClassicTV",
+        "uri": "https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8",
+        "icono": "https://i.postimg.cc/ZK6g0tTn/vclassic-tv.png"
+      },
+      {
+        "name": "VClassicTV Tropical",
+        "uri": "https://5eaccbab48461.streamlock.net:1936/8076/8076/playlist.m3u8",
+        "icono": "https://i.postimg.cc/SRLDDptg/vclassic-tv-tropical.png"
+      },
+      {
+        "name": "CANELA MUSIC HITS",
+        "uri": "https://amg00658-amg00658c45-canelatv-international-7232.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg00658-canelamediafast-canelamusichits-canelatvinternational/playlist.m3u8",
+        "icono": "https://i.postimg.cc/QCWpnNFS/CANELA-HITS-0-16x9.webp"
+      },
+      {
+        "name": "CANELA REGIONAL MX",
+        "uri": "https://amg00658-amg00658c46-canelatv-international-7298.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-channelb-canelatvinternational/playlist.m3u8",
+        "icono": "https://i.postimg.cc/bNk5Zpmk/CANELA-REGIONAL-MX-0-16x9.webp"
+      },
+      {
+        "name": "MI GENTE 3.0",
+        "uri": "https://byecableiptvnew3.ddns.net:443/ENVIVOMIGENTE/index.m3u8",
+        "icono": "https://i.ibb.co/QMJ9YNS/mi-gente-3-0.png"
+      },
+      {
+        "name": "TOP TV",
+        "uri": "https://isaocorp.cloudecast.com/toptv/tracks-v1a1/mono.m3u8",
+        "icono": "https://i.ibb.co/svkq8Y7H/Top-TV-logo-svg.png"
+      },
+      {
+        "name": "NEW KPOP",
+        "uri": "https://d3sp12rkfenklh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8590bzk53m6cd/live/newid_338_fd18dfd9/samsung_tvplus/index.m3u8?apikey=b97c7a7d0c82424bb607e141ef215779&auth=2fc034f7-8ea7eec6-1badd192-856e5919",
+        "icono": "https://i.ibb.co/BGxBxvX/new-kpop.png"
+      },
+      {
+        "name": "K-POP BY CJ ENM",
+        "uri": "https://d3kmrn2mstrnk5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7ppcp3lxg7oer/f4acc9ba_daae_4ed0_b836_32126cead919/hls/playlist.m3u8",
+        "icono": "https://i.ibb.co/WkFpM7k/k-pop-cj-enm.png"
+      },
+      {
+        "name": "TRACE LATINA",
+        "uri": "https://channels.trace.plus/Traceprod/LATINA_hd/index.m3u8",
+        "icono": "https://i.ibb.co/M5syQ3Yq/Tracelatina2022.png"
+      },
+      {
+        "name": "TRACE BRASIL",
+        "uri": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8",
+        "icono": "https://i.ibb.co/MkQnY5kS/Trace-Brasil-logo.png"
+      },
+      {
+        "name": "TRACE BRASIL HD",
+        "uri": "https://channels.trace.plus/Traceprod/BRAZIL_hd/index.m3u8",
+        "icono": "https://i.ibb.co/MkQnY5kS/Trace-Brasil-logo.png"
+      },
+      {
+        "name": "TRACE URBAN",
+        "uri": "https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8",
+        "icono": "https://i.ibb.co/6RrTk75m/Trace-urban.png"
+      },
+      {
+        "name": "TRACE URBAN AFRICA FRANCO",
+        "uri": "https://channels.trace.plus/Traceprod/URBAN_AFRIC_FR_hd/index.m3u8",
+        "icono": "https://i.ibb.co/6RrTk75m/Trace-urban.png"
+      },
+      {
+        "name": "TRACE URBAN Caribbean And Indian Ocean",
+        "uri": "https://channels.trace.plus/Traceprod/URBAN_DOM_hd/index.m3u8",
+        "icono": "https://i.ibb.co/6RrTk75m/Trace-urban.png"
+      },
+      {
+        "name": "TRACE URBAN HD",
+        "uri": "https://channels.trace.plus/Traceprod/URBAN_INTER_hd/index.m3u8",
+        "icono": "https://i.ibb.co/6RrTk75m/Trace-urban.png"
+      },
+      {
+        "name": "TRACE URBAN FEANCE",
+        "uri": "https://channels.trace.plus/Traceprod/URBAN_FR_hd/index.m3u8",
+        "icono": "https://i.ibb.co/6RrTk75m/Trace-urban.png"
+      },
+      {
+        "name": "TRACE URBAN AFRICA",
+        "uri": "https://channels.trace.plus/Traceprod/URBAN_SA_hd/index.m3u8",
+        "icono": "https://i.ibb.co/6RrTk75m/Trace-urban.png"
+      },
+      {
+        "name": "TRACE UK",
+        "uri": "https://channels.trace.plus/Traceprod/UK_FAST_hd/index.m3u8",
+        "icono": "https://i.ibb.co/Q3TwBJBB/Trace-UK-Logo.png"
+      },
+      {
+        "name": "TRACE UK GB",
+        "uri": "https://d2l4tng0wskzvn.cloudfront.net/Trace_GB.m3u8",
+        "icono": "https://i.ibb.co/Q3TwBJBB/Trace-UK-Logo.png"
+      },
+      {
+        "name": "TRACE CARIBBEAN",
+        "uri": "https://channels.trace.plus/Traceprod/CARIBBEAN_hd/index.m3u8",
+        "icono": "https://i.ibb.co/V0KfxSrS/Trace-Caribbean-Logo.png"
+      },
+      {
+        "name": "TRACE AFRICA",
+        "uri": "https://channels.trace.plus/Traceprod/AFRICA_FR_hd/index.m3u8",
+        "icono": "https://i.imgur.com/kPUkoS7.png"
+      },
+      {
+        "name": "TRACE AFRIKORA",
+        "uri": "https://channels.trace.plus/Traceprod/TERANGA_hd/index.m3u8",
+        "icono": "https://i.imgur.com/CQDdnhp.png"
+      },
+      {
+        "name": "TRACE AYITI",
+        "uri": "https://channels.trace.plus/Traceprod/AYITI_hd/index.m3u8",
+        "icono": "https://i.imgur.com/KkJ6fet.png"
+      },
+      {
+        "name": "TRACE GOSPEL",
+        "uri": "https://channels.trace.plus/Traceprod/GOSPEL_FR_hd/index.m3u8",
+        "icono": "https://i.imgur.com/X0UmU3K.png"
+      },
+      {
+        "name": "TRACE GOSPEL ROA",
+        "uri": "https://channels.trace.plus/Traceprod/GOSPEL_ROA_hd/index.m3u8",
+        "icono": "https://i.imgur.com/X0UmU3K.png"
+      },
+      {
+        "name": "TRACE GOSPEL SA",
+        "uri": "https://channels.trace.plus/Traceprod/GOSPEL_SA_hd/index.m3u8",
+        "icono": "https://i.imgur.com/X0UmU3K.png"
+      },
+      {
+        "name": "TRACE IVOIRE",
+        "uri": "https://channels.trace.plus/Traceprod/TRACE_IVOIRE_hd/index.m3u8",
+        "icono": "https://i.imgur.com/W2l3rVx.png"
+      },
+      {
+        "name": "TRACE JAMA",
+        "uri": "https://channels.trace.plus/Traceprod/JAMA_hd/index.m3u8",
+        "icono": "https://i.imgur.com/pthX34m.png"
+      },
+      {
+        "name": "TRACE KITOKO",
+        "uri": "https://channels.trace.plus/Traceprod/KITOKO_hd/index.m3u8",
+        "icono": "https://i.imgur.com/q6vkMrU.png"
+      },
+      {
+        "name": "TRACE MBOA",
+        "uri": "https://channels.trace.plus/Traceprod/MBOA_hd/index.m3u8",
+        "icono": "https://i.imgur.com/cYwkCj2.png"
+      },
+      {
+        "name": "TRACE MZIKI",
+        "uri": "https://channels.trace.plus/Traceprod/MZIKI_hd/index.m3u8",
+        "icono": "https://i.imgur.com/l3X9Gg4.png"
+      },
+      {
+        "name": "TRACE NAIJA",
+        "uri": "https://channels.trace.plus/Traceprod/NAIJA_hd/index.m3u8",
+        "icono": "https://i.imgur.com/Rguekcp.png"
+      },
+      {
+        "name": "TRACE NGOMA",
+        "uri": "https://channels.trace.plus/Traceprod/AFRICA_EN_hd/index.m3u8",
+        "icono": "https://www.hypresslive.com/wp-content/uploads/2025/12/9cf0931b-5e1e-16da-515a-bd203ca3c928-1536x1074.png"
+      },
+      {
+        "name": "TRACE TOCA",
+        "uri": "https://channels.trace.plus/Traceprod/TOCA_hd/index.m3u8",
+        "icono": "https://i.postimg.cc/Bv7dJpSR/Trace-Toca-Logo.png"
+      },
+      {
+        "name": "TRACE MUZIKA",
+        "uri": "https://channels.trace.plus/Traceprod/MUZIKA_hd/index.m3u8",
+        "icono": "https://i.postimg.cc/cJDNrZhy/Trace-Muzika-Logo.png"
+      },
+      {
+        "name": "COOL SUMMER",
+        "uri": "https://d3mza6qljp67l5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rpc4qub3zg7qt/csts.m3u8",
+        "icono": "https://i.ibb.co/7k7VVLd/cool-summer.png"
+      },
+      {
+        "name": "CMC TV",
+        "uri": "https://cmc-ono.amagi.tv/playlist504_p.m3u8",
+        "icono": "https://media.tvup.cloud/canales/color_lg_5b1e8713dd713247dee47267.png"
+      },
+      {
+        "name": "CMC USA",
+        "uri": "https://hwlive.streamingmediahosting.com/14215-live/0_obd393sh/chunklist.m3u8",
+        "icono": "https://i.postimg.cc/65BkhL87/cmc-usa.png"
+      },
+      {
+        "name": "CMT EQUAL PLAY",
+        "uri": "https://jmp2.uk/plu-5f68f53eb1e5800007390bf8.m3u8",
+        "icono": "https://i.ibb.co/NjxpfVp/cmt-music.png"
+      },
+      {
+        "name": "DEF JAM",
+        "uri": "https://d1t9jj3kgy7bur.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m84lyt8jpwc3r/gigs.m3u8",
+        "icono": "https://i.ibb.co/Bq0jhwL/def-jam.png"
+      },
+      {
+        "name": "HIP HOP TV",
+        "uri": "https://9ea6ba0f84904cf4b17433f6a489638b.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-it_HipHopTV/playlist.m3u8",
+        "icono": "https://i.ibb.co/JrGSVR4/hip-hop-tv.png"
+      },
+      {
+        "name": "ROCK TV",
+        "uri": "https://3ff10b5c36cb4729a63d9a2eb5e629f7.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-it_RockTV/playlist.m3u8",
+        "icono": "https://i.ibb.co/myJgqVR/ROCK-TV.png"
+      },
+      {
+        "name": "70-80 ®it",
+        "uri": "https://585b674743bbb.streamlock.net/9050/9050/chunklist_w2077975936.m3u8",
+        "icono": "https://i.ibb.co/HTm3wJW/70-80-it.png"
+      },
+      {
+        "name": "NOW 70s",
+        "uri": "http://118.142.17.190:8278/now70hls/playlist.m3u8",
+        "icono": "https://i.ibb.co/nyVp8rQ/NOW-70s.png"
+      },
+      {
+        "name": "NOW 80s",
+        "uri": "http://118.142.17.190:8278/now80hls/playlist.m3u8",
+        "icono": "https://i.ibb.co/MxMq06s1/NOW-80s-logo.png"
+      },
+      {
+        "name": "NOW 90s 00s",
+        "uri": "http://118.142.17.190:8278/now00hls/playlist.m3u8",
+        "icono": "https://i.postimg.cc/Jn7T2Zmz/now-90s00s.png"
+      },
+      {
+        "name": "NOW ROCK",
+        "uri": "http://118.142.17.190:8278/now90hls/playlist.m3u8",
+        "icono": "https://i.postimg.cc/BQ8g5X43/NOW-Rock-logo.png"
+      },
+      {
+        "name": "THAT'S 70s",
+        "uri": "https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8",
+        "icono": "https://i.postimg.cc/rp05QXG6/thats-70s.png"
+      },
+      {
+        "name": "THAT'S 80s",
+        "uri": "https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8",
+        "icono": "https://i.postimg.cc/t4R5dMvW/thats-80s.png"
+      },
+      {
+        "name": "THAT'S 90s 00s",
+        "uri": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-lightning-now90s00s-rakutenjp/playlist.m3u8",
+        "icono": "https://i.postimg.cc/JnK7XtyL/thats-90s-00s.png"
+      },
+      {
+        "name": "THAT'S ROCK",
+        "uri": "https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8",
+        "icono": "https://i.postimg.cc/NMv2Dyfr/thats-rock.png"
+      }
     ]
   },
   {
@@ -1570,11 +1570,11 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_Cartoonito",
         "icono": "https://i.ibb.co/rx04nzW/cartoonito.png",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
-            "Origin": "https://portal.app.flow.com.py",
-            "Referer": "https://portal.app.flow.com.py/"
-          }
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
       },
       {
         "name": "CARTOON NETWORK",
@@ -1582,11 +1582,11 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_CartoonNetwork",
         "icono": "https://i.ibb.co/C2PTPBd/cartoon-network.png",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
-            "Origin": "https://portal.app.flow.com.py",
-            "Referer": "https://portal.app.flow.com.py/"
-          }
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
       },
       {
         "name": "DISCOVERY KIDS",
@@ -1594,11 +1594,11 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_DiscoveryKids",
         "icono": "https://i.ibb.co/sQVsMMN/discovery-kids.png",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
-            "Origin": "https://portal.app.flow.com.py",
-            "Referer": "https://portal.app.flow.com.py/"
-          }
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
       },
       {
         "name": "DISNEY CHANNEL",
@@ -1606,11 +1606,11 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_DisneyChannel",
         "icono": "https://i.ibb.co/vdfh1bd/disney-channel.png",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
-            "Origin": "https://portal.app.flow.com.py",
-            "Referer": "https://portal.app.flow.com.py/"
-          }
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
       },
       {
         "name": "DISNEY JR.",
@@ -1618,11 +1618,11 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_DisneyJR",
         "icono": "https://i.ibb.co/KjzPznS/Disney-Jr.png",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
-            "Origin": "https://portal.app.flow.com.py",
-            "Referer": "https://portal.app.flow.com.py/"
-          }
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
       },
       {
         "name": "NICKELODEON",
@@ -1630,11 +1630,11 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_Nickelodeon",
         "icono": "https://i.ibb.co/KN9K9xN/nickelodeon.png",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
-            "Origin": "https://portal.app.flow.com.py",
-            "Referer": "https://portal.app.flow.com.py/"
-          }
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
       },
       {
         "name": "NICK JR.",
@@ -1642,11 +1642,11 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_NickJr",
         "icono": "https://i.ibb.co/CQvYQWW/nick-jr.webp",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
-            "Origin": "https://portal.app.flow.com.py",
-            "Referer": "https://portal.app.flow.com.py/"
-          }
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
       },
       {
         "name": "NICKTOONS",
@@ -1668,16 +1668,16 @@
         "uri": "https://jmp2.uk/plu-6824cda00101510f9eeaa011.m3u8",
         "icono": "https://i.imgur.com/Bw8rdAb.png"
       },
-	  {
+      {
         "name": "Bitme",
         "uri": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qej0n9zmvv/out/v1/93a227dbeef84293b95683c10fd88da2/cenc.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/BITME",
         "icono": "https://static.wikia.nocookie.net/logopedia/images/9/9c/BitMe_Red_Logo.svg/revision/latest/scale-to-width-down/711?cb=20250307002717",
-		  "headers": {
-            "referer": "https://www.primevideo.com/",
-            "user-agent": "AivAndroidPlayer/1.0 (AndroidDevice)"
-	          }
+        "headers": {
+          "referer": "https://www.primevideo.com/",
+          "user-agent": "AivAndroidPlayer/1.0 (AndroidDevice)"
+        }
       },
       {
         "name": "TOONCAST",
@@ -1685,11 +1685,11 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_Tooncast",
         "icono": "https://i.ibb.co/8bgMYCy/tooncast.png",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
-            "Origin": "https://portal.app.flow.com.py",
-            "Referer": "https://portal.app.flow.com.py/"
-          }
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
       },
       {
         "name": "PAKA PAKA",
@@ -1697,11 +1697,11 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_PakaPaka",
         "icono": "https://i.ibb.co/GcBkPWT/paka-paka.png",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
-            "Origin": "https://portal.app.flow.com.py",
-            "Referer": "https://portal.app.flow.com.py/"
-          }
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
       },
       {
         "name": "PLIM PLIM",
@@ -1709,11 +1709,11 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "",
         "icono": "https://i.ibb.co/HgqtG9q/plim-plim.png",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
-            "Origin": "https://portal.app.flow.com.py",
-            "Referer": "https://portal.app.flow.com.py/"
-          }
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
       },
       {
         "name": "KIDOO",
@@ -1721,11 +1721,11 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_Kidoo",
         "icono": "https://i.postimg.cc/xdRwFst1/kidoo.png",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
-            "Origin": "https://portal.app.flow.com.py",
-            "Referer": "https://portal.app.flow.com.py/"
-          }
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
       },
       {
         "name": "DREAMWORKS",
@@ -1733,13 +1733,13 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_Dreamworks",
         "icono": "https://i.ibb.co/10jGH2z/dreamworks.png",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
-            "Origin": "https://portal.app.flow.com.py",
-            "Referer": "https://portal.app.flow.com.py/"
-          }
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
       },
-       {
+      {
         "name": "PITUFO TV",
         "uri": "https://d37tco1tcfe7t3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r9bay52lyuk44/smrfs.m3u8",
         "icono": "https://i.postimg.cc/RFntJsBL/pitufo-tv.png"
@@ -1749,7 +1749,7 @@
         "uri": "https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992452",
         "icono": "https://i.postimg.cc/x8g16Jmn/mojitv.png"
       },
-       {
+      {
         "name": "BABY SHARK",
         "uri": "https://jmp2.uk/plu-619d5e6a093e7c0007489211.m3u8",
         "icono": "https://i.ibb.co/NVJJNnQ/Pinkfong-Baby-Shark.png"
