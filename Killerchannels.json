@@ -563,6 +563,40 @@
     ]
   },
   {
+    "name": "ESTADOS UNIDOS Y MEXICO",
+    "samples": [
+   {
+    "name": "TELEMUNDO WEST",
+    "uri": "https://cdn.stmify.com/peacock/stream/TELEMUNDO/master.mpd",
+    "drm_scheme": "clearkey",
+    "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/TELEMUNDO_USA",
+    "icono": "https://ver.zapitv.com/images/ch/213/LOGO/m/0"
+   },
+   {
+    "name": "TELEMUNDO EAST",
+    "uri": "https://streamer1.nexgen.bz/TELEMUNDO/tracks-v3a1/mono.ts.m3u8",
+    "icono": "https://ver.zapitv.com/images/ch/213/LOGO/m/0"
+   },
+   {
+    "name": "UNIVERSO WEST",
+    "uri": "https://cdn.stmify.com/peacock/stream/UNIVERSO_WEST/master.mpd",
+    "drm_scheme": "clearkey",
+    "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/UNIVERSO_USA",
+    "icono": "https://i.ibb.co/2SYRLkw/nbc-universo.png"
+   },
+   {
+    "name": "UNIVERSO EAST",
+    "uri": "http://190.11.225.124:5000/live/universo_hd/playlist.m3u8",
+    "icono": "https://i.ibb.co/2SYRLkw/nbc-universo.png"
+   },
+   {
+    "name": "UNIVISION",
+    "uri": "http://190.197.41.183/Univision/tracks-v1a1/mono.m3u8",
+    "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNduHSDu0FEYjesczKNEK9jrJvepPUUilOYFJDIJPdFw&s=10"
+   }
+    ]
+  },
+  {
     "name": "HBO/UNIVERSAL+",
     "samples": [
    {
