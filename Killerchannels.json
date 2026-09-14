@@ -55,7 +55,7 @@
         "name": "VS SPORTS",
         "uri": "https://cdn-py.cvattv.com.ar/live/c7eds/GEN__CAM1/SA_Live_dash_enc/GEN__CAM1.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "kid:omJEhO5NjEG6xNQe7jI3cw,k:tY9cWH-LoI4RMiQ7E5uk1A",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/VS-SPORTS_PY",
         "icono": "https://yt3.googleusercontent.com/ocGBV0__RCpVxkRB6TljzVu0l2WLun9mzU_eVcvBAc3GoDYe6I0yCNrPN2dPdS4TrftmJYcl64Q=s160-c-k-c0x00ffffff-no-rj",
         "headers": {
           "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
