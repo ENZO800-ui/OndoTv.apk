@@ -26,7 +26,6 @@
           "Referer": "https://portal.app.flow.com.py/"
         }
       },
-
       {
         "name": "TIGO SPORTS",
         "uri": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/0fd608d0807c48edb4713da6b80e8c34/index.m3u8",
@@ -380,14 +379,158 @@
     ]
   },
   {
-    "name": "ESPN & FOX SPORTS",
+    "name": "DEPORTES LATINO",
     "samples": [
       {
-        "name": "ESPN",
+        "name": "FLOW SPORTS",
+        "uri": "https://cdn-py.cvattv.com.ar/live/c3eds/Eventos1HD/SA_Live_dash_enc/Eventos1HD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/FLOW_SPORTS-AR-UR-PY",
+        "icono": "https://static.flow.com.ar/images/673/CH_LOGO/500/500/0/0/53028730071359.png",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
+      },
+      {
+        "name": "FLOW SPORTS 2",
+        "uri": "https://cdn-py.cvattv.com.ar/live/c6eds/Eventos_2_HD/SA_Live_dash_enc/Eventos_2_HD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/FLOW_SPORTS_2-AR-UR-PY",
+        "icono": "https://static.flow.com.ar/images/673/CH_LOGO/500/500/0/0/81153935071360.png",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
+      },
+      {
+        "name": "ESPN PREMIUM",
+        "uri": "https://cdn-py.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_wl/Fox_Sports_Premiun_HD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://pqlbatyoaawbhfyldlpw.supabase.co/functions/v1/ESPN_PLUS",
+        "icono": "https://static.wikia.nocookie.net/logopedia/images/5/55/ESPN_Premium_blanco.png/revision/latest/scale-to-width-down/50?cb=20220501173330&path-prefix=es",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
+      },
+      {
+        "name": "ESPN ARG",
+        "uri": "https://cdn-py.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://pqlbatyoaawbhfyldlpw.supabase.co/functions/v1/ESPN_ARG",
+        "icono": "https://static.wikia.nocookie.net/logopedia/images/3/34/ESPN.svg/revision/latest/scale-to-width-down/50?cb=20201130040927",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
+      },
+      {
+        "name": "ESPN 2 ARG",
+        "uri": "https://cdn-py.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_Live_dash_enc/ESPN2_Arg.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://pqlbatyoaawbhfyldlpw.supabase.co/functions/v1/ESPN_2_ARG",
+        "icono": "https://i.ibb.co/RCMYFsv/espn-2B.png",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
+      },
+      {
+        "name": "ESPN 3 ARG",
+        "uri": "https://cdn-py.cvattv.com.ar/live/c3eds/ESPN3/SA_Live_dash_enc/ESPN3.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://pqlbatyoaawbhfyldlpw.supabase.co/functions/v1/ESPN_3_ARG",
+        "icono": "https://i.ibb.co/TLcGvdv/espn-3B.png",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
+      },
+      {
+        "name": "ESPN 4 ARG",
+        "uri": "https://cdn-py.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://pqlbatyoaawbhfyldlpw.supabase.co/functions/v1/ESPN_4_ARG",
+        "icono": "https://i.ibb.co/pJK6xQ0/espn-4B.png",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
+      },
+      {
+        "name": "ESPN URU",
+        "uri": "https://cdn-py.cvattv.com.ar/live/c4eds/ESPN_UY/SA_Live_dash_enc/ESPN_UY.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://pqlbatyoaawbhfyldlpw.supabase.co/functions/v1/ESPN_URU",
+        "icono": "https://static.wikia.nocookie.net/logopedia/images/3/34/ESPN.svg/revision/latest/scale-to-width-down/50?cb=20201130040927",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
+      },
+      {
+        "name": "ESPN PRY",
+        "uri": "https://cdn-py.cvattv.com.ar/live/c4eds/ESPN2_PY/SA_Live_dash_enc/ESPN2_PY.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://pqlbatyoaawbhfyldlpw.supabase.co/functions/v1/ESPN_PRY",
+        "icono": "https://static.wikia.nocookie.net/logopedia/images/3/34/ESPN.svg/revision/latest/scale-to-width-down/50?cb=20201130040927",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
+      },
+      {
+        "name": "ESPN 2 URU",
+        "uri": "https://cdn-py.cvattv.com.ar/live/c4eds/ESPN2_UY/SA_Live_dash_enc/ESPN2_UY.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://pqlbatyoaawbhfyldlpw.supabase.co/functions/v1/ESPN_2_URU",
+        "icono": "https://i.ibb.co/RCMYFsv/espn-2B.png",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
+      },
+      {
+        "name": "ESPN 2 PRY",
+        "uri": "https://cdn-py.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_Live_dash_enc/ESPN2_Arg.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://pqlbatyoaawbhfyldlpw.supabase.co/functions/v1/ESPN_2_ARG",
+        "icono": "https://i.ibb.co/RCMYFsv/espn-2B.png",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
+      },
+      {
+        "name": "ESPN 3 URU-PRY",
+        "uri": "https://cdn-py.cvattv.com.ar/live/c7eds/ESPN3_Uy-Py/SA_Live_dash_enc/ESPN3_Uy-Py.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://pqlbatyoaawbhfyldlpw.supabase.co/functions/v1/ESPN_3_URU",
+        "icono": "https://i.ibb.co/TLcGvdv/espn-3B.png",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
+      },
+      {
+        "name": "ESPN HD",
         "uri": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(8757cb0a-3584-40cd-901e-8937c7deba83)/manifest.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://pqlbatyoaawbhfyldlpw.supabase.co/functions/v1/ESPN_EASTLATAM1",
-        "icono": "https://i.ibb.co/s37NZCT/espn-1B.png",
+        "icono": "https://static.wikia.nocookie.net/logopedia/images/3/34/ESPN.svg/revision/latest/scale-to-width-down/50?cb=20201130040927",
         "headers": {
           "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
         }
@@ -555,26 +698,12 @@
     "name": "ESTADOS UNIDOS Y MEXICO",
     "samples": [
       {
-        "name": "TELEMUNDO WEST",
-        "uri": "https://cdn.stmify.com/peacock/stream/TELEMUNDO/master.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/TELEMUNDO_USA",
-        "icono": "https://ver.zapitv.com/images/ch/213/LOGO/m/0"
-      },
-      {
-        "name": "TELEMUNDO EAST",
+        "name": "TELEMUNDO",
         "uri": "https://streamer1.nexgen.bz/TELEMUNDO/tracks-v3a1/mono.ts.m3u8",
         "icono": "https://ver.zapitv.com/images/ch/213/LOGO/m/0"
       },
       {
-        "name": "UNIVERSO WEST",
-        "uri": "https://cdn.stmify.com/peacock/stream/UNIVERSO_WEST/master.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/UNIVERSO_USA",
-        "icono": "https://i.ibb.co/2SYRLkw/nbc-universo.png"
-      },
-      {
-        "name": "UNIVERSO EAST",
+        "name": "UNIVERSO",
         "uri": "http://190.11.225.124:5000/live/universo_hd/playlist.m3u8",
         "icono": "https://i.ibb.co/2SYRLkw/nbc-universo.png"
       },
@@ -607,30 +736,7 @@
   {
     "name": "MAS DEPORTES",
     "samples": [
-      {
-        "name": "FLOW SPORTS",
-        "uri": "https://cdn-py.cvattv.com.ar/live/c3eds/Eventos1HD/SA_Live_dash_enc/Eventos1HD.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/FLOW_SPORTS-AR-UR-PY",
-        "icono": "https://static.flow.com.ar/images/673/CH_LOGO/500/500/0/0/53028730071359.png",
-        "headers": {
-          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/"
-        }
-      },
-      {
-        "name": "FLOW SPORTS 2",
-        "uri": "https://cdn-py.cvattv.com.ar/live/c6eds/Eventos_2_HD/SA_Live_dash_enc/Eventos_2_HD.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/FLOW_SPORTS_2-AR-UR-PY",
-        "icono": "https://static.flow.com.ar/images/673/CH_LOGO/500/500/0/0/81153935071360.png",
-        "headers": {
-          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/"
-        }
-      },
+
       {
         "name": "BEIN SPORTS XTRA Ñ",
         "icono": "https://i.imgur.com/V562tpO.png",
