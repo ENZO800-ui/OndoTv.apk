@@ -4,7 +4,7 @@
     "samples": [
       {
         "name": "EVENTOS",
-        "uri": "https://cdn-py.cvattv.com.ar/live/c3eds/Eventos_PY/SA_Live_dash_enc/Eventos_PY.mpd",
+        "uri": "https://cdn-py.cvattv.com.ar/live/c3eds/Eventos_PY/SA_Live_dash_enc_wl/Eventos_PY.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/EVENTOS_PY",
         "icono": "https://i.ibb.co/3WZtzG3/eventos-py.png",
@@ -65,7 +65,7 @@
         "uri": "https://cdn-py.cvattv.com.ar/live/c7eds/GEN__CAM1/SA_Live_dash_enc/GEN__CAM1.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/VS-SPORTS_PY",
-        "icono": "https://yt3.googleusercontent.com/ocGBV0__RCpVxkRB6TljzVu0l2WLun9mzU_eVcvBAc3GoDYe6I0yCNrPN2dPdS4TrftmJYcl64Q=s160-c-k-c0x00ffffff-no-rj",
+        "icono": "https://i.ibb.co/CpxTmNvM/vs-sports.png",
         "headers": {
           "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
           "Origin": "https://portal.app.flow.com.py",
@@ -161,7 +161,7 @@
         "icono": "https://bestleague.world/img/c9n.png"
       },
       {
-        "name": "GEN TV",
+        "name": "GEN",
         "uri": "https://cdn-py.cvattv.com.ar/live/c7eds/GEN_TV/SA_Live_dash_enc/GEN_TV.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/GEN_PY",
@@ -269,6 +269,11 @@
         "name": "BRUNO MASI TV",
         "uri": "https://rds3gen.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8",
         "icono": "https://i.ibb.co/pK5SNMT/bruno-masi-tv.png"
+      },
+      {
+        "name": "NEXT",
+        "uri": "https://live.enhdtv.com:19360/nexthd/nexthd.m3u8",
+        "icono": "https://i.imgur.com/c2rF3SS.png"
       },
       {
         "name": "4D MÁS NOTICIAS",
