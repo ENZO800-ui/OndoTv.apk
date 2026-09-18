@@ -908,12 +908,12 @@
     "samples": [
       {
         "name": "HBO",
-        "uri": "https://cdn.sensa.com.ar/live/eds/HBO/live_dash_cld/HBO.mpd",
+        "uri": "https://cdn-py.cvattv.com.ar/live/c4eds/HBOHD/SA_Live_dash_enc/HBOHD.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/HBO_AR",
         "icono": "https://geo.edge.pontiscloud.com:9002/images/100/CH_LOGO/320/320/0/0/228799490721.png",
         "headers": {
-          "referer": "https://webclient.ctcplus.com.ar/",
+          "referer": "https://portal.app.flow.com.py/",
           "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
         }
       },
@@ -946,7 +946,7 @@
         "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/HBOMUDI_AR",
         "icono": "https://geo.edge.pontiscloud.com:9002/images/107/CH_LOGO/320/320/0/0/61157416071448.png",
         "headers": {
-          "referer": "https://webclient.ctcplus.com.ar/",
+          "referer": "",
           "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
         }
       },
