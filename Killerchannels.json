@@ -166,6 +166,18 @@
         }
       },
       {
+        "name": "TV CAMARA",
+        "uri": "https://cdn-py.cvattv.com.ar/live/c4eds/TV_Camara/SA_Live_dash_enc/TV_Camara.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/TVCAMARA_PY",
+        "icono": "https://i.imgur.com/Mfypr0t.png",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
+      },
+      {
         "name": "LA TELE",
         "uri": "https://copacotf.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion",
         "icono": "https://i.ibb.co/Zg861M4/latele.png"
