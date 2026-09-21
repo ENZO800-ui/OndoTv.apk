@@ -470,23 +470,6 @@
       ]
     },
     {
-      "name": "📺  Legislative",
-      "stations": [
-        {
-          "name": "TV Camara (Paraguay) (1080p)",
-          "image": "https://i.imgur.com/Mfypr0t.png",
-          "url": "https://cdn-py.cvattv.com.ar/live/c4eds/TV_Camara/SA_Live_dash_enc/TV_Camara.mpd",
-          "license_type": "clearkey",
-          "license_key": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/TVCAMARA_PY",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
-            "Origin": "https://portal.app.flow.com.py",
-            "Referer": "https://portal.app.flow.com.py/"
-          }
-        }
-      ]
-    },
-    {
       "name": "🎬  Movies",
       "stations": [
         {
