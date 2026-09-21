@@ -310,6 +310,18 @@
           }
         },
         {
+          "name": "GEN",
+          "url": "https://cdn-py.cvattv.com.ar/live/c7eds/GEN_TV/SA_Live_dash_enc/GEN_TV.mpd",
+          "image": "https://bestleague.world/img/genpy.png",
+          "license_type": "clearkey",
+          "license_key": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/GEN_PY",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
+        },
+        {
           "name": "Latele (1080p)",
           "image": "https://i.imgur.com/Qcf6Qev.png",
           "url": "https://copacotf.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion",
@@ -665,7 +677,7 @@
       "name": "⚽  Sports",
       "stations": [
         {
-          "name": "FLOW EVENTOS PY",
+          "name": "Flow Sports Paragauy (1080p)",
           "image": "https://i.ibb.co/YLjMyFx/evento30hd.png",
           "url": "https://cdn-py.cvattv.com.ar/live/c3eds/Eventos_PY/SA_Live_dash_enc/Eventos_PY.mpd",
           "license_type": "clearkey",
@@ -677,7 +689,7 @@
           }
         },
         {
-          "name": "FLOW EVENTOS 2 PY",
+          "name": "Flow Sports 2 Paragauy (1080p)",
           "image": "https://i.ibb.co/C0xQZQ3/evento230hd.png",
           "url": "https://cdn-py.cvattv.com.ar/live/c4eds/Eventos2_PY/SA_Live_dash_enc/Eventos2_PY.mpd",
           "license_type": "clearkey",
@@ -687,6 +699,11 @@
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/"
           }
+        },
+        {
+          "name": "N Sports Paraguay (1080p)",
+          "url": "https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt_1080p.m3u8",
+          "image": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8bbe6817af0af2e0e5a6df96f245b752.webp"
         },
         {
           "name": "VS Sports (1080p)",
