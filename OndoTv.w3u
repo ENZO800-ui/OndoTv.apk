@@ -72,10 +72,9 @@
         {
           "name": "FLOW EVENTOS PY",
           "image": "https://i.ibb.co/YLjMyFx/evento30hd.png",
-          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c3eds/Eventos_PY/SA_Live_dash_enc/Eventos_PY.mpd",
+          "url": "https://cdn-py.cvattv.com.ar/live/c3eds/Eventos_PY/SA_Live_dash_enc_wl/Eventos_PY.mpd",
           "license_type": "clearkey",
-          "token": "https://cdn.cvattv.com.ar/live/c3eds/Eventos_PY/SA_Live_dash_cenc/Eventos_PY.mpd",
-          "license_key": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/EVENTOS_PY",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"7XsNc6FY0D5l_Hd9Mk4lqg\",\"k\":\"51G7fQlJSa0U5cvGgnl5uw\"}],\"type\":\"temporary\"}",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
@@ -120,7 +119,7 @@
           "image": "https://yt3.googleusercontent.com/ocGBV0__RCpVxkRB6TljzVu0l2WLun9mzU_eVcvBAc3GoDYe6I0yCNrPN2dPdS4TrftmJYcl64Q=s160-c-k-c0x00ffffff-no-rj",
           "url": "https://cdn-py.cvattv.com.ar/live/c7eds/GEN__CAM1/SA_Live_dash_enc/GEN__CAM1.mpd",
           "license_type": "clearkey",
-          "license_key": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/VS-SPORTS_PY",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"omJEhO5NjEG6xNQe7jI3cw\",\"k\":\"tY9cWH-LoI4RMiQ7E5uk1A\"}],\"type\":\"temporary\"}",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
@@ -486,16 +485,22 @@
       "stations": [
         {
           "name": "SNT",
-          "url": "https://d3epa8orr2qy3m.cloudfront.net/ts:abr.m3u8",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/a/af/SNT_LOGO.jpg"
+          "url": "https://cdn-py.cvattv.com.ar/live/c4eds/SNT_C4/SA_Live_dash_enc/SNT_C4.mpd",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/a/af/SNT_LOGO.jpg",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"pk92Q0BetQSmY0A2qWcF4w\",\"k\":\"6MQEdGyGIndONeumf8yGIw\"}],\"type\":\"temporary\"}",
+          "license_type": "clearkey",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
         },
         {
           "name": "5DIAS",
-          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c4eds/5_Dias_PY/SA_Live_dash_enc/5_Dias_PY.mpd",
+          "url": "https://cdn-py.cvattv.com.ar/live/c4eds/5_Dias_PY/SA_Live_dash_enc/5_Dias_PY.mpd",
           "image": "https://i.ibb.co/Pg6v5zn/images.png",
           "license_type": "clearkey",
-          "token": "https://cdn.cvattv.com.ar/live/c4eds/5_Dias_PY/SA_Live_dash_cenc/5_Dias_PY.mpd",
-          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"dGCRxQLtzx6dADU1zgHz5A\",\"k\":\"KQgbX5LRo3yI-70OzlXIOQ\"}],\"type\":\"temporary\"}",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"B8s4Jo8Lk7pFEwS3m8Vqpg\",\"k\":\"_zU3GRi7oyUuCqscOxveMw\"}],\"type\":\"temporary\"}",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
@@ -505,7 +510,14 @@
         {
           "name": "TELEFUTURO",
           "image": "https://i.imgur.com/6lVrFvb.png",
-          "url": "https://04@copacotf.desdeparaguay.net/telefuturo/telefuturo_py_alta/playlist.m3u8?admin=tvaccion"
+          "url": "https://cdn-py.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc/TELEFUTURO_C4.mpd",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"7S6aEuiuUYGSw3G27oZ0Sw\",\"k\":\"fqokrG4j_Xvi1IAF2RbutA\"}],\"type\":\"temporary\"}",
+          "license_type": "clearkey",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
         },
         {
           "name": "MONUMENTAL",
@@ -514,11 +526,10 @@
         },
         {
           "name": "TRECE",
-          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c4eds/RPC_C4/SA_Live_dash_enc/RPC_C4.mpd",
+          "url": "https://cdn-py.cvattv.com.ar/live/c4eds/RPC_C4/SA_Live_dash_enc/RPC_C4.mpd",
           "image": "https://bestleague.world/img/trecepy.webp",
           "license_type": "clearkey",
-          "token": "https://cdn.cvattv.com.ar/live/c4eds/RPC_C4/SA_Live_dash_cenc/RPC_C4.mpd",
-          "license_key": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/TRECE_PY",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"panXXN5AJMPwR58ysinuvA\",\"k\":\"P1w3m-bunFaL-BynPz6RRA\"}],\"type\":\"temporary\"}",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
@@ -527,11 +538,10 @@
         },
         {
           "name": "UNICANAL",
-          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c4eds/UNICANAL_C4/SA_Live_dash_enc/UNICANAL_C4.mpd",
+          "url": "https://cdn-py.cvattv.com.ar/live/c4eds/UNICANAL_C4/SA_Live_dash_enc/UNICANAL_C4.mpd",
           "image": "https://iptvstudio.pages.dev/logos/paraguay/unicanal.png",
           "license_type": "clearkey",
-          "token": "https://cdn.cvattv.com.ar/live/c4eds/UNICANAL_C4/SA_Live_dash_cenc/UNICANAL_C4.mpd",
-          "license_key": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/UNICANAL_PY",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"fXmLTljP2lHaiyoBmJ5_kw\",\"k\":\"FsXJ2Fm1RN_hARnWffFdZg\"}],\"type\":\"temporary\"}",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
@@ -541,12 +551,26 @@
         {
           "name": "MEGA TV",
           "image": "https://i.ibb.co/hfFmYXz/WW.jpg",
-          "url": "https://www.desde-paraguay.com/mega.m3u8"
+          "url": "https://cdn-py.cvattv.com.ar/live/c7eds/Mega_TV/SA_Live_dash_enc/Mega_TV.mpd",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"YaK0qyOoquzxMzVEuUAdpQ\",\"k\":\"fWnSWptZKWk5PVqonV1A5g\"}],\"type\":\"temporary\"}",
+          "license_type": "clearkey",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
         },
         {
           "name": "PARAGUAY TV",
           "image": "https://bestleague.world/img/pytv.png",
-          "url": "https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8"
+          "url": "https://cdn-py.cvattv.com.ar/live/c7eds/Paraguay_TV/SA_Live_dash_enc/Paraguay_TV.mpd",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"Ad0oh-00W8dkLavbSNA9AQ\",\"k\":\"VOaGZ5SfW1af8PzUNPTSQw\"}],\"type\":\"temporary\"}",
+          "license_type": "clearkey",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
         },
         {
           "name": "RADIO NACIONAL DEL PARAGUAY",
@@ -555,11 +579,10 @@
         },
         {
           "name": "ABC PY",
-          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c5eds/ABC_TV_C4/SA_Live_dash_enc/ABC_TV_C4.mpd",
+          "url": "https://cdn-py.cvattv.com.ar/live/c5eds/ABC_TV_C4/SA_Live_dash_enc/ABC_TV_C4.mpd",
           "image": "https://i.ibb.co/dGqjksf/descarga.png",
           "license_type": "clearkey",
-          "token": "https://cdn.cvattv.com.ar/live/c5eds/ABC_TV_C4/SA_Live_dash_cenc/ABC_TV_C4.mpd",
-          "license_key": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/ABCTV_PY",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"HowYSzJqL7Ios3pKcRS2Mw\",\"k\":\"HF-hCz_mbYaTuHVeX2rmwA\"}],\"type\":\"temporary\"}",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
@@ -574,30 +597,57 @@
         {
           "name": "CANAL PRO",
           "image": "https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/pro.png",
-          "url": "https://www.desde-paraguay.com/pro.m3u8"
+          "url": "https://cdn-py.cvattv.com.ar/live/c7eds/Canal_PRO/SA_Live_dash_enc/Canal_PRO.mpd",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"49rgQYxDx2O9xVx8yIf7QA\",\"k\":\"YIQl6tnpzl4UPK0WQ1D3OA\"}],\"type\":\"temporary\"}",
+          "license_type": "clearkey",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
         },
         {
           "name": "TVS",
           "image": "https://i.ibb.co/s14qLnR/TVS.png",
-          "url": "https://stmv6.voxtvhd.com.br/tvs/tvs/playlist.m3u8"
+          "url": "https://stmv6.voxtvhd.com.br/tvs/tvs/playlist.m3u8",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"guh_rBwzkVrV00T_rBu7tA\",\"k\":\"22C_qgF4BxpVcubm_7Ru0w\"}],\"type\":\"temporary\"}",
+          "license_type": "clearkey",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+          }
         },
         {
           "name": "NPY",
           "image": "https://i.imgur.com/pUEkaiW.png",
-          "url": "https://copacogen.desdeparaguay.net/npy/npy_py_alta/playlist.m3u8?admin=tvaccion"
+          "url": "https://cdn-py.cvattv.com.ar/live/c4eds/NOTICIAS_PY_C4/SA_Live_dash_enc/NOTICIAS_PY_C4.mpd",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"rhs7xaaNoe2KR7Na_RPjEA\",\"k\":\"JnEKrVx-vq89YV2ycDVTgQ\"}],\"type\":\"temporary\"}",
+          "license_type": "clearkey",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
         },
         {
           "name": "C9N",
-          "url": "https://d174axghh54kh0.cloudfront.net/ts:abr.m3u8",
-          "image": "https://bestleague.world/img/c9n.png"
+          "url": "https://cdn-py.cvattv.com.ar/live/c5eds/C9N_C4/SA_Live_dash_enc/C9N_C4.mpd",
+          "image": "https://bestleague.world/img/c9n.png",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"7WpMJb42ami5dYokkA_X_A\",\"k\":\"7VIzFrNUzVsbmbP55qma9Q\"}],\"type\":\"temporary\"}",
+          "license_type": "clearkey",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
         },
         {
           "name": "GEN",
-          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live//c7eds/GEN_TV/SA_Live_dash_enc/GEN_TV.mpd",
+          "url": "https://cdn-py.cvattv.com.ar/live/c7eds/GEN_TV/SA_Live_dash_enc/GEN_TV.mpd",
           "image": "https://bestleague.world/img/genpy.png",
           "license_type": "clearkey",
-          "token": "https://cdn.cvattv.com.ar/live/c7eds/GEN_TV/SA_Live_dash_cenc/GEN_TV.mpd",
-          "license_key": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/GEN_PY",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"B0N8jeTg2i-_roE3ZH--1Q\",\"k\":\"KZOh4ghvraCDqKLt0OzFaw\"}],\"type\":\"temporary\"}",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
@@ -607,15 +657,21 @@
         {
           "name": "LA TELE",
           "image": "https://i.imgur.com/Qcf6Qev.png",
-          "url": "https://copacotf.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion"
+          "url": "https://cdn-py.cvattv.com.ar/live/c4eds/LA_TELE_C4/SA_Live_dash_enc/LA_TELE_C4.mpd",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"Uby_Hx-D8w6RofG2_5FV7g\",\"k\":\"wfs1w5pzU7-Uk3mQhtiHrA\"}],\"type\":\"temporary\"}",
+          "license_type": "clearkey",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
         },
         {
           "name": "SUR TV",
-          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c4eds/SUR_TV_C4/SA_Live_dash_enc/SUR_TV_C4.mpd",
+          "url": "https://cdn-py.cvattv.com.ar/live/c4eds/SUR_TV_C4/SA_Live_dash_enc/SUR_TV_C4.mpd",
           "image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Sur_TV_Itap%C3%BAa_logo_2022.png",
           "license_type": "clearkey",
-          "token": "https://cdn.cvattv.com.ar/live/c4eds/SUR_TV_C4/SA_Live_dash_cenc/SUR_TV_C4.mpd",
-          "license_key": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/SUR_PY",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"ZLXDUnX0KI4qBfdwLcsDaw\",\"k\":\"3taIfMrVfqf_mUnQxvSsGw\"}],\"type\":\"temporary\"}",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
@@ -624,11 +680,10 @@
         },
         {
           "name": "PARAVISION",
-          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c4eds/PARAVISION_C4/SA_Live_dash_enc/PARAVISION_C4.mpd",
+          "url": "https://cdn-py.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_Live_dash_enc/PARAVISION_C4.mpd",
           "image": "https://iptvstudio.pages.dev/logos/paraguay/paravision.png",
           "license_type": "clearkey",
-          "token": "https://cdn.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_Live_dash_cenc/PARAVISION_C4.mpd",
-          "license_key": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/PARAVISION_PY",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"T9vKEeokDdxJMHHkQw-y5g\",\"k\":\"beikyllEtVeuuzLhul8Gmg\"}],\"type\":\"temporary\"}",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
@@ -637,11 +692,10 @@
         },
         {
           "name": "POPU TV",
-          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c7eds/Universo/SA_Live_dash_enc/Universo.mpd",
+          "url": "https://cdn-py.cvattv.com.ar/live/c7eds/Universo/SA_Live_dash_enc/Universo.mpd",
           "image": "https://www.popular.com.py/wp-content/themes/popu/assets/img/popu-tv.png",
           "license_type": "clearkey",
-          "token": "https://cdn.cvattv.com.ar/live/c7eds/Universo/SA_Live_dash_cenc/Universo.mpd",
-          "license_key": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/POPU_PY",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"_yyUFD3kLjNMfuPggSJO5A\",\"k\":\"VYxFzGocmqCz6pmJUZbG5A\"}],\"type\":\"temporary\"}",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
@@ -651,7 +705,14 @@
         {
           "name": "HEI NOW",
           "image": "https://i.imgur.com/oMHiGRN.png",
-          "url": "https://copacogen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion"
+          "url": "https://cdn-py.cvattv.com.ar/live/c4eds/HEI_NOW/SA_Live_dash_enc/HEI_NOW.mpd",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"wNJE2qncb07kziLVAMHt2w\",\"k\":\"q7LRdnsRFMmBoGZq1ZE8GQ\"}],\"type\":\"temporary\"}",
+          "license_type": "clearkey",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
         },
         {
           "name": "E40",
@@ -666,12 +727,26 @@
         {
           "name": "Venus Media",
           "image": "https://bestleague.world/img/venus.png",
-          "url": "https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8"
+          "url": "https://cdn-py.cvattv.com.ar/live/c7eds/Venus_Media/SA_Live_dash_enc/Venus_Media.mpd",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"-o8V7LDxcdd-eXGLAmV_3Q\",\"k\":\"Bo0dniYOEtKSPiYEESDIgQ\"}],\"type\":\"temporary\"}",
+          "license_type": "clearkey",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
         },
         {
           "name": "Ñanduti TV",
           "image": "https://i0.wp.com/logoroga.com/wp-content/uploads/2017/10/nanduti-previa.png?w=1000&ssl=1",
-          "url": "https://copacogen.desdeparaguay.net/nandutitv/nandutitv_baja/index.m3u8"
+          "url": "https://cdn-py.cvattv.com.ar/live/c4eds/Nanduti_Py/SA_Live_dash_enc/Nanduti_Py.mpd",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"uWs24PgyW29BrPIM5KmrhA\",\"k\":\"bX4hWolp9lJm4jDo9U3PMA\"}],\"type\":\"temporary\"}",
+          "license_type": "clearkey",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
         },
         {
           "name": "ÑANDEJARA ÑE´E TV",
@@ -681,7 +756,14 @@
         {
           "name": "Union TV",
           "image": "https://i.imgur.com/No9YzNC.png",
-          "url": "https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8"
+          "url": "https://cdn-py.cvattv.com.ar/live/c7eds/UnionTV/SA_Live_dash_enc/UnionTV.mpd",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"4QCgfdLy2Q_gTD6ysenGFw\",\"k\":\"PuJUhPFXb1Y-mMgK8nagZg\"}],\"type\":\"temporary\"}",
+          "license_type": "clearkey",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+          }
         },
         {
           "name": "Educanal",
@@ -731,10 +813,9 @@
         {
           "name": "AMERICA PY",
           "image": "https://i.imgur.com/rCEu3fM.png",
-          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c7eds/America_PY/SA_Live_dash_enc/America_PY.mpd",
+          "url": "https://cdn-py.cvattv.com.ar/live/c7eds/America_PY/SA_Live_dash_enc/America_PY.mpd",
           "license_type": "clearkey",
-          "token": "https://cdn.cvattv.com.ar/live/c7eds/America_PY/SA_Live_dash_cenc/America_PY.mpd",
-          "license_key": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/AMERICA_PY",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"z-wXrOuG2CHLb3BOSMUliA\",\"k\":\"O6cShajGycFck3CD70JKbQ\"}],\"type\":\"temporary\"}",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
@@ -744,10 +825,9 @@
         {
           "name": "A24 PY",
           "image": "https://www.a24.com/assets/img/296/header-logo-v2.svg",
-          "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c7eds/A24_PY/SA_Live_dash_enc/A24_PY.mpd",
+          "url": "https://cdn-py.cvattv.com.ar/live/c7eds/A24_PY/SA_Live_dash_enc/A24_PY.mpd",
           "license_type": "clearkey",
-          "token": "https://cdn.cvattv.com.ar/live/c7eds/A24_PY/SA_Live_dash_cenc/A24_PY.mpd",
-          "license_key": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/A24_PY",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"PKbvu-AgLv5LunylBDNTeg\",\"k\":\"TIlqSsHJ2J0457aLIaQINw\"}],\"type\":\"temporary\"}",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
             "Origin": "https://portal.app.flow.com.py",
@@ -3978,8 +4058,8 @@
             "Referer": "https://portal.app.flow.com.py/"
           }
         },
-        { 
-           "name": "KBS WORLD K-POP",
+        {
+          "name": "KBS WORLD K-POP",
           "image": "https://yt3.ggpht.com/ytc/AIdro_kWAyYX8IuruW0YuQuEK6Jn-cfqZZ8oFZCcpy7HnzB3C_FA=s88-c-k-c0x00ffffff-no-rj",
           "url": "https://www.youtube-nocookie.com/embed/F9wSag_AEnI?playlist=F9wSag_AEnI&autoplay=1&iv_load_policy=3&loop=1&start=",
           "headers": {
