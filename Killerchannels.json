@@ -416,7 +416,12 @@
           "Origin": "https://portal.app.flow.com.py",
           "Referer": "https://portal.app.flow.com.py/"
         }
-      },
+      }
+    ]
+  },
+  {
+    "name": "ESPN FLOW",
+    "samples": [
       {
         "name": "ESPN PREMIUM",
         "uri": "https://cdn-py.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_wl/Fox_Sports_Premiun_HD.mpd",
@@ -572,7 +577,12 @@
           "Origin": "https://portal.app.flow.com.py",
           "Referer": "https://portal.app.flow.com.py/"
         }
-      },
+      }
+    ]
+  },
+  {
+    "name": "ESPN GLOBALES",
+    "samples": [
       {
         "name": "ESPN GLOBAL",
         "uri": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(8757cb0a-3584-40cd-901e-8937c7deba83)/manifest.mpd",
@@ -642,7 +652,12 @@
         "headers": {
           "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
         }
-      },
+      }
+    ]
+  },
+  {
+    "name": "FOX SPORTS ARG-MEX",
+    "samples": [
       {
         "name": "FOX SPORTS",
         "uri": "https://cdn-py.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc/FoxSports.mpd",
@@ -684,28 +699,28 @@
         "uri": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://pqlbatyoaawbhfyldlpw.supabase.co/functions/v1/FOX_SPORTS-LAUMAN",
-        "icono": "https://i.postimg.cc/dQ6T3FcG/fs-mx.png"
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png"
       },
       {
         "name": "FOX SPORTS 2 MAUMAN",
         "uri": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://pqlbatyoaawbhfyldlpw.supabase.co/functions/v1/FOX_SPORTS_2-LAUMAN",
-        "icono": "https://i.postimg.cc/GmW4Vhvw/fs2-mx.png"
+        "icono": "https://i.imgur.com/oG7HzEf.png"
       },
       {
         "name": "FOX SPORTS 3 MAUMAN",
         "uri": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wybgz0orr8/out/v1/2f6d1612abd44f5883917f8a585b955f/cenc.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://pqlbatyoaawbhfyldlpw.supabase.co/functions/v1/FOX_SPORTS_3-LAUMAN",
-        "icono": "https://i.postimg.cc/L585LqF2/fs3-mx.png"
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/960px-Fox_sports_3_logo.svg.png"
       },
       {
         "name": "FS PREMIUM LAUMAN",
         "uri": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://pqlbatyoaawbhfyldlpw.supabase.co/functions/v1/FS_PREMIUM_LAUMAN",
-        "icono": "https://i.postimg.cc/DZKbJyzw/fsp.png"
+        "icono": "https://i.imgur.com/3lOZWeD.png"
       },
       {
         "name": "FOX DEPORTES",
@@ -743,53 +758,8 @@
     ]
   },
   {
-    "name": "ESTADOS UNIDOS Y MEXICO",
-    "samples": [
-      {
-        "name": "TELEMUNDO",
-        "uri": "https://streamer1.nexgen.bz/TELEMUNDO/tracks-v3a1/mono.ts.m3u8",
-        "icono": "https://ver.zapitv.com/images/ch/213/LOGO/m/0"
-      },
-      {
-        "name": "UNIVERSO",
-        "uri": "http://190.11.225.124:5000/live/universo_hd/playlist.m3u8",
-        "icono": "https://i.ibb.co/2SYRLkw/nbc-universo.png"
-      },
-      {
-        "name": "UNIAMS",
-        "uri": "http://190.197.41.183/Unimas/mono.m3u8",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_UniM%C3%A1s_2021.svg/960px-Logo_UniM%C3%A1s_2021.svg.png"
-      },
-      {
-        "name": "UNIVISION",
-        "uri": "http://190.197.41.183/Univision/tracks-v1a1/mono.m3u8",
-        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNduHSDu0FEYjesczKNEK9jrJvepPUUilOYFJDIJPdFw&s=10"
-      },
-      {
-        "name": "LAS ESTRELLAS",
-        "uri": "https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8",
-        "icono": "https://i.imgur.com/g5ShxZ7.png"
-      },
-      {
-        "name": "EL NU9VE",
-        "uri": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/skz7pgjdyp/out/v1/8e7377f4d3154738b7f48baa996b35a5/cenc.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/NUEVE002",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Nueve_%282018_logo%29.png/960px-Nueve_%282018_logo%29.png"
-      },
-      {
-        "name": "CANAL 5",
-        "uri": "https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/canal5mx",
-        "icono": "https://i.imgur.com/uZdVSoW.png"
-      }
-    ]
-  },
-  {
     "name": "MAS DEPORTES",
     "samples": [
-
       {
         "name": "BEIN SPORTS XTRA Ñ",
         "icono": "https://i.imgur.com/V562tpO.png",
@@ -917,6 +887,50 @@
        "name": "GE TV",
        "uri": "https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/GE_Fast.m3u8",
        "icono": "https://i.postimg.cc/pV8m3tZk/getv.png"
+      }
+    ]
+  },
+  {
+    "name": "ESTADOS UNIDOS Y MEXICO",
+    "samples": [
+      {
+        "name": "TELEMUNDO",
+        "uri": "https://streamer1.nexgen.bz/TELEMUNDO/tracks-v3a1/mono.ts.m3u8",
+        "icono": "https://ver.zapitv.com/images/ch/213/LOGO/m/0"
+      },
+      {
+        "name": "UNIVERSO",
+        "uri": "http://190.11.225.124:5000/live/universo_hd/playlist.m3u8",
+        "icono": "https://i.ibb.co/2SYRLkw/nbc-universo.png"
+      },
+      {
+        "name": "UNIAMS",
+        "uri": "http://190.197.41.183/Unimas/mono.m3u8",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_UniM%C3%A1s_2021.svg/960px-Logo_UniM%C3%A1s_2021.svg.png"
+      },
+      {
+        "name": "UNIVISION",
+        "uri": "http://190.197.41.183/Univision/tracks-v1a1/mono.m3u8",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNduHSDu0FEYjesczKNEK9jrJvepPUUilOYFJDIJPdFw&s=10"
+      },
+      {
+        "name": "LAS ESTRELLAS",
+        "uri": "https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8",
+        "icono": "https://i.imgur.com/g5ShxZ7.png"
+      },
+      {
+        "name": "EL NU9VE",
+        "uri": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/skz7pgjdyp/out/v1/8e7377f4d3154738b7f48baa996b35a5/cenc.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/NUEVE002",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Nueve_%282018_logo%29.png/960px-Nueve_%282018_logo%29.png"
+      },
+      {
+        "name": "CANAL 5",
+        "uri": "https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/canal5mx",
+        "icono": "https://i.imgur.com/uZdVSoW.png"
       }
     ]
   },
@@ -1098,14 +1112,6 @@
         "icono": "https://i.ibb.co/HqPNtN1/mtv.png"
       },
       {
-        "name": "MTV CLASSIC",
-        "uri": "https://fl2.moveonjoy.com/MTV_CLASSIC/index.m3u8",
-        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfZUzZxiadpAzqrjeCbiQm7dud7SN3loIvlB1fxMCSGg&s=10",
-        "headers": {
-          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
-        }
-      },
-      {
         "name": "MTV LIVE",
         "uri": "http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8",
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkJwBI-U2pFet6MiLI2_Masq9PZFnyAw7lwvrs5p7ymg&s=10"
@@ -1166,7 +1172,7 @@
         "uri": "https://live1-ott.izzigo.tv/6/out/u/dash/SKY-STINGRAY-HITS-HD-H265/default.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/STINGRAY_HITS-",
-        "icono": "https://i.postimg.cc/mZFt4LLJ/stingray-hits.png",
+        "icono": "https://gn-images-stb-opus.cdn.avp.telus.net/assets/s108571_ld_h15_aa.png?w=400",
         "headers": {
           "origin": "https://www.izzigo.tv",
           "referer": "https://www.izzigo.tv/",
@@ -1175,13 +1181,9 @@
       },
       {
         "name": "Stingray Classica",
-        "uri": "https://live1-ott.izzigo.tv/8/out/u/dash/SKY-STINGRAY-CLASSICA-HD-H265/default.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/STINGRAY_CLASSICA",
+        "uri": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray/classica-cla008-montreal/distrotv/master.m3u8?ads.dpname=distrotv&ads.rnd=2irm&ads.env_i=1df9896d-c1d0-45e5-8f1a-47c8ce63320e&ads.env_u=&ads.name=DistroTV&ads.bundle=&ads.storeurl=&ads.appCategory=entertainment&ads.app_version=202105131041&ads.width=984&ads.height=553&ads.deviceId=&ads.deviceDNT=0&ads.gdpr=0&ads.us_privacy=0&ads.aid=&ads.deviceMake=Web&ads.deviceIdType=localStorage&ads.deviceConnectionType=2&ads.deviceCategory=web&ads.client_ip=96.0.50.248&ads.geo=CL&ads.lat=-33.45210&ads.long=-70.65360&ads.dma=&ads.geoType=2&ads.contentid=22865&ads.content_duration=18000&ads.episode_id=35970&ads.show_id=1104&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Music%2CMusic%20Video%2CClassical%20Music%2CEnglish&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=Stingray%20Classica&ads.episodetitle=Classica&ads.keywords=stingray%2Cclassica&ads.contenturl=https%3A%2F%2Fwww.google.com%2F&ads.gdprConsent=&ads.paln=&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=napCoUTJsja",
         "icono": "https://i.postimg.cc/Fzk3S0Xx/stingray-classica.png",
         "headers": {
-          "origin": "https://www.izzigo.tv",
-          "referer": "https://www.izzigo.tv/",
           "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
         }
       },
@@ -1220,16 +1222,6 @@
         }
       },
       {
-        "name": "Stingray CLASSICA",
-        "uri": "https://lott-web-opus.cdn.avp.telus.net/232006004230/vxfmt=dp/manifest.mpd?device_profile=dashvmx",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/STINGRAY_CLASSICA_4K",
-        "icono": "https://gn-images-stb-opus.cdn.avp.telus.net/assets/s109160_ld_h9_aa.png?w=400",
-        "headers": {
-          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
-        }
-      },
-      {
         "name": "Stingray COUNTRY",
         "uri": "https://lott2-web-opus.cdn.avp.telus.net/232006004084/vxfmt=dp/manifest.mpd?device_profile=dashvmx",
         "drm_scheme": "clearkey",
@@ -1261,11 +1253,6 @@
         "headers": {
           "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
         }
-      },
-      {
-        "name": "Stingray CLASSICA 2",
-        "uri": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray/classica-cla008-montreal/distrotv/master.m3u8?ads.dpname=distrotv&ads.rnd=2irm&ads.env_i=1df9896d-c1d0-45e5-8f1a-47c8ce63320e&ads.env_u=&ads.name=DistroTV&ads.bundle=&ads.storeurl=&ads.appCategory=entertainment&ads.app_version=202105131041&ads.width=984&ads.height=553&ads.deviceId=&ads.deviceDNT=0&ads.gdpr=0&ads.us_privacy=0&ads.aid=&ads.deviceMake=Web&ads.deviceIdType=localStorage&ads.deviceConnectionType=2&ads.deviceCategory=web&ads.client_ip=96.0.50.248&ads.geo=CL&ads.lat=-33.45210&ads.long=-70.65360&ads.dma=&ads.geoType=2&ads.contentid=22865&ads.content_duration=18000&ads.episode_id=35970&ads.show_id=1104&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Music%2CMusic%20Video%2CClassical%20Music%2CEnglish&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=Stingray%20Classica&ads.episodetitle=Classica&ads.keywords=stingray%2Cclassica&ads.contenturl=https%3A%2F%2Fwww.google.com%2F&ads.gdprConsent=&ads.paln=&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=napCoUTJsja",
-        "icono": "https://i.ibb.co/nCkKKQ5/stingray-classica.jpg"
       },
       {
         "name": "Stingray DJAZZ",
@@ -1463,11 +1450,6 @@
         "icono": "https://i.postimg.cc/YC8dMPRN/xite-siempre-latino.png"
       },
       {
-        "name": "XITE GOSPEL",
-        "uri": "https://jmp2.uk/plu-623b93628e6ded0007337d4d.m3u8",
-        "icono": "https://i.postimg.cc/qBZDCWH1/xite-gospel.png"
-      },
-      {
         "name": "XITE CHRISTIAN HITS",
         "uri": "https://amg01243-xite-amg01243c25-tcl-us-6509.playouts.now.amagi.tv/playlist.m3u8",
         "icono": "https://i.postimg.cc/9Fg20LL2/xite-christian-hits.png"
@@ -1528,7 +1510,7 @@
         "icono": "https://i.postimg.cc/d0MVQGT4/music-box-classic.png"
       },
       {
-        "name": "Billboard  ",
+        "name": "Billboard",
         "uri": "https://cdn.sensa.com.ar/output/SMT1/BLBH/playlist.m3u8",
         "icono": "https://geo.edge.pontiscloud.com:9002/images/901/CH_LOGO/320/320/0/0/12050400077728.png"
       },
