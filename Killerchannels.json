@@ -32,11 +32,6 @@
         "icono": "https://i.ibb.co/5X20hxjL/KN-copia-4.png"
       },
       {
-        "name": "TIGO SPORTS 2",
-        "uri": "http://45.170.130.224:8000/play/a04k/index.m3u8?hls",
-        "icono": "https://i.ibb.co/5X20hxjL/KN-copia-4.png"
-      },
-      {
         "name": "N Sports (C. DEL ESTE)",
         "uri": "https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt_1080p.m3u8",
         "icono": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8bbe6817af0af2e0e5a6df96f245b752.webp"
@@ -56,7 +51,7 @@
     ]
   },
   {
-    "name": "TV NACIONAL",
+    "name": "TV PARAGUAY",
     "samples": [
       {
         "name": "SNT",
@@ -166,7 +161,7 @@
         }
       },
       {
-        "name": "TV CAMARA",
+        "name": "TV CAMARA (CANAL CERRADO)",
         "uri": "https://cdn-py.cvattv.com.ar/live/c4eds/TV_Camara/SA_Live_dash_enc/TV_Camara.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/TVCAMARA_PY",
