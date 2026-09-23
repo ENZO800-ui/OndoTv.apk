@@ -746,6 +746,30 @@
         }
       },
       {
+        "name": "FOX ONE",
+        "uri": "https://live1-ott.izzigo.tv/13/out/u/dash/FOX-HD/default.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://pqlbatyoaawbhfyldlpw.supabase.co/functions/v1/FOX_PAYTV",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTknsC9CT3uvhzZ_G84etTy6euushlOX6Y4fiMu130srg&s=10",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
+          "Origin": "https://www.izzigo.tv",
+          "Referer": "https://www.izzigo.tv/"
+        }
+      },
+      {
+        "name": "FOX+",
+        "uri": "https://live1-ott.izzigo.tv/14/out/u/dash/FOX-ONE-PLUS-HD/default.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://pqlbatyoaawbhfyldlpw.supabase.co/functions/v1/FOX_PLUSTV",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmjs0YUfFe2aSZ7aNVcVu18VzjQy-P2iAeFO-IDqY2rQ&s=10",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
+          "Origin": "https://www.izzigo.tv",
+          "Referer": "https://www.izzigo.tv/"
+        }
+      },
+      {
         "name": "FOX TUBI",
         "uri": "https://amg00733-tubi-amg00733c2-tubi-us-8155.playouts.now.amagi.tv/playlist.m3u8",
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_qVKfmwp8YJ8wct17HSC0-bVFeGFWPLJhKw&s"
@@ -881,12 +905,12 @@
       {
        "name": "N Sports",
        "uri": "https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt_1080p.m3u8",
-       "icono": "https://i.postimg.cc/8P9QK5mB/xsports-branco-3.png"
+       "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5P7xlzzw17nkpoS9IZz2YdcedPwz3vSNybJ4vhHjypw&s=10"
       },
       {
        "name": "GE TV",
        "uri": "https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/GE_Fast.m3u8",
-       "icono": "https://i.postimg.cc/pV8m3tZk/getv.png"
+       "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9bIiyU2pG82OdoafVZgaRH4H1ZMWefDafwNh9QaKCA&s"
       }
     ]
   },
