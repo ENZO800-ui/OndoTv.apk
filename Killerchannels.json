@@ -891,6 +891,57 @@
     ]
   },
   {
+    "name": "CINE Y SERIES",
+    "samples": [
+      {
+        "name": "HISTORY",
+        "uri": "https://cdn-py.cvattv.com.ar/live/c7eds/HistoryHD/SA_Live_dash_enc/HistoryHD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/HISTORY",
+        "icono": "https://i.ibb.co/cSf474qK/History-Logo-svg.png",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "referer": "https://portal.app.flow.com.py/",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "HSTORY 2",
+        "uri": "https://cdn-py.cvattv.com.ar/live/c6eds/History_2/SA_Live_dash_enc/History_2.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/HISTORY2",
+        "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/3621.png",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "referer": "https://portal.app.flow.com.py/",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "SKY HISTORY",
+        "uri": "https://live1-ott.izzigo.tv/15/out/u/dash/HISTORY-CHANNEL-HD/default.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/SKY_HISTORY",
+        "icono": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1875.png",
+        "headers": {
+          "Origin": "https://www.izzigo.tv",
+          "referer": "https://www.izzigo.tv/",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "HISTORIA",
+        "uri": "https://d1k3vzh2ivy22k.cloudfront.net/Historia1080.m3u8",
+        "icono": "https://i.imgur.com/VUy8xIG.png"
+      },
+      {
+        "name": "AMC EN ESPAÑOL",
+        "uri": "https://amc-amcespanol-1-us.plex.wurl.tv/4300.m3u8",
+        "icono": "https://i.imgur.com/L1h6W5Q.png"
+      }
+    ]
+  },
+  {
     "name": "HBO/UNIVERSAL+",
     "samples": [
       {
