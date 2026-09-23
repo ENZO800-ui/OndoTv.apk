@@ -891,8 +891,20 @@
     ]
   },
   {
-    "name": "CINE Y SERIES",
+    "name": "CULTURA",
     "samples": [
+      {
+        "name": "ANIMAL PLANET",
+        "uri": "https://cdn-py.cvattv.com.ar/live/c7eds/AnimalPlanet/SA_Live_dash_enc/AnimalPlanet.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/ANIMAL_PLANET",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "referer": "https://portal.app.flow.com.py/",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+        }
+      },
       {
         "name": "HISTORY",
         "uri": "https://cdn-py.cvattv.com.ar/live/c7eds/HistoryHD/SA_Live_dash_enc/HistoryHD.mpd",
@@ -933,11 +945,55 @@
         "name": "HISTORIA",
         "uri": "https://d1k3vzh2ivy22k.cloudfront.net/Historia1080.m3u8",
         "icono": "https://i.imgur.com/VUy8xIG.png"
+      }
+    ]
+  },
+  {
+    "name": "CINE Y SERIES",
+    "samples": [
+      {
+        "name": "AMC",
+        "uri": "https://cdn-py.cvattv.com.ar/live/c3eds/AMC/SA_Live_dash_enc/AMC.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/AMC",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJm3n4ZKC5wDBJt-whlLlxYqjNm75uE1xBD5e0yzVyXg&s=10",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "referer": "https://portal.app.flow.com.py/",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "AMC SERIES",
+        "uri": "https://cdn-py.cvattv.com.ar/live/c6eds/AMC_Series/SA_Live_dash_enc/AMC_Series.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/AMC_SERIES",
+        "icono": "https://static.wikia.nocookie.net/dreamlogos/images/0/09/AMC_Series_2016.svg/revision/latest",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "referer": "https://portal.app.flow.com.py/",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+        }
       },
       {
         "name": "AMC EN ESPAÑOL",
         "uri": "https://amc-amcespanol-1-us.plex.wurl.tv/4300.m3u8",
         "icono": "https://i.imgur.com/L1h6W5Q.png"
+      },
+      {
+       "name": "BBC SERIES",
+       "uri": "https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcdramaspain-rakutenes/playlist.m3u8",
+       "icono": "https://i.postimg.cc/HnsHCmGs/bbc-series.png"
+      },
+      {
+       "name": "Canal VIX",
+       "uri": "https://d36vag51su2f9u.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rjlh25phsoano/server/distrib/7GnqnNT9v6Prt6lj/zuvPJYoOOdEMDNF2j2mvmg.XD-5XW7bmDpD5yWfV328oU9NWPX1Y7dhiYqJY3ymkerRKjKvBm9YaKmRu09CS8ak3vKkgVwPUO3_k0fGhRTEqiM6VVMAQRZ3BajxAKTNLztc3UzxLEvwclMk_xuZaPti2iQdDj7x8B9VIacgVxB6nPh8e9-_CaBQXtdfGZ-hf5fbtm5YEJTk8bxZMjA7NHu0J1zj4SG_9elXTTj4sJ5PP8hj9EcpM_08XHwoobu1NQTtftlO8dfbnTpEQrG7AlU7Z82dozEUrKZJxDjrjsMtug/manifest.m3u8",
+       "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5QcDkoYnerdi1LhNIHNfngtzmeZMmVXhCYRhHW_WKkg&s=10"
+      },
+      {
+       "name": "CBS SERIES",
+       "uri": "https://jmp2.uk/plu-668c5cb4f01dbe0008dd4082.m3u8",
+       "icono": "https://images.pluto.tv/channels/668c5cb4f01dbe0008dd4082/thumbnail.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=2&q=50"
       }
     ]
   },
