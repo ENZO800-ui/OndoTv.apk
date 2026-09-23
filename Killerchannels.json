@@ -891,50 +891,6 @@
     ]
   },
   {
-    "name": "ESTADOS UNIDOS Y MEXICO",
-    "samples": [
-      {
-        "name": "TELEMUNDO",
-        "uri": "https://streamer1.nexgen.bz/TELEMUNDO/tracks-v3a1/mono.ts.m3u8",
-        "icono": "https://ver.zapitv.com/images/ch/213/LOGO/m/0"
-      },
-      {
-        "name": "UNIVERSO",
-        "uri": "http://190.11.225.124:5000/live/universo_hd/playlist.m3u8",
-        "icono": "https://i.ibb.co/2SYRLkw/nbc-universo.png"
-      },
-      {
-        "name": "UNIAMS",
-        "uri": "http://190.197.41.183/Unimas/mono.m3u8",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_UniM%C3%A1s_2021.svg/960px-Logo_UniM%C3%A1s_2021.svg.png"
-      },
-      {
-        "name": "UNIVISION",
-        "uri": "http://190.197.41.183/Univision/tracks-v1a1/mono.m3u8",
-        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNduHSDu0FEYjesczKNEK9jrJvepPUUilOYFJDIJPdFw&s=10"
-      },
-      {
-        "name": "LAS ESTRELLAS",
-        "uri": "https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8",
-        "icono": "https://i.imgur.com/g5ShxZ7.png"
-      },
-      {
-        "name": "EL NU9VE",
-        "uri": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/skz7pgjdyp/out/v1/8e7377f4d3154738b7f48baa996b35a5/cenc.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/NUEVE002",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Nueve_%282018_logo%29.png/960px-Nueve_%282018_logo%29.png"
-      },
-      {
-        "name": "CANAL 5",
-        "uri": "https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/canal5mx",
-        "icono": "https://i.imgur.com/uZdVSoW.png"
-      }
-    ]
-  },
-  {
     "name": "HBO/UNIVERSAL+",
     "samples": [
       {
