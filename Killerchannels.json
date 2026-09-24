@@ -814,7 +814,55 @@
         "icono": "https://i.imgur.com/oT5CAvd.png"
       },
       {
-        "name": "EUROSPORT 1",
+        "name": "SKY SPORTS",
+        "uri": "https://live1-ott.izzigo.tv/13/out/u/dash/SKY-SPORTS-HD/default.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://pqlbatyoaawbhfyldlpw.supabase.co/functions/v1/SKY_SPORTS_MX",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKMda7QVWv3uhHK-qWTZb_yHFxvlxxGobpa3YWGuCjPA&s=10",
+        "headers": {
+          "Origin": "https://www.izzigo.tv",
+          "referer": "https://www.izzigo.tv/",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "SKY SPORTS 16",
+        "uri": "https://live1-ott.izzigo.tv/12/out/u/dash/SKY-SPORTS-16-HD/default.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://pqlbatyoaawbhfyldlpw.supabase.co/functions/v1/SKY_SPORTS_16_MX",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKMda7QVWv3uhHK-qWTZb_yHFxvlxxGobpa3YWGuCjPA&s=10",
+        "headers": {
+          "Origin": "https://www.izzigo.tv",
+          "referer": "https://www.izzigo.tv/",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "SKY SPORTS 21",
+        "uri": "https://live1-ott.izzigo.tv/13/out/u/dash/SKY-SPORTS-21-HD/default.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://pqlbatyoaawbhfyldlpw.supabase.co/functions/v1/SKY_SPORTS_21_MX",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKMda7QVWv3uhHK-qWTZb_yHFxvlxxGobpa3YWGuCjPA&s=10",
+        "headers": {
+          "Origin": "https://www.izzigo.tv",
+          "referer": "https://www.izzigo.tv/",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "SKY SPORTS 24",
+        "uri": "https://live1-ott.izzigo.tv/15/out/u/dash/SKY-SPORTS-24-HD/default.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://pqlbatyoaawbhfyldlpw.supabase.co/functions/v1/SKY_SPORTS_24_MX",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKMda7QVWv3uhHK-qWTZb_yHFxvlxxGobpa3YWGuCjPA&s=10",
+        "headers": {
+          "Origin": "https://www.izzigo.tv",
+          "referer": "https://www.izzigo.tv/",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "EUROSPORT",
         "uri": "https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd",
         "type": "widevine",
         "drm_license_uri": "https://drm.antik.sk/widevine/key",
