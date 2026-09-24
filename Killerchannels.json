@@ -1221,6 +1221,274 @@
     ]
   },
   {
+    "name": "INFANTILES",
+    "samples": [
+      {
+        "name": "CARTOONITO",
+        "uri": "https://cdn-py.cvattv.com.ar/live/c7eds/Boomerang/SA_Live_dash_enc/Boomerang.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/CARTOONITO",
+        "icono": "https://i.ibb.co/rx04nzW/cartoonito.png",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
+      },
+      {
+        "name": "CARTOON NETWORK",
+        "uri": "https://cdn-py.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_Live_dash_enc/CartoonNetwork.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/CARTOON_NETWORK",
+        "icono": "https://i.ibb.co/C2PTPBd/cartoon-network.png",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
+      },
+      {
+        "name": "DISCOVERY KIDS",
+        "uri": "https://cdn-py.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_Live_dash_enc/Discovery_Kids.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/DISCOVERY_KIDS",
+        "icono": "https://i.ibb.co/sQVsMMN/discovery-kids.png",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
+      },
+      {
+        "name": "DISNEY CHANNEL",
+        "uri": "https://cdn-py.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_Live_dash_enc/DisneyChannelHD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/DISNEY_CHANNEL",
+        "icono": "https://i.ibb.co/vdfh1bd/disney-channel.png",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
+      },
+      {
+        "name": "DISNEY JR.",
+        "uri": "https://cdn-py.cvattv.com.ar/live/c7eds/DisneyJr/SA_Live_dash_enc/DisneyJr.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/DISNEY_JR",
+        "icono": "https://i.ibb.co/KjzPznS/Disney-Jr.png",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
+      },
+      {
+       "name": "PLUTO JUNIOR",
+       "uri": "https://jmp2.uk/plu-5dcde2ac4bc6c500094ab45b.m3u8",
+       "icono": "https://images.pluto.tv/channels/5dcde2ac4bc6c500094ab45b/thumbnail.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=2&q=50?worldtv2"
+      },
+      {
+        "name": "NICKELODEON",
+        "uri": "https://cdn-py.cvattv.com.ar/live/c3eds/Nickelodeon/SA_Live_dash_enc/Nickelodeon.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/NICK",
+        "icono": "https://i.ibb.co/KN9K9xN/nickelodeon.png",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
+      },
+      {
+        "name": "NICK JR.",
+        "uri": "https://cdn-py.cvattv.com.ar/live/c6eds/Nick_Jr/SA_Live_dash_enc/Nick_Jr.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/NICK_JR",
+        "icono": "https://i.ibb.co/CQvYQWW/nick-jr.webp",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
+      },
+      {
+        "name": "NICKTOONS",
+        "uri": "https://jmp2.uk/plu-645952687cb4b100084ed52e.m3u8",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/b/be/Nicktoons_Logo_2023.svg"
+      },
+      {
+        "name": "TEENNICK",
+        "uri": "https://jmp2.uk/plu-5fab09a8749b1a00077d35d2.m3u8",
+        "icono": "https://i.postimg.cc/ZqHkBP66/teennick.png"
+      },
+      {
+        "name": "NICK JR. CLUB",
+        "uri": "https://jmp2.uk/plu-5ddd7cb2cbb9010009b4fe32.m3u8",
+        "icono": "https://images.pluto.tv/channels/67f3eb1c443f0671bc03ece8/colorLogoSVG.svg"
+      },
+      {
+        "name": "NICK REWIND",
+        "uri": "https://jmp2.uk/plu-6824cda00101510f9eeaa011.m3u8",
+        "icono": "https://i.imgur.com/Bw8rdAb.png"
+      },
+      {
+        "name": "BITME",
+        "uri": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qej0n9zmvv/out/v1/93a227dbeef84293b95683c10fd88da2/cenc.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/BITME",
+        "icono": "https://static.wikia.nocookie.net/logopedia/images/9/9c/BitMe_Red_Logo.svg/revision/latest/scale-to-width-down/711?cb=20250307002717",
+        "headers": {
+          "referer": "https://www.primevideo.com/",
+          "user-agent": "AivAndroidPlayer/1.0 (AndroidDevice)"
+        }
+      },
+      {
+       "name": "CLAN",
+       "uri": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_dvr_720.m3u8",
+       "icono": "https://i.postimg.cc/cL8vJm6W/clan-2026-worldtv2.png"
+      },
+      {
+       "name": "PLUTO KIDS",
+       "uri": "https://jmp2.uk/plu-5dd6dae8ce788b0009eaf77b.m3u8",
+       "icono": "https://images.pluto.tv/channels/5dd6dae8ce788b0009eaf77b/thumbnail.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=2&q=50?worldtv2"
+      },
+      {
+        "name": "TOONCAST",
+        "uri": "https://cdn-py.cvattv.com.ar/live/c6eds/Tooncast/SA_Live_dash_enc/Tooncast.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/TOONCAST",
+        "icono": "https://i.ibb.co/8bgMYCy/tooncast.png",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
+      },
+      {
+        "name": "PAKA PAKA",
+        "uri": "https://cdn-py.cvattv.com.ar/live/c6eds/PAKA_PAKA/SA_Live_dash_enc/PAKA_PAKA.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/PAKA-PAKA",
+        "icono": "https://i.ibb.co/GcBkPWT/paka-paka.png",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
+      },
+      {
+        "name": "KIDOO",
+        "uri": "https://cdn-py.cvattv.com.ar/live/c6eds/Kidoo/SA_Live_dash_enc/Kidoo.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/KIDOO",
+        "icono": "https://i.postimg.cc/xdRwFst1/kidoo.png",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
+      },
+      {
+        "name": "BABY TV",
+        "uri": "https://cdn-py.cvattv.com.ar/live/c7eds/BabyTV/SA_Live_dash_enc/BabyTV.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/BABY-TV",
+        "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/695.png",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
+      },
+      {
+        "name": "EDYE TV",
+        "uri": "https://d19lqzmtwt5yjz.cloudfront.net/edye-tv/edye-tv.m3u8",
+        "icono": "https://static.wikia.nocookie.net/logopedia/images/e/e5/Edye.webp/revision/latest/scale-to-width-down/50?cb=20250619050248",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+        }
+      },
+      {
+        "name": "EL REINO INFANTIL",
+        "uri": "https://cdn-py.cvattv.com.ar/live/c7eds/Reino_Infantil/SA_Live_dash_enc/Reino_Infantil.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/EL-REINO-INFANTIL",
+        "icono": "https://images.pluto.tv/channels/5f4d3d06fb60d8000781fce8/thumbnail.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=2&q=50",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
+      },
+      {
+        "name": "EL REINO INFANTIL PLUTO TV",
+        "uri": "https://jmp2.uk/plu-5f4d3d06fb60d8000781fce8.m3u8",
+        "icono": "https://images.pluto.tv/channels/5f4d3d06fb60d8000781fce8/thumbnail.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=2&q=50",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+        }
+      },
+      {
+        "name": "DREAMWORKS",
+        "uri": "https://cdn-py.cvattv.com.ar/live/c7eds/Dreamworks/SA_Live_dash_enc/Dreamworks.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/DREAMWORKS",
+        "icono": "https://i.ibb.co/10jGH2z/dreamworks.png",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
+      },
+      {
+        "name": "PITUFO TV",
+        "uri": "https://d37tco1tcfe7t3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r9bay52lyuk44/smrfs.m3u8",
+        "icono": "https://i.postimg.cc/RFntJsBL/pitufo-tv.png"
+      },
+      {
+        "name": "Duck TV Plus",
+        "uri": "https://dash2.antik.sk/live/test_duck_plus/playlist.m3u8",
+        "icono": "https://i.postimg.cc/CxwMBZHt/duck-tv-plus.png",
+         "headers": {
+          "origin": "https://webtv.sk",
+          "referer": "https://webtv.sk/",
+          "user-agent": "AntikTVExoPlayer/1.1.47 (Linux;Android 15) ExoPlayerLib/2.14.2"
+        }
+      },
+      {
+        "name": "MOJITV",
+        "uri": "https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992452",
+        "icono": "https://i.postimg.cc/x8g16Jmn/mojitv.png"
+      },
+      {
+       "name": "DM KIDSTV",
+       "uri": "https://stream.ads.ottera.tv/playlist.m3u8?cb=%5BCACHEBUSTER%5D&network_id=12967",
+       "icono": "https://i.postimg.cc/RFfKz750/dm-kids.png"
+      },
+      {
+       "name": "TOON GOGGLES",
+       "uri": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=514",
+       "icono": "https://i.postimg.cc/HndcDFtg/toon-goggles.webp"
+      },
+      {
+       "name": "CANELA KIDS",
+       "uri": "https://amg00658-amg00658c47-canelatv-international-7222.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg00658-canelamediafast-canelakids-canelatvinternational/playlist.m3u8",
+       "icono": "https://i.postimg.cc/6QCpWYqK/canela-kids.webp"
+      },
+      {
+        "name": "BABY SHARK",
+        "uri": "https://jmp2.uk/plu-619d5e6a093e7c0007489211.m3u8",
+        "icono": "https://i.ibb.co/NVJJNnQ/Pinkfong-Baby-Shark.png"
+      },
+      {
+        "name": "DIOS TE VE KIDS",
+        "uri": "https://s.emisoras.tv:8081/diostevekids/tracks-v1a1/mono.m3u8",
+        "icono": "https://i.ibb.co/tY5VxTm/dios-teve-kids.png"
+      }
+    ]
+  },
+  {
     "name": "MÚSICALES",
     "samples": [
       {
@@ -1988,270 +2256,12 @@
     ]
   },
   {
-    "name": "INFANTILES",
+    "name": "PRUEBA",
     "samples": [
       {
-        "name": "CARTOONITO",
-        "uri": "https://cdn-py.cvattv.com.ar/live/c7eds/Boomerang/SA_Live_dash_enc/Boomerang.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/CARTOONITO",
-        "icono": "https://i.ibb.co/rx04nzW/cartoonito.png",
-        "headers": {
-          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/"
-        }
-      },
-      {
-        "name": "CARTOON NETWORK",
-        "uri": "https://cdn-py.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_Live_dash_enc/CartoonNetwork.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/CARTOON_NETWORK",
-        "icono": "https://i.ibb.co/C2PTPBd/cartoon-network.png",
-        "headers": {
-          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/"
-        }
-      },
-      {
-        "name": "DISCOVERY KIDS",
-        "uri": "https://cdn-py.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_Live_dash_enc/Discovery_Kids.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/DISCOVERY_KIDS",
-        "icono": "https://i.ibb.co/sQVsMMN/discovery-kids.png",
-        "headers": {
-          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/"
-        }
-      },
-      {
-        "name": "DISNEY CHANNEL",
-        "uri": "https://cdn-py.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_Live_dash_enc/DisneyChannelHD.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/DISNEY_CHANNEL",
-        "icono": "https://i.ibb.co/vdfh1bd/disney-channel.png",
-        "headers": {
-          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/"
-        }
-      },
-      {
-        "name": "DISNEY JR.",
-        "uri": "https://cdn-py.cvattv.com.ar/live/c7eds/DisneyJr/SA_Live_dash_enc/DisneyJr.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/DISNEY_JR",
-        "icono": "https://i.ibb.co/KjzPznS/Disney-Jr.png",
-        "headers": {
-          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/"
-        }
-      },
-      {
-       "name": "PLUTO JUNIOR",
-       "uri": "https://jmp2.uk/plu-5dcde2ac4bc6c500094ab45b.m3u8",
-       "icono": "https://images.pluto.tv/channels/5dcde2ac4bc6c500094ab45b/thumbnail.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=2&q=50?worldtv2"
-      },
-      {
-        "name": "NICKELODEON",
-        "uri": "https://cdn-py.cvattv.com.ar/live/c3eds/Nickelodeon/SA_Live_dash_enc/Nickelodeon.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/NICK",
-        "icono": "https://i.ibb.co/KN9K9xN/nickelodeon.png",
-        "headers": {
-          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/"
-        }
-      },
-      {
-        "name": "NICK JR.",
-        "uri": "https://cdn-py.cvattv.com.ar/live/c6eds/Nick_Jr/SA_Live_dash_enc/Nick_Jr.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/NICK_JR",
-        "icono": "https://i.ibb.co/CQvYQWW/nick-jr.webp",
-        "headers": {
-          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/"
-        }
-      },
-      {
-        "name": "NICKTOONS",
-        "uri": "https://jmp2.uk/plu-645952687cb4b100084ed52e.m3u8",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/b/be/Nicktoons_Logo_2023.svg"
-      },
-      {
-        "name": "TEENNICK",
-        "uri": "https://jmp2.uk/plu-5fab09a8749b1a00077d35d2.m3u8",
-        "icono": "https://i.postimg.cc/ZqHkBP66/teennick.png"
-      },
-      {
-        "name": "NICK JR. CLUB",
-        "uri": "https://jmp2.uk/plu-5ddd7cb2cbb9010009b4fe32.m3u8",
-        "icono": "https://images.pluto.tv/channels/67f3eb1c443f0671bc03ece8/colorLogoSVG.svg"
-      },
-      {
-        "name": "NICK REWIND",
-        "uri": "https://jmp2.uk/plu-6824cda00101510f9eeaa011.m3u8",
-        "icono": "https://i.imgur.com/Bw8rdAb.png"
-      },
-      {
-        "name": "BITME",
-        "uri": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qej0n9zmvv/out/v1/93a227dbeef84293b95683c10fd88da2/cenc.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/BITME",
-        "icono": "https://static.wikia.nocookie.net/logopedia/images/9/9c/BitMe_Red_Logo.svg/revision/latest/scale-to-width-down/711?cb=20250307002717",
-        "headers": {
-          "referer": "https://www.primevideo.com/",
-          "user-agent": "AivAndroidPlayer/1.0 (AndroidDevice)"
-        }
-      },
-      {
-       "name": "CLAN",
-       "uri": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_dvr_720.m3u8",
-       "icono": "https://i.postimg.cc/cL8vJm6W/clan-2026-worldtv2.png"
-      },
-      {
-       "name": "PLUTO KIDS",
-       "uri": "https://jmp2.uk/plu-5dd6dae8ce788b0009eaf77b.m3u8",
-       "icono": "https://images.pluto.tv/channels/5dd6dae8ce788b0009eaf77b/thumbnail.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=2&q=50?worldtv2"
-      },
-      {
-        "name": "TOONCAST",
-        "uri": "https://cdn-py.cvattv.com.ar/live/c6eds/Tooncast/SA_Live_dash_enc/Tooncast.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/TOONCAST",
-        "icono": "https://i.ibb.co/8bgMYCy/tooncast.png",
-        "headers": {
-          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/"
-        }
-      },
-      {
-        "name": "PAKA PAKA",
-        "uri": "https://cdn-py.cvattv.com.ar/live/c6eds/PAKA_PAKA/SA_Live_dash_enc/PAKA_PAKA.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/PAKA-PAKA",
-        "icono": "https://i.ibb.co/GcBkPWT/paka-paka.png",
-        "headers": {
-          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/"
-        }
-      },
-      {
-        "name": "KIDOO",
-        "uri": "https://cdn-py.cvattv.com.ar/live/c6eds/Kidoo/SA_Live_dash_enc/Kidoo.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/KIDOO",
-        "icono": "https://i.postimg.cc/xdRwFst1/kidoo.png",
-        "headers": {
-          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/"
-        }
-      },
-      {
-        "name": "BABY TV",
-        "uri": "https://cdn-py.cvattv.com.ar/live/c7eds/BabyTV/SA_Live_dash_enc/BabyTV.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/BABY-TV",
-        "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/695.png",
-        "headers": {
-          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/"
-        }
-      },
-      {
-        "name": "EDYE TV",
-        "uri": "https://d19lqzmtwt5yjz.cloudfront.net/edye-tv/edye-tv.m3u8",
-        "icono": "https://static.wikia.nocookie.net/logopedia/images/e/e5/Edye.webp/revision/latest/scale-to-width-down/50?cb=20250619050248",
-        "headers": {
-          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
-        }
-      },
-      {
-        "name": "EL REINO INFANTIL",
-        "uri": "https://cdn-py.cvattv.com.ar/live/c7eds/Reino_Infantil/SA_Live_dash_enc/Reino_Infantil.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/EL-REINO-INFANTIL",
-        "icono": "https://images.pluto.tv/channels/5f4d3d06fb60d8000781fce8/thumbnail.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=2&q=50",
-        "headers": {
-          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/"
-        }
-      },
-      {
-        "name": "EL REINO INFANTIL PLUTO TV",
-        "uri": "https://jmp2.uk/plu-5f4d3d06fb60d8000781fce8.m3u8",
-        "icono": "https://images.pluto.tv/channels/5f4d3d06fb60d8000781fce8/thumbnail.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=2&q=50",
-        "headers": {
-          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
-        }
-      },
-      {
-        "name": "DREAMWORKS",
-        "uri": "https://cdn-py.cvattv.com.ar/live/c7eds/Dreamworks/SA_Live_dash_enc/Dreamworks.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/DREAMWORKS",
-        "icono": "https://i.ibb.co/10jGH2z/dreamworks.png",
-        "headers": {
-          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/"
-        }
-      },
-      {
-        "name": "PITUFO TV",
-        "uri": "https://d37tco1tcfe7t3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r9bay52lyuk44/smrfs.m3u8",
-        "icono": "https://i.postimg.cc/RFntJsBL/pitufo-tv.png"
-      },
-      {
-        "name": "Duck TV Plus",
-        "uri": "https://dash2.antik.sk/live/test_duck_plus/playlist.m3u8",
-        "icono": "https://i.postimg.cc/CxwMBZHt/duck-tv-plus.png",
-         "headers": {
-          "origin": "https://webtv.sk",
-          "referer": "https://webtv.sk/",
-          "user-agent": "AntikTVExoPlayer/1.1.47 (Linux;Android 15) ExoPlayerLib/2.14.2"
-        }
-      },
-      {
-        "name": "MOJITV",
-        "uri": "https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992452",
-        "icono": "https://i.postimg.cc/x8g16Jmn/mojitv.png"
-      },
-      {
-       "name": "DM KIDSTV",
-       "uri": "https://stream.ads.ottera.tv/playlist.m3u8?cb=%5BCACHEBUSTER%5D&network_id=12967",
-       "icono": "https://i.postimg.cc/RFfKz750/dm-kids.png"
-      },
-      {
-       "name": "TOON GOGGLES",
-       "uri": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=514",
-       "icono": "https://i.postimg.cc/HndcDFtg/toon-goggles.webp"
-      },
-      {
-       "name": "CANELA KIDS",
-       "uri": "https://amg00658-amg00658c47-canelatv-international-7222.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg00658-canelamediafast-canelakids-canelatvinternational/playlist.m3u8",
-       "icono": "https://i.postimg.cc/6QCpWYqK/canela-kids.webp"
-      },
-      {
-        "name": "BABY SHARK",
-        "uri": "https://jmp2.uk/plu-619d5e6a093e7c0007489211.m3u8",
-        "icono": "https://i.ibb.co/NVJJNnQ/Pinkfong-Baby-Shark.png"
-      },
-      {
-        "name": "DIOS TE VE KIDS",
-        "uri": "https://s.emisoras.tv:8081/diostevekids/tracks-v1a1/mono.m3u8",
-        "icono": "https://i.ibb.co/tY5VxTm/dios-teve-kids.png"
+        "name": "NUNCA LO VEAS",
+        "uri": "https://drive.usercontent.google.com/download?id=1aGzU6lQBCPlu7432Ml0v6FCxgXV4ENTO&export=download&authuser=0&confirm=t&uuid=fc1641bf-47fe-4377-b1d8-2075f3eff98b&at=AMrWOn3552Abzh2cllE7qm1XIoK5:1790251889300",
+        "icono": "https://cdn.worldvectorlogo.com/logos/test.svg"
       }
     ]
   }
