@@ -372,22 +372,22 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/DSPORTS_URUGUAY",
         "icono": "https://i.imgur.com/2PoEm1x.png",
-         "headers": {
+        "headers": {
           "origin": "android_mobile.directvgo.com",
           "user-agent": "dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1"
         }
-     },
-     {
+      },
+      {
         "name": "DSPORTS URUGUAY PREMIUN",
         "uri": "https://099ed2f3014c41e78f3c7bc29b21bc11.mediatailor.us-east-1.amazonaws.com/v1/dash/dffceb859a31f14d0ed059ef6b4e2e4d850e60b1/live_1314/1314_DIRECTV_SPORTS_URU_PLUS_DASH/manifest.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/DSPORTS_PREMIUN_URUGUAY",
         "icono": "https://i.imgur.com/d2ZVpVo.png",
-         "headers": {
+        "headers": {
           "origin": "android_mobile.directvgo.com",
           "user-agent": "dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1"
-       }
-     }
+        }
+      }
     ]
   },
   {
@@ -415,15 +415,16 @@
           "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
           "Origin": "https://portal.app.flow.com.py",
           "Referer": "https://portal.app.flow.com.py/"
-        },
-        {
-         "name": "TYC SPORTS",
-         "uri": "https://live-04-11-tyc-app-web.vodgc.net/tyc24/index.m3u8",
-         "icono": "https://i.ibb.co/gGbp2pF/tyc-2026.png",
-          "headers": {
-            "user-agent": "Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36"
+        }
+      },
+      {
+        "name": "TYC SPORTS",
+        "uri": "https://live-04-11-tyc-app-web.vodgc.net/tyc24/index.m3u8",
+        "icono": "https://i.ibb.co/gGbp2pF/tyc-2026.png",
+        "headers": {
+          "user-agent": "Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36"
+        }
       }
-   }
     ]
   },
   {
@@ -879,11 +880,11 @@
         "type": "widevine",
         "drm_license_uri": "https://drm.antik.sk/widevine/key",
         "icono": "https://i.imgur.com/olQJgm7.png",
-         "headers": {
+        "headers": {
           "Origin": "https://webtv.sk",
           "Referer": "https://webtv.sk",
           "User-Agent": "AntikTVExoPlayer/1.1.47 (Linux;Android 15) ExoPlayerLib/2.14.2"
-         }
+        }
       },
       {
         "name": "EUROSPORT 2",
@@ -891,7 +892,7 @@
         "type": "widevine",
         "drm_license_uri": "https://drm.antik.sk/widevine/key",
         "icono": "https://i.imgur.com/f56dHgR.png",
-         "headers": {
+        "headers": {
           "Origin": "https://webtv.sk",
           "Referer": "https://webtv.sk",
           "User-Agent": "AntikTVExoPlayer/1.1.47 (Linux;Android 15) ExoPlayerLib/2.14.2"
@@ -910,17 +911,17 @@
         "icono": "https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Caz%C3%A9TV_logo.svg/1280px-Caz%C3%A9TV_logo.svg.png"
       },
       {
-       "name": "BAND",
-       "uri": "https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8",
-       "icono": "https://i.ibb.co/WpzKSZb8/band.png",
+        "name": "BAND",
+        "uri": "https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8",
+        "icono": "https://i.ibb.co/WpzKSZb8/band.png",
         "headers": {
           "referer": "https://embedcanais.com/"
-         }
+        }
       },
       {
-       "name": "BAND SPORTS",
-       "uri": "http://45.162.64.114/BAND_SPORTS/index.m3u8",
-       "icono": "https://i.ibb.co/WWrRh4X/Band-Sports.png"
+        "name": "BAND SPORTS",
+        "uri": "http://45.162.64.114/BAND_SPORTS/index.m3u8",
+        "icono": "https://i.ibb.co/WWrRh4X/Band-Sports.png"
       },
       {
         "name": "SPORTV",
@@ -928,7 +929,7 @@
         "type": "clearkey",
         "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/SPORTV1",
         "icono": "https://i.postimg.cc/gr9x3z71/Spor-TV-2021.png",
-         "headers": {
+        "headers": {
           "Referer": "https://www.primevideo.com/",
           "User-Agent": "ATVWebPlayerSDK-1.0.238964.0 (AndroidDevice)"
         }
@@ -939,7 +940,7 @@
         "type": "clearkey",
         "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/SPORTV2",
         "icono": "https://i.imgur.com/pBiUnb2.png",
-         "headers": {
+        "headers": {
           "Referer": "https://www.primevideo.com/",
           "User-Agent": "ATVWebPlayerSDK-1.0.238964.0 (AndroidDevice)"
         }
@@ -950,7 +951,7 @@
         "type": "clearkey",
         "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/SPORTV3",
         "icono": "https://i.imgur.com/mWOR8pi.png",
-         "headers": {
+        "headers": {
           "Referer": "https://www.primevideo.com/",
           "User-Agent": "ATVWebPlayerSDK-1.0.238964.0 (AndroidDevice)"
         }
@@ -963,14 +964,14 @@
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/960px-Premiere_(2017)_logo.png"
       },
       {
-       "name": "N Sports",
-       "uri": "https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt_1080p.m3u8",
-       "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5P7xlzzw17nkpoS9IZz2YdcedPwz3vSNybJ4vhHjypw&s=10"
+        "name": "N Sports",
+        "uri": "https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt_1080p.m3u8",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5P7xlzzw17nkpoS9IZz2YdcedPwz3vSNybJ4vhHjypw&s=10"
       },
       {
-       "name": "GE TV",
-       "uri": "https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/GE_Fast.m3u8",
-       "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9bIiyU2pG82OdoafVZgaRH4H1ZMWefDafwNh9QaKCA&s"
+        "name": "GE TV",
+        "uri": "https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/GE_Fast.m3u8",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9bIiyU2pG82OdoafVZgaRH4H1ZMWefDafwNh9QaKCA&s"
       }
     ]
   },
@@ -1077,25 +1078,25 @@
         "icono": "https://i.imgur.com/L1h6W5Q.png"
       },
       {
-       "name": "BBC SERIES",
-       "uri": "https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcdramaspain-rakutenes/playlist.m3u8",
-       "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj6Qy-PPHXUAnLvysB0BtxNhvWyTpcCzFWXdL6jYO-og&s=10"
+        "name": "BBC SERIES",
+        "uri": "https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcdramaspain-rakutenes/playlist.m3u8",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj6Qy-PPHXUAnLvysB0BtxNhvWyTpcCzFWXdL6jYO-og&s=10"
       },
       {
-       "name": "Canal VIX",
-       "uri": "https://d36vag51su2f9u.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rjlh25phsoano/server/distrib/7GnqnNT9v6Prt6lj/zuvPJYoOOdEMDNF2j2mvmg.XD-5XW7bmDpD5yWfV328oU9NWPX1Y7dhiYqJY3ymkerRKjKvBm9YaKmRu09CS8ak3vKkgVwPUO3_k0fGhRTEqiM6VVMAQRZ3BajxAKTNLztc3UzxLEvwclMk_xuZaPti2iQdDj7x8B9VIacgVxB6nPh8e9-_CaBQXtdfGZ-hf5fbtm5YEJTk8bxZMjA7NHu0J1zj4SG_9elXTTj4sJ5PP8hj9EcpM_08XHwoobu1NQTtftlO8dfbnTpEQrG7AlU7Z82dozEUrKZJxDjrjsMtug/manifest.m3u8",
-       "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5QcDkoYnerdi1LhNIHNfngtzmeZMmVXhCYRhHW_WKkg&s=10"
+        "name": "Canal VIX",
+        "uri": "https://d36vag51su2f9u.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rjlh25phsoano/server/distrib/7GnqnNT9v6Prt6lj/zuvPJYoOOdEMDNF2j2mvmg.XD-5XW7bmDpD5yWfV328oU9NWPX1Y7dhiYqJY3ymkerRKjKvBm9YaKmRu09CS8ak3vKkgVwPUO3_k0fGhRTEqiM6VVMAQRZ3BajxAKTNLztc3UzxLEvwclMk_xuZaPti2iQdDj7x8B9VIacgVxB6nPh8e9-_CaBQXtdfGZ-hf5fbtm5YEJTk8bxZMjA7NHu0J1zj4SG_9elXTTj4sJ5PP8hj9EcpM_08XHwoobu1NQTtftlO8dfbnTpEQrG7AlU7Z82dozEUrKZJxDjrjsMtug/manifest.m3u8",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5QcDkoYnerdi1LhNIHNfngtzmeZMmVXhCYRhHW_WKkg&s=10"
       },
       {
-       "name": "CBS SERIES",
-       "uri": "https://jmp2.uk/plu-668c5cb4f01dbe0008dd4082.m3u8",
-       "icono": "https://images.pluto.tv/channels/668c5cb4f01dbe0008dd4082/thumbnail.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=2&q=50"
+        "name": "CBS SERIES",
+        "uri": "https://jmp2.uk/plu-668c5cb4f01dbe0008dd4082.m3u8",
+        "icono": "https://images.pluto.tv/channels/668c5cb4f01dbe0008dd4082/thumbnail.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=2&q=50"
       },
       {
-       "name": "GRJNGO",
-       "image": "https://tse1.mm.bing.net/th/id/OIP.cz3dWFe5nyXVR46GXjNdegHaEK?rs=1&pid=ImgDetMain&o=7&rm=3",
-       "url": "https://amogonetworx-grjngo-2-eu.plex.wurl.tv/playlist.m3u8"
-     }
+        "name": "GRJNGO",
+        "uri": "https://amogonetworx-grjngo-2-eu.plex.wurl.tv/playlist.m3u8",
+        "icono": "https://tse1.mm.bing.net/th/id/OIP.cz3dWFe5nyXVR46GXjNdegHaEK?rs=1&pid=ImgDetMain&o=7&rm=3"
+      }
     ]
   },
   {
@@ -1313,9 +1314,9 @@
         }
       },
       {
-       "name": "PLUTO JUNIOR",
-       "uri": "https://jmp2.uk/plu-5dcde2ac4bc6c500094ab45b.m3u8",
-       "icono": "https://images.pluto.tv/channels/5dcde2ac4bc6c500094ab45b/thumbnail.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=2&q=50?worldtv2"
+        "name": "PLUTO JUNIOR",
+        "uri": "https://jmp2.uk/plu-5dcde2ac4bc6c500094ab45b.m3u8",
+        "icono": "https://images.pluto.tv/channels/5dcde2ac4bc6c500094ab45b/thumbnail.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=2&q=50?worldtv2"
       },
       {
         "name": "NICKELODEON",
@@ -1373,14 +1374,14 @@
         }
       },
       {
-       "name": "CLAN",
-       "uri": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_dvr_720.m3u8",
-       "icono": "https://i.postimg.cc/cL8vJm6W/clan-2026-worldtv2.png"
+        "name": "CLAN",
+        "uri": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_dvr_720.m3u8",
+        "icono": "https://i.postimg.cc/cL8vJm6W/clan-2026-worldtv2.png"
       },
       {
-       "name": "PLUTO KIDS",
-       "uri": "https://jmp2.uk/plu-5dd6dae8ce788b0009eaf77b.m3u8",
-       "icono": "https://images.pluto.tv/channels/5dd6dae8ce788b0009eaf77b/thumbnail.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=2&q=50?worldtv2"
+        "name": "PLUTO KIDS",
+        "uri": "https://jmp2.uk/plu-5dd6dae8ce788b0009eaf77b.m3u8",
+        "icono": "https://images.pluto.tv/channels/5dd6dae8ce788b0009eaf77b/thumbnail.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=2&q=50?worldtv2"
       },
       {
         "name": "TOONCAST",
@@ -1479,7 +1480,7 @@
         "name": "Duck TV Plus",
         "uri": "https://dash2.antik.sk/live/test_duck_plus/playlist.m3u8",
         "icono": "https://i.postimg.cc/CxwMBZHt/duck-tv-plus.png",
-         "headers": {
+        "headers": {
           "origin": "https://webtv.sk",
           "referer": "https://webtv.sk/",
           "user-agent": "AntikTVExoPlayer/1.1.47 (Linux;Android 15) ExoPlayerLib/2.14.2"
@@ -1491,19 +1492,19 @@
         "icono": "https://i.postimg.cc/x8g16Jmn/mojitv.png"
       },
       {
-       "name": "DM KIDSTV",
-       "uri": "https://stream.ads.ottera.tv/playlist.m3u8?cb=%5BCACHEBUSTER%5D&network_id=12967",
-       "icono": "https://i.postimg.cc/RFfKz750/dm-kids.png"
+        "name": "DM KIDSTV",
+        "uri": "https://stream.ads.ottera.tv/playlist.m3u8?cb=%5BCACHEBUSTER%5D&network_id=12967",
+        "icono": "https://i.postimg.cc/RFfKz750/dm-kids.png"
       },
       {
-       "name": "TOON GOGGLES",
-       "uri": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=514",
-       "icono": "https://i.postimg.cc/HndcDFtg/toon-goggles.webp"
+        "name": "TOON GOGGLES",
+        "uri": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=514",
+        "icono": "https://i.postimg.cc/HndcDFtg/toon-goggles.webp"
       },
       {
-       "name": "CANELA KIDS",
-       "uri": "https://amg00658-amg00658c47-canelatv-international-7222.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg00658-canelamediafast-canelakids-canelatvinternational/playlist.m3u8",
-       "icono": "https://i.postimg.cc/6QCpWYqK/canela-kids.webp"
+        "name": "CANELA KIDS",
+        "uri": "https://amg00658-amg00658c47-canelatv-international-7222.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg00658-canelamediafast-canelakids-canelatvinternational/playlist.m3u8",
+        "icono": "https://i.postimg.cc/6QCpWYqK/canela-kids.webp"
       },
       {
         "name": "BABY SHARK",
