@@ -736,6 +736,11 @@
       },
       {
         "name": "FOX SPORTS EN ESPAÑOL",
+        "uri": "https://tubi.apollo.adrise.io/live/fox-sports-en-espanol-bn0ar8.m3u8",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT06ZPP5Nt-Z1_OMSFhZ4MTt4eStfn1VGHj_LLO8Iqjhw&s=10"
+      },
+      {
+        "name": "FOX SPORTS CA",
         "uri": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/worucjnctz/out/v1/20ac5ecdc9b848dc92e7f1188bdf6ff6/cenc.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/KEY_FOX-",
@@ -812,6 +817,11 @@
         "name": "ZONA TUDN",
         "uri": "https://4fd7193b903d414f925451792be9753a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-357-ZONATUDNUS-VIZIO/mt/vizio/357/hls/master/playlist.m3u8",
         "icono": "https://i.imgur.com/oT5CAvd.png"
+      },
+      {
+        "name": "FUBO SPORTS TUBI",
+        "uri": "https://c.tubi1.apollo.adrise.io/live/fubo-sports-network-nb4aie.m3u8",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT82djDyFAxPfGuz4PSJ4ix9dxm7d_ijCVaa7S2IcQA0g&s=10"
       },
       {
         "name": "SKY SPORTS",
