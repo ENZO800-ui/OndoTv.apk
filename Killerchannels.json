@@ -415,8 +415,15 @@
           "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
           "Origin": "https://portal.app.flow.com.py",
           "Referer": "https://portal.app.flow.com.py/"
-        }
+        },
+        {
+         "name": "TYC SPORTS",
+         "uri": "https://live-04-11-tyc-app-web.vodgc.net/tyc24/index.m3u8",
+         "icono": "https://i.ibb.co/gGbp2pF/tyc-2026.png",
+          "headers": {
+            "user-agent": "Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36"
       }
+   }
     ]
   },
   {
@@ -817,11 +824,6 @@
         "name": "ZONA TUDN",
         "uri": "https://4fd7193b903d414f925451792be9753a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-357-ZONATUDNUS-VIZIO/mt/vizio/357/hls/master/playlist.m3u8",
         "icono": "https://i.imgur.com/oT5CAvd.png"
-      },
-      {
-        "name": "FUBO SPORTS TUBI",
-        "uri": "https://c.tubi1.apollo.adrise.io/live/fubo-sports-network-nb4aie.m3u8",
-        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT82djDyFAxPfGuz4PSJ4ix9dxm7d_ijCVaa7S2IcQA0g&s=10"
       },
       {
         "name": "SKY SPORTS",
@@ -1519,11 +1521,59 @@
     "name": "MÚSICALES",
     "samples": [
       {
-        "name": "Ritmos Inolvidables",
-        "uri": "https://amg00658-amg00658c44-canelatv-international-7299.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-channelc-canelatvinternational/playlist.m3u8",
-        "icono": "https://i.postimg.cc/fWcvNHh5/ritmos-inolvidables.webp",
+        "name": "FLOW MUSIC",
+        "uri": "https://cdn-py.cvattv.com.ar/live/c7eds/Flow_Music_XP/SA_Live_dash_enc/Flow_Music_XP.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/FLOW-MUSIC_XP",
+        "icono": "https://static.flow.com.ar/images/673/CH_LOGO/500/500/0/0/95156350075299.png",
         "headers": {
-          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
+      },
+      {
+        "name": "QUIERO MUSICA",
+        "uri": "https://cdn-py.cvattv.com.ar/live/c6eds/Quiero_HD/SA_Live_dash_enc/Quiero_HD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/QUIERO_MUSICATV",
+        "icono": "https://i.imgur.com/RO9Dz3X.png",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
+      },
+      {
+        "name": "CANAL DE LA MUSICA",
+        "uri": "https://cdn-py.cvattv.com.ar/live/c6eds/CM/SA_Live_dash_enc/CM.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/CM",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Logocmtvargentina.png",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
+      },
+      {
+        "name": "EL FOLKLORICO",
+        "uri": "http://stream.t5satelital.blog/hls/elfolklorico.m3u8",
+        "icono": "https://geo.edge.pontiscloud.com:9002/images/4061/CH_LOGO/100/100/0/0/37904303079132.png",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+        }
+      },
+      {
+        "name": "ALLEGRO",
+        "uri": "https://cdn-py.cvattv.com.ar/live/c7eds/AllegroHD/SA_Live_dash_enc/AllegroHD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/ALEGRO",
+        "icono": "https://i.imgur.com/bRH34Rn.png",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
         }
       },
       {
@@ -1638,7 +1688,7 @@
         "headers": {
           "origin": "https://www.izzigo.tv",
           "referer": "https://www.izzigo.tv/",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
         }
       },
       {
@@ -1693,6 +1743,54 @@
         "name": "MOVIE MUSIC BY STINGRAY",
         "uri": "https://d3f4oii5n0oeqi.cloudfront.net/11701/88814585/hls/master.m3u8?ads.xumo_channelId=88814585",
         "icono": "https://i.postimg.cc/mrFCmvpg/movie-music-by-stingray.png"
+      },
+      {
+        "name": "MIMUSICA HITS",
+        "uri": "https://cdn5x.sensa.com.ar/live/sta01/MiMusicaHit/live_dash_cld/MiMusicaHit.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/MIMUSICA_HITS",
+        "icono": "https://geo.edge.pontiscloud.com:9002/images/1808/CH_LOGO/100/100/0/0/82379535077403.png",
+        "headers": {
+          "origin": "https://webclient.ctcplus.com.ar",
+          "referer": "https://webclient.ctcplus.com.ar/",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "MIMUSICA ROMANTICA",
+        "uri": "https://cdn5x.sensa.com.ar/live/sta01/MiMusicaRomantica/live_dash_cld/MiMusicaRomantica.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/MIMUSICA_ROMANTICA",
+        "icono": "https://geo.edge.pontiscloud.com:9002/images/1810/CH_LOGO/100/100/0/0/15712909076760.png",
+        "headers": {
+          "origin": "https://webclient.ctcplus.com.ar",
+          "referer": "https://webclient.ctcplus.com.ar/",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "MIMUSICA REGGAETON",
+        "uri": "https://cdn5x.sensa.com.ar/live/sta01/MiMusicaReggaeton/live_dash_cld/MiMusicaReggaeton.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/MIMUSICA_REGGAETON",
+        "icono": "https://geo.edge.pontiscloud.com:9002/images/1809/CH_LOGO/100/100/0/0/11385912076761.png",
+        "headers": {
+          "origin": "https://webclient.ctcplus.com.ar",
+          "referer": "https://webclient.ctcplus.com.ar/",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "MIMUSICA K-POP",
+        "uri": "https://cdn5x.sensa.com.ar/live/sta01/MiMusicaKPOP/live_dash_cld/MiMusicaKPOP.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/MIMUSICA_K-POP",
+        "icono": "https://geo.edge.pontiscloud.com:9002/images/1802/CH_LOGO/100/100/0/0/50713419076833.png",
+        "headers": {
+          "origin": "https://webclient.ctcplus.com.ar",
+          "referer": "https://webclient.ctcplus.com.ar/",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+        }
       },
       {
         "name": "TIKTOK RADIO",
