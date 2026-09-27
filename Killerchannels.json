@@ -1,4 +1,40 @@
 [
+    {
+    "name": "PARAGUAY VS BOLIVIA",
+    "samples": [
+      {
+        "name": "VS SPORTS",
+        "uri": "https://cdn-py.cvattv.com.ar/live/c7eds/GEN__CAM1/SA_Live_dash_enc/GEN__CAM1.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/VS-SPORTS_PY",
+        "icono": "https://i.ibb.co/CpxTmNvM/vs-sports.png",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
+      },
+      {
+        "name": "FOX SPORTS PREMIUM MX",
+        "uri": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://pqlbatyoaawbhfyldlpw.supabase.co/functions/v1/FS_PREMIUM_LAUMAN",
+        "icono": "https://i.imgur.com/3lOZWeD.png"
+      },
+      {
+        "name": "FOX DEPORTES",
+        "uri": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://pqlbatyoaawbhfyldlpw.supabase.co/functions/v1/FOX_DEPORTES",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqnWoMgNNVSs7Mz64A3PW7Q_N9oFYapHkwLX8ol_hM2w&s=10",
+        "headers": {
+          "User-Agent": "AivAndroidPlayer/1.0 (AndroidDevice)",
+          "Origin": "https://www.primevideo.com",
+          "Referer": "https://www.primevideo.com/"
+        }
+      }
+    ]
+  },
   {
     "name": "MTV VIDEO MUSIC AWARDS 2026",
     "samples": [
