@@ -67,7 +67,7 @@
         "name": "XUPERPLAY SPORTS",
         "uri": "https://videostream.shockmedia.com.ar/hls/yatytaytv/yatytaytv.m3u8",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/TESTING"        
+        "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/TESTING",        
         "icono": "https://i.ibb.co/5X20hxjL/KN-copia-4.png"
       },
       {
