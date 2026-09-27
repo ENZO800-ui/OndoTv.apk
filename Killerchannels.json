@@ -2119,22 +2119,22 @@
       {
         "name": "MUSIC BOX SEXY",
         "uri": "http://88.212.15.19/live/mb_sexy/index.m3u8",
-        "icono": "https://i.postimg.cc/CLPZ0ZN3/music-box-sexy.png"
+        "icono": "https://musicboxsexy.com/music_box_sexy_logo.png"
       },
       {
         "name": "MUSIC BOX HITS",
         "uri": "http://88.212.15.19/live/mb_hits/index.m3u8",
-        "icono": "https://i.postimg.cc/zBFBc3vh/music-box-hits.png"
+        "icono": "https://musicboxhits.com/music_box_hits_logo.png"
       },
       {
         "name": "MUSIC BOX DANCE",
         "uri": "http://88.212.15.19/live/mb_dance/index.m3u8",
-        "icono": "https://i.postimg.cc/2jTydqP6/music-box-dance.png"
+        "icono": "https://musicboxdance.com/music_box_dance_logo.png"
       },
       {
         "name": "MUSIC BOX CLASSIC",
         "uri": "http://88.212.15.19/live/mb_classic/index.m3u8",
-        "icono": "https://i.postimg.cc/d0MVQGT4/music-box-classic.png"
+        "icono": "https://musicboxclassic.com/music_box_classic_logo.png"
       },
       {
         "name": "Billboard",
@@ -2148,56 +2148,56 @@
       },
       {
         "name": "Telehit ",
-        "uri": "https://live1-ott.izzigo.tv/15/out/u/dash/TELEHIT-SD/default.mpd",
+        "uri": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/69onjpmgph/out/v1/bffe5e192607426d850350fcb751674b/cenc.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/TELEHIT",
-        "icono": "https://i.ibb.co/5Y4C401/telehit.png",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvNZFpxuIIglwqt1_ZKzaKmouJf1NtGfVY7NyK1F9tjg&s=10",
         "headers": {
-          "origin": "https://www.izzigo.tv",
-          "referer": "https://www.izzigo.tv/",
-          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+            "Origin": "https://www.primevideo.com",
+            "X-Requested-With": "com.amazon.avod.thirdpartyclient",
+	          "Sec-Fetch-Site": "same-site",
+	          "Sec-Fetch-Mode": "cors",
+      	    "Sec-Fetch-Dest": "empty",
+            "Referer": "https://www.primevideo.com/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"
         }
       },
       {
         "name": "Telehit Música",
-        "uri": "https://live1-ott.izzigo.tv/12/out/u/dash/TELEHIT-MUSICA-SD/default.mpd",
+        "uri": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lv91k1unfv/out/v1/ab233dee5c6a40279e173e3497e36d21/cenc.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/TELEHIT_MUSICA",
-        "icono": "https://i.ibb.co/p4243Nf/Telehit-M-sica.png",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThw3cgUjrL1LerGrfpfgEece8OUOKve6cGNRO9m-PGzA&s=10",
         "headers": {
-          "origin": "https://www.izzigo.tv",
-          "referer": "https://www.izzigo.tv/",
-          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+            "Origin": "https://www.primevideo.com",
+            "X-Requested-With": "com.amazon.avod.thirdpartyclient",
+	          "Sec-Fetch-Site": "same-site",
+	          "Sec-Fetch-Mode": "cors",
+	          "Sec-Fetch-Dest": "empty",
+            "Referer": "https://www.primevideo.com/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"
         }
       },
       {
-        "name": "Telehit  Plus",
-        "uri": "https://live1-ott.izzigo.tv/12/out/u/dash/TELEHIT-MUSICA-PLUS-HD/default.mpd",
+        "name": "Telehit Plus",
+        "uri": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/f7jpwtuowu/out/v1/49b2bba643474563ac665c307e5e5306/cenc.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/TELEHIT_PLUS",
-        "icono": "https://i.postimg.cc/G36X3gB3/telehit-musica-plus.png",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBpSiSTTvp7jO_VsJPXp4Hr4wyi18NjFacuQ3IYzw_yQ&s=10",
         "headers": {
-          "origin": "https://www.izzigo.tv",
-          "referer": "https://www.izzigo.tv/",
-          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+            "Origin": "https://www.primevideo.com",
+            "X-Requested-With": "com.amazon.avod.thirdpartyclient",
+	          "Sec-Fetch-Site": "same-site",
+      	    "Sec-Fetch-Mode": "cors",
+       	    "Sec-Fetch-Dest": "empty",
+            "Referer": "https://www.primevideo.com/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"
         }
       },
       {
         "name": "TeleRitmo",
         "uri": "https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8",
         "icono": "https://i.postimg.cc/bwscY8fp/tele-ritmo.png"
-      },
-      {
-        "name": " Bandamax",
-        "uri": "https://live1-ott.izzigo.tv/12/out/u/dash/BANDAMAX-HD/default.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/BANDAMAX",
-        "icono": "https://i.ibb.co/0D7TMmZ/Bandamax.png",
-        "headers": {
-          "origin": "https://www.izzigo.tv",
-          "referer": "https://www.izzigo.tv/",
-          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
-        }
       },
       {
         "name": "CANAL DE LA MÚSICA",
