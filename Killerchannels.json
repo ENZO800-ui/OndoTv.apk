@@ -1,5 +1,37 @@
 [
   {
+    "name": "MTV VIDEO MUSIC AWARDS 2026",
+    "samples": [
+      {
+        "name": "MTV",
+        "uri": "https://cdn-py.cvattv.com.ar/live/c6eds/MTV_HD/SA_Live_dash_enc/MTV_HD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/MTV",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS77f0Q_ImfwZPBaSiis6NSeH_xDPzDpm7YrWCBPmNEMA&s=10",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
+      },
+      {
+        "name": "MTV PLUTO TV",
+        "uri": "https://jmp2.uk/plu-5fab088b3279760007d4e4fd.m3u8?includeExtendedEvents=true",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6a1mfjZZR_14g1cff1trBXsXMnGc0UnETOcQtCyBE1w&s=10"
+      },
+      {
+        "name": "NOMINADOS SEÑAL 1",
+        "uri": "https://jmp2.uk/plu-6a6ca73147ec53cab451a4e5.m3u8?includeExtendedEvents=true",
+        "icono": "https://www.datocms-assets.com/160962/1749642911-vma_0000001.jpg"
+      },
+      {
+        "name": "NOMINADOS SEÑAL 2",
+        "uri": "https://jmp2.uk/plu-6a6ca7731b1c90d8bfa90a76.m3u8?includeExtendedEvents=true",
+        "icono": "https://www.datocms-assets.com/160962/1749642911-vma_0000001.jpg"
+      }
+    ]
+  },
+  {
     "name": "EVENTOS PY",
     "samples": [
       {
@@ -1106,6 +1138,23 @@
         "name": "RCN+",
         "uri": "https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8",
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzP0S2SHuRBryss2xWYDnZ1R-XkiqnYTCZPsJVPVG4rg&s=10"
+      },
+      {
+        "name": "MTV",
+        "uri": "https://cdn-py.cvattv.com.ar/live/c6eds/MTV_HD/SA_Live_dash_enc/MTV_HD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/MTV",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS77f0Q_ImfwZPBaSiis6NSeH_xDPzDpm7YrWCBPmNEMA&s=10",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
+      },
+      {
+        "name": "MTV PLUTO TV",
+        "uri": "https://jmp2.uk/plu-5fab088b3279760007d4e4fd.m3u8",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6a1mfjZZR_14g1cff1trBXsXMnGc0UnETOcQtCyBE1w&s=10"
       },
       {
         "name": "SONY CHANNEL",
