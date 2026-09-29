@@ -808,6 +808,16 @@
         "uri": "https://jmp2.uk/plu-5dcde07af1c85b0009b18651.m3u8?includeExtendedEvents=true"
       },
       {
+    "name": "BEIN SPORTS Ñ",
+    "uri": "https://lott2-reach-opus.cdn.avp.telus.net/232006003149/vxfmt=dp/manifest.mpd?device_profile=dashvmx",
+    "drm_scheme": "clearkey",
+    "drm_license_uri": "https://delgadolife.net/mundo/api/results.php?key=fdee3698ea4f78fb92ff11dbc3d49028&keyid=11111111111111118111000000000000",
+    "icono": "https://images.fubo.tv/channel-config-ui/station-logos/on-white/bein-sports-en-espanol-logo-main-copy-2.png?WORLDTV6",
+             "headers": {
+    "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.7258.143 Safari/537.36"
+           }
+      },
+      {
         "name": "BEIN SPORTS XTRA Ñ",
         "icono": "https://i.imgur.com/V562tpO.png",
         "uri": "https://bein-esp-xumo.amagi.tv/playlist.m3u8"
