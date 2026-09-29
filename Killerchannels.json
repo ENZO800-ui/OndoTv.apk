@@ -811,7 +811,7 @@
     "name": "BEIN SPORTS Ñ",
     "uri": "https://lott2-reach-opus.cdn.avp.telus.net/232006003149/vxfmt=dp/manifest.mpd?device_profile=dashvmx",
     "drm_scheme": "clearkey",
-    "drm_license_uri": "https://delgadolife.net/mundo/api/results.php?key=fdee3698ea4f78fb92ff11dbc3d49028&keyid=11111111111111118111000000000000",
+    "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/BEIN_SPORTS--",
     "icono": "https://images.fubo.tv/channel-config-ui/station-logos/on-white/bein-sports-en-espanol-logo-main-copy-2.png?WORLDTV6",
              "headers": {
     "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.7258.143 Safari/537.36"
