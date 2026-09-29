@@ -812,14 +812,14 @@
         "uri": "https://lott2-reach-opus.cdn.avp.telus.net/232006003149/vxfmt=dp/manifest.mpd?device_profile=dashvmx",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/BEIN_SPORTS--",
-        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR3O_eBNjBfVvzhBqSrz0QyemPp05FdrP5PnjXoBVsEw&s",
+        "icono": "https://images.fubo.tv/channel-config-ui/station-logos/on-white/bein-sports-en-espanol-logo-main-copy-2.png",
          "headers": {
           "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.7258.143 Safari/537.36"
         }
       },
       {
         "name": "BEIN SPORTS XTRA Ñ",
-        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ5_wsrvwlWGyvAxTbKgms-ckFG4FhzbEAD-EKD6NP_Q&s=10",
+        "icono": "https://images.fubo.tv/channel-config-ui/station-logos/on-white/bein-sports-xtra-en-espanol-main-copy.png",
         "uri": "https://bein-esp-xumo.amagi.tv/playlist.m3u8"
       },
       {
