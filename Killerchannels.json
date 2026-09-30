@@ -395,6 +395,30 @@
         "headers": {
           "user-agent": "Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36"
         }
+      },
+      {
+        "name": "TYC SPORTS INT",
+        "uri": "https://cdn-py.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc/TyC_Internacional.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://pqlbatyoaawbhfyldlpw.supabase.co/functions/v1/TYC_SPORTS_PY",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMQ5Ho-kHmogi_PzgR205SUuIajQW4FAIGSO33cIcIXQ&s=10",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
+      },
+      {
+        "name": "TNT SPORTS AR",
+        "uri": "https://cdn-py.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_wl/TNT_Sports_HD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://pqlbatyoaawbhfyldlpw.supabase.co/functions/v1/TNT_SPORTS_AR",
+        "icono": "https://cdn.aptoide.com/imgs/4/2/f/42f9af941ee13c06b9a90420f2accc64_icon.png",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
       }
     ]
   },
