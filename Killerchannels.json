@@ -1,6 +1,6 @@
 [
   {
-    "name": "EVENTOS PY",
+    "name": "🏆 EVENTOS PY",
     "samples": [
       {
         "name": "EVENTOS",
@@ -56,7 +56,7 @@
     ]
   },
   {
-    "name": "TV PARAGUAY",
+    "name": "🇵🇾 TV PARAGUAY",
     "samples": [
       {
         "name": "SNT",
@@ -324,7 +324,7 @@
     ]
   },
   {
-    "name": "DSPORTS LATAM",
+    "name": "🏆DSPORTS LATAM",
     "samples": [
       {
         "name": "DSPORTS",
@@ -358,33 +358,11 @@
           "referer": "https://www.primevideo.com/",
           "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AivAndroidPlayer/1.0 (AndroidDevice) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
         }
-      },
-      {
-        "name": "DSPORTS URUGUAY",
-        "uri": "https://099ed2f3014c41e78f3c7bc29b21bc11.mediatailor.us-east-1.amazonaws.com/v1/dash/dffceb859a31f14d0ed059ef6b4e2e4d850e60b1/live_1062/1062_DIRECTV_SPORTS_URU_DASH/manifest.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/DSPORTS_URUGUAY",
-        "icono": "https://i.imgur.com/2PoEm1x.png",
-        "headers": {
-          "origin": "android_mobile.directvgo.com",
-          "user-agent": "dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1"
-        }
-      },
-      {
-        "name": "DSPORTS URUGUAY PREMIUN",
-        "uri": "https://099ed2f3014c41e78f3c7bc29b21bc11.mediatailor.us-east-1.amazonaws.com/v1/dash/dffceb859a31f14d0ed059ef6b4e2e4d850e60b1/live_1314/1314_DIRECTV_SPORTS_URU_PLUS_DASH/manifest.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/DSPORTS_PREMIUN_URUGUAY",
-        "icono": "https://i.imgur.com/d2ZVpVo.png",
-        "headers": {
-          "origin": "android_mobile.directvgo.com",
-          "user-agent": "dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1"
-        }
       }
     ]
   },
   {
-    "name": "DEPORTES ARGENTINA",
+    "name": "🏆 DEPORTES FLOW",
     "samples": [
       {
         "name": "FLOW SPORTS",
@@ -421,7 +399,7 @@
     ]
   },
   {
-    "name": "ESPN FLOW",
+    "name": "⚽ ESPN FLOW",
     "samples": [
       {
         "name": "ESPN PREMIUM",
@@ -582,7 +560,7 @@
     ]
   },
   {
-    "name": "ESPN GLOBALES",
+    "name": "⚽ ESPN GLOBALES",
     "samples": [
       {
         "name": "ESPN GLOBAL",
@@ -657,7 +635,7 @@
     ]
   },
   {
-    "name": "FOX SPORTS ARG-MEX",
+    "name": "⚽ FOX SPORTS ARG-MEX",
     "samples": [
       {
         "name": "FOX SPORTS",
@@ -737,15 +715,10 @@
       },
       {
         "name": "FOX SPORTS EN ESPAÑOL",
-        "uri": "https://tubi.apollo.adrise.io/live/fox-sports-en-espanol-bn0ar8.m3u8",
-        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT06ZPP5Nt-Z1_OMSFhZ4MTt4eStfn1VGHj_LLO8Iqjhw&s=10"
-      },
-      {
-        "name": "FOX SPORTS CA",
         "uri": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/worucjnctz/out/v1/20ac5ecdc9b848dc92e7f1188bdf6ff6/cenc.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/KEY_FOX-",
-        "icono": "https://i.postimg.cc/v8tSQ1fQ/fox-sports-en-espanol.png",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT06ZPP5Nt-Z1_OMSFhZ4MTt4eStfn1VGHj_LLO8Iqjhw&s=10",
         "headers": {
           "User-Agent": "AivAndroidPlayer/1.0 (AndroidDevice)",
           "Referer": "https://www.primevideo.com/"
@@ -788,7 +761,7 @@
     ]
   },
   {
-    "name": "MAS DEPORTES",
+    "name": "⚽ MAS DEPORTES",
     "samples": [
       {
         "name": "PLUTO DEPORTES",
@@ -927,7 +900,7 @@
     ]
   },
   {
-    "name": "ESPORTE BRAZIL",
+    "name": "🇧🇷 ESPORTE BRAZIL",
     "samples": [
       {
         "name": "CAZETV",
@@ -1002,7 +975,7 @@
     ]
   },
   {
-    "name": "CULTURA",
+    "name": "🐢 CULTURA",
     "samples": [
       {
         "name": "ANIMAL PLANET",
@@ -1060,7 +1033,7 @@
     ]
   },
   {
-    "name": "CINE Y SERIES",
+    "name": "🎥 CINE Y SERIES",
     "samples": [
       {
         "name": "AXN",
@@ -1192,7 +1165,7 @@
     ]
   },
   {
-    "name": "HBO/UNIVERSAL+",
+    "name": "🎥 HBO/UNIVERSAL+",
     "samples": [
       {
         "name": "HBO",
@@ -1343,7 +1316,7 @@
     ]
   },
   {
-    "name": "INFANTILES",
+    "name": "👶 INFANTILES",
     "samples": [
       {
         "name": "CARTOONITO",
@@ -1611,7 +1584,7 @@
     ]
   },
   {
-    "name": "MÚSICALES",
+    "name": "🎵 MÚSICALES",
     "samples": [
       {
         "name": "FLOW MUSIC",
