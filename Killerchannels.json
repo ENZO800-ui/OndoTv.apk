@@ -1856,7 +1856,7 @@
       },
       {
         "name": "MIMUSICA HITS",
-        "uri": "https://cdn5x.sensa.com.ar/live/sta01/MiMusicaHit/live_dash_cld/MiMusicaHit.mpd",
+        "uri": "https://cdn.sensa.com.ar/live/sta01/MiMusicaHit/live_dash_cld/MiMusicaHit.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/MIMUSICA_HITS",
         "icono": "https://geo.edge.pontiscloud.com:9002/images/1808/CH_LOGO/100/100/0/0/82379535077403.png",
@@ -1868,7 +1868,7 @@
       },
       {
         "name": "MIMUSICA ROMANTICA",
-        "uri": "https://cdn5x.sensa.com.ar/live/sta01/MiMusicaRomantica/live_dash_cld/MiMusicaRomantica.mpd",
+        "uri": "https://cdn.sensa.com.ar/live/sta01/MiMusicaRomantica/live_dash_cld/MiMusicaRomantica.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/MIMUSICA_ROMANTICA",
         "icono": "https://geo.edge.pontiscloud.com:9002/images/1810/CH_LOGO/100/100/0/0/15712909076760.png",
@@ -1880,7 +1880,7 @@
       },
       {
         "name": "MIMUSICA REGGAETON",
-        "uri": "https://cdn5x.sensa.com.ar/live/sta01/MiMusicaReggaeton/live_dash_cld/MiMusicaReggaeton.mpd",
+        "uri": "https://cdn.sensa.com.ar/live/sta01/MiMusicaReggaeton/live_dash_cld/MiMusicaReggaeton.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/MIMUSICA_REGGAETON",
         "icono": "https://geo.edge.pontiscloud.com:9002/images/1809/CH_LOGO/100/100/0/0/11385912076761.png",
@@ -1892,7 +1892,7 @@
       },
       {
         "name": "MIMUSICA K-POP",
-        "uri": "https://cdn5x.sensa.com.ar/live/sta01/MiMusicaKPOP/live_dash_cld/MiMusicaKPOP.mpd",
+        "uri": "https://cdn.sensa.com.ar/live/sta01/MiMusicaKPOP/live_dash_cld/MiMusicaKPOP.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/MIMUSICA_K-POP",
         "icono": "https://geo.edge.pontiscloud.com:9002/images/1802/CH_LOGO/100/100/0/0/50713419076833.png",
