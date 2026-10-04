@@ -404,6 +404,31 @@
         }
       },
       {
+        "name": "PLUTO DEPORTES",
+        "icono": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/5dcde07af1c85b0009b18651/colorLogoPNG_1766080575034.png?format=webp&trim=true",
+        "uri": "https://jmp2.uk/plu-5dcde07af1c85b0009b18651.m3u8?includeExtendedEvents=true&appName=web",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "Origin": "https://pluto.tv",
+          "Referer": "https://pluto.tv/"
+        }
+      },
+      {
+        "name": "BEIN SPORTS Ñ",
+        "uri": "https://lott2-reach-opus.cdn.avp.telus.net/232006003149/vxfmt=dp/manifest.mpd?device_profile=dashvmx",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/BEIN_SPORTS--",
+        "icono": "https://images.fubo.tv/channel-config-ui/station-logos/on-white/bein-sports-en-espanol-logo-main-copy-2.png",
+         "headers": {
+          "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.7258.143 Safari/537.36"
+        }
+      },
+      {
+        "name": "BEIN SPORTS XTRA Ñ",
+        "icono": "https://images.fubo.tv/channel-config-ui/station-logos/on-white/bein-sports-xtra-en-espanol-main-copy.png",
+        "uri": "https://bein-esp-xumo.amagi.tv/playlist.m3u8"
+      },
+      {
         "name": "TYC SPORTS",
         "uri": "https://live-04-11-tyc-app-web.vodgc.net/tyc24/index.m3u8",
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMQ5Ho-kHmogi_PzgR205SUuIajQW4FAIGSO33cIcIXQ&s=10",
@@ -717,31 +742,7 @@
   {
     "name": "⚽ DEPORTES ON DEMAND",
     "samples": [
-      {
-        "name": "PLUTO DEPORTES",
-        "icono": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/5dcde07af1c85b0009b18651/colorLogoPNG_1766080575034.png?format=webp&trim=true",
-        "uri": "https://jmp2.uk/plu-5dcde07af1c85b0009b18651.m3u8?includeExtendedEvents=true&appName=web",
-        "headers": {
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "Origin": "https://pluto.tv",
-          "Referer": "https://pluto.tv/"
-        }
-      },
-      {
-        "name": "BEIN SPORTS Ñ",
-        "uri": "https://lott2-reach-opus.cdn.avp.telus.net/232006003149/vxfmt=dp/manifest.mpd?device_profile=dashvmx",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/BEIN_SPORTS--",
-        "icono": "https://images.fubo.tv/channel-config-ui/station-logos/on-white/bein-sports-en-espanol-logo-main-copy-2.png",
-         "headers": {
-          "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.7258.143 Safari/537.36"
-        }
-      },
-      {
-        "name": "BEIN SPORTS XTRA Ñ",
-        "icono": "https://images.fubo.tv/channel-config-ui/station-logos/on-white/bein-sports-xtra-en-espanol-main-copy.png",
-        "uri": "https://bein-esp-xumo.amagi.tv/playlist.m3u8"
-      },
+
       {
         "name": "CLARO SPORTS",
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJGOJ2Q4cUN2vnmKwyRp74TxVzc3kS7WnXPpK4YI7fQA&s",
