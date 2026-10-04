@@ -93,15 +93,23 @@
         }
       },
       {
-        "name": "TELEFE PY",
-        "uri": "https://cdn-py.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc_wl/TelefeHD.mpd",
+        "name": "CNN PY",
+        "uri": "https://cdn-py.cvattv.com.ar/live/c6eds/CNN_en_Espanol/SA_Live_dash_enc/CNN_en_Espanol.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/TELEFE_PY",
-        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuF_k8seR1DeQ_yLaf2z22qvL8Hm0xpN3QkqGBUbckJg&s",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/CNN_PY",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1280px-CNN.svg.png",
         "headers": {
           "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
           "Origin": "https://portal.app.flow.com.py",
           "Referer": "https://portal.app.flow.com.py/"
+        }
+      },
+      {
+        "name": "TELEFE PY",
+        "uri": "http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuF_k8seR1DeQ_yLaf2z22qvL8Hm0xpN3QkqGBUbckJg&s",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
         }
       },
       {
@@ -159,18 +167,6 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/GEN_PY",
         "icono": "https://i.ibb.co/jyh9z2W/gentv.png",
-        "headers": {
-          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/"
-        }
-      },
-      {
-        "name": "TV PUBLICA PY",
-        "uri": "https://cdn-py.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc_wl/Canal7.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/TV_PUBLICA_PY",
-        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbda-aa735VDp9FC--NL4agumSnCuXH3JXGmA2YOD54Q&s=10",
         "headers": {
           "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
           "Origin": "https://portal.app.flow.com.py",
