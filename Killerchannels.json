@@ -32,11 +32,6 @@
         "icono": "https://i.ibb.co/5X20hxjL/KN-copia-4.png"
       },
       {
-        "name": "XUPERPLAY SPORTS",
-        "uri": "https://videostream.shockmedia.com.ar/hls/yatytaytv/yatytaytv.m3u8",
-        "icono": "https://i.ibb.co/5X20hxjL/KN-copia-4.png"
-      },
-      {
         "name": "N Sports (C. DEL ESTE)",
         "uri": "https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt_1080p.m3u8",
         "icono": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8bbe6817af0af2e0e5a6df96f245b752.webp"
@@ -67,6 +62,16 @@
         "name": "TELEFUTURO",
         "uri": "https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_alta/playlist.m3u8?admin=tvaccion",
         "icono": "https://i.imgur.com/6lVrFvb.png"
+      },
+      {
+        "name": "MONUMENTAL 1080 AM",
+        "uri": "https://rds3gen.desdeparaguay.net/monumentaltv/monumentaltv_med/playlist.m3u8?admin=tvaccion",
+        "icono": "https://i.imgur.com/kEcOYML.png"
+      },
+      {
+        "name": "NPY",
+        "uri": "https://copacogen.desdeparaguay.net/npy/npy_py_alta/playlist.m3u8?admin=tvaccion",
+        "icono": "https://i.ibb.co/sgRZXh9/NPY-Noticias-Paraguay.png"
       },
       {
         "name": "TRECE",
@@ -120,7 +125,7 @@
       {
         "name": "PARAGUAY TV",
         "uri": "https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8",
-        "icono": "https://bestleague.world/img/pytv.png"
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0KeH_DRcDH-my7B90GpKy2o_pg0yhVCwnC-AfTgKPOg&s=10"
       },
       {
         "name": "CANAL PRO",
@@ -140,11 +145,6 @@
         }
       },
       {
-        "name": "NPY",
-        "uri": "https://copacogen.desdeparaguay.net/npy/npy_py_alta/playlist.m3u8?admin=tvaccion",
-        "icono": "https://i.ibb.co/sgRZXh9/NPY-Noticias-Paraguay.png"
-      },
-      {
         "name": "PARAVISIÓN",
         "uri": "https://cdn-py.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_Live_dash_enc/PARAVISION_C4.mpd",
         "drm_scheme": "clearkey",
@@ -159,14 +159,14 @@
       {
         "name": "C9N",
         "uri": "https://d174axghh54kh0.cloudfront.net/ts:abr.m3u8",
-        "icono": "https://bestleague.world/img/c9n.png"
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlZgi3dH4dGXTmCnl2WIU5_FDruZHUYhHE1yQNdJpEow&s=10"
       },
       {
         "name": "GEN",
         "uri": "https://cdn-py.cvattv.com.ar/live/c7eds/GEN_TV/SA_Live_dash_enc/GEN_TV.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/GEN_PY",
-        "icono": "https://i.ibb.co/jyh9z2W/gentv.png",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpW0nrQmGCRDxjlu3vedbv8JTwSvinBoemAZYpTIOMKQ&s=10",
         "headers": {
           "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
           "Origin": "https://portal.app.flow.com.py",
@@ -244,17 +244,12 @@
       {
         "name": "VENUS MEDIA",
         "uri": "https://copacogen.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8",
-        "icono": "https://bestleague.world/img/venus.png"
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI2fu92BzpGT51fo_D33BCXw0LOQGYsLebIrQtFQKwgQ&s=10"
       },
       {
         "name": "ROCK & POP",
         "uri": "https://rds3gen.desdeparaguay.net/rockandpoptv/rockandpoptv_baja/playlist.m3u8",
         "icono": "https://i.ibb.co/MMYLRZV/rocka.png"
-      },
-      {
-        "name": "MONUMENTAL 1080 AM",
-        "uri": "https://rds3gen.desdeparaguay.net/monumentaltv/monumentaltv_med/playlist.m3u8?admin=tvaccion",
-        "icono": "https://i.imgur.com/kEcOYML.png"
       },
       {
         "name": "E40",
@@ -294,12 +289,12 @@
       {
         "name": "RADIO/TV REPÚBLICA 101.3 FM",
         "uri": "https://rds3gen.desdeparaguay.net/republicatv/republicatv/playlist.m3u8",
-        "icono": "https://i.postimg.cc/Y96DgqRZ/radio-tv-republica.png"
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCsocfQtHbssuQB49mOi3jkeR8oH-sHddE5Ry2HH_nxmo_lhZ3U7nU107P&s=10"
       },
       {
         "name": "PRODUCTIVA TV",
         "uri": "https://rds3gen.desdeparaguay.net/productivatv/productivatv_baja/chunklist.m3u8",
-        "icono": "https://i.postimg.cc/2ybtwqbp/productiva-tv.png"
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfUBbH49dP7YGSmYaWY_Vwgg7OKvJ4QTnaJ1gvCW5jOw&s=10"
       },
       {
         "name": "CANAL 12  REGIONAL TV",
@@ -314,32 +309,32 @@
       {
         "name": "VISIÓN TV VILLARRICA",
         "uri": "https://rds3gen.desdeparaguay.net/satelitaltv/satelitaltv/chunklist.m3u8",
-        "icono": "https://i.postimg.cc/fyVSj4Sp/canal-vision-tv.png"
+        "icono": "encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVHa-ueinqVx_A96FyJeTczE56yKBGrTFtyg8PA_k0eg&s=10"
       },
       {
         "name": "CÁRITAS TV",
         "uri": "https://rds3gen.desdeparaguay.net/caritastv/caritastv/playlist.m3u8",
-        "icono": "https://i.postimg.cc/P5nLVXQ2/caritas-tv.png"
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfUBbH49dP7YGSmYaWY_Vwgg7OKvJ4QTnaJ1gvCW5jOw&s=10"
       },
       {
         "name": "ÑANDEJARA ÑE´E TV",
         "uri": "https://rds3gen.desdeparaguay.net/nandejaraneetv/nandejaraneetv/playlist.m3u8",
-        "icono": "https://i.postimg.cc/VLn9kH7Z/nande-jara.png"
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjtnV_mSgh3_41dMG3e1Wyv09S6uEI6NGb5DKBsITumA&s=10"
       },
       {
-        "name": "RCC TV CHAQUEÑA",
+        "name": "RCC",
         "uri": "https://rds3.desdeparaguay.net/rcctv/rcctv/playlist.m3u8",
-        "icono": "https://i.postimg.cc/Y2z94C4V/rcc.png"
+        "icono": "https://yt3.googleusercontent.com/XOx7P3g2qonS4NFT7LfAZWBazUKoXUo6liMfqM2wP0SSafroFtQ5ylOg1-wn_pmNWip3eaDaU2o=s900-c-k-c0x00ffffff-no-rj"
       },
       {
         "name": "TV CHAQUEÑA",
         "uri": "https://rds3gen.desdeparaguay.net/tvchaquena/tvchaquena/playlist.m3u8",
-        "icono": "https://i.postimg.cc/wTZxC8bG/tv-chaquena.png"
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsCH8N-gMcDgYciwiqMYruF8qq4-RRg28QqgcfpZ8rjw&s=10"
       },
       {
         "name": "TVA CORONEL OVIEDO",
         "uri": "https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8",
-        "icono": "https://i.postimg.cc/LX4WNDTj/tva.png"
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBHjoxPHrtLcDBykodEc3e9IMjpLm4zzyF3LBrAvAOJg&s=10"
       }
     ]
   },
@@ -736,13 +731,7 @@
         "name": "FOX XTRA TUBI",
         "uri": "https://aegis-cloudfront-1.tubi.video/0b3b6122-078c-4c89-ae5e-f548b9b1e382/playlist720p.m3u8",
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_qVKfmwp8YJ8wct17HSC0-bVFeGFWPLJhKw&s"
-      }
-    ]
-  },
-  {
-    "name": "⚽ DEPORTES ON DEMAND",
-    "samples": [
-
+      },
       {
         "name": "CLARO SPORTS",
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJGOJ2Q4cUN2vnmKwyRp74TxVzc3kS7WnXPpK4YI7fQA&s",
@@ -980,7 +969,7 @@
       },
       {
         "name": "HISTORIA",
-        "uri": "https://d1k3vzh2ivy22k.cloudfront.net/Historia1080.m3u8",
+        "uri": "https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8",
         "icono": "https://i.imgur.com/VUy8xIG.png"
       }
     ]
