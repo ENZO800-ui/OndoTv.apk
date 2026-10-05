@@ -1003,6 +1003,23 @@
     "name": "🎥 CINE Y SERIES",
     "samples": [
       {
+        "name": "COMEDY CENTRAL",
+        "uri": "https://cdn-py.cvattv.com.ar/live/c7eds/ComedyCentral/SA_Live_dash_enc/ComedyCentral.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/COMEDY_CENTRAL",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTLo0QouNINvoB0ZKEb2Fgggp6yaD1G15MhB5hP3RD5w&s=10",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "referer": "https://portal.app.flow.com.py/",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+        }
+      }
+    ]
+  },
+  {
+    "name": "🎥 CINE Y SERIES",
+    "samples": [
+      {
         "name": "AXN",
         "uri": "https://cdn-py.cvattv.com.ar/live/c7eds/AXNHD/SA_Live_dash_enc/AXNHD.mpd",
         "drm_scheme": "clearkey",
@@ -1042,6 +1059,51 @@
         "name": "AMC EN ESPAÑOL",
         "uri": "https://amc-amcespanol-1-us.plex.wurl.tv/4300.m3u8",
         "icono": "https://i.imgur.com/L1h6W5Q.png"
+      },
+      {
+        "name": "GOLDEN",
+        "uri": "https://cdn-py.cvattv.com.ar/live/c6eds/Golden/SA_Live_dash_enc/Golden.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/GOLDEN",
+        "icono": "https://tvnotiblog.com/wp-content/uploads/2010/03/golden-hd.jpg",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "referer": "https://portal.app.flow.com.py/",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "GOLDEN EDGE",
+        "uri": "https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/xv3tnoayi8/out/v1/46aaaeb778de4cd39893d88a7f93b05a/cenc.mpd",
+		"drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/GOLDEN_EDGE",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUfEzdwfPP9XV_SqGjbC5PTmqtBVuH5zJ4hKwcN6DQ0Q&s=10",
+        "headers": {
+          "Referer": "https://www.primevideo.com/",
+          "User-Agent": "ATVWebPlayerSDK-1.0.238964.0 (AndroidDevice) Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.37"
+        }
+      },
+      {
+        "name": "GOLDEN+",
+        "uri": "https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/o09knwldwh/out/v1/15f9f74c888e4fdd9815ea94635ae4db/cenc.mpd",
+		"drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/GOLDEN-",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjToZdGdEWWjHQIhOfdbB55TDFjQ9pIi8AyusiV9zkFw&s=10",
+        "headers": {
+          "Referer": "https://www.primevideo.com/",
+          "User-Agent": "ATVWebPlayerSDK-1.0.238964.0 (AndroidDevice) Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.37"
+        }
+      },
+      {
+        "name": "GOLDEN PREMIER",
+        "uri": "https://live-pv-ta.amazon.fastly-edge.com/gru-nitro/live/clients/dash/enc/1pyrprmguo/out/v1/e63748f718754f6ca76df9ce757b10f5/cenc.mpd",
+		"drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/GOLDEN_PREMIER",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2hKl-HR_q27tsYe8cay5XRvvnwn_Wo7esjU_ZZMVO1Q&s=10",
+        "headers": {
+          "Referer": "https://www.primevideo.com/",
+          "User-Agent": "ATVWebPlayerSDK-1.0.238964.0 (AndroidDevice) Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.37"
+        }
       },
       {
         "name": "BBC SERIES",
