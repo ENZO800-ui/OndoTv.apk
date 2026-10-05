@@ -98,18 +98,6 @@
         }
       },
       {
-        "name": "CNN PY",
-        "uri": "https://cdn-py.cvattv.com.ar/live/c6eds/CNN_en_Espanol/SA_Live_dash_enc/CNN_en_Espanol.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/CNN_PY",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1280px-CNN.svg.png",
-        "headers": {
-          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/"
-        }
-      },
-      {
         "name": "TELEFE PY",
         "uri": "http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8",
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuF_k8seR1DeQ_yLaf2z22qvL8Hm0xpN3QkqGBUbckJg&s",
@@ -917,6 +905,38 @@
     ]
   },
   {
+    "name": "📰 NOTICIAS",
+    "samples": [
+      {
+        "name": "CNN",
+        "uri": "https://cdn-py.cvattv.com.ar/live/c6eds/CNN_en_Espanol/SA_Live_dash_enc/CNN_en_Espanol.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/CNN_PY",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1280px-CNN.svg.png",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
+      },
+      {
+       "name": "FRANCE 24",
+       "uri": "https://live-evg8.tv360.bitel.com.pe/bitel/france24SRT/playlist.m3u8",
+       "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZZaacRJ1zu8hYr0JbsXYjegg-a50qoXDpebdcb4sNw&s=10"
+      },
+      {
+       "name": "EURONEWS",
+       "uri": "https://cdn-euronews.akamaized.net/live/eds/euronews-es/25053/euronews-es-avc1_3300000=19-mp4a_143200_esp=27.m3u8",
+       "icono": "https://images.pluto.tv/channels/619d59b7cbef25000728221c/thumbnail.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=2&q=50"
+      },
+      {
+       "name": "DEUTSCHE WELLE",
+       "uri": "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8",
+       "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROqeNhkPiXfQn4BskmhwJ5x8cak0hW4oHtiFYPctzFmQ&s"
+      }
+    ]
+  },
+  {
     "name": "🐢 CULTURA",
     "samples": [
       {
@@ -930,6 +950,11 @@
           "referer": "https://portal.app.flow.com.py/",
           "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
         }
+      },
+      {
+       "name": "CGTN DOCUMENTARY",
+       "uri": "https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8",
+       "icono": "https://i.postimg.cc/Kc1QLqwB/cgtn-documentary.png"
       },
       {
         "name": "HISTORY",
@@ -2379,28 +2404,6 @@
   {
     "name": "PRUEBA",
     "samples": [
-      {
-        "name": "EVENTOS 2",
-        "uri": "https://chromecast.cvattv.com.ar/live/c4eds/Eventos2_PY/SA_Live_dash_widevine/Eventos2_PY.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/EVENTOS-_PY",
-        "icono": "https://i.ibb.co/3WZtzG3/eventos-py.png",
-        "headers": {
-          "Origin": "Android"
-        }
-      },
-      {
-        "name": "EVENTOS 2",
-        "uri": "https://cdn.cvattv.com.ar/live/c4eds/Eventos2_PY/SA_Live_dash_cenc/Eventos2_PY.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/EVENTOS-_PY",
-        "icono": "https://i.ibb.co/3WZtzG3/eventos-py.png",
-        "headers": {
-          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/"
-        }
-      },
       {
         "name": "NUNCA LO VEAS",
         "uri": "https://drive.usercontent.google.com/download?id=1aGzU6lQBCPlu7432Ml0v6FCxgXV4ENTO&export=download&authuser=0&confirm=t&uuid=fc1641bf-47fe-4377-b1d8-2075f3eff98b&at=AMrWOn3552Abzh2cllE7qm1XIoK5:1790251889300",
