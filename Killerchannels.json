@@ -2467,6 +2467,18 @@
     "name": "PRUEBA",
     "samples": [
       {
+        "name": "VS SPORTS",
+        "uri": "https://cdn-py.cvattv.com.ar/live/c7eds/GEN__CAM1/SA_Live_dash_enc/GEN__CAM1.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_VSSPORTSPY",
+        "icono": "",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
+      },
+      {
         "name": "NUNCA LO VEAS",
         "uri": "https://drive.usercontent.google.com/download?id=1aGzU6lQBCPlu7432Ml0v6FCxgXV4ENTO&export=download&authuser=0&confirm=t&uuid=fc1641bf-47fe-4377-b1d8-2075f3eff98b&at=AMrWOn3552Abzh2cllE7qm1XIoK5:1790251889300",
         "icono": "https://cdn.worldvectorlogo.com/logos/test.svg"
