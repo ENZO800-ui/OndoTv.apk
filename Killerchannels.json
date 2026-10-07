@@ -1020,6 +1020,18 @@
     "name": "🎥 CINE Y SERIES",
     "samples": [
       {
+        "name": "A&E",
+        "uri": "https://cdn-py.cvattv.com.ar/live/c7eds/AEHD/SA_Live_dash_enc/AEHD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_A-E",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkHKJVrKm8SEqKbnqXaU-EJHtAOFtQ5onu6NbnxI5Q-Q&s=10",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "referer": "https://portal.app.flow.com.py/",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+        }
+      },
+      {
         "name": "AXN",
         "uri": "https://cdn-py.cvattv.com.ar/live/c7eds/AXNHD/SA_Live_dash_enc/AXNHD.mpd",
         "drm_scheme": "clearkey",
@@ -1059,6 +1071,59 @@
         "name": "AMC EN ESPAÑOL",
         "uri": "https://amc-amcespanol-1-us.plex.wurl.tv/4300.m3u8",
         "icono": "https://i.imgur.com/L1h6W5Q.png"
+      },
+      {
+        "name": "FX",
+        "uri": "https://cdn-py.cvattv.com.ar/live/c3eds/FXHD/SA_Live_dash_enc/FXHD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_FX",
+        "icono": "https://www.univision.com/_next/image?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fassets%2Fvixes%2Fpictures%2Fpicture-19775-1537813823.jpg&w=1280&q=75",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "referer": "https://portal.app.flow.com.py/",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "SPACE",
+        "uri": "https://cdn-py.cvattv.com.ar/live/c3eds/Space/SA_Live_dash_enc/Space.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_Space",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXU_UFBJv20gzRYIbF_iNSaP4y61pJ2WkyPbtJ9yoYiA&s=10",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "referer": "https://portal.app.flow.com.py/",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "STAR CHANNEL",
+        "uri": "https://cdn-py.cvattv.com.ar/live/c3eds/FOXHD/SA_Live_dash_enc/FOXHD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_StarChannel",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShGAO--n2E4lo5yhnPZ1c8P0cL8eorNcve_cAqafSC5A&s=10",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "referer": "https://portal.app.flow.com.py/",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "TLN",
+        "uri": "http://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk9JnR-AA7rzhgj-0WAYBf8qFKIHxWM5O0srGW3AOB8Q&s=10"
+      },
+      {
+        "name": "TNT",
+        "uri": "https://cdn-py.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_Live_dash_enc/TNT_HD_Arg.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_TNT",
+        "icono": "https://yt3.googleusercontent.com/uT8xSich9ht0OyZRQgrlYRD2J9nP_bi-vU6V3jjLBUxK15Rem0njRvQmPdy-r-tqKUMKbeCSKA=s900-c-k-c0x00ffffff-no-rj",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "referer": "https://portal.app.flow.com.py/",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+        }
       },
       {
         "name": "GOLDEN",
@@ -1121,6 +1186,18 @@
         "icono": "https://images.pluto.tv/channels/668c5cb4f01dbe0008dd4082/thumbnail.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=2&q=50"
       },
       {
+        "name": "CINEMAX",
+        "uri": "https://cdn-py.cvattv.com.ar/live/c6eds/Cinemax/SA_Live_dash_enc/Cinemax.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_CINEMAX",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZfyV8RM-CTfRGf0OdM5dw24T87HkLRlOy3d9pxRXy7Q&s=10",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "referer": "https://portal.app.flow.com.py/",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+        }
+      },
+      {
         "name": "GRJNGO",
         "uri": "https://amogonetworx-grjngo-2-eu.plex.wurl.tv/playlist.m3u8",
         "icono": "https://tse1.mm.bing.net/th/id/OIP.cz3dWFe5nyXVR46GXjNdegHaEK?rs=1&pid=ImgDetMain&o=7&rm=3"
@@ -1151,6 +1228,11 @@
         "name": "PASIONES",
         "uri": "http://45.224.97.181:9999/Pasiones/tracks-v1a1/mono.m3u8",
         "icono": "https://ipuntotv.com/IMAGES/Cabezales/4625.jpg"
+      },
+      {
+        "name": "TODO NOVELAS",
+        "uri": "https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8",
+        "icono": "https://yt3.googleusercontent.com/f4ClnogtOTfPmuEMCIMGHDRU8OXZK7J7V448aoGa7ZoLI1WLYqZazZ9pyJoYRwwBfZXMUkHAY3o=s900-c-k-c0x00ffffff-no-rj"
       },
       {
         "name": "TODO NOVELAS, MAS PASIONES",
@@ -2466,18 +2548,6 @@
   {
     "name": "PRUEBA",
     "samples": [
-      {
-        "name": "VS SPORTS",
-        "uri": "https://cdn-py.cvattv.com.ar/live/c7eds/GEN__CAM1/SA_Live_dash_enc/GEN__CAM1.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_VSSPORTSPY",
-        "icono": "",
-        "headers": {
-          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/"
-        }
-      },
       {
         "name": "NUNCA LO VEAS",
         "uri": "https://drive.usercontent.google.com/download?id=1aGzU6lQBCPlu7432Ml0v6FCxgXV4ENTO&export=download&authuser=0&confirm=t&uuid=fc1641bf-47fe-4377-b1d8-2075f3eff98b&at=AMrWOn3552Abzh2cllE7qm1XIoK5:1790251889300",
