@@ -448,7 +448,7 @@
         "uri": "https://cdn-py.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_wl/Fox_Sports_Premiun_HD.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://pqlbatyoaawbhfyldlpw.supabase.co/functions/v1/ESPN_PLUS",
-        "icono": "https://static.wikia.nocookie.net/logopedia/images/5/55/ESPN_Premium_blanco.png/revision/latest/scale-to-width-down/50?cb=20220501173330&path-prefix=es",
+        "icono": "https://cdn.prod.website-files.com/605a3cacba514a77ca2e6ab5/69d43e41647215b0a66f37c6_espnpremium.jpg",
         "headers": {
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
           "Origin": "https://portal.app.flow.com.py",
@@ -460,7 +460,7 @@
         "uri": "https://cdn-py.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://pqlbatyoaawbhfyldlpw.supabase.co/functions/v1/ESPN_ARG",
-        "icono": "https://static.wikia.nocookie.net/logopedia/images/3/34/ESPN.svg/revision/latest/scale-to-width-down/50?cb=20201130040927",
+        "icono": "https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/400/400/0/0/25899985073189.png",
         "headers": {
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
           "Origin": "https://portal.app.flow.com.py",
@@ -544,7 +544,7 @@
         "uri": "https://cdn-py.cvattv.com.ar/live/c4eds/ESPN_UY/SA_Live_dash_enc/ESPN_UY.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://pqlbatyoaawbhfyldlpw.supabase.co/functions/v1/ESPN_URU",
-        "icono": "https://static.wikia.nocookie.net/logopedia/images/3/34/ESPN.svg/revision/latest/scale-to-width-down/50?cb=20201130040927",
+        "icono": "https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/400/400/0/0/25899985073189.png",
         "headers": {
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
           "Origin": "https://portal.app.flow.com.py",
@@ -556,7 +556,7 @@
         "uri": "https://cdn-py.cvattv.com.ar/live/c4eds/ESPN2_PY/SA_Live_dash_enc/ESPN2_PY.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://pqlbatyoaawbhfyldlpw.supabase.co/functions/v1/ESPN_PRY",
-        "icono": "https://static.wikia.nocookie.net/logopedia/images/3/34/ESPN.svg/revision/latest/scale-to-width-down/50?cb=20201130040927",
+        "icono": "https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/400/400/0/0/25899985073189.png",
         "headers": {
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
           "Origin": "https://portal.app.flow.com.py",
