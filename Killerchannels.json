@@ -1133,6 +1133,26 @@
         "icono": "https://i.imgur.com/L1h6W5Q.png"
       },
       {
+        "name": "CINECANAL",
+        "uri": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/Cinecanal-key/playlist.m3u8",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA31IBe3dprSK1d0dWWQrOsiN5IaKZA1z9P0A8HAyXQg&s=10"
+      },
+      {
+        "name": "CINE HISPANO",
+        "uri": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cinehispano.stream/playlist.m3u8",
+        "icono": "https://pelisjuanita.com/tv/logos/cine-hispano.png"
+      },
+      {
+        "name": "CINE FAMILIAR",
+        "uri": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cinefamiliar.stream/playlist.m3u8",
+        "icono": "https://pelisjuanita.com/tv/logos/cine-familiar.png"
+      },
+      {
+        "name": "CINE PREMIUM",
+        "uri": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cinepremium.stream/chunks.m3u8",
+        "icono": "https://pelisjuanita.com/tv/logos/cine-premium.png"
+      },
+      {
         "name": "FX",
         "uri": "https://cdn-py.cvattv.com.ar/live/c3eds/FXHD/SA_Live_dash_enc/FXHD.mpd",
         "drm_scheme": "clearkey",
