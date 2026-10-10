@@ -1916,17 +1916,17 @@
         }
       },
       {
-        "name": "Stingray HITS! UK",
+        "name": "Stingray HITS! 4K",
         "uri": "https://lott5-web-opus.cdn.avp.telus.net/232006004108/vxfmt=dp/manifest.mpd?device_profile=dashvmx",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/STINGRAY_HITS-4K",
-        "icono": "https://gn-images-stb-opus.cdn.avp.telus.net/assets/s108571_ld_h15_aa.png?w=400",
+        "icono": "https://static.wikia.nocookie.net/logopedia/images/4/45/Stingray_Hits_4K.svg/revision/latest?cb=20191120224230",
         "headers": {
           "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
         }
       },
       {
-        "name": "Stingray HITS! US",
+        "name": "Stingray HITS!",
         "uri": "https://live1-ott.izzigo.tv/6/out/u/dash/SKY-STINGRAY-HITS-HD-H265/default.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/STINGRAY_HITS-",
@@ -1950,7 +1950,7 @@
         "uri": "https://live1-ott.izzigo.tv/8/out/u/dash/SKY-STINGRAY-JUICEBOX-HD-H265/default.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/STINGRAY_JUICEBOX",
-        "icono": "https://i.postimg.cc/MZcjG0DV/stingray-juicebox.png",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFzP_a-fIStvXpjt-a_pl9PX_8SJS_C34Q_LyVD1pQJA&s=10",
         "headers": {
           "origin": "https://www.izzigo.tv",
           "referer": "https://www.izzigo.tv/",
@@ -1962,7 +1962,7 @@
         "uri": "https://live1-ott.izzigo.tv/8/out/u/dash/STINGRAY-RETRO-HD-H265/default.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/STINGRAY_RETRO",
-        "icono": "https://i.postimg.cc/4yC4ycft/stingray-retro.png",
+        "icono": "https://gn-images-stb-opus.cdn.avp.telus.net/assets/s104957_ld_h15_aa.png",
         "headers": {
           "origin": "https://www.izzigo.tv",
           "referer": "https://www.izzigo.tv/",
@@ -2202,33 +2202,33 @@
       },
       {
         "name": "XITE HITS",
-        "uri": "https://xite-rakuten.amagi.tv/playlist.m3u8",
-        "icono": "https://i.postimg.cc/YCJZJZCX/xite-hits.png"
+        "uri": "https://d726x48n2pd5h.cloudfront.net/XITE_Hits.m3u8",
+        "icono": "https://i.imgur.com/N51Rp7E.png"
       },
       {
         "name": "XITE HITS DE",
         "uri": "https://xite-germany-lg.amagi.tv/playlist.m3u8",
-        "icono": "https://i.postimg.cc/YCJZJZCX/xite-hits.png"
+        "icono": "https://i.imgur.com/N51Rp7E.png"
       },
       {
         "name": "XITE HITS UK",
         "uri": "https://amg01243-xitenetworksint-hitsuk-samsunguk-mvovq.amagi.tv/playlist/amg01243-xitenetworksint-hitsuk-samsunguk/playlist.m3u8",
-        "icono": "https://i.postimg.cc/YCJZJZCX/xite-hits.png"
+        "icono": "https://i.imgur.com/N51Rp7E.png"
       },
       {
         "name": "XITE CELEBRATES",
         "uri": "https://dt1s4l2cmiyit.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fcwpee1h7t5cs/XITE_Celebrates.m3u8",
-        "icono": "https://i.postimg.cc/25SLNc9Z/xite-celebrates.png"
+        "icono": "https://i.imgur.com/coSrUwV.png"
       },
       {
         "name": "XITE ROCK X METAL",
         "uri": "https://d198ro05q94rc4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-c5xdq9qwilrd2/XITE_Rock_On.m3u8",
-        "icono": "https://i.postimg.cc/Fs7XJjdQ/xite-rock-x-metal.png"
+        "icono": "https://i.imgur.com/uIIUIuN.png"
       },
       {
         "name": "XITE 60s & 70s GROOVE",
         "uri": "https://amg01243-xite-amg01243c16-tcl-us-6476.playouts.now.amagi.tv/480p-cc/index.m3u8",
-        "icono": "https://i.postimg.cc/6Qkp5r31/xite-60-70.png"
+        "icono": "https://provider-static.plex.tv/epg/cms/production/8889551a-8796-41d0-b6b5-c7fad08fb62e/xite60s70sgroove_logo_WHT-_Arlette_FiranRDX.png"
       },
       {
         "name": "XITE 80s FLASHBACK",
@@ -2238,22 +2238,22 @@
       {
         "name": "XITE 90s THROWBACK",
         "uri": "https://d284aawtm5vi48.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fjdfi2br1jtq7/XITE_90s_Throwback.m3u8",
-        "icono": "https://i.postimg.cc/bwB20XRw/xite-90s.png"
+        "icono": "https://i.imgur.com/vwpOzuz.png"
       },
       {
         "name": "XITE JUST CHILL",
         "uri": "https://dvnftgdlbnemm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dh48uzd9o895t/XITE_Just_Chill.m3u8",
-        "icono": "https://i.postimg.cc/K8NmFmC9/xite-just-chill.png"
+        "icono": "https://provider-static.plex.tv/epg/cms/production/927dd614-017d-49dd-9eb9-0ed79d09084e/xitejustchill_logo_light_-_Arlette_FiranRDX.png"
       },
       {
         "name": "XITE NUEVO LATINO",
         "uri": "https://d3bsgqzbpkrvbb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w288eaw03izg1/XITE_Nuevo_Latino.m3u8",
-        "icono": "https://i.postimg.cc/Bny1Tcn9/xite-nuevo-latino.png"
+        "icono": "https://i.imgur.com/2qyl2y3.png"
       },
       {
         "name": "XITE SIEMPRE LATINO",
         "uri": "https://d1xc25jm9e0l4b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xplkt8i7m24dc/XITE_Siempre_Latino.m3u8",
-        "icono": "https://i.postimg.cc/YC8dMPRN/xite-siempre-latino.png"
+        "icono": "https://i.imgur.com/bwmIEgG.png"
       },
       {
         "name": "XITE CHRISTIAN HITS",
@@ -2288,7 +2288,7 @@
       {
         "name": "XITE CLASSIC COUNTRY",
         "uri": "https://d2xm7fwgbakh1x.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ltmgkaa20sgt9/XITE_Countrys_Finest.m3u8",
-        "icono": "https://i.postimg.cc/8CD1W7gB/xite-classic-country.png"
+        "icono": "https://i.imgur.com/XQrMCkT.png"
       },
       {
         "name": "XITE COUNTRY TODAY",
