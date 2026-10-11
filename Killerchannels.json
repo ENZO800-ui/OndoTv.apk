@@ -1320,6 +1320,11 @@
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzP0S2SHuRBryss2xWYDnZ1R-XkiqnYTCZPsJVPVG4rg&s=10"
       },
       {
+        "name": "RCNovelas",
+        "uri": "https://cdnlive.klicgo.net/rcnnovelas/live/playlist.m3u8",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBYOcESKTND71ZxEc0juz5Cx9tzlqlbj3gnzxrEXdfIA&s=10"
+      },
+      {
         "name": "MTV",
         "uri": "https://cdn-py.cvattv.com.ar/live/c6eds/MTV_HD/SA_Live_dash_enc/MTV_HD.mpd",
         "drm_scheme": "clearkey",
