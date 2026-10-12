@@ -1293,11 +1293,6 @@
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5QcDkoYnerdi1LhNIHNfngtzmeZMmVXhCYRhHW_WKkg&s=10"
       },
       {
-        "name": "CBS SERIES",
-        "uri": "https://jmp2.uk/plu-668c5cb4f01dbe0008dd4082.m3u8",
-        "icono": "https://images.pluto.tv/channels/668c5cb4f01dbe0008dd4082/thumbnail.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=2&q=50"
-      },
-      {
         "name": "CINEMAX",
         "uri": "https://cdn-py.cvattv.com.ar/live/c6eds/Cinemax/SA_Live_dash_enc/Cinemax.mpd",
         "drm_scheme": "clearkey",
@@ -1337,13 +1332,8 @@
         }
       },
       {
-        "name": "MTV PLUTO TV",
-        "uri": "https://jmp2.uk/plu-5fab088b3279760007d4e4fd.m3u8",
-        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6a1mfjZZR_14g1cff1trBXsXMnGc0UnETOcQtCyBE1w&s=10"
-      },
-      {
         "name": "PASIONES",
-        "uri": "http://45.224.97.181:9999/Pasiones/tracks-v1a1/mono.m3u8",
+        "uri": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/pasiones/chunks.m3u8",
         "icono": "https://ipuntotv.com/IMAGES/Cabezales/4625.jpg"
       },
       {
@@ -1607,11 +1597,6 @@
         }
       },
       {
-        "name": "PLUTO JUNIOR",
-        "uri": "https://jmp2.uk/plu-5dcde2ac4bc6c500094ab45b.m3u8",
-        "icono": "https://images.pluto.tv/channels/5dcde2ac4bc6c500094ab45b/thumbnail.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=2&q=50?worldtv2"
-      },
-      {
         "name": "NICKELODEON",
         "uri": "https://cdn-py.cvattv.com.ar/live/c3eds/Nickelodeon/SA_Live_dash_enc/Nickelodeon.mpd",
         "drm_scheme": "clearkey",
@@ -1636,26 +1621,6 @@
         }
       },
       {
-        "name": "NICKTOONS",
-        "uri": "https://jmp2.uk/plu-645952687cb4b100084ed52e.m3u8",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/b/be/Nicktoons_Logo_2023.svg"
-      },
-      {
-        "name": "TEENNICK",
-        "uri": "https://jmp2.uk/plu-5fab09a8749b1a00077d35d2.m3u8",
-        "icono": "https://i.postimg.cc/ZqHkBP66/teennick.png"
-      },
-      {
-        "name": "NICK JR. CLUB",
-        "uri": "https://jmp2.uk/plu-5ddd7cb2cbb9010009b4fe32.m3u8",
-        "icono": "https://images.pluto.tv/channels/67f3eb1c443f0671bc03ece8/colorLogoSVG.svg"
-      },
-      {
-        "name": "NICK REWIND",
-        "uri": "https://jmp2.uk/plu-6824cda00101510f9eeaa011.m3u8",
-        "icono": "https://i.imgur.com/Bw8rdAb.png"
-      },
-      {
         "name": "BITME",
         "uri": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qej0n9zmvv/out/v1/93a227dbeef84293b95683c10fd88da2/cenc.mpd",
         "drm_scheme": "clearkey",
@@ -1670,11 +1635,6 @@
         "name": "CLAN",
         "uri": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_dvr_720.m3u8",
         "icono": "https://i.postimg.cc/cL8vJm6W/clan-2026-worldtv2.png"
-      },
-      {
-        "name": "PLUTO KIDS",
-        "uri": "https://jmp2.uk/plu-5dd6dae8ce788b0009eaf77b.m3u8",
-        "icono": "https://images.pluto.tv/channels/5dd6dae8ce788b0009eaf77b/thumbnail.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=2&q=50?worldtv2"
       },
       {
         "name": "TOONCAST",
@@ -1745,14 +1705,6 @@
         }
       },
       {
-        "name": "EL REINO INFANTIL PLUTO TV",
-        "uri": "https://jmp2.uk/plu-5f4d3d06fb60d8000781fce8.m3u8",
-        "icono": "https://images.pluto.tv/channels/5f4d3d06fb60d8000781fce8/thumbnail.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=2&q=50",
-        "headers": {
-          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
-        }
-      },
-      {
         "name": "DREAMWORKS",
         "uri": "https://cdn-py.cvattv.com.ar/live/c7eds/Dreamworks/SA_Live_dash_enc/Dreamworks.mpd",
         "drm_scheme": "clearkey",
@@ -1798,11 +1750,6 @@
         "name": "CANELA KIDS",
         "uri": "https://amg00658-amg00658c47-canelatv-international-7222.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg00658-canelamediafast-canelakids-canelatvinternational/playlist.m3u8",
         "icono": "https://i.postimg.cc/6QCpWYqK/canela-kids.webp"
-      },
-      {
-        "name": "BABY SHARK",
-        "uri": "https://jmp2.uk/plu-619d5e6a093e7c0007489211.m3u8",
-        "icono": "https://i.ibb.co/NVJJNnQ/Pinkfong-Baby-Shark.png"
       },
       {
         "name": "DIOS TE VE KIDS",
