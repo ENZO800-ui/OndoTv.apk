@@ -1117,16 +1117,18 @@
       },
       {
         "name": "BAND",
-        "uri": "https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8",
-        "icono": "https://i.ibb.co/WpzKSZb8/band.png",
-        "headers": {
-          "referer": "https://embedcanais.com/"
-        }
+        "uri": "http://170.84.165.204/BAND_HD/index.m3u8",
+        "icono": "https://i.ibb.co/WpzKSZb8/band.png"
       },
       {
         "name": "BAND SPORTS",
         "uri": "http://45.162.64.114/BAND_SPORTS/index.m3u8",
         "icono": "https://i.ibb.co/WWrRh4X/Band-Sports.png"
+      },
+      {
+        "name": "PLUTO ESPORTE",
+        "uri": "https://jmp2.uk/plu-5f32d2db0af67400077f29c4.m3u8",
+        "icono": "https://images.pluto.tv/channels/5f32d2db0af67400077f29c4/colorLogoSVG.svg"
       },
       {
         "name": "SPORTV",
