@@ -892,22 +892,11 @@
         }
       },
       {
-        "name": "FOX SPORTS EN ESPAÑOL",
-        "uri": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/worucjnctz/out/v1/20ac5ecdc9b848dc92e7f1188bdf6ff6/cenc.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/KEY_FOX-",
-        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT06ZPP5Nt-Z1_OMSFhZ4MTt4eStfn1VGHj_LLO8Iqjhw&s=10",
-        "headers": {
-          "User-Agent": "AivAndroidPlayer/1.0 (AndroidDevice)",
-          "Referer": "https://www.primevideo.com/"
-        }
-      },
-      {
-        "name": "FOX ONE",
+        "name": "FOX",
         "uri": "https://live1-ott.izzigo.tv/13/out/u/dash/FOX-HD/default.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://pqlbatyoaawbhfyldlpw.supabase.co/functions/v1/FOX_PAYTV",
-        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTknsC9CT3uvhzZ_G84etTy6euushlOX6Y4fiMu130srg&s=10",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQszGNTIJ9mYxPJoZgP1Ik9oRbJ-TL92jKaQV1PJZ37nQ&s",
         "headers": {
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
           "Origin": "https://www.izzigo.tv",
@@ -928,13 +917,15 @@
       },
       {
         "name": "FOX TUBI",
-        "uri": "https://amg00733-tubi-amg00733c2-tubi-us-8155.playouts.now.amagi.tv/playlist.m3u8",
-        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_qVKfmwp8YJ8wct17HSC0-bVFeGFWPLJhKw&s"
-      },
-      {
-        "name": "FOX XTRA TUBI",
-        "uri": "https://aegis-cloudfront-1.tubi.video/0b3b6122-078c-4c89-ae5e-f548b9b1e382/playlist720p.m3u8",
-        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_qVKfmwp8YJ8wct17HSC0-bVFeGFWPLJhKw&s"
+        "uri": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/worucjnctz/out/v1/20ac5ecdc9b848dc92e7f1188bdf6ff6/cenc.mpd",
+        "icono": "https://foxone.asset.viewlift.com/images/2025/12/01/fox-tubi-logo-1764604643459.png",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/KEY_FOX-",
+        "icono": "https://foxone.asset.viewlift.com/images/2025/12/01/fox-tubi-logo-1764604643459.png",
+        "headers": {
+          "User-Agent": "AivAndroidPlayer/1.0 (AndroidDevice)",
+          "Referer": "https://www.primevideo.com/"
+        }
       },
       {
         "name": "CLARO SPORTS",
@@ -1102,6 +1093,26 @@
           "User-Agent": "AivAndroidPlayer/1.0 (AndroidDevice)"
         },
         "drm_scheme": "clearkey"
+      }
+    ]
+  },
+  {
+    "name": "BEIN SPORTS",
+    "samples": [
+      {
+        "name": "BEIN SPORTS Ñ",
+        "uri": "https://lott2-reach-opus.cdn.avp.telus.net/232006003149/vxfmt=dp/manifest.mpd?device_profile=dashvmx",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/BEIN_SPORTS--",
+        "icono": "https://images.fubo.tv/channel-config-ui/station-logos/on-white/bein-sports-en-espanol-logo-main-copy-2.png",
+         "headers": {
+          "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.7258.143 Safari/537.36"
+        }
+      },
+      {
+        "name": "BEIN SPORTS XTRA Ñ",
+        "icono": "https://images.fubo.tv/channel-config-ui/station-logos/on-white/bein-sports-xtra-en-espanol-main-copy.png",
+        "uri": "https://bein-esp-xumo.amagi.tv/playlist.m3u8"
       }
     ]
   },
