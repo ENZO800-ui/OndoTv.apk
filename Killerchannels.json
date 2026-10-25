@@ -2261,54 +2261,6 @@
         "icono": "https://i.postimg.cc/mrFCmvpg/movie-music-by-stingray.png"
       },
       {
-        "name": "MIMUSICA HITS",
-        "uri": "https://cdn.sensa.com.ar/live/sta01/MiMusicaHit/live_dash_cld/MiMusicaHit.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/MIMUSICA_HITS",
-        "icono": "https://geo.edge.pontiscloud.com:9002/images/1808/CH_LOGO/100/100/0/0/82379535077403.png",
-        "headers": {
-          "origin": "https://webclient.ctcplus.com.ar",
-          "referer": "https://webclient.ctcplus.com.ar/",
-          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "MIMUSICA ROMANTICA",
-        "uri": "https://cdn.sensa.com.ar/live/sta01/MiMusicaRomantica/live_dash_cld/MiMusicaRomantica.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/MIMUSICA_ROMANTICA",
-        "icono": "https://geo.edge.pontiscloud.com:9002/images/1810/CH_LOGO/100/100/0/0/15712909076760.png",
-        "headers": {
-          "origin": "https://webclient.ctcplus.com.ar",
-          "referer": "https://webclient.ctcplus.com.ar/",
-          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "MIMUSICA REGGAETON",
-        "uri": "https://cdn.sensa.com.ar/live/sta01/MiMusicaReggaeton/live_dash_cld/MiMusicaReggaeton.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/MIMUSICA_REGGAETON",
-        "icono": "https://geo.edge.pontiscloud.com:9002/images/1809/CH_LOGO/100/100/0/0/11385912076761.png",
-        "headers": {
-          "origin": "https://webclient.ctcplus.com.ar",
-          "referer": "https://webclient.ctcplus.com.ar/",
-          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "MIMUSICA K-POP",
-        "uri": "https://cdn.sensa.com.ar/live/sta01/MiMusicaKPOP/live_dash_cld/MiMusicaKPOP.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/MIMUSICA_K-POP",
-        "icono": "https://geo.edge.pontiscloud.com:9002/images/1802/CH_LOGO/100/100/0/0/50713419076833.png",
-        "headers": {
-          "origin": "https://webclient.ctcplus.com.ar",
-          "referer": "https://webclient.ctcplus.com.ar/",
-          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
-        }
-      },
-      {
         "name": "TIKTOK RADIO",
         "uri": "https://d3f4oii5n0oeqi.cloudfront.net/11701/88814594/hls/master.m3u8?ads.xumo_channelId=88814594",
         "icono": "https://i.postimg.cc/LsbR87mL/tiktok-radio.png"
@@ -2434,11 +2386,6 @@
         "icono": "https://i.postimg.cc/PrDV845d/vevo-retro-rock.png"
       },
       {
-        "name": "METAL ROCKS",
-        "uri": "https://amg00771-amg00771c5-rakuten-gb-9713.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00771-kochfilmsfast-metalrocks-rakutengb/playlist.m3u8",
-        "icono": "https://images.plex.tv/photo?size=medium-360&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F4171a6a6-6d73-481a-ad91-15166befee06%2FChannel_Logo_MetalRocks_Color_-_Ricardo_RivasRDX.png"
-      },
-      {
         "name": "XITE HITS",
         "uri": "https://d726x48n2pd5h.cloudfront.net/XITE_Hits.m3u8",
         "icono": "https://i.imgur.com/N51Rp7E.png"
@@ -2535,23 +2482,51 @@
       },
       {
         "name": "MUSIC BOX SEXY",
-        "uri": "http://88.212.15.19/live/mb_sexy/index.m3u8",
-        "icono": "https://musicboxsexy.com/music_box_sexy_logo.png"
+        "uri": "https://dash2.antik.sk/stream/hisi_mb_sexy/playlist_cbcs.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "https://drm.antik.sk/widevine/key",
+        "icono": "https://musicboxsexy.com/music_box_sexy_logo.png",
+        "headers": {
+            "Origin": "https://webtv.sk",
+            "Referer": "https://webtv.sk/",
+            "User-Agent": "AntikTVExoPlayer/1.1.47 (Linux;Android 15) ExoPlayerLib/2.14.2 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"
+        }
       },
       {
         "name": "MUSIC BOX HITS",
-        "uri": "http://88.212.15.19/live/mb_hits/index.m3u8",
-        "icono": "https://musicboxhits.com/music_box_hits_logo.png"
+        "uri": "https://dash2.antik.sk/stream/hisi_mb_hits/playlist_cbcs.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "https://drm.antik.sk/widevine/key",
+        "icono": "https://musicboxhits.com/music_box_hits_logo.png",
+        "headers": {
+            "Origin": "https://webtv.sk",
+            "Referer": "https://webtv.sk/",
+            "User-Agent": "AntikTVExoPlayer/1.1.47 (Linux;Android 15) ExoPlayerLib/2.14.2 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"
+        }
       },
       {
         "name": "MUSIC BOX DANCE",
-        "uri": "http://88.212.15.19/live/mb_dance/index.m3u8",
-        "icono": "https://musicboxdance.com/music_box_dance_logo.png"
+        "uri": "https://dash2.antik.sk/stream/hisi_mb_dance/playlist_cbcs.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "https://drm.antik.sk/widevine/key",
+        "icono": "https://musicboxdance.com/music_box_dance_logo.png",
+        "headers": {
+            "Origin": "https://webtv.sk",
+            "Referer": "https://webtv.sk/",
+            "User-Agent": "AntikTVExoPlayer/1.1.47 (Linux;Android 15) ExoPlayerLib/2.14.2 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"
+        }
       },
       {
         "name": "MUSIC BOX CLASSIC",
-        "uri": "http://88.212.15.19/live/mb_classic/index.m3u8",
-        "icono": "https://musicboxclassic.com/music_box_classic_logo.png"
+        "uri": "https://dash2.antik.sk/stream/hisi_mb_classics/playlist_cbcs.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "https://drm.antik.sk/widevine/key",
+        "icono": "https://musicboxclassic.com/music_box_classic_logo.png",
+        "headers": {
+            "Origin": "https://webtv.sk",
+            "Referer": "https://webtv.sk/",
+            "User-Agent": "AntikTVExoPlayer/1.1.47 (Linux;Android 15) ExoPlayerLib/2.14.2 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"
+        }
       },
       {
         "name": "Billboard",
@@ -2600,13 +2575,12 @@
         "uri": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/f7jpwtuowu/out/v1/49b2bba643474563ac665c307e5e5306/cenc.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/TELEHIT_PLUS",
-        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBpSiSTTvp7jO_VsJPXp4Hr4wyi18NjFacuQ3IYzw_yQ&s=10",
         "headers": {
             "Origin": "https://www.primevideo.com",
             "X-Requested-With": "com.amazon.avod.thirdpartyclient",
 	          "Sec-Fetch-Site": "same-site",
-      	    "Sec-Fetch-Mode": "cors",
-       	    "Sec-Fetch-Dest": "empty",
+	          "Sec-Fetch-Mode": "cors",
+	          "Sec-Fetch-Dest": "empty",
             "Referer": "https://www.primevideo.com/",
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"
         }
@@ -2893,12 +2867,24 @@
     "samples": [
       {
         "name": "VS SPORTS AR",
-        "uri": "https://cdn-py.cvattv.com.ar/live/c7eds/GEN__CAM1/SA_Live_dash_enc/GEN__CAM1.mpd",
+        "uri": "https://chromecast.cvattv.com.ar/live/c7eds/GEN__CAM1/SA_Live_dash_cenc/GEN__CAM1.mpd?*",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/VS-SPORTS_PY",
         "icono": "https://i.ibb.co/CpxTmNvM/vs-sports.png",
         "headers": {
-          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
+          "Origin": "https://portal.app.flow.com.ar",
+          "Referer": "https://portal.app.flow.com.ar/"
+        }
+      },
+      {
+        "name": "VS SPORTS AR",
+        "uri": "https://chromecast.cvattv.com.ar/live/c7eds/GEN__CAM1/SA_Live_dash_widevine/GEN__CAM1.mpd?*",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/VS-SPORTS_PY",
+        "icono": "https://i.ibb.co/CpxTmNvM/vs-sports.png",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
           "Origin": "https://portal.app.flow.com.ar",
           "Referer": "https://portal.app.flow.com.ar/"
         }
