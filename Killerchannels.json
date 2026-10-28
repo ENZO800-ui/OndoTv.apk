@@ -1,25 +1,5 @@
 [
   {
-    "name": "🏆 PREMIOS 70´S BALLON D´OR 2026",
-    "samples": [
-      {
-        "name": "STREAM LIVE",
-        "uri": "https://dq37unyetkpcz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m04j89j7k5gtp/LEquipe_FR.m3u8",
-        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5seZttnL1HgI8NGslC1h-51aEK5d50w-XlcOLSzNx3A&s"
-      },
-      {
-        "name": "STREAM LIVE ES",
-        "uri": "https://dai.google.com/linear/hls/event/_OKWx76jT7mivD6d-25QAw/master.m3u8",
-        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5seZttnL1HgI8NGslC1h-51aEK5d50w-XlcOLSzNx3A&s"
-      },
-      {
-        "name": "STREAM LIVE ES",
-        "uri": "https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.m3u8",
-        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5seZttnL1HgI8NGslC1h-51aEK5d50w-XlcOLSzNx3A&s"
-      }
-    ]
-  },
-  {
     "name": "🏆 EVENTOS PY",
     "samples": [
       {
@@ -76,26 +56,6 @@
         "icono": "https://i.ibb.co/5X20hxjL/KN-copia-4.png"
       },
       {
-        "name": "TIGO INDEX",
-        "uri": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/0fd608d0807c48edb4713da6b80e8c34/index.m3u8",
-        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTryfD3M6t1A4mLhgUUna5rokiGO-KJ6ss7CoTp6VzUow&s=10"
-      },
-      {
-        "name": "TIGO EVENTOS ",
-        "uri": "https://lbgo.bozztv.com/ssh101/ssh101/events1py/playlist.m3u8",
-        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTryfD3M6t1A4mLhgUUna5rokiGO-KJ6ss7CoTp6VzUow&s=10"
-      },
-      {
-        "name": "TIGO EVENTOS 2",
-        "uri": "https://lbgo.bozztv.com/ssh101/ssh101/events2py/playlist.m3u8",
-        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTryfD3M6t1A4mLhgUUna5rokiGO-KJ6ss7CoTp6VzUow&s=10"
-      },
-      {
-        "name": "TIGO EVENTOS 3",
-        "uri": "https://lbgo.bozztv.com/ssh101/ssh101/events3py/playlist.m3u8",
-        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTryfD3M6t1A4mLhgUUna5rokiGO-KJ6ss7CoTp6VzUow&s=10"
-      },
-      {
         "name": "N SPORTS (C. DEL ESTE)",
         "uri": "https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt_1080p.m3u8",
         "icono": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8bbe6817af0af2e0e5a6df96f245b752.webp"
@@ -107,7 +67,7 @@
     "samples": [
       {
         "name": "SNT",
-        "uri": "https://d3epa8orr2qy3m.cloudfront.net/ts:abr.m3u8",
+        "uri": "https://d2h2wh04y3aqtb.cloudfront.net/hls/25646ipbno2g/4_3/index.m3u8",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/a/af/SNT_LOGO.jpg"
       },
       {
@@ -198,7 +158,7 @@
       },
       {
         "name": "C9N",
-        "uri": "https://d174axghh54kh0.cloudfront.net/ts:abr.m3u8",
+        "uri": "https://ddycmnicl95kp.cloudfront.net/live/qnxsy62odjyb/master.m3u8",
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlZgi3dH4dGXTmCnl2WIU5_FDruZHUYhHE1yQNdJpEow&s=10"
       },
       {
@@ -948,9 +908,14 @@
         }
       },
       {
-        "name": "CLARO SPORTS",
-        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJGOJ2Q4cUN2vnmKwyRp74TxVzc3kS7WnXPpK4YI7fQA&s",
+        "name": "CLARO SPORTS LATAM",
+        "icono": "https://i.ibb.co/6chwhjB2/claro-sports.png",
         "uri": "https://d1cfxove8uup6f.cloudfront.net/live/20d97871-da2b-4b9a-9ad5-5c1be98c37e1/live.isml/manifest.mpd"
+      },
+      {
+        "name": "CLARO SPORTS MX/C.A.",
+        "uri": "https://dai.google.com/linear/hls/event/_OKWx76jT7mivD6d-25QAw/master.m3u8",
+        "icono": "https://i.ibb.co/6chwhjB2/claro-sports.png"
       },
       {
         "name": "Red Bull TV",
