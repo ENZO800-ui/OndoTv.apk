@@ -1202,6 +1202,18 @@
         }
       },
       {
+        "name": "DISCOVERY TURBO",
+        "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c7eds//DiscoveryTurbo/SA_Live_dash_enc_wl/DiscoveryTurbo.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "0f55ecc6486bcae9fd3f53271fc16ad8:eeb7df5969fc58b5771f2f3bc7502ad5",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcHxpOVKnUe9L8VyarWFKx1mkDBiI3EhvuLjv-ipdZYw&s",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "referer": "https://portal.app.flow.com.py/",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+        }
+      },
+      {
        "name": "CGTN DOCUMENTARY",
        "uri": "https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8",
        "icono": "https://i.postimg.cc/Kc1QLqwB/cgtn-documentary.png"
