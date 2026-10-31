@@ -2851,6 +2851,14 @@
     "name": "PRUEBA",
     "samples": [
       {
+        "name": "TV CANARA",
+        "uri": "https://cdn-flow-balancer.app.flow.com.ar/live/c4eds/TV_Camara/SA_Live_dash_enc_wl/TV_Camara.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "cd3c8a1978041cab3f4e78633b480d27:a196a0703d3712e4ffcd5fcad131c336",
+        "icono": "http://imgfz.com/i/QTcoH5d.jpeg",
+        "headers": "{\"Origin\":\"https://portal.app.flow.com.py\",\"Referer\":\"https://portal.app.flow.com.py/\",\"User-Agent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36\"}"
+      },
+      {
         "name": "NUNCA LO VEAS",
         "uri": "https://drive.usercontent.google.com/download?id=1aGzU6lQBCPlu7432Ml0v6FCxgXV4ENTO&export=download&authuser=0&confirm=t&uuid=fc1641bf-47fe-4377-b1d8-2075f3eff98b&at=AMrWOn3552Abzh2cllE7qm1XIoK5:1790251889300",
         "icono": "https://cdn.worldvectorlogo.com/logos/test.svg"
