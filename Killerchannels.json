@@ -1203,7 +1203,7 @@
       },
       {
         "name": "DISCOVERY TURBO",
-        "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c7eds//DiscoveryTurbo/SA_Live_dash_enc_wl/DiscoveryTurbo.mpd",
+        "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c7eds/DiscoveryTurbo/SA_Live_dash_enc/DiscoveryTurbo.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "0f55ecc6486bcae9fd3f53271fc16ad8:eeb7df5969fc58b5771f2f3bc7502ad5",
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcHxpOVKnUe9L8VyarWFKx1mkDBiI3EhvuLjv-ipdZYw&s",
