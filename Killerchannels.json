@@ -213,6 +213,11 @@
         "icono": "https://i.ibb.co/jz9XkvP/e40.png"
       },
       {
+        "name": "TROPICALIA",
+        "uri": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/67.m3u8",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbbRYmkluQAHNv-cuc9yMVgm_SJUSIo5Z1PjABbiB2Zg&s=10"
+      },
+      {
         "name": "RADIO FARRA",
         "uri": "https://stream.farra.com.py/live/farra.m3u8",
         "icono": "https://i.ibb.co/99DzY4J/farra-play.png"
