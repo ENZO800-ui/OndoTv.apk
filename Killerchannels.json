@@ -1173,9 +1173,13 @@
     "samples": [
       {
         "name": "A3SEIRES",
-        "uri": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/a3series.stream/chunks.m3u8",
+        "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c7eds/A3_Series/SA_Live_dash_enc_wl/A3_Series.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/A3SEIRES",
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoSNFbWzvgbgCHqOiWOu_MP8FemTgljfmlstEutPLQZQ&s=10",
         "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "referer": "https://portal.app.flow.com.py/",
           "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
         }
       },
@@ -1234,23 +1238,15 @@
       },
       {
         "name": "CINECANAL",
-        "uri": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/Cinecanal-key/playlist.m3u8",
-        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA31IBe3dprSK1d0dWWQrOsiN5IaKZA1z9P0A8HAyXQg&s=10"
-      },
-      {
-        "name": "CINE HISPANO",
-        "uri": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cinehispano.stream/playlist.m3u8",
-        "icono": "https://pelisjuanita.com/tv/logos/cine-hispano.png"
-      },
-      {
-        "name": "CINE FAMILIAR",
-        "uri": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cinefamiliar.stream/playlist.m3u8",
-        "icono": "https://pelisjuanita.com/tv/logos/cine-familiar.png"
-      },
-      {
-        "name": "CINE PREMIUM",
-        "uri": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cinepremium.stream/chunks.m3u8",
-        "icono": "https://pelisjuanita.com/tv/logos/cine-premium.png"
+        "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c3eds/CinecanalHD/SA_Live_dash_enc_wl/CinecanalHD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/CINECANAL",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA31IBe3dprSK1d0dWWQrOsiN5IaKZA1z9P0A8HAyXQg&s=10",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "referer": "https://portal.app.flow.com.py/",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+        }
       },
       {
         "name": "FX",
@@ -1286,17 +1282,25 @@
       },
       {
         "name": "TNT",
-        "uri": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/tnt/playlist.m3u8",
+        "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_Live_dash_enc_wl/TNT_HD_Arg.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/TNT",
         "icono": "https://yt3.googleusercontent.com/uT8xSich9ht0OyZRQgrlYRD2J9nP_bi-vU6V3jjLBUxK15Rem0njRvQmPdy-r-tqKUMKbeCSKA=s900-c-k-c0x00ffffff-no-rj",
         "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "referer": "https://portal.app.flow.com.py/",
           "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
         }
       },
       {
         "name": "TNT SERIES",
-        "uri": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/TNTseries.stream/playlist.m3u8",
+        "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c3eds/TNTSeries/SA_Live_dash_enc_wl/TNTSeries.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/TNT_SERIES",
         "icono": "https://pbs.twimg.com/profile_images/837305655262330880/qQPwpyZH_400x400.jpg",
         "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "referer": "https://portal.app.flow.com.py/",
           "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
         }
       },
@@ -1391,9 +1395,13 @@
     "samples": [
       {
         "name": "TNT NOVELAS",
-        "uri": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/tntnovelas.stream/chunks.m3u8",
+        "uri": "https://edge-mix01-ros.cvattv.com.ar//out/v1/TNT_NOVELAS/SA_Live_dash_enc_wl/TBS.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/TNT_NOVELAS",
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpFqD4dS3PfKCFzZ_Gws0o1hSvZYya3clDHrDbqK0US3FFgSZL1gnEMWq8&s=10",
         "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "referer": "https://portal.app.flow.com.py/",
           "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
         }
       },
@@ -1418,9 +1426,46 @@
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw6TLw_RmJcZ0TRAxBqOlB7syYm8Q8yKqtdMPRVWcrRA&s=10"
       },
       {
+        "name": "PLUTO.TV TELENOVELAS",
+        "uri": "https://jmp2.uk/plu-5dcde0cc2efd2700090b7ff4.m3u8",
+        "icono": "https://images.pluto.tv/channels/60b4c06717da110007ee1af6/colorLogoSVG_1733440520243.svg"
+      },
+      {
+        "name": "PLUTO.TV TELENOVELAS CLASICAS",
+        "uri": "https://jmp2.uk/plu-662a69daa0a74e00087a1c72.m3u8",
+        "icono": "https://images.pluto.tv/channels/662a69daa0a74e00087a1c72/colorLogoSVG.svg"
+      },
+      {
+        "name": "PLUTO.TV NOVELAS DE MEXICO",
+        "uri": "https://jmp2.uk/plu-6474a7958e3c0a0008b97cae.m3u8",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0fr4PMQf3bl31hqQlr69nL4BqUXrnqG6yVK_PRqdwig&s"
+      },
+      {
+        "name": "PLUTO.TV NOVELAS DE VENEZUELA",
+        "uri": "https://jmp2.uk/plu-6474a86917f5e100089a0c1c.m3u8",
+        "icono": "https://images.pluto.tv/channels/6474a86917f5e100089a0c1c/featuredImage_1765471713313.jpg"
+      },
+      {
+        "name": "PLUTO.TV NOVELAS DE OTROS CONTINENTES",
+        "uri": "https://jmp2.uk/plu-686eed4c677f2f98b4a1ccd4.m3u8",
+        "icono": "https://images.pluto.tv/channels/686eed4c677f2f98b4a1ccd4/colorLogoSVG_1765466599084.svg"
+      },
+      {
         "name": "TLN",
         "uri": "http://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8",
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk9JnR-AA7rzhgj-0WAYBf8qFKIHxWM5O0srGW3AOB8Q&s=10"
+      },
+      {
+        "name": "TLNovelas",
+        "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c6eds/Telenovelas/SA_Live_dash_enc_wl/Telenovelas.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/TLNovelas",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpFqD4dS3PfKCFzZ_Gws0o1hSvZYya3clDHrDbqK0US3FFgSZL1gnEMWq8&s=10",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "referer": "https://portal.app.flow.com.py/",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+        }
       },
       {
         "name": "CANELA.TV ACCION MEXICANA",
@@ -1443,8 +1488,18 @@
         "icono": "https://pelisjuanita.com/tv/logos/canelatv-novelas-turcas.png"
       },
       {
+        "name": "LATIDOS",
+        "uri": "https://azt-cz.otteravision.com/azt/cz/cz.m3u8",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCu5dUOjrtORcXz-8FTHT1AjrrUECKkvznaIRIExCkBpz4Q467UZma&s"
+      },
+      {
+        "name": "LAS ESTRELLAS",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png",
+        "uri": "https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8"
+      },
+      {
         "name": "PASIONES",
-        "uri": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/pasiones/chunks.m3u8",
+        "uri": "http://45.224.97.181:9999/Pasiones/tracks-v1a1/mono.m3u8",
         "icono": "https://ipuntotv.com/IMAGES/Cabezales/4625.jpg"
       },
       {
