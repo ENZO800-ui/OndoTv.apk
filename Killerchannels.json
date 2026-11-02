@@ -1238,7 +1238,7 @@
       },
       {
         "name": "CINECANAL",
-        "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c3eds/CinecanalHD/SA_Live_dash_enc_wl/CinecanalHD.mpd",
+        "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c3eds/CinecanalHD/SA_Live_dash_enc/CinecanalHD.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/CINECANAL",
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA31IBe3dprSK1d0dWWQrOsiN5IaKZA1z9P0A8HAyXQg&s=10",
@@ -1262,9 +1262,13 @@
       },
       {
         "name": "SPACE",
-        "uri": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/space.stream/playlist.m3u8",
+        "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c3eds/Space/SA_Live_dash_enc/Space.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/SPEACE",
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXU_UFBJv20gzRYIbF_iNSaP4y61pJ2WkyPbtJ9yoYiA&s=10",
         "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "referer": "https://portal.app.flow.com.py/",
           "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
         }
       },
@@ -1395,7 +1399,7 @@
     "samples": [
       {
         "name": "TNT NOVELAS",
-        "uri": "https://edge-mix01-ros.cvattv.com.ar//out/v1/TNT_NOVELAS/SA_Live_dash_enc_wl/TBS.mpd",
+        "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c6eds/TBS/SA_Live_dash_enc/TBS.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/TNT_NOVELAS",
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpFqD4dS3PfKCFzZ_Gws0o1hSvZYya3clDHrDbqK0US3FFgSZL1gnEMWq8&s=10",
