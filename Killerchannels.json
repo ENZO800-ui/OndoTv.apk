@@ -2018,7 +2018,378 @@
     ]
   },
   {
-    "name": "🎵 MÚSICALES",
+    "name": "🎵 STINGRAY PACK",
+    "samples": [
+      {
+        "name": "STINGRAY LOUD",
+        "uri": "https://lott5-web-opus.cdn.avp.telus.net/232006004120/vxfmt=dp/manifest.mpd?device_profile=dashvmx",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/STINGRAY_LOUD",
+        "icono": "https://gn-images-stb-opus.cdn.avp.telus.net/assets/s104955_ld_h15_aa.png?w=400",
+        "headers": {
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "STINGRAY VIBE",
+        "uri": "https://lott5-web-opus.cdn.avp.telus.net/232006004119/vxfmt=dp/manifest.mpd?device_profile=dashvmx",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/STINGRAY_VIBE",
+        "icono": "https://gn-images-stb-opus.cdn.avp.telus.net/assets/s104956_ld_h15_aa.png?w=400",
+        "headers": {
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "STINGRAY FESTIVAL",
+        "uri": "https://lott3-stb-opus.cdn.avp.telus.net/232006004231/vxfmt=dp/manifest.mpd?device_profile=dashvmx",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/STINGRAY_FESTIVAL",
+        "icono": "https://images.ctfassets.net/8utyj17y1gom/4mcs4Lo3QhnPyINCeu6M7Z/055e05d60f9f225aa3273c92c413f53b/Desktop_TVChannelPage_Festival.png?w=400",
+        "headers": {
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "STINGRAY HITS! 4K",
+        "uri": "https://lott5-web-opus.cdn.avp.telus.net/232006004108/vxfmt=dp/manifest.mpd?device_profile=dashvmx",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/STINGRAY_HITS-4K",
+        "icono": "https://gn-images-stb-opus.cdn.avp.telus.net/assets/s108571_ld_h15_aa.png?w=400",
+        "headers": {
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "STINGRAY HITS!",
+        "uri": "https://live1-ott.izzigo.tv/6/out/u/dash/SKY-STINGRAY-HITS-HD-H265/default.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/STINGRAY_HITS-",
+        "icono": "https://gn-images-stb-opus.cdn.avp.telus.net/assets/s108571_ld_h15_aa.png?w=400",
+        "headers": {
+          "origin": "https://www.izzigo.tv",
+          "referer": "https://www.izzigo.tv/",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "STINGRAY CLASSICA",
+        "uri": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray/classica-cla008-montreal/distrotv/master.m3u8?ads.dpname=distrotv&ads.rnd=2irm&ads.env_i=1df9896d-c1d0-45e5-8f1a-47c8ce63320e&ads.env_u=&ads.name=DistroTV&ads.bundle=&ads.storeurl=&ads.appCategory=entertainment&ads.app_version=202105131041&ads.width=984&ads.height=553&ads.deviceId=&ads.deviceDNT=0&ads.gdpr=0&ads.us_privacy=0&ads.aid=&ads.deviceMake=Web&ads.deviceIdType=localStorage&ads.deviceConnectionType=2&ads.deviceCategory=web&ads.client_ip=96.0.50.248&ads.geo=CL&ads.lat=-33.45210&ads.long=-70.65360&ads.dma=&ads.geoType=2&ads.contentid=22865&ads.content_duration=18000&ads.episode_id=35970&ads.show_id=1104&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Music%2CMusic%20Video%2CClassical%20Music%2CEnglish&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=Stingray%20Classica&ads.episodetitle=Classica&ads.keywords=stingray%2Cclassica&ads.contenturl=https%3A%2F%2Fwww.google.com%2F&ads.gdprConsent=&ads.paln=&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=napCoUTJsja",
+        "icono": "https://i.postimg.cc/Fzk3S0Xx/stingray-classica.png",
+        "headers": {
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "STINGRAY JUICEBOX",
+        "uri": "https://live1-ott.izzigo.tv/8/out/u/dash/SKY-STINGRAY-JUICEBOX-HD-H265/default.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/STINGRAY_JUICEBOX",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFzP_a-fIStvXpjt-a_pl9PX_8SJS_C34Q_LyVD1pQJA&s=10",
+        "headers": {
+          "origin": "https://www.izzigo.tv",
+          "referer": "https://www.izzigo.tv/",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "STINGRAY RETRO",
+        "uri": "https://live1-ott.izzigo.tv/8/out/u/dash/STINGRAY-RETRO-HD-H265/default.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/STINGRAY_RETRO",
+        "icono": "https://gn-images-stb-opus.cdn.avp.telus.net/assets/s104957_ld_h15_aa.png",
+        "headers": {
+          "origin": "https://www.izzigo.tv",
+          "referer": "https://www.izzigo.tv/",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "PALMARÈSADISQ PAR STINGRAY",
+        "uri": "https://lott3-web-opus.cdn.avp.telus.net/232006004107/vxfmt=dp/manifest.mpd?device_profile=dashvmx",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/STINGRAY_PALMAR-SADISQ",
+        "icono": "https://gn-images-stb-opus.cdn.avp.telus.net/assets/s108572_ld_h15_aa.png?w=400",
+        "headers": {
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "STINGRAY COUNTRY",
+        "uri": "https://lott2-web-opus.cdn.avp.telus.net/232006004084/vxfmt=dp/manifest.mpd?device_profile=dashvmx",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/STINGRAY_COUNTRY",
+        "icono": "https://gn-images-stb-opus.cdn.avp.telus.net/assets/s21642_ld_h8_aa.png?w=400",
+        "headers": {
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "STINGRAY NOW 4K",
+        "uri": "https://lott4-stb-opus.cdn.avp.telus.net/232006004232/vxfmt=dp/manifest.mpd?device_profile=dashvmx",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/STINGRAY_NOW_4K",
+        "icono": "https://videostars.stingray.com/images/now4k-channel.png?w=400",
+        "headers": {
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "STINGRAY iCONCERTS",
+        "uri": "https://dash4.antik.sk/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3lrCNErQ3GVpyWZx0bZytQv5xIy1vOHjWpuNpX9qB2Q&s=10"
+      },
+      {
+        "name": "QELLO CONCERTS BY STINGRAY",
+        "uri": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray/qello-qello001-montreal/distrotv/master.m3u8?ads.dpname=distrotv&ads.rnd=w1sc&ads.env_i=b5a80031-f6a3-468d-bc31-43e7d78fbc98&ads.env_u=&ads.name=DistroTV&ads.bundle=&ads.storeurl=&ads.appCategory=entertainment&ads.app_version=202105131041&ads.width=601&ads.height=338&ads.deviceId=&ads.deviceDNT=0&ads.gdpr=0&ads.us_privacy=0&ads.aid=&ads.deviceMake=Web&ads.deviceIdType=localStorage&ads.deviceConnectionType=2&ads.deviceCategory=web&ads.client_ip=96.0.50.248&ads.geo=CL&ads.lat=-33.45210&ads.long=-70.65360&ads.dma=&ads.geoType=2&ads.contentid=22865&ads.content_duration=18000&ads.episode_id=35967&ads.show_id=1101&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Music%2CMusic%20Video%2CEnglish&ads.showRating=TV-PG&ads.episodeRating=TV-PG&ads.language=en&ads.showtitle=Qello%20Concerts&ads.episodetitle=Qello&ads.keywords=stingray%2Cqello&ads.contenturl=https%3A%2F%2Fwww.google.com%2F&ads.gdprConsent=&ads.paln=&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=RQY0AGlmJWe",
+        "icono": "https://i.ibb.co/LQ4BkD1/Qello-Stingray.png",
+        "headers": {
+          "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "STINGRAY DJAZZ",
+        "uri": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray/djazz-djaads-montreal/distrotv/master.m3u8?ads.dpname=distrotv&ads.rnd=en6g&ads.env_i=8bb3b6e2-496c-4637-823c-9eab5d611b2a&ads.env_u=&ads.name=DistroTV&ads.bundle=&ads.storeurl=&ads.appCategory=entertainment&ads.app_version=202105131041&ads.width=601&ads.height=338&ads.deviceId=&ads.deviceDNT=0&ads.gdpr=0&ads.us_privacy=0&ads.aid=&ads.deviceMake=Web&ads.deviceIdType=localStorage&ads.deviceConnectionType=2&ads.deviceCategory=web&ads.client_ip=96.0.50.248&ads.geo=CL&ads.lat=-33.45210&ads.long=-70.65360&ads.dma=&ads.geoType=2&ads.contentid=22865&ads.content_duration=18000&ads.episode_id=35971&ads.show_id=1105&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Music%2CMusic%20Video%2CJAzz%2CEnglish&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=Stingray%20DJAZZ&ads.episodetitle=DJazz&ads.keywords=stingray%2Cdjazz&ads.contenturl=https%3A%2F%2Fwww.google.com%2F&ads.gdprConsent=&ads.paln=&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=O4kUIMQ5Oiq",
+        "icono": "https://i.ibb.co/g6FnxXk/Stingray-Djazz.png"
+      },
+      {
+        "name": "MOVIE MUSIC BY STINGRAY",
+        "uri": "https://d3f4oii5n0oeqi.cloudfront.net/11701/88814585/hls/master.m3u8?ads.xumo_channelId=88814585",
+        "icono": "https://i.postimg.cc/mrFCmvpg/movie-music-by-stingray.png"
+      },
+      {
+        "name": "TIKTOK RADIO",
+        "uri": "https://d3f4oii5n0oeqi.cloudfront.net/11701/88814594/hls/master.m3u8?ads.xumo_channelId=88814594",
+        "icono": "https://i.postimg.cc/LsbR87mL/tiktok-radio.png"
+      },
+      {
+        "name": "KARAOKE POR STINGRAY",
+        "uri": "https://jmp2.uk/plu-5f85cf621d6d2200079f1de0.m3u8",
+        "icono": "https://images.pluto.tv/channels/5f85cf621d6d2200079f1de0/colorLogoPNG.png",
+        "headers": {
+          "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "NATURESCAPE",
+        "uri": "https://jmp2.uk/plu-5812bd9f249444e05d09cc4e.m3u8",
+        "icono": "https://i.imgur.com/882kd90.png",
+        "headers": {
+          "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "PLUTO TV KARAOKE BY STINGRAT",
+        "uri": "https://jmp2.uk/plu-604b99d633a72b00078e05ad.m3u8",
+        "icono": "https://images.pluto.tv/channels/5f85cf621d6d2200079f1de0/colorLogoPNG.png",
+        "headers": {
+          "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "PLUTO TV SHOWS POR STINGRAY",
+        "uri": "https://jmp2.uk/plu-604b91e0692f770007d9f33f.m3u8",
+        "icono": "https://images.pluto.tv/channels/604b91e0692f770007d9f33f/colorLogoPNG.png",
+        "headers": {
+          "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "STINGRAY CITYSCAPES",
+        "uri": "https://aka-live1050.delivery.roku.com/7572d640-7373-4137-8b14-a3afff395349/t2-origin/out/v1/live.m3u8",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZlXPCl4ze9lr2DnadYazKxuyyEEWmgO1O1Q&s",
+        "headers": {
+          "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "STINGRAY CLASSIC ROCK",
+        "uri": "https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8",
+        "icono": "https://i.imgur.com/FBgu8yB.png",
+        "headers": {
+          "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "STINGRAY COZY CAFE",
+        "uri": "https://aka-live1050.delivery.roku.com/372c813e-1fb9-41d4-a4d0-5fbd803659c5/t2-origin/out/v1/live.m3u8",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-PtqqxxfI0SgHcNO5YJqxdufqnVtPFwpDvQ&s",
+        "headers": {
+         "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+       }
+     },
+     {
+        "name": "STINGRAY EASY LISTENING",
+        "uri": "https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/960px-Stingray_Music_logo.svg.png",
+        "headers": {
+          "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "Stingray Flashback 70S",
+        "uri": "https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8",
+        "icono": "https://i.imgur.com/jf5C9QF.png",
+        "headers": {
+          "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+        }
+      },
+      {
+    "name": "Stingray Greatest Hits (1080p)",
+    "uri": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883053",
+    "icono": "",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+    }
+  },
+  {
+    "name": "Stingray Hit List (1080p)",
+    "uri": "https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8",
+    "icono": "https://i.imgur.com/lgpIwId.png",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+    }
+  },
+  {
+    "name": "Stingray Hitlist (1080p)",
+    "uri": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883054",
+    "icono": "https://i.imgur.com/lgpIwId.png",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+    }
+  },
+  {
+    "name": "Stingray Holiday Hits (1080p)",
+    "uri": "https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8",
+    "icono": "https://i.imgur.com/4xVVKH8.png",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+    }
+  },
+  {
+    "name": "Stingray Holidayscapes (1080p)",
+    "uri": "https://plextv.ott-channels.stingray.com/holidayscapes/master.m3u8",
+    "icono": "https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F9cb4b15c-8244-4499-ae2c-9a92d4cdff6d%2F13895_SHS_Plex_Logos_Holidays_1500x1000_Dark-Background.png",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+    }
+  },
+  {
+    "name": "Stingray Hot Country (1080p)",
+    "uri": "https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8",
+    "icono": "https://i.imgur.com/PZhxyIT.png",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+    }
+  },
+  {
+    "name": "Stingray Jukebox Oldies (1080p)",
+    "uri": "https://lotus.stingray.com/manifest/ose-021ads-montreal/samsungtvplus/master.m3u8",
+    "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/960px-Stingray_Music_logo.svg.png",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+    }
+  },
+  {
+    "name": "Stingray Naturescape (1080p)",
+    "uri": "https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8",
+    "icono": "https://i.imgur.com/882kd90.png",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+    }
+  },
+  {
+    "name": "Stingray Nothin' But 90s (1080p)",
+    "uri": "https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8",
+    "icono": "https://i.imgur.com/Tq3I0po.png",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+    }
+  },
+  {
+    "name": "Stingray Pop Adult (1080p)",
+    "uri": "https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8",
+    "icono": "https://i.imgur.com/H2ugC9L.png",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+    }
+  },
+  {
+    "name": "Stingray Remember the 80s",
+    "uri": "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/68cc5f97-cf6c-4ff7-9125-f56f272dbcb6/1.m3u8",
+    "icono": "https://i.imgur.com/duwc8E8.png",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+    }
+  },
+  {
+    "name": "Stingray Remember the 80s (1080p)",
+    "uri": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883071",
+    "icono": "https://i.imgur.com/duwc8E8.png",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+    }
+  },
+  {
+    "name": "Stingray Remember the 80s (1080p)",
+    "uri": "https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8",
+    "icono": "https://i.imgur.com/6E3wYrb.png",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+    }
+  },
+  {
+    "name": "Stingray Rock Alternative (1080p)",
+    "uri": "https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8",
+    "icono": "https://i.imgur.com/mt8ulVX.png",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+    }
+  },
+  {
+    "name": "Stingray Romance Latino (1080p)",
+    "uri": "https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8",
+    "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/960px-Stingray_Music_logo.svg.png",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+    }
+  },
+  {
+    "name": "Stingray Soul Storm (1080p)",
+    "uri": "https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8",
+    "icono": "https://i.imgur.com/dU1KC3f.png",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+    }
+  },
+  {
+    "name": "Stingray The Spa (1080p)",
+    "uri": "https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8",
+    "icono": "https://i.imgur.com/ywAN923.png",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+    }
+  },
+  {
+    "name": "Stingray Today's KPOP (1080p)",
+    "uri": "https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8",
+    "icono": "https://i.imgur.com/mMbntB5.png",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+    }
+  },
+  {
+    "name": "Stingray Today's Latin Pop (1080p)",
+    "uri": "https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8",
+    "icono": "https://i.imgur.com/Os3kRRP.png",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+       }
+     }
+    ]
+  },
+  {
+    "name": "🎵 OTROS MÚSICALES",
     "samples": [
       {
         "name": "FLOW MUSIC",
@@ -2102,148 +2473,6 @@
           "referer": "https://www.primevideo.com/",
           "user-agent": "AivAndroidPlayer/1.0 (AndroidDevice)"
         }
-      },
-      {
-        "name": "Stingray LOUD",
-        "uri": "https://lott5-web-opus.cdn.avp.telus.net/232006004120/vxfmt=dp/manifest.mpd?device_profile=dashvmx",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/STINGRAY_LOUD",
-        "icono": "https://gn-images-stb-opus.cdn.avp.telus.net/assets/s104955_ld_h15_aa.png?w=400",
-        "headers": {
-          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "Stingray VIBE",
-        "uri": "https://lott5-web-opus.cdn.avp.telus.net/232006004119/vxfmt=dp/manifest.mpd?device_profile=dashvmx",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/STINGRAY_VIBE",
-        "icono": "https://gn-images-stb-opus.cdn.avp.telus.net/assets/s104956_ld_h15_aa.png?w=400",
-        "headers": {
-          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "Stingray FESTIVAL",
-        "uri": "https://lott3-stb-opus.cdn.avp.telus.net/232006004231/vxfmt=dp/manifest.mpd?device_profile=dashvmx",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/STINGRAY_FESTIVAL",
-        "icono": "https://images.ctfassets.net/8utyj17y1gom/4mcs4Lo3QhnPyINCeu6M7Z/055e05d60f9f225aa3273c92c413f53b/Desktop_TVChannelPage_Festival.png?w=400",
-        "headers": {
-          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "Stingray HITS! 4K",
-        "uri": "https://lott5-web-opus.cdn.avp.telus.net/232006004108/vxfmt=dp/manifest.mpd?device_profile=dashvmx",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/STINGRAY_HITS-4K",
-        "icono": "https://static.wikia.nocookie.net/logopedia/images/4/45/Stingray_Hits_4K.svg/revision/latest?cb=20191120224230",
-        "headers": {
-          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "Stingray HITS!",
-        "uri": "https://live1-ott.izzigo.tv/6/out/u/dash/SKY-STINGRAY-HITS-HD-H265/default.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/STINGRAY_HITS-",
-        "icono": "https://gn-images-stb-opus.cdn.avp.telus.net/assets/s108571_ld_h15_aa.png?w=400",
-        "headers": {
-          "origin": "https://www.izzigo.tv",
-          "referer": "https://www.izzigo.tv/",
-          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "Stingray Classica",
-        "uri": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray/classica-cla008-montreal/distrotv/master.m3u8?ads.dpname=distrotv&ads.rnd=2irm&ads.env_i=1df9896d-c1d0-45e5-8f1a-47c8ce63320e&ads.env_u=&ads.name=DistroTV&ads.bundle=&ads.storeurl=&ads.appCategory=entertainment&ads.app_version=202105131041&ads.width=984&ads.height=553&ads.deviceId=&ads.deviceDNT=0&ads.gdpr=0&ads.us_privacy=0&ads.aid=&ads.deviceMake=Web&ads.deviceIdType=localStorage&ads.deviceConnectionType=2&ads.deviceCategory=web&ads.client_ip=96.0.50.248&ads.geo=CL&ads.lat=-33.45210&ads.long=-70.65360&ads.dma=&ads.geoType=2&ads.contentid=22865&ads.content_duration=18000&ads.episode_id=35970&ads.show_id=1104&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Music%2CMusic%20Video%2CClassical%20Music%2CEnglish&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=Stingray%20Classica&ads.episodetitle=Classica&ads.keywords=stingray%2Cclassica&ads.contenturl=https%3A%2F%2Fwww.google.com%2F&ads.gdprConsent=&ads.paln=&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=napCoUTJsja",
-        "icono": "https://i.postimg.cc/Fzk3S0Xx/stingray-classica.png",
-        "headers": {
-          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "Stingray Juicebox",
-        "uri": "https://live1-ott.izzigo.tv/8/out/u/dash/SKY-STINGRAY-JUICEBOX-HD-H265/default.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/STINGRAY_JUICEBOX",
-        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFzP_a-fIStvXpjt-a_pl9PX_8SJS_C34Q_LyVD1pQJA&s=10",
-        "headers": {
-          "origin": "https://www.izzigo.tv",
-          "referer": "https://www.izzigo.tv/",
-          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "Stingray Retro",
-        "uri": "https://live1-ott.izzigo.tv/8/out/u/dash/STINGRAY-RETRO-HD-H265/default.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/STINGRAY_RETRO",
-        "icono": "https://gn-images-stb-opus.cdn.avp.telus.net/assets/s104957_ld_h15_aa.png",
-        "headers": {
-          "origin": "https://www.izzigo.tv",
-          "referer": "https://www.izzigo.tv/",
-          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "PALMARÈSADISQ PAR STINGRAY",
-        "uri": "https://lott3-web-opus.cdn.avp.telus.net/232006004107/vxfmt=dp/manifest.mpd?device_profile=dashvmx",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/STINGRAY_PALMAR-SADISQ",
-        "icono": "https://gn-images-stb-opus.cdn.avp.telus.net/assets/s108572_ld_h15_aa.png?w=400",
-        "headers": {
-          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "Stingray COUNTRY",
-        "uri": "https://lott2-web-opus.cdn.avp.telus.net/232006004084/vxfmt=dp/manifest.mpd?device_profile=dashvmx",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/STINGRAY_COUNTRY",
-        "icono": "https://gn-images-stb-opus.cdn.avp.telus.net/assets/s21642_ld_h8_aa.png?w=400",
-        "headers": {
-          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "Stingray NOW 4K",
-        "uri": "https://lott4-stb-opus.cdn.avp.telus.net/232006004232/vxfmt=dp/manifest.mpd?device_profile=dashvmx",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/STINGRAY_NOW_4K",
-        "icono": "https://videostars.stingray.com/images/now4k-channel.png?w=400",
-        "headers": {
-          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "Stingray iCONCERTS",
-        "uri": "https://dash4.antik.sk/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8",
-        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3lrCNErQ3GVpyWZx0bZytQv5xIy1vOHjWpuNpX9qB2Q&s=10"
-      },
-      {
-        "name": "QELLO CONCERTS BY STINGRAY",
-        "uri": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray/qello-qello001-montreal/distrotv/master.m3u8?ads.dpname=distrotv&ads.rnd=w1sc&ads.env_i=b5a80031-f6a3-468d-bc31-43e7d78fbc98&ads.env_u=&ads.name=DistroTV&ads.bundle=&ads.storeurl=&ads.appCategory=entertainment&ads.app_version=202105131041&ads.width=601&ads.height=338&ads.deviceId=&ads.deviceDNT=0&ads.gdpr=0&ads.us_privacy=0&ads.aid=&ads.deviceMake=Web&ads.deviceIdType=localStorage&ads.deviceConnectionType=2&ads.deviceCategory=web&ads.client_ip=96.0.50.248&ads.geo=CL&ads.lat=-33.45210&ads.long=-70.65360&ads.dma=&ads.geoType=2&ads.contentid=22865&ads.content_duration=18000&ads.episode_id=35967&ads.show_id=1101&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Music%2CMusic%20Video%2CEnglish&ads.showRating=TV-PG&ads.episodeRating=TV-PG&ads.language=en&ads.showtitle=Qello%20Concerts&ads.episodetitle=Qello&ads.keywords=stingray%2Cqello&ads.contenturl=https%3A%2F%2Fwww.google.com%2F&ads.gdprConsent=&ads.paln=&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=RQY0AGlmJWe",
-        "icono": "https://i.ibb.co/LQ4BkD1/Qello-Stingray.png",
-        "headers": {
-          "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "Stingray DJAZZ",
-        "uri": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray/djazz-djaads-montreal/distrotv/master.m3u8?ads.dpname=distrotv&ads.rnd=en6g&ads.env_i=8bb3b6e2-496c-4637-823c-9eab5d611b2a&ads.env_u=&ads.name=DistroTV&ads.bundle=&ads.storeurl=&ads.appCategory=entertainment&ads.app_version=202105131041&ads.width=601&ads.height=338&ads.deviceId=&ads.deviceDNT=0&ads.gdpr=0&ads.us_privacy=0&ads.aid=&ads.deviceMake=Web&ads.deviceIdType=localStorage&ads.deviceConnectionType=2&ads.deviceCategory=web&ads.client_ip=96.0.50.248&ads.geo=CL&ads.lat=-33.45210&ads.long=-70.65360&ads.dma=&ads.geoType=2&ads.contentid=22865&ads.content_duration=18000&ads.episode_id=35971&ads.show_id=1105&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Music%2CMusic%20Video%2CJAzz%2CEnglish&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=Stingray%20DJAZZ&ads.episodetitle=DJazz&ads.keywords=stingray%2Cdjazz&ads.contenturl=https%3A%2F%2Fwww.google.com%2F&ads.gdprConsent=&ads.paln=&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=O4kUIMQ5Oiq",
-        "icono": "https://i.ibb.co/g6FnxXk/Stingray-Djazz.png"
-      },
-      {
-        "name": "MOVIE MUSIC BY STINGRAY",
-        "uri": "https://d3f4oii5n0oeqi.cloudfront.net/11701/88814585/hls/master.m3u8?ads.xumo_channelId=88814585",
-        "icono": "https://i.postimg.cc/mrFCmvpg/movie-music-by-stingray.png"
-      },
-      {
-        "name": "TIKTOK RADIO",
-        "uri": "https://d3f4oii5n0oeqi.cloudfront.net/11701/88814594/hls/master.m3u8?ads.xumo_channelId=88814594",
-        "icono": "https://i.postimg.cc/LsbR87mL/tiktok-radio.png"
       },
       {
         "name": "RETRO MUSIC TELEVISION",
