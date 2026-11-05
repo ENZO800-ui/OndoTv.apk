@@ -1249,6 +1249,11 @@
         }
       },
       {
+        "name": "CGTN",
+        "uri": "https://amg01314-cgtn-amg01314c3-rakuten-uk-1318.playouts.now.amagi.tv/cgtn-es-rakuten/playlist.m3u8",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgfC9OeMP8ZuU_GwlxwCQSSIF7_h5TD8vCM45ZR-nvs0iTncF_PCW-b7E&s=10"
+      },
+      {
         "name": "FX",
         "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c3eds/FXHD/SA_Live_dash_enc/FXHD.mpd",
         "drm_scheme": "clearkey",
@@ -1381,6 +1386,11 @@
         "icono": "https://tse1.mm.bing.net/th/id/OIP.cz3dWFe5nyXVR46GXjNdegHaEK?rs=1&pid=ImgDetMain&o=7&rm=3"
       },
       {
+        "name": "STAR TVE",
+        "uri": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE7Vt4A-LYDjn5yc-gSQRIUwsxziEL0IODS1TmbBImXQ&s=10"
+      },
+      {
         "name": "MTV",
         "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c6eds/MTV_HD/SA_Live_dash_enc/MTV_HD.mpd",
         "drm_scheme": "clearkey",
@@ -1503,7 +1513,7 @@
       },
       {
         "name": "PASIONES",
-        "uri": "http://45.224.97.181:9999/Pasiones/tracks-v1a1/mono.m3u8",
+        "uri": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/47.m3u8",
         "icono": "https://ipuntotv.com/IMAGES/Cabezales/4625.jpg"
       },
       {
