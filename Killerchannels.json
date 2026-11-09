@@ -3062,7 +3062,8 @@
         "name": "Sky Sports: La Liga",
         "uri": "lava:1079",
         "icon": "http://i.tvcluboficial.com/skysports.png",
-        "headers": "{\"X-App\": \"ps\",\"X-Version\": \"10/1.0.9\",\"X-Hash\": \"U_RFFR9O1a8lwEL3tJN95OodBqa0kpqX00yYGkdeXh9Iri2bZQ1Yfgo45DnEUgK-FJW7rZ-yR6DRMWq445VjamFRYAiEZuViAdpcDMjEncXizb4LfgfJMQMMjSKfrbS69kW1gmtQ5ri4q4BufT5nVx2bH91wP4uD4MezFdygk2Ffedq_q--SWvmLCem7seGisJ67CVDhrvepKlju3nikb7n3nVTqKHeCQoQFtSmC0wgbAv7y8G74rroNeIRnvGWwWbYSYQJRXaSWnGK2ki9j1OdCXk0LZueOnsPfEyOhH7ZrvV6WbRHlK5SeLSZLJpk1D1FzNoLkOv0CPglmPW5QKLpXViNuzf1USi8DtZsxbitOcwnJK7rR94_suaRYO804cSx14GPiWMmd6_j6j1-tVootfk6Gp7ZgRwT8eXTGMLICq4OXxac2fZqYizGTsozflZHh7Ctl4njWwSOB6HKA89MtWWL3kBWp2ZWvggw_x3gNGyApX0WpHZeAJMXTIlLt3Lz28vSpRqmjj6Ad86HsgWN4hp58akm-8pn_9lNseJx-FyEHvx79ltHoBmzCPweEGNTHfXpGsaMSY3ZgRUNwWg\",\"X-Did\": \"3db485a932e81c10\",\"User-Agent\":\"Magma Player/10\"}" 
+        "headers": { "X-App": "ps","X-Version": "10/1.0.9","X-Hash": "U_RFFR9O1a8lwEL3tJN95OodBqa0kpqX00yYGkdeXh9Iri2bZQ1Yfgo45DnEUgK-FJW7rZ-yR6DRMWq445VjamFRYAiEZuViAdpcDMjEncXizb4LfgfJMQMMjSKfrbS69kW1gmtQ5ri4q4BufT5nVx2bH91wP4uD4MezFdygk2Ffedq_q--SWvmLCem7seGisJ67CVDhrvepKlju3nikb7n3nVTqKHeCQoQFtSmC0wgbAv7y8G74rroNeIRnvGWwWbYSYQJRXaSWnGK2ki9j1OdCXk0LZueOnsPfEyOhH7ZrvV6WbRHlK5SeLSZLJpk1D1FzNoLkOv0CPglmPW5QKLpXViNuzf1USi8DtZsxbitOcwnJK7rR94_suaRYO804cSx14GPiWMmd6_j6j1-tVootfk6Gp7ZgRwT8eXTGMLICq4OXxac2fZqYizGTsozflZHh7Ctl4njWwSOB6HKA89MtWWL3kBWp2ZWvggw_x3gNGyApX0WpHZeAJMXTIlLt3Lz28vSpRqmjj6Ad86HsgWN4hp58akm-8pn_9lNseJx-FyEHvx79ltHoBmzCPweEGNTHfXpGsaMSY3ZgRUNwWg","X-Did": "3db485a932e81c10",
+			"User-Agent":"Magma Player/10" }
 	  },
       {
         "name": "NUNCA LO VEAS",
