@@ -54,11 +54,6 @@
         "name": "TIGO SPORTS",
         "uri": "http://45.134.141.161:2200/ARG/Tigo_Sports/tracks-v1a1/mono.m3u8",
         "icono": "https://i.ibb.co/5X20hxjL/KN-copia-4.png"
-      },
-      {
-        "name": "N SPORTS (C. DEL ESTE)",
-        "uri": "https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt_1080p.m3u8",
-        "icono": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8bbe6817af0af2e0e5a6df96f245b752.webp"
       }
     ]
   },
@@ -3059,15 +3054,15 @@
     "samples": [
       {
         "name": "Sky Sports: La Liga",
-        "uri": "http://magmaplayer.com/stream/m3u8/AmLkKmRkBS8lZQNhZwphZwN3YwR3BS8kAmDmBQx/hls/1079.m3u8",
+        "uri": "lava:1079",
+        "icono": "http://i.tvcluboficial.com/skysports.png",
         "headers": {
           "X-App": "ps",
           "X-Version": "10/1.0.9",
           "X-Hash": "U_RFFR9O1a8lwEL3tJN95OodBqa0kpqX00yYGkdeXh9Iri2bZQ1Yfgo45DnEUgK-FJW7rZ-yR6DRMWq445VjamFRYAiEZuViAdpcDMjEncXizb4LfgfJMQMMjSKfrbS69kW1gmtQ5ri4q4BufT5nVx2bH91wP4uD4MezFdygk2Ffedq_q--SWvmLCem7seGisJ67CVDhrvepKlju3nikb7n3nVTqKHeCQoQFtSmC0wgbAv7y8G74rroNeIRnvGWwWbYSYQJRXaSWnGK2ki9j1OdCXk0LZueOnsPfEyOhH7ZrvV6WbRHlK5SeLSZLJpk1D1FzNoLkOv0CPglmPW5QKLpXViNuzf1USi8DtZsxbitOcwnJK7rR94_suaRYO804cSx14GPiWMmd6_j6j1-tVootfk6Gp7ZgRwT8eXTGMLICq4OXxac2fZqYizGTsozflZHh7Ctl4njWwSOB6HKA89MtWWL3kBWp2ZWvggw_x3gNGyApX0WpHZeAJMXTIlLt3Lz28vSpRqmjj6Ad86HsgWN4hp58akm-8pn_9lNseJx-FyEHvx79ltHoBmzCPweEGNTHfXpGsaMSY3ZgRUNwWg",
           "X-Did": "3db485a932e81c10",
           "User-Agent": "Magma Player/10"
-        },
-        "icono": "http://i.tvcluboficial.com/skysports.png"
+        }
       },
       {
         "name": "NUNCA LO VEAS",
