@@ -492,7 +492,7 @@
           "Referer": "https://portal.app.flow.com.py/"
         }
       },
-	  {
+      {
         "name": "ESPN COL",
         "uri": "https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.m3u8",
         "icono": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3528/3528WHORIZONTAL.jpg?size=290x163",
@@ -524,7 +524,7 @@
           "user-agent": "Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36"
         }
       },
-	  {
+      {
         "name": "ESPN 5 COL",
         "uri": "https://barinaslive1.boldmss.com/ESPN_5/ESPN_5.isml/ESPN_5.m3u8",
         "icono": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3180/3180WHORIZONTAL.jpg?size=290x163",
@@ -636,7 +636,7 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/BEIN_SPORTS--",
         "icono": "https://images.fubo.tv/channel-config-ui/station-logos/on-white/bein-sports-en-espanol-logo-main-copy-2.png",
-         "headers": {
+        "headers": {
           "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.7258.143 Safari/537.36"
         }
       },
@@ -791,7 +791,6 @@
         "icono": "https://foxone.asset.viewlift.com/images/2025/12/01/fox-tubi-logo-1764604643459.png",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/KEY_FOX-",
-        "icono": "https://foxone.asset.viewlift.com/images/2025/12/01/fox-tubi-logo-1764604643459.png",
         "headers": {
           "User-Agent": "AivAndroidPlayer/1.0 (AndroidDevice)",
           "Referer": "https://www.primevideo.com/"
@@ -811,9 +810,9 @@
         "name": "Red Bull TV",
         "uri": "https://8b35224b42fd4ae797ea4d8b205f8368.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-957-WORBLATAMESFAST-VIDAA/957/vidaa/hls/master/playlist.m3u8?ads.ifa=IFA&ads.ifa_type=IFA_TYPE&ads.device_type=DEVICE_TYPE&ads.brand_name=BRAND_NAME&ads.device_country=DEVICE_COUNTRY&ads.device_osv=DEVICE_OSV&ads.device_language=DEVICE_LANGUAGE&ads.dnt=DNT&ads.gdpr=GDPR&ads.gdpr_consent=GDPR_CONSENT&ads.us_privacy=US_PRIVACY&ads.coppa=COPPA&ad.vpi=VPI&ads.app_bundle=APP_BUNDLE&ads.app_name=APP_NAME&ads.app_store_url=APP_STORE_URL&ads.vidaa_ads_param=1199898630",
         "icono": "https://media.tvup.cloud/canales/color_lg_5c4352438c3e78047f57c408.png",
-    	 "headers": {
-           "user-agent": "NitroX/1.24.1-1 (Xiaomi 2510DRK44C; Android 16; mobile; release)"
-	     }
+        "headers": {
+          "user-agent": "NitroX/1.24.1-1 (Xiaomi 2510DRK44C; Android 16; mobile; release)"
+        }
       },
       {
         "name": "RALLY TV",
@@ -1060,19 +1059,19 @@
         }
       },
       {
-       "name": "FRANCE 24",
-       "uri": "https://live-evg8.tv360.bitel.com.pe/bitel/france24SRT/playlist.m3u8",
-       "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZZaacRJ1zu8hYr0JbsXYjegg-a50qoXDpebdcb4sNw&s=10"
+        "name": "FRANCE 24",
+        "uri": "https://live-evg8.tv360.bitel.com.pe/bitel/france24SRT/playlist.m3u8",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZZaacRJ1zu8hYr0JbsXYjegg-a50qoXDpebdcb4sNw&s=10"
       },
       {
-       "name": "EURONEWS",
-       "uri": "https://cdn-euronews.akamaized.net/live/eds/euronews-es/25053/euronews-es-avc1_3300000=19-mp4a_143200_esp=27.m3u8",
-       "icono": "https://images.pluto.tv/channels/619d59b7cbef25000728221c/thumbnail.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=2&q=50"
+        "name": "EURONEWS",
+        "uri": "https://cdn-euronews.akamaized.net/live/eds/euronews-es/25053/euronews-es-avc1_3300000=19-mp4a_143200_esp=27.m3u8",
+        "icono": "https://images.pluto.tv/channels/619d59b7cbef25000728221c/thumbnail.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=2&q=50"
       },
       {
-       "name": "DEUTSCHE WELLE",
-       "uri": "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8",
-       "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROqeNhkPiXfQn4BskmhwJ5x8cak0hW4oHtiFYPctzFmQ&s"
+        "name": "DEUTSCHE WELLE",
+        "uri": "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROqeNhkPiXfQn4BskmhwJ5x8cak0hW4oHtiFYPctzFmQ&s"
       }
     ]
   },
@@ -1094,7 +1093,7 @@
       {
         "name": "DISCOVERY TURBO",
         "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c7eds/DiscoveryTurbo/SA_Live_dash_enc/DiscoveryTurbo.mpd",
-		"drm_scheme": "clearkey",
+        "drm_scheme": "clearkey",
         "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/DISCOVERY_TURBO",
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcHxpOVKnUe9L8VyarWFKx1mkDBiI3EhvuLjv-ipdZYw&s",
         "headers": {
@@ -1104,9 +1103,9 @@
         }
       },
       {
-       "name": "CGTN DOCUMENTARY",
-       "uri": "https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8",
-       "icono": "https://i.postimg.cc/Kc1QLqwB/cgtn-documentary.png"
+        "name": "CGTN DOCUMENTARY",
+        "uri": "https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8",
+        "icono": "https://i.postimg.cc/Kc1QLqwB/cgtn-documentary.png"
       },
       {
         "name": "HISTORY",
@@ -1328,7 +1327,7 @@
       {
         "name": "GOLDEN EDGE",
         "uri": "https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/xv3tnoayi8/out/v1/46aaaeb778de4cd39893d88a7f93b05a/cenc.mpd",
-		"drm_scheme": "clearkey",
+        "drm_scheme": "clearkey",
         "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/GOLDEN_EDGE",
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUfEzdwfPP9XV_SqGjbC5PTmqtBVuH5zJ4hKwcN6DQ0Q&s=10",
         "headers": {
@@ -1339,7 +1338,7 @@
       {
         "name": "GOLDEN+",
         "uri": "https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/o09knwldwh/out/v1/15f9f74c888e4fdd9815ea94635ae4db/cenc.mpd",
-		"drm_scheme": "clearkey",
+        "drm_scheme": "clearkey",
         "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/GOLDEN-",
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjToZdGdEWWjHQIhOfdbB55TDFjQ9pIi8AyusiV9zkFw&s=10",
         "headers": {
@@ -1350,7 +1349,7 @@
       {
         "name": "GOLDEN PREMIER",
         "uri": "https://live-pv-ta.amazon.fastly-edge.com/gru-nitro/live/clients/dash/enc/1pyrprmguo/out/v1/e63748f718754f6ca76df9ce757b10f5/cenc.mpd",
-		"drm_scheme": "clearkey",
+        "drm_scheme": "clearkey",
         "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/GOLDEN_PREMIER",
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2hKl-HR_q27tsYe8cay5XRvvnwn_Wo7esjU_ZZMVO1Q&s=10",
         "headers": {
@@ -1601,14 +1600,14 @@
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBNlHp95TyA7BlKXxbJIF1GglpRLQqaWVm2_CYhmDRkLlaEDElJprM5PvB&s=10"
       },
       {
-       "name": "SONY ONE HITS COMEDIA",
-       "uri": "https://7bb2f486b8cd470296181dff19a115d0.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-830-ES-SONYONEHITSCOMEDIA-LG_ES/playlist.m3u8",
-       "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBNlHp95TyA7BlKXxbJIF1GglpRLQqaWVm2_CYhmDRkLlaEDElJprM5PvB&s=10"
+        "name": "SONY ONE HITS COMEDIA",
+        "uri": "https://7bb2f486b8cd470296181dff19a115d0.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-830-ES-SONYONEHITSCOMEDIA-LG_ES/playlist.m3u8",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBNlHp95TyA7BlKXxbJIF1GglpRLQqaWVm2_CYhmDRkLlaEDElJprM5PvB&s=10"
       },
       {
-       "name": "SONY ONE SERIES THRILLER",
-       "uri": "https://f9ae66011b3c42c89d56196105a1b792.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-833-ES-SONYONESERIESTHRILLER-LG_ES/playlist.m3u8",
-       "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBNlHp95TyA7BlKXxbJIF1GglpRLQqaWVm2_CYhmDRkLlaEDElJprM5PvB&s=10"
+        "name": "SONY ONE SERIES THRILLER",
+        "uri": "https://f9ae66011b3c42c89d56196105a1b792.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-833-ES-SONYONESERIESTHRILLER-LG_ES/playlist.m3u8",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBNlHp95TyA7BlKXxbJIF1GglpRLQqaWVm2_CYhmDRkLlaEDElJprM5PvB&s=10"
       },
       {
         "name": "SONY ONE BLACKLIST",
@@ -2215,10 +2214,10 @@
         "uri": "https://aka-live1050.delivery.roku.com/372c813e-1fb9-41d4-a4d0-5fbd803659c5/t2-origin/out/v1/live.m3u8",
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-PtqqxxfI0SgHcNO5YJqxdufqnVtPFwpDvQ&s",
         "headers": {
-         "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-       }
-     },
-     {
+          "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+        }
+      },
+      {
         "name": "STINGRAY EASY LISTENING",
         "uri": "https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/960px-Stingray_Music_logo.svg.png",
@@ -2235,141 +2234,141 @@
         }
       },
       {
-    "name": "STINGRAY GREATEST HITS",
-    "uri": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883053",
-    "icono": "",
-    "headers": {
-      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-    }
-  },
-  {
-    "name": "STINGRAY HIT LITS",
-    "uri": "https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8",
-    "icono": "https://i.imgur.com/lgpIwId.png",
-    "headers": {
-      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-    }
-  },
-  {
-    "name": "STINGRAY HITLIST",
-    "uri": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883054",
-    "icono": "https://i.imgur.com/lgpIwId.png",
-    "headers": {
-      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-    }
-  },
-  {
-    "name": "STINGRAY HOLIDAY HITS",
-    "uri": "https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8",
-    "icono": "https://i.imgur.com/4xVVKH8.png",
-    "headers": {
-      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-    }
-  },
-  {
-    "name": "Stingray HOLIDAYSCAPE",
-    "uri": "https://plextv.ott-channels.stingray.com/holidayscapes/master.m3u8",
-    "icono": "https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F9cb4b15c-8244-4499-ae2c-9a92d4cdff6d%2F13895_SHS_Plex_Logos_Holidays_1500x1000_Dark-Background.png",
-    "headers": {
-      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-    }
-  },
-  {
-    "name": "STINGRAY Hot Country (1080p)",
-    "uri": "https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8",
-    "icono": "https://i.imgur.com/PZhxyIT.png",
-    "headers": {
-      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-    }
-  },
-  {
-    "name": "STINGRAY JUKEBOX OlLDIES",
-    "uri": "https://lotus.stingray.com/manifest/ose-021ads-montreal/samsungtvplus/master.m3u8",
-    "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/960px-Stingray_Music_logo.svg.png",
-    "headers": {
-      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-    }
-  },
-  {
-    "name": "STINGRAY NATURESCAPE",
-    "uri": "https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8",
-    "icono": "https://i.imgur.com/882kd90.png",
-    "headers": {
-      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-    }
-  },
-  {
-    "name": "STINGRAY NOTHIT' BUT 90S",
-    "uri": "https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8",
-    "icono": "https://i.imgur.com/Tq3I0po.png",
-    "headers": {
-      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-    }
-  },
-  {
-    "name": "STINGRAY POP ADULT",
-    "uri": "https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8",
-    "icono": "https://i.imgur.com/H2ugC9L.png",
-    "headers": {
-      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-    }
-  },
-  {
-    "name": "STINGRAY REMEMBER THE 80S",
-    "uri": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883071",
-    "icono": "https://i.imgur.com/duwc8E8.png",
-    "headers": {
-      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-    }
-  },
-  {
-    "name": "STINGRAY ROCK ALTERNATIVE",
-    "uri": "https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8",
-    "icono": "https://i.imgur.com/mt8ulVX.png",
-    "headers": {
-      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-    }
-  },
-  {
-    "name": "STINGRAY ROMANCE LATINO",
-    "uri": "https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8",
-    "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/960px-Stingray_Music_logo.svg.png",
-    "headers": {
-      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-    }
-  },
-  {
-    "name": "STINGRAY SOUL STORM",
-    "uri": "https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8",
-    "icono": "https://i.imgur.com/dU1KC3f.png",
-    "headers": {
-      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-    }
-  },
-  {
-    "name": "STINGRAY THE SPA",
-    "uri": "https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8",
-    "icono": "https://i.imgur.com/ywAN923.png",
-    "headers": {
-      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-    }
-  },
-  {
-    "name": "STINGRAY KPOP",
-    "uri": "https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8",
-    "icono": "https://i.imgur.com/mMbntB5.png",
-    "headers": {
-      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-    }
-  },
-  {
-    "name": "STINGRAY LATINO",
-    "uri": "https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8",
-    "icono": "https://i.imgur.com/Os3kRRP.png",
-    "headers": {
-      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-       }
-     }
+        "name": "STINGRAY GREATEST HITS",
+        "uri": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883053",
+        "icono": "",
+        "headers": {
+          "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "STINGRAY HIT LITS",
+        "uri": "https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8",
+        "icono": "https://i.imgur.com/lgpIwId.png",
+        "headers": {
+          "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "STINGRAY HITLIST",
+        "uri": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883054",
+        "icono": "https://i.imgur.com/lgpIwId.png",
+        "headers": {
+          "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "STINGRAY HOLIDAY HITS",
+        "uri": "https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8",
+        "icono": "https://i.imgur.com/4xVVKH8.png",
+        "headers": {
+          "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "Stingray HOLIDAYSCAPE",
+        "uri": "https://plextv.ott-channels.stingray.com/holidayscapes/master.m3u8",
+        "icono": "https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F9cb4b15c-8244-4499-ae2c-9a92d4cdff6d%2F13895_SHS_Plex_Logos_Holidays_1500x1000_Dark-Background.png",
+        "headers": {
+          "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "STINGRAY Hot Country (1080p)",
+        "uri": "https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8",
+        "icono": "https://i.imgur.com/PZhxyIT.png",
+        "headers": {
+          "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "STINGRAY JUKEBOX OlLDIES",
+        "uri": "https://lotus.stingray.com/manifest/ose-021ads-montreal/samsungtvplus/master.m3u8",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/960px-Stingray_Music_logo.svg.png",
+        "headers": {
+          "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "STINGRAY NATURESCAPE",
+        "uri": "https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8",
+        "icono": "https://i.imgur.com/882kd90.png",
+        "headers": {
+          "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "STINGRAY NOTHIT' BUT 90S",
+        "uri": "https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8",
+        "icono": "https://i.imgur.com/Tq3I0po.png",
+        "headers": {
+          "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "STINGRAY POP ADULT",
+        "uri": "https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8",
+        "icono": "https://i.imgur.com/H2ugC9L.png",
+        "headers": {
+          "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "STINGRAY REMEMBER THE 80S",
+        "uri": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883071",
+        "icono": "https://i.imgur.com/duwc8E8.png",
+        "headers": {
+          "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "STINGRAY ROCK ALTERNATIVE",
+        "uri": "https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8",
+        "icono": "https://i.imgur.com/mt8ulVX.png",
+        "headers": {
+          "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "STINGRAY ROMANCE LATINO",
+        "uri": "https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/960px-Stingray_Music_logo.svg.png",
+        "headers": {
+          "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "STINGRAY SOUL STORM",
+        "uri": "https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8",
+        "icono": "https://i.imgur.com/dU1KC3f.png",
+        "headers": {
+          "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "STINGRAY THE SPA",
+        "uri": "https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8",
+        "icono": "https://i.imgur.com/ywAN923.png",
+        "headers": {
+          "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "STINGRAY KPOP",
+        "uri": "https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8",
+        "icono": "https://i.imgur.com/mMbntB5.png",
+        "headers": {
+          "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "STINGRAY LATINO",
+        "uri": "https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8",
+        "icono": "https://i.imgur.com/Os3kRRP.png",
+        "headers": {
+          "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+        }
+      }
     ]
   },
   {
@@ -2680,9 +2679,9 @@
         "drm_license_uri": "https://drm.antik.sk/widevine/key",
         "icono": "https://musicboxsexy.com/music_box_sexy_logo.png",
         "headers": {
-            "Origin": "https://webtv.sk",
-            "Referer": "https://webtv.sk/",
-            "User-Agent": "AntikTVExoPlayer/1.1.47 (Linux;Android 15) ExoPlayerLib/2.14.2 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"
+          "Origin": "https://webtv.sk",
+          "Referer": "https://webtv.sk/",
+          "User-Agent": "AntikTVExoPlayer/1.1.47 (Linux;Android 15) ExoPlayerLib/2.14.2 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"
         }
       },
       {
@@ -2692,9 +2691,9 @@
         "drm_license_uri": "https://drm.antik.sk/widevine/key",
         "icono": "https://musicboxhits.com/music_box_hits_logo.png",
         "headers": {
-            "Origin": "https://webtv.sk",
-            "Referer": "https://webtv.sk/",
-            "User-Agent": "AntikTVExoPlayer/1.1.47 (Linux;Android 15) ExoPlayerLib/2.14.2 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"
+          "Origin": "https://webtv.sk",
+          "Referer": "https://webtv.sk/",
+          "User-Agent": "AntikTVExoPlayer/1.1.47 (Linux;Android 15) ExoPlayerLib/2.14.2 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"
         }
       },
       {
@@ -2704,9 +2703,9 @@
         "drm_license_uri": "https://drm.antik.sk/widevine/key",
         "icono": "https://musicboxdance.com/music_box_dance_logo.png",
         "headers": {
-            "Origin": "https://webtv.sk",
-            "Referer": "https://webtv.sk/",
-            "User-Agent": "AntikTVExoPlayer/1.1.47 (Linux;Android 15) ExoPlayerLib/2.14.2 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"
+          "Origin": "https://webtv.sk",
+          "Referer": "https://webtv.sk/",
+          "User-Agent": "AntikTVExoPlayer/1.1.47 (Linux;Android 15) ExoPlayerLib/2.14.2 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"
         }
       },
       {
@@ -2716,9 +2715,9 @@
         "drm_license_uri": "https://drm.antik.sk/widevine/key",
         "icono": "https://musicboxclassic.com/music_box_classic_logo.png",
         "headers": {
-            "Origin": "https://webtv.sk",
-            "Referer": "https://webtv.sk/",
-            "User-Agent": "AntikTVExoPlayer/1.1.47 (Linux;Android 15) ExoPlayerLib/2.14.2 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"
+          "Origin": "https://webtv.sk",
+          "Referer": "https://webtv.sk/",
+          "User-Agent": "AntikTVExoPlayer/1.1.47 (Linux;Android 15) ExoPlayerLib/2.14.2 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"
         }
       },
       {
@@ -2738,13 +2737,13 @@
         "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/TELEHIT",
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvNZFpxuIIglwqt1_ZKzaKmouJf1NtGfVY7NyK1F9tjg&s=10",
         "headers": {
-            "Origin": "https://www.primevideo.com",
-            "X-Requested-With": "com.amazon.avod.thirdpartyclient",
-	          "Sec-Fetch-Site": "same-site",
-	          "Sec-Fetch-Mode": "cors",
-      	    "Sec-Fetch-Dest": "empty",
-            "Referer": "https://www.primevideo.com/",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"
+          "Origin": "https://www.primevideo.com",
+          "X-Requested-With": "com.amazon.avod.thirdpartyclient",
+          "Sec-Fetch-Site": "same-site",
+          "Sec-Fetch-Mode": "cors",
+          "Sec-Fetch-Dest": "empty",
+          "Referer": "https://www.primevideo.com/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"
         }
       },
       {
@@ -2754,13 +2753,13 @@
         "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/TELEHIT_MUSICA",
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThw3cgUjrL1LerGrfpfgEece8OUOKve6cGNRO9m-PGzA&s=10",
         "headers": {
-            "Origin": "https://www.primevideo.com",
-            "X-Requested-With": "com.amazon.avod.thirdpartyclient",
-	          "Sec-Fetch-Site": "same-site",
-	          "Sec-Fetch-Mode": "cors",
-	          "Sec-Fetch-Dest": "empty",
-            "Referer": "https://www.primevideo.com/",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"
+          "Origin": "https://www.primevideo.com",
+          "X-Requested-With": "com.amazon.avod.thirdpartyclient",
+          "Sec-Fetch-Site": "same-site",
+          "Sec-Fetch-Mode": "cors",
+          "Sec-Fetch-Dest": "empty",
+          "Referer": "https://www.primevideo.com/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"
         }
       },
       {
@@ -2769,13 +2768,13 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/TELEHIT_PLUS",
         "headers": {
-            "Origin": "https://www.primevideo.com",
-            "X-Requested-With": "com.amazon.avod.thirdpartyclient",
-	          "Sec-Fetch-Site": "same-site",
-	          "Sec-Fetch-Mode": "cors",
-	          "Sec-Fetch-Dest": "empty",
-            "Referer": "https://www.primevideo.com/",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"
+          "Origin": "https://www.primevideo.com",
+          "X-Requested-With": "com.amazon.avod.thirdpartyclient",
+          "Sec-Fetch-Site": "same-site",
+          "Sec-Fetch-Mode": "cors",
+          "Sec-Fetch-Dest": "empty",
+          "Referer": "https://www.primevideo.com/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"
         }
       },
       {
@@ -3061,10 +3060,15 @@
       {
         "name": "Sky Sports: La Liga",
         "uri": "lava:1079",
-        "icon": "http://i.tvcluboficial.com/skysports.png",
-        "headers": { "X-App": "ps","X-Version": "10/1.0.9","X-Hash": "U_RFFR9O1a8lwEL3tJN95OodBqa0kpqX00yYGkdeXh9Iri2bZQ1Yfgo45DnEUgK-FJW7rZ-yR6DRMWq445VjamFRYAiEZuViAdpcDMjEncXizb4LfgfJMQMMjSKfrbS69kW1gmtQ5ri4q4BufT5nVx2bH91wP4uD4MezFdygk2Ffedq_q--SWvmLCem7seGisJ67CVDhrvepKlju3nikb7n3nVTqKHeCQoQFtSmC0wgbAv7y8G74rroNeIRnvGWwWbYSYQJRXaSWnGK2ki9j1OdCXk0LZueOnsPfEyOhH7ZrvV6WbRHlK5SeLSZLJpk1D1FzNoLkOv0CPglmPW5QKLpXViNuzf1USi8DtZsxbitOcwnJK7rR94_suaRYO804cSx14GPiWMmd6_j6j1-tVootfk6Gp7ZgRwT8eXTGMLICq4OXxac2fZqYizGTsozflZHh7Ctl4njWwSOB6HKA89MtWWL3kBWp2ZWvggw_x3gNGyApX0WpHZeAJMXTIlLt3Lz28vSpRqmjj6Ad86HsgWN4hp58akm-8pn_9lNseJx-FyEHvx79ltHoBmzCPweEGNTHfXpGsaMSY3ZgRUNwWg","X-Did": "3db485a932e81c10",
-			"User-Agent":"Magma Player/10" }
-	  },
+        "headers": {
+          "X-App": "ps",
+          "X-Version": "10/1.0.9",
+          "X-Hash": "U_RFFR9O1a8lwEL3tJN95OodBqa0kpqX00yYGkdeXh9Iri2bZQ1Yfgo45DnEUgK-FJW7rZ-yR6DRMWq445VjamFRYAiEZuViAdpcDMjEncXizb4LfgfJMQMMjSKfrbS69kW1gmtQ5ri4q4BufT5nVx2bH91wP4uD4MezFdygk2Ffedq_q--SWvmLCem7seGisJ67CVDhrvepKlju3nikb7n3nVTqKHeCQoQFtSmC0wgbAv7y8G74rroNeIRnvGWwWbYSYQJRXaSWnGK2ki9j1OdCXk0LZueOnsPfEyOhH7ZrvV6WbRHlK5SeLSZLJpk1D1FzNoLkOv0CPglmPW5QKLpXViNuzf1USi8DtZsxbitOcwnJK7rR94_suaRYO804cSx14GPiWMmd6_j6j1-tVootfk6Gp7ZgRwT8eXTGMLICq4OXxac2fZqYizGTsozflZHh7Ctl4njWwSOB6HKA89MtWWL3kBWp2ZWvggw_x3gNGyApX0WpHZeAJMXTIlLt3Lz28vSpRqmjj6Ad86HsgWN4hp58akm-8pn_9lNseJx-FyEHvx79ltHoBmzCPweEGNTHfXpGsaMSY3ZgRUNwWg",
+          "X-Did": "3db485a932e81c10",
+          "User-Agent": "Magma Player/10"
+        },
+        "icono": "http://i.tvcluboficial.com/skysports.png"
+      },
       {
         "name": "NUNCA LO VEAS",
         "uri": "https://drive.usercontent.google.com/download?id=1aGzU6lQBCPlu7432Ml0v6FCxgXV4ENTO&export=download&authuser=0&confirm=t&uuid=fc1641bf-47fe-4377-b1d8-2075f3eff98b&at=AMrWOn3552Abzh2cllE7qm1XIoK5:1790251889300",
