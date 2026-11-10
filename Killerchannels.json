@@ -969,6 +969,17 @@
     "name": "🇧🇷 ESPORTE BRAZIL",
     "samples": [
       {
+        "name": "EVENTS MAX BR",
+        "uri": "https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/gwhjevq6ar/out/v1/bf0c281f2dba46cb87434d45ed13003f/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase",
+        "drm_license_uri": "https://pqlbatyoaawbhfyldlpw.supabase.co/functions/v1/HBO_MAX_EVENTS-BR",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdrbviqAvWdPmPSZwfAIT46GyEJhyknTGzPahXNcSJ4w&s=10",
+        "headers": {
+          "Referer": "https://www.primevideo.com/",
+          "User-Agent": "AivAndroidPlayer/1.0 (AndroidDevice)"
+        },
+        "drm_scheme": "clearkey"
+      },
+      {
         "name": "CAZETV",
         "uri": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd",
         "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/CAZE-TV",
