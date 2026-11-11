@@ -656,6 +656,11 @@
         }
       },
       {
+        "name": "BEIN SPORTS Ñ U",
+        "icono": "https://images.fubo.tv/channel-config-ui/station-logos/on-white/bein-sports-en-espanol-logo-main-copy-2.png",
+        "uri": "tvf90.com/online.php?stream=beinsportes"
+      },
+      {
         "name": "BEIN SPORTS XTRA Ñ",
         "icono": "https://images.fubo.tv/channel-config-ui/station-logos/on-white/bein-sports-xtra-en-espanol-main-copy.png",
         "uri": "https://bein-esp-xumo.amagi.tv/playlist.m3u8"
