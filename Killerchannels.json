@@ -3,6 +3,11 @@
     "name": "🏆 EVENTOS PY",
     "samples": [
       {
+        "name": "EVENTOS TIGO PY",
+        "uri": "https://stmv3.voxtvhd.com.br/toptop/toptop/playlist.m3u8",
+        "icono": "https://i.ibb.co/3WZtzG3/eventos-py.png"
+      },
+      {
         "name": "VS SPORTS",
         "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c7eds/GEN__CAM1/SA_Live_dash_enc/GEN__CAM1.mpd",
         "drm_scheme": "clearkey",
