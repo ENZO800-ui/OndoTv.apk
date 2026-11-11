@@ -1,12 +1,7 @@
 [
   {
-    "name": "🏆 EVENTOS PY",
+    "name": "🏆 EVENTOS TIGO PY",
     "samples": [
-      {
-        "name": "EVENTOS TIGO PY",
-        "uri": "https://stmv3.voxtvhd.com.br/toptop/toptop/playlist.m3u8",
-        "icono": "https://i.ibb.co/3WZtzG3/eventos-py.png"
-      },
       {
         "name": "VS SPORTS",
         "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c7eds/GEN__CAM1/SA_Live_dash_enc/GEN__CAM1.mpd",
@@ -56,7 +51,22 @@
         }
       },
       {
-        "name": "TIGO SPORTS",
+        "name": "EVENTOS TIGO",
+        "uri": "https://stmv3.voxtvhd.com.br/toptop/toptop/playlist.m3u8",
+        "icono": "https://i.ibb.co/5X20hxjL/KN-copia-4.png"
+      },
+      {
+        "name": "EVENTOS PY",
+        "uri": "https://play-fulltv.com.ar/playtvpre/eventos001.m3u8",
+        "icono": "https://i.ibb.co/5X20hxjL/KN-copia-4.png"
+      },
+      {
+        "name": "EVENTOS 2 PY",
+        "uri": "https://play-fulltv.com.ar/playtvpre/eventos002.m3u8",
+        "icono": "https://i.ibb.co/5X20hxjL/KN-copia-4.png"
+      },
+      {
+        "name": "TIGO SPORTS 24/7",
         "uri": "http://45.134.141.161:2200/ARG/Tigo_Sports/tracks-v1a1/mono.m3u8",
         "icono": "https://i.ibb.co/5X20hxjL/KN-copia-4.png"
       }
@@ -547,6 +557,11 @@
         "headers": {
           "user-agent": "Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36"
         }
+      },
+      {
+        "name": "ESPN DEPORTES",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4rPMfgRk27gmjBxJ7t05VQM-mquFf9_urdwl25TDv6g&s=10",
+        "uri": "https://streamxhd.sbs/live1.php?stream=espndeportes"
       }
     ]
   },
