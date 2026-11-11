@@ -1430,6 +1430,16 @@
         }
       },
       {
+        "name": "TELEMUNDO",
+        "uri": "https://barinaslive1.boldmss.com/TELEMUNDO/TELEMUNDO.isml/TELEMUNDO.m3u8",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKtR6DAhB8R9643xeX4SeStMOv8R-LfjqNN7UC5yyazw&s=10"
+      },
+      {
+        "name": "UNIVISON",
+        "uri": "https://barinaslive1.boldmss.com/UNIVISION/UNIVISION.isml/UNIVISION.m3u8",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJcEVrzPoY4xlQByM719uO3YbYI7GqAnvgF5UmTHjGtw&s=10"
+      },
+      {
         "name": "RCN+",
         "uri": "https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8",
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzP0S2SHuRBryss2xWYDnZ1R-XkiqnYTCZPsJVPVG4rg&s=10"
