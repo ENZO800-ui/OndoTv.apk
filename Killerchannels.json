@@ -3064,6 +3064,16 @@
     "name": "PRUEBA",
     "samples": [
       {
+        "name": "PRUEBA",
+        "uri": "https://files.catbox.moe/lqy01f.mp4",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCjSwCiBLKyykxUqEITIOjJrAZCx4dNlGTpIP_skEy6A&s"
+      },
+      {
+        "name": "DAZN 1",
+        "uri": "https://tvf90.com/online.php?stream=dazn1",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCjSwCiBLKyykxUqEITIOjJrAZCx4dNlGTpIP_skEy6A&s"
+      },
+      {
         "name": "Sky Sports: La Liga",
         "uri": "lava:1079",
         "icono": "http://i.tvcluboficial.com/skysports.png",
