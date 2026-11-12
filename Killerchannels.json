@@ -68,7 +68,72 @@
       {
         "name": "TIGO SPORTS 24/7",
         "uri": "http://45.134.141.161:2200/ARG/Tigo_Sports/tracks-v1a1/mono.m3u8",
-        "icono": "https://i.ibb.co/5X20hxjL/KN-copia-4.png"
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/500px-Tigo_Sports_2025.png"
+      }
+    ]
+  },
+  {
+    "name": "🏆 STREAMING EVENTOS",
+    "samples": [
+      {
+        "name": "DISNEY+",
+        "icono": "https://i.pinimg.com/originals/7b/02/ca/7b02ca068cc60479987d5052f842fdf3.jpg",
+        "uri": "https://streamxhd.sbs/live1.php?stream=disney1"
+      },
+      {
+        "name": "DISNEY+ 2",
+        "icono": "https://i.pinimg.com/originals/7b/02/ca/7b02ca068cc60479987d5052f842fdf3.jpg",
+        "uri": "https://streamxhd.sbs/live1.php?stream=disney2"
+      },
+      {
+        "name": "DISNEY+ 3",
+        "icono": "https://i.pinimg.com/originals/7b/02/ca/7b02ca068cc60479987d5052f842fdf3.jpg",
+        "uri": "https://streamxhd.sbs/live1.php?stream=disney3"
+      },
+      {
+        "name": "DISNEY+ 4",
+        "icono": "https://i.pinimg.com/originals/7b/02/ca/7b02ca068cc60479987d5052f842fdf3.jpg",
+        "uri": "https://streamxhd.sbs/live1.php?stream=disney4"
+      },
+      {
+        "name": "DISNEY+ 5",
+        "icono": "https://i.pinimg.com/originals/7b/02/ca/7b02ca068cc60479987d5052f842fdf3.jpg",
+        "uri": "https://streamxhd.sbs/live1.php?stream=disney5"
+      },
+      {
+        "name": "DISNEY+ 6",
+        "icono": "https://i.pinimg.com/originals/7b/02/ca/7b02ca068cc60479987d5052f842fdf3.jpg",
+        "uri": "https://streamxhd.sbs/live1.php?stream=disney6"
+      },
+      {
+        "name": "DISNEY+ 7",
+        "icono": "https://i.pinimg.com/originals/7b/02/ca/7b02ca068cc60479987d5052f842fdf3.jpg",
+        "uri": "https://streamxhd.sbs/live1.php?stream=disney7"
+      },
+      {
+        "name": "DISNEY+ 8",
+        "icono": "https://i.pinimg.com/originals/7b/02/ca/7b02ca068cc60479987d5052f842fdf3.jpg",
+        "uri": "https://streamxhd.sbs/live1.php?stream=disney8"
+      },
+      {
+        "name": "VIX+",
+        "icono": "https://images2.revistafama.com/QVIvxmNOa5BpvDHQOgRlocSoMHA=/320x200/uploads/media/2026/07/22/gratis-lcdlf-mexico-vix-premium.jpg",
+        "uri": "https://streamxhd.sbs/live1.php?stream=vix1"
+      },
+      {
+        "name": "VIX+ 2",
+        "icono": "https://images2.revistafama.com/QVIvxmNOa5BpvDHQOgRlocSoMHA=/320x200/uploads/media/2026/07/22/gratis-lcdlf-mexico-vix-premium.jpg",
+        "uri": "https://streamxhd.sbs/live1.php?stream=vix2"
+      },
+      {
+        "name": "VIX+ 3",
+        "icono": "https://images2.revistafama.com/QVIvxmNOa5BpvDHQOgRlocSoMHA=/320x200/uploads/media/2026/07/22/gratis-lcdlf-mexico-vix-premium.jpg",
+        "uri": "https://streamxhd.sbs/live1.php?stream=vix3"
+      },
+      {
+        "name": "VIX+ 4",
+        "icono": "https://images2.revistafama.com/QVIvxmNOa5BpvDHQOgRlocSoMHA=/320x200/uploads/media/2026/07/22/gratis-lcdlf-mexico-vix-premium.jpg",
+        "uri": "https://streamxhd.sbs/live1.php?stream=vix4"
       }
     ]
   },
@@ -525,22 +590,22 @@
       {
         "name": "ESPN MX",
         "icono": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3528/3528WHORIZONTAL.jpg?size=290x163",
-        "uri": "https://tvf90.com/online.php?stream=espnmx"
+        "uri": "https://streamxhd.sbs/live1.php?stream=espnmx"
       },
       {
         "name": "ESPN 2 MX",
         "icono": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/5256/5256WHORIZONTAL.jpg?size=290x163",
-        "uri": "https://tvf90.com/online.php?stream=espn2mx"
+        "uri": "https://streamxhd.sbs/live1.php?stream=espn2mx"
       },
       {
         "name": "ESPN 3 MX",
         "icono": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/5252/5252WHORIZONTAL.jpg?size=290x163",
-        "uri": "https://tvf90.com/online.php?stream=espn3mx"
+        "uri": "https://streamxhd.sbs/live1.php?stream=espn3mx"
       },
       {
         "name": "ESPN 4 MX",
         "icono": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/1132/1132WHORIZONTAL.jpg?size=290x163",
-        "uri": "https://tvf90.com/online.php?stream=espn4mx"
+        "uri": "https://streamxhd.sbs/live1.php?stream=espn4mx"
       },
       {
         "name": "ESPN DEPORTES",
