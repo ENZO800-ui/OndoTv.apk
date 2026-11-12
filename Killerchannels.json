@@ -97,12 +97,12 @@
       },
       {
         "name": "TRECE",
-        "uri": "https://tv.mitvparaguay.com/hls?type=hls&id=trece",
+        "uri": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/82.m3u8",
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR2g_asOsN2SyRS2jBzWLyuHtCjNAjYIVNRn-hiqu0zw&s=10"
       },
       {
         "name": "UNICANAL",
-        "uri": "https://tv.mitvparaguay.com/hls?type=hls&id=unicanal",
+        "uri": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/72.m3u8",
         "icono": "https://iptvstudio.pages.dev/logos/paraguay/unicanal.png"
       },
       {
@@ -138,12 +138,12 @@
       },
       {
         "name": "C9N",
-        "uri": "https://tv.mitvparaguay.com/hls?type=dash&id=c9n",
+        "uri": "https://ddycmnicl95kp.cloudfront.net/live/qnxsy62odjyb/master.m3u8",
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlZgi3dH4dGXTmCnl2WIU5_FDruZHUYhHE1yQNdJpEow&s=10"
       },
       {
         "name": "GEN",
-        "uri": "https://tv.mitvparaguay.com/hls?type=hls&id=gen",
+        "uri": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1847.m3u8",
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpW0nrQmGCRDxjlu3vedbv8JTwSvinBoemAZYpTIOMKQ&s=10"
       },
       {
@@ -170,7 +170,7 @@
       },
       {
         "name": "ABC TV",
-        "uri": "https://tv.mitvparaguay.com/hls?type=hls&id=abctv",
+        "uri": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/7.m3u8",
         "icono": "https://i.ibb.co/dGqjksf/descarga.png",
         "headers": {
           "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
@@ -178,18 +178,26 @@
       },
       {
         "name": "AMERICA PY",
-        "uri": "https://tv.mitvparaguay.com/hls?type=hls&id=americatv",
+        "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c7eds/America_PY/SA_Live_dash_enc/America_PY.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/AMERICA_PY",
         "icono": "https://i.ibb.co/FbvZ6t5t/america-py.png",
         "headers": {
-          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
         }
       },
       {
         "name": "A24",
-        "uri": "https://tv.mitvparaguay.com/hls?type=hls&id=a24",
+        "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c7eds/A24_PY/SA_Live_dash_enc_wl/A24_PY.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/A24_PY",
         "icono": "https://i.ibb.co/ZpPpv9tJ/a24-py.png",
         "headers": {
-          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
         }
       },
       {
