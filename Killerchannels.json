@@ -742,32 +742,32 @@
         }
       },
       {
-        "name": "FOX SPORTS LAUMAN",
+        "name": "NACION DEPORTES",
         "uri": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://pqlbatyoaawbhfyldlpw.supabase.co/functions/v1/FOX_SPORTS-LAUMAN",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png"
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1IrML8pQa70l0cnrc7RtryeftgXpxc--OpClm8uHSeA&s=10"
       },
       {
-        "name": "FOX SPORTS 2 MAUMAN",
+        "name": "NACION DEPORTES 2",
         "uri": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://pqlbatyoaawbhfyldlpw.supabase.co/functions/v1/FOX_SPORTS_2-LAUMAN",
-        "icono": "https://i.imgur.com/oG7HzEf.png"
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1IrML8pQa70l0cnrc7RtryeftgXpxc--OpClm8uHSeA&s=10"
       },
       {
-        "name": "FOX SPORTS 3 MAUMAN",
+        "name": "NACION DEPORTES 3",
         "uri": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wybgz0orr8/out/v1/2f6d1612abd44f5883917f8a585b955f/cenc.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://pqlbatyoaawbhfyldlpw.supabase.co/functions/v1/FOX_SPORTS_3-LAUMAN",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/960px-Fox_sports_3_logo.svg.png"
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1IrML8pQa70l0cnrc7RtryeftgXpxc--OpClm8uHSeA&s=10"
       },
       {
-        "name": "FS PREMIUM LAUMAN",
+        "name": "ND PREMIUM",
         "uri": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://pqlbatyoaawbhfyldlpw.supabase.co/functions/v1/FS_PREMIUM_LAUMAN",
-        "icono": "https://i.imgur.com/3lOZWeD.png"
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1IrML8pQa70l0cnrc7RtryeftgXpxc--OpClm8uHSeA&s=10"
       },
       {
         "name": "FOX DEPORTES",
@@ -1602,7 +1602,7 @@
       },
       {
         "name": "SONY CINE",
-        "uri": "https://a-cdn.klowdtv.com/803B48A/a-klowdtv.com/live1/cine_720p/playlist.m3u8",
+        "uri": "https://a-cdn.klowdtv.com/live1/cine_720p/chunks.m3u8",
         "icono": "https://pelisjuanita.com/tv/logos/sony-cine.png"
       },
       {
