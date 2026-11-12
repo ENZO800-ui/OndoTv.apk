@@ -77,7 +77,7 @@
     "samples": [
       {
         "name": "SNT",
-        "uri": "https://ddycmnicl95kp.cloudfront.net/live/25646ipbno2g/master.m3u8",
+        "uri": "https://tv.mitvparaguay.com/hls?type=hls&id=snt",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/a/af/SNT_LOGO.jpg"
       },
       {
@@ -97,12 +97,12 @@
       },
       {
         "name": "TRECE",
-        "uri": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/82.m3u8",
+        "uri": "https://tv.mitvparaguay.com/hls?type=hls&id=trece",
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR2g_asOsN2SyRS2jBzWLyuHtCjNAjYIVNRn-hiqu0zw&s=10"
       },
       {
         "name": "UNICANAL",
-        "uri": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/72.m3u8",
+        "uri": "https://tv.mitvparaguay.com/hls?type=hls&id=unicanal",
         "icono": "https://iptvstudio.pages.dev/logos/paraguay/unicanal.png"
       },
       {
@@ -138,12 +138,12 @@
       },
       {
         "name": "C9N",
-        "uri": "https://ddycmnicl95kp.cloudfront.net/live/qnxsy62odjyb/master.m3u8",
+        "uri": "https://tv.mitvparaguay.com/hls?type=dash&id=c9n",
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlZgi3dH4dGXTmCnl2WIU5_FDruZHUYhHE1yQNdJpEow&s=10"
       },
       {
         "name": "GEN",
-        "uri": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1847.m3u8",
+        "uri": "https://tv.mitvparaguay.com/hls?type=hls&id=gen",
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpW0nrQmGCRDxjlu3vedbv8JTwSvinBoemAZYpTIOMKQ&s=10"
       },
       {
@@ -170,7 +170,7 @@
       },
       {
         "name": "ABC TV",
-        "uri": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/7.m3u8",
+        "uri": "https://tv.mitvparaguay.com/hls?type=hls&id=abctv",
         "icono": "https://i.ibb.co/dGqjksf/descarga.png",
         "headers": {
           "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
@@ -178,26 +178,18 @@
       },
       {
         "name": "AMERICA PY",
-        "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c7eds/America_PY/SA_Live_dash_enc/America_PY.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/AMERICA_PY",
+        "uri": "https://tv.mitvparaguay.com/hls?type=hls&id=americatv",
         "icono": "https://i.ibb.co/FbvZ6t5t/america-py.png",
         "headers": {
-          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/"
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
         }
       },
       {
         "name": "A24",
-        "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c7eds/A24_PY/SA_Live_dash_enc_wl/A24_PY.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/A24_PY",
+        "uri": "https://tv.mitvparaguay.com/hls?type=hls&id=a24",
         "icono": "https://i.ibb.co/ZpPpv9tJ/a24-py.png",
         "headers": {
-          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/"
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
         }
       },
       {
@@ -308,44 +300,8 @@
     ]
   },
   {
-    "name": "🏆 ESPN & FOX",
+    "name": "🏆 ESPN",
     "samples": [
-      {
-        "name": "FOX SPORTS",
-        "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc/FoxSports.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://pqlbatyoaawbhfyldlpw.supabase.co/functions/v1/FOX_SPORTS-FLOW",
-        "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/979.png",
-        "headers": {
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/"
-        }
-      },
-      {
-        "name": "FOX SPORTS 2",
-        "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc/FoxSports2HD.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://pqlbatyoaawbhfyldlpw.supabase.co/functions/v1/FOX_SPORTS_2-FLOW",
-        "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/2785.png",
-        "headers": {
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/"
-        }
-      },
-      {
-        "name": "FOX SPORTS 3",
-        "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc/FoxSports3HD.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://pqlbatyoaawbhfyldlpw.supabase.co/functions/v1/FOX_SPORTS_3-FLOW",
-        "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/2366.png",
-        "headers": {
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/"
-        }
-      },
       {
         "name": "ESPN LPF",
         "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_wl/Fox_Sports_Premiun_HD.mpd",
@@ -559,6 +515,26 @@
         }
       },
       {
+        "name": "ESPN MX",
+        "icono": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3528/3528WHORIZONTAL.jpg?size=290x163",
+        "uri": "https://tvf90.com/online.php?stream=espnmx"
+      },
+      {
+        "name": "ESPN 2 MX",
+        "icono": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/5256/5256WHORIZONTAL.jpg?size=290x163",
+        "uri": "https://tvf90.com/online.php?stream=espn2mx"
+      },
+      {
+        "name": "ESPN 3 MX",
+        "icono": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/5252/5252WHORIZONTAL.jpg?size=290x163",
+        "uri": "https://tvf90.com/online.php?stream=espn3mx"
+      },
+      {
+        "name": "ESPN 4 MX",
+        "icono": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/1132/1132WHORIZONTAL.jpg?size=290x163",
+        "uri": "https://tvf90.com/online.php?stream=espn4mx"
+      },
+      {
         "name": "ESPN DEPORTES",
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4rPMfgRk27gmjBxJ7t05VQM-mquFf9_urdwl25TDv6g&s=10",
         "uri": "https://streamxhd.sbs/live1.php?stream=espndeportes"
@@ -646,7 +622,7 @@
         }
       },
       {
-        "name": "BEIN SPORTS Ñ",
+        "name": "BEIN SPORTS Ñ CA",
         "uri": "https://lott2-reach-opus.cdn.avp.telus.net/232006003149/vxfmt=dp/manifest.mpd?device_profile=dashvmx",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/BEIN_SPORTS--",
@@ -656,9 +632,9 @@
         }
       },
       {
-        "name": "BEIN SPORTS Ñ U",
+        "name": "BEIN SPORTS Ñ USA",
         "icono": "https://images.fubo.tv/channel-config-ui/station-logos/on-white/bein-sports-en-espanol-logo-main-copy-2.png",
-        "uri": "tvf90.com/online.php?stream=beinsportes"
+        "uri": "https://tvf90.com/online.php?stream=beinsportes"
       },
       {
         "name": "BEIN SPORTS XTRA Ñ",
