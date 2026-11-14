@@ -534,80 +534,24 @@
         }
       },
       {
-        "name": "ESPN COL",
-        "uri": "https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.m3u8",
-        "icono": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3528/3528WHORIZONTAL.jpg?size=290x163",
-        "headers": {
-          "user-agent": "Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36"
-        }
-      },
-      {
-        "name": "ESPN 2 COL",
-        "uri": "https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.m3u8",
-        "icono": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/5256/5256WHORIZONTAL.jpg?size=290x163",
-        "headers": {
-          "user-agent": "Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36"
-        }
-      },
-      {
-        "name": "ESPN 3 COL",
-        "uri": "https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.m3u8",
-        "icono": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/5252/5252WHORIZONTAL.jpg?size=290x163",
-        "headers": {
-          "user-agent": "Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36"
-        }
-      },
-      {
-        "name": "ESPN 4 COL",
-        "uri": "https://barinaslive1.boldmss.com/ESPN_4/ESPN_4.isml/ESPN_4.m3u8",
-        "icono": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/1132/1132WHORIZONTAL.jpg?size=290x163",
-        "headers": {
-          "user-agent": "Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36"
-        }
-      },
-      {
-        "name": "ESPN 5 COL",
-        "uri": "https://barinaslive1.boldmss.com/ESPN_5/ESPN_5.isml/ESPN_5.m3u8",
-        "icono": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3180/3180WHORIZONTAL.jpg?size=290x163",
-        "headers": {
-          "user-agent": "Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36"
-        }
-      },
-      {
-        "name": "ESPN 6 COL",
-        "uri": "https://barinaslive1.boldmss.com/ESPN_6/ESPN_6.isml/ESPN_6.m3u8",
-        "icono": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3899/3899WHORIZONTAL.jpg?size=290x163",
-        "headers": {
-          "user-agent": "Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36"
-        }
-      },
-      {
-        "name": "ESPN 7 COL",
-        "uri": "https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.m3u8",
-        "icono": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3463/3463WHORIZONTAL.jpg?size=290x163",
-        "headers": {
-          "user-agent": "Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36"
-        }
-      },
-      {
         "name": "ESPN MX",
         "icono": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3528/3528WHORIZONTAL.jpg?size=290x163",
-        "uri": "https://streamxhd.sbs/live1.php?stream=espnmx"
+        "uri": "https://tvf90.com/online.php?stream=espnmx"
       },
       {
         "name": "ESPN 2 MX",
         "icono": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/5256/5256WHORIZONTAL.jpg?size=290x163",
-        "uri": "https://streamxhd.sbs/live1.php?stream=espn2mx"
+        "uri": "https://tvf90.com/online.php?stream=espn2mx"
       },
       {
         "name": "ESPN 3 MX",
         "icono": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/5252/5252WHORIZONTAL.jpg?size=290x163",
-        "uri": "https://streamxhd.sbs/live1.php?stream=espn3mx"
+        "uri": "https://tvf90.com/online.php?stream=espn3mx"
       },
       {
         "name": "ESPN 4 MX",
         "icono": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/1132/1132WHORIZONTAL.jpg?size=290x163",
-        "uri": "https://streamxhd.sbs/live1.php?stream=espn4mx"
+        "uri": "https://tvf90.com/online.php?stream=espn4mx"
       },
       {
         "name": "ESPN DEPORTES",
