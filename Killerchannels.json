@@ -54,6 +54,11 @@
         "icono": "https://i.ibb.co/5X20hxjL/KN-copia-4.png"
       },
       {
+        "name": "EVENTOS CATS",
+        "uri": "https://prod-fastly-a.video.pscp.tv/a/Transcoding/v1/hls/2EmPLgKoyZjaNo/non_transcode/pdxa/periscope-replays-public/master_dynamic_delta.m3u8?type=live",
+        "icono": "https://i.ibb.co/5X20hxjL/KN-copia-4.png"
+      },
+      {
         "name": "TIGO SPORTS 24/7",
         "uri": "http://45.134.141.161:2200/ARG/Tigo_Sports/tracks-v1a1/mono.m3u8",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/500px-Tigo_Sports_2025.png"
