@@ -740,35 +740,35 @@
         "name": "NACION DEPORTES",
         "uri": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://pqlbatyoaawbhfyldlpw.supabase.co/functions/v1/FOX_SPORTS-LAUMAN",
+        "drm_license_uri": "https://play-fulltv.com.ar/zuperplay/playtv/results.php?keyid=2fbdaa3bea0d0323ae011b318d1db716&key=8726ef7eaf5b9dce15fb6aa9f80bd53f",
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1IrML8pQa70l0cnrc7RtryeftgXpxc--OpClm8uHSeA&s=10"
       },
       {
         "name": "NACION DEPORTES 2",
         "uri": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://pqlbatyoaawbhfyldlpw.supabase.co/functions/v1/FOX_SPORTS_2-LAUMAN",
+        "drm_license_uri": "https://play-fulltv.com.ar/zuperplay/playtv/results.php?keyid=8836fb04d62dc64c9f8a39ef8640d5eb&key=d4f05ce56c5231b7cdf53455bea58621",
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1IrML8pQa70l0cnrc7RtryeftgXpxc--OpClm8uHSeA&s=10"
       },
       {
         "name": "NACION DEPORTES 3",
         "uri": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wybgz0orr8/out/v1/2f6d1612abd44f5883917f8a585b955f/cenc.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://pqlbatyoaawbhfyldlpw.supabase.co/functions/v1/FOX_SPORTS_3-LAUMAN",
+        "drm_license_uri": "https://play-fulltv.com.ar/zuperplay/playtv/results.php?keyid=11c8c1c2ef0385cf1e64d44bb9c3a395&key=5769730ffbdc4b2fd8945929d9ace063",
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1IrML8pQa70l0cnrc7RtryeftgXpxc--OpClm8uHSeA&s=10"
       },
       {
         "name": "ND PREMIUM",
         "uri": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://pqlbatyoaawbhfyldlpw.supabase.co/functions/v1/FS_PREMIUM_LAUMAN",
+        "drm_license_uri": "https://play-fulltv.com.ar/zuperplay/playtv/results.php?keyid=9f327d24c66fbd84e15ab5c9ead7c7a4&key=83837185529c0c4048f81386c2d36426",
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1IrML8pQa70l0cnrc7RtryeftgXpxc--OpClm8uHSeA&s=10"
       },
       {
         "name": "FOX DEPORTES",
         "uri": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://pqlbatyoaawbhfyldlpw.supabase.co/functions/v1/FOX_DEPORTES",
+        "drm_license_uri": "https://play-fulltv.com.ar/zuperplay/playtv/results.php?keyid=d1a163914db8ffad2c3e94f979896a0d&key=9728800a3959aafdd5b0bcfbf3768811",
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqnWoMgNNVSs7Mz64A3PW7Q_N9oFYapHkwLX8ol_hM2w&s=10",
         "headers": {
           "User-Agent": "AivAndroidPlayer/1.0 (AndroidDevice)",
@@ -777,35 +777,11 @@
         }
       },
       {
-        "name": "FOX",
-        "uri": "https://live1-ott.izzigo.tv/13/out/u/dash/FOX-HD/default.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://pqlbatyoaawbhfyldlpw.supabase.co/functions/v1/FOX_PAYTV",
-        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQszGNTIJ9mYxPJoZgP1Ik9oRbJ-TL92jKaQV1PJZ37nQ&s",
-        "headers": {
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
-          "Origin": "https://www.izzigo.tv",
-          "Referer": "https://www.izzigo.tv/"
-        }
-      },
-      {
-        "name": "FOX+",
-        "uri": "https://live1-ott.izzigo.tv/14/out/u/dash/FOX-ONE-PLUS-HD/default.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://pqlbatyoaawbhfyldlpw.supabase.co/functions/v1/FOX_PLUSTV",
-        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmjs0YUfFe2aSZ7aNVcVu18VzjQy-P2iAeFO-IDqY2rQ&s=10",
-        "headers": {
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
-          "Origin": "https://www.izzigo.tv",
-          "Referer": "https://www.izzigo.tv/"
-        }
-      },
-      {
         "name": "FOX TUBI",
         "uri": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/worucjnctz/out/v1/20ac5ecdc9b848dc92e7f1188bdf6ff6/cenc.mpd",
         "icono": "https://foxone.asset.viewlift.com/images/2025/12/01/fox-tubi-logo-1764604643459.png",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/KEY_FOX-",
+        "drm_license_uri": "https://play-fulltv.com.ar/zuperplay/playtv/results.php?keyid=8ec2e6248abe2e10e16e439c9b85ffd8&key=f121b015c2a5197828355fb6a874c297",
         "headers": {
           "User-Agent": "AivAndroidPlayer/1.0 (AndroidDevice)",
           "Referer": "https://www.primevideo.com/"
@@ -838,14 +814,14 @@
         "name": "TUDN",
         "uri": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/TUDN-HD",
+        "drm_license_uri": "https://play-fulltv.com.ar/zuperplay/playtv/results.php?keyid=763ce1ebcaf23502c8cf357c6ef423e1&key=0c5e6c0820a1ea28753721db00272411",
         "icono": "https://i.imgur.com/oT5CAvd.png"
       },
       {
-        "name": "TUDN en VIX",
+        "name": "TUDN USA",
         "uri": "https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/26hxutyti4/out/v1/c7064d5b251a4564b53e0854426b9c8f/cenc.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/TUDN",
+        "drm_license_uri": "https://play-fulltv.com.ar/zuperplay/playtv/results.php?keyid=763ce1ebcaf23502c8cf357c6ef423e1&key=0c5e6c0820a1ea28753721db00272411",
         "icono": "https://i.imgur.com/oT5CAvd.png"
       },
       {
@@ -854,117 +830,9 @@
         "icono": "https://i.imgur.com/oT5CAvd.png"
       },
       {
-        "name": "SKY SPORTS",
-        "uri": "https://live1-ott.izzigo.tv/13/out/u/dash/SKY-SPORTS-HD/default.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://pqlbatyoaawbhfyldlpw.supabase.co/functions/v1/SKY_SPORTS_MX",
-        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKMda7QVWv3uhHK-qWTZb_yHFxvlxxGobpa3YWGuCjPA&s=10",
-        "headers": {
-          "Origin": "https://www.izzigo.tv",
-          "referer": "https://www.izzigo.tv/",
-          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "SKY SPORTS F1",
-        "uri": "https://live-atv-cdn.izzigo.tv/12/out/u/dash/F1-HD/F1-HD.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://pqlbatyoaawbhfyldlpw.supabase.co/functions/v1/SKY_F1_MX",
-        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKMda7QVWv3uhHK-qWTZb_yHFxvlxxGobpa3YWGuCjPA&s=10",
-        "headers": {
-          "Origin": "https://www.izzigo.tv",
-          "referer": "https://www.izzigo.tv/",
-          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "SKY SPORTS 16",
-        "uri": "https://live1-ott.izzigo.tv/12/out/u/dash/SKY-SPORTS-16-HD/default.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://pqlbatyoaawbhfyldlpw.supabase.co/functions/v1/SKY_SPORTS_16_MX",
-        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKMda7QVWv3uhHK-qWTZb_yHFxvlxxGobpa3YWGuCjPA&s=10",
-        "headers": {
-          "Origin": "https://www.izzigo.tv",
-          "referer": "https://www.izzigo.tv/",
-          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "SKY SPORTS 21",
-        "uri": "https://live1-ott.izzigo.tv/13/out/u/dash/SKY-SPORTS-21-HD/default.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://pqlbatyoaawbhfyldlpw.supabase.co/functions/v1/SKY_SPORTS_21_MX",
-        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKMda7QVWv3uhHK-qWTZb_yHFxvlxxGobpa3YWGuCjPA&s=10",
-        "headers": {
-          "Origin": "https://www.izzigo.tv",
-          "referer": "https://www.izzigo.tv/",
-          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "SKY SPORTS 24",
-        "uri": "https://live1-ott.izzigo.tv/15/out/u/dash/SKY-SPORTS-24-HD/default.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://pqlbatyoaawbhfyldlpw.supabase.co/functions/v1/SKY_SPORTS_24_MX",
-        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKMda7QVWv3uhHK-qWTZb_yHFxvlxxGobpa3YWGuCjPA&s=10",
-        "headers": {
-          "Origin": "https://www.izzigo.tv",
-          "referer": "https://www.izzigo.tv/",
-          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "SKY LIVE EVENT",
-        "uri": "https://live1-ott.izzigo.tv/11/out/u/dash/SKY-LIVE-EVENT-1-HD/SKY-LIVE-EVENT-1-HD.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://pqlbatyoaawbhfyldlpw.supabase.co/functions/v1/SKY_LIVE_EVENT_MX",
-        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKMda7QVWv3uhHK-qWTZb_yHFxvlxxGobpa3YWGuCjPA&s=10",
-        "headers": {
-          "Origin": "https://www.izzigo.tv",
-          "referer": "https://www.izzigo.tv/",
-          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "SKY LIVE EVENT 2",
-        "uri": "https://live1-ott.izzigo.tv/8/out/u/dash/SKY-LIVE-EVENT-2-HD-H265/default.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://pqlbatyoaawbhfyldlpw.supabase.co/functions/v1/SKY_LIVE_EVENT_2_MX",
-        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKMda7QVWv3uhHK-qWTZb_yHFxvlxxGobpa3YWGuCjPA&s=10",
-        "headers": {
-          "Origin": "https://www.izzigo.tv",
-          "referer": "https://www.izzigo.tv/",
-          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "SKY LIVE EVENT 3",
-        "uri": "https://live1-ott.izzigo.tv/11/out/u/dash/SKY-LIVE-EVENT-4-HD/default.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://pqlbatyoaawbhfyldlpw.supabase.co/functions/v1/SKY_LIVE_EVENT_3_MX",
-        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKMda7QVWv3uhHK-qWTZb_yHFxvlxxGobpa3YWGuCjPA&s=10",
-        "headers": {
-          "Origin": "https://www.izzigo.tv",
-          "referer": "https://www.izzigo.tv/",
-          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "SKY LIVE EVENT 4",
-        "uri": "https://live1-ott.izzigo.tv/12/out/u/dash/SKY-LIVE-EVENT-5-HD/default.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://pqlbatyoaawbhfyldlpw.supabase.co/functions/v1/SKY_LIVE_EVENT_4_MX",
-        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKMda7QVWv3uhHK-qWTZb_yHFxvlxxGobpa3YWGuCjPA&s=10",
-        "headers": {
-          "Origin": "https://www.izzigo.tv",
-          "referer": "https://www.izzigo.tv/",
-          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
-        }
-      },
-      {
         "name": "EUROSPORT",
         "uri": "https://cache2.zapitv.com/live/eds_c2/eurosport_1_hd/dash_live_ez/eurosport_1_hd.mpd",
-        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/EUROSPORTS",
+        "drm_license_uri": "https://play-fulltv.com.ar/zuperplay/playtv/results.php?keyid=0f4751abc997473d9138d17b5944be04&key=a0aefedd2376a54b8b50f9b7c2d50ac7",
         "icono": "https://i.imgur.com/olQJgm7.png",
         "headers": {
           "Referer": "https://www.primevideo.com/",
@@ -975,7 +843,7 @@
       {
         "name": "EUROSPORT 2",
         "uri": "https://cache2.zapitv.com/live/eds_c2/eurosport_2_hd/dash_live_ez/eurosport_2_hd.mpd",
-        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/EUROSPORTS2",
+        "drm_license_uri": "https://play-fulltv.com.ar/zuperplay/playtv/results.php?keyid=e369d9ab101d4b60ba13c0384f503528&key=041e35e31381521b3398af5c6dd99414",
         "icono": "https://i.imgur.com/f56dHgR.png",
         "headers": {
           "Referer": "https://www.primevideo.com/",
@@ -991,7 +859,7 @@
       {
         "name": "EVENTS MAX BR",
         "uri": "https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/gwhjevq6ar/out/v1/bf0c281f2dba46cb87434d45ed13003f/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase",
-        "drm_license_uri": "https://pqlbatyoaawbhfyldlpw.supabase.co/functions/v1/HBO_MAX_EVENTS-BR",
+        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=83a4bc2c011e2c72b35b7b5f2d35560d&key=01bd0115c83d3493449181ba68998ab1",
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdrbviqAvWdPmPSZwfAIT46GyEJhyknTGzPahXNcSJ4w&s=10",
         "headers": {
           "Referer": "https://www.primevideo.com/",
@@ -1002,7 +870,7 @@
       {
         "name": "CAZETV",
         "uri": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd",
-        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/CAZE-TV",
+        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=34475edab991ad5e92548aebd710410a&key=501b209cccd323ac00bf5ac15b406cb4",
         "icono": "https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Caz%C3%A9TV_logo.svg/1280px-Caz%C3%A9TV_logo.svg.png",
         "drm_scheme": "clearkey"
       },
@@ -1024,7 +892,7 @@
       {
         "name": "SPORTV",
         "uri": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd?amznDtid=AOAGZA014O5RE&amznPN=xp&amznPV=ATVWebPlayerSDK-1.0.238964.0",
-        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/SPORTV1",
+        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=51c0ef23b17297e5c01cd7f36dd0a6ce&key=8823f713ba6fdb9bbe0a2ad82d309a4b",
         "icono": "https://i.postimg.cc/gr9x3z71/Spor-TV-2021.png",
         "headers": {
           "Referer": "https://www.primevideo.com/",
@@ -1035,7 +903,7 @@
       {
         "name": "SPORTV 2",
         "uri": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/dsa3hwuhd1/out/v1/631b48c8d9ea437e8309d1a4b55acef5/cenc.mpd",
-        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/SPORTV2",
+        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=3de028eafb3b2caffec03be1c1c818b3&key=8fbdd8a9ae6748696bb13e547bb093fc",
         "icono": "https://i.imgur.com/pBiUnb2.png",
         "headers": {
           "Referer": "https://www.primevideo.com/",
@@ -1046,7 +914,7 @@
       {
         "name": "SPORTV 3",
         "uri": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd",
-        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/SPORTV3",
+        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=902e5ec0e3d05e665daa32fc23f4f59e&key=7b2322a273843921a43e2c61dac7cae3",
         "icono": "https://i.imgur.com/mWOR8pi.png",
         "headers": {
           "Referer": "https://www.primevideo.com/",
@@ -1057,7 +925,7 @@
       {
         "name": "PREMIERE",
         "uri": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
-        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/PREMIERE-BR",
+        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=56b79c1782b30e6b6fc973b0e8fd4104&key=fa38aaa865a57eda7c77444697ba8ed3",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/960px-Premiere_(2017)_logo.png",
         "drm_scheme": "clearkey"
       },
@@ -1108,7 +976,7 @@
         "name": "ANIMAL PLANET",
         "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c7eds/AnimalPlanet/SA_Live_dash_enc/AnimalPlanet.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/ANIMAL_PLANET",
+        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=bd3391cf0c35692dbaca16b76169e211&key=0dd3924a07b0a4051f6db1d57e75a700",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png",
         "headers": {
           "Origin": "https://portal.app.flow.com.py",
@@ -1120,7 +988,7 @@
         "name": "DISCOVERY TURBO",
         "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c7eds/DiscoveryTurbo/SA_Live_dash_enc/DiscoveryTurbo.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/DISCOVERY_TURBO",
+        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=0f55ecc6486bcae9fd3f53271fc16ad8&key=eeb7df5969fc58b5771f2f3bc7502ad5",
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcHxpOVKnUe9L8VyarWFKx1mkDBiI3EhvuLjv-ipdZYw&s",
         "headers": {
           "Origin": "https://portal.app.flow.com.py",
@@ -1137,7 +1005,7 @@
         "name": "HISTORY",
         "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c7eds/HistoryHD/SA_Live_dash_enc/HistoryHD.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/HISTORY",
+        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=b10e48eb0c9940015e28dfe7637b48fa&key=4df252f95de70923b736f3f659821cb7",
         "icono": "https://i.ibb.co/cSf474qK/History-Logo-svg.png",
         "headers": {
           "Origin": "https://portal.app.flow.com.py",
@@ -1149,23 +1017,11 @@
         "name": "HSTORY 2",
         "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c6eds/History_2/SA_Live_dash_enc/History_2.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/HISTORY2",
+        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=6e08ea85cdbf5d3d2089d5e9a5349d8c&key=ccdb13d6d47775894452a0629c986b67",
         "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/3621.png",
         "headers": {
           "Origin": "https://portal.app.flow.com.py",
           "referer": "https://portal.app.flow.com.py/",
-          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "SKY HISTORY",
-        "uri": "https://live1-ott.izzigo.tv/15/out/u/dash/HISTORY-CHANNEL-HD/default.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/SKY_HISTORY",
-        "icono": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1875.png",
-        "headers": {
-          "Origin": "https://www.izzigo.tv",
-          "referer": "https://www.izzigo.tv/",
           "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
         }
       },
