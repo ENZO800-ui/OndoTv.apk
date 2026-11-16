@@ -6,7 +6,7 @@
         "name": "VS SPORTS",
         "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c7eds/GEN__CAM1/SA_Live_dash_enc/GEN__CAM1.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://fullplay.com.py/playtvpre/results.php?keyid=a2624484ee4d8c41bac4d41eee323773&key=b58f5c587f8ba08e1132243b139ba4d4",
+        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=a2624484ee4d8c41bac4d41eee323773&key=b58f5c587f8ba08e1132243b139ba4d4",
         "icono": "https://i.ibb.co/CpxTmNvM/vs-sports.png",
         "headers": {
           "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
@@ -18,7 +18,7 @@
         "name": "EVENTOS",
         "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c3eds/Eventos_PY/SA_Live_dash_enc_wl/Eventos_PY.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://fullplay.com.py/playtvpre/results.php?keyid=ed7b0d73a158d03e65fc777d324e25aa&key=e751bb7d094949ad14e5cbc6827979bb",
+        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=ed7b0d73a158d03e65fc777d324e25aa&key=e751bb7d094949ad14e5cbc6827979bb",
         "icono": "https://i.ibb.co/3WZtzG3/eventos-py.png",
         "headers": {
           "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
@@ -30,7 +30,7 @@
         "name": "EVENTOS 2",
         "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c4eds/Eventos2_PY/SA_Live_dash_enc/Eventos2_PY.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://fullplay.com.py/playtvpre/results.php?keyid=e2d826c634f1c4013859ddd16f5bac42&key=44424471e931147ae3d5c0f0e732d73d",
+        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=e2d826c634f1c4013859ddd16f5bac42&key=44424471e931147ae3d5c0f0e732d73d",
         "icono": "https://i.ibb.co/3WZtzG3/eventos-py.png",
         "headers": {
           "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
@@ -137,7 +137,7 @@
         "name": "SNT",
         "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c4eds/SNT_C4/SA_Live_dash_enc/SNT_C4.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://fullplay.com.py/playtvpre/results.php?keyid=a64f7643405eb504a6634036a96705e3&key=e8c404746c8622774e35eba67fcc8623",
+        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=a64f7643405eb504a6634036a96705e3&key=e8c404746c8622774e35eba67fcc8623",
         "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/HkPBMLO5--5ekxoYmuRCVg?tags=CH_LOGO",
         "headers": {
           "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
@@ -205,7 +205,7 @@
         "name": "C9N",
         "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c5eds/C9N_C4/SA_Live_dash_enc/C9N_C4.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://fullplay.com.py/playtvpre/results.php?keyid=ed6a4c25be366a68b9758a24900fd7fc&key=ed523316b354cd5b1b99b3f9e6a99af5",
+        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=ed6a4c25be366a68b9758a24900fd7fc&key=ed523316b354cd5b1b99b3f9e6a99af5",
         "icono": "https://i.postimg.cc/YCrvYC8K/c9n.png",
         "headers": {
           "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
@@ -222,7 +222,7 @@
         "name": "POPU TV",
         "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c7eds/Universo/SA_Live_dash_enc/Universo.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://fullplay.com.py/playtvpre/results.php?keyid=ff2c94143de42e334c7ee3e081224ee4&key=558c45cc6a1c9aa0b3ea99895196c6e4",
+        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=ff2c94143de42e334c7ee3e081224ee4&key=558c45cc6a1c9aa0b3ea99895196c6e4",
         "icono": "https://www.popular.com.py/wp-content/themes/popu/assets/img/popu-tv.png",
         "headers": {
           "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
@@ -252,7 +252,7 @@
         "name": "AMERICA PY",
         "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c7eds/America_PY/SA_Live_dash_enc/America_PY.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://fullplay.com.py/playtvpre/results.php?keyid=cfec17aceb86d821cb6f704e48c52588&key=3ba71285a8c6c9c15c937083ef424a6d",
+        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=cfec17aceb86d821cb6f704e48c52588&key=3ba71285a8c6c9c15c937083ef424a6d",
         "icono": "https://i.ibb.co/FbvZ6t5t/america-py.png",
         "headers": {
           "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
@@ -264,7 +264,7 @@
         "name": "A24",
         "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c7eds/A24_PY/SA_Live_dash_enc_wl/A24_PY.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://fullplay.com.py/playtvpre/results.php?keyid=3ca6efbbe0202efe4bba7ca50433537a&key=4c896a4ac1c9d89d38e7b68b21a40837",
+        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=3ca6efbbe0202efe4bba7ca50433537a&key=4c896a4ac1c9d89d38e7b68b21a40837",
         "icono": "https://i.ibb.co/ZpPpv9tJ/a24-py.png",
         "headers": {
           "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
@@ -386,7 +386,7 @@
         "name": "ESPN LPF",
         "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_wl/Fox_Sports_Premiun_HD.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://fullplay.com.py/playtvpre/results.php?keyid=c502892e037a9f34827147b2b24e42cf&key=2531bd34bec6c0e8fa4e07aedb261ade",
+        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=c502892e037a9f34827147b2b24e42cf&key=2531bd34bec6c0e8fa4e07aedb261ade",
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjb8xYYksAq7ZqpK1h_34Y4TtSblkFF10pnhH8_o3XPR8IqGbYwivYZU4&s=10",
         "headers": {
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
@@ -398,7 +398,7 @@
         "name": "ESPN ARG",
         "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://fullplay.com.py/playtvpre/results.php?keyid=d079ffa3757e8335611fc48be6ba47ff&key=05059d1cb21b6708a55e9c26fb38e2f3",
+        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=d079ffa3757e8335611fc48be6ba47ff&key=05059d1cb21b6708a55e9c26fb38e2f3",
         "icono": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3528/3528WHORIZONTAL.jpg?size=290x163",
         "headers": {
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
@@ -410,7 +410,7 @@
         "name": "ESPN 2 ARG",
         "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_Live_dash_enc/ESPN2_Arg.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://fullplay.com.py/playtvpre/results.php?keyid=e6eab53cf8ea962b999c59c298596a65&key=10c103ae76f99620d66fa75f2c03302a",
+        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=e6eab53cf8ea962b999c59c298596a65&key=10c103ae76f99620d66fa75f2c03302a",
         "icono": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/5256/5256WHORIZONTAL.jpg?size=290x163",
         "headers": {
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
@@ -422,7 +422,7 @@
         "name": "ESPN 3 ARG",
         "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c3eds/ESPN3/SA_Live_dash_enc/ESPN3.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://fullplay.com.py/playtvpre/results.php?keyid=deeed0f44c6b45e064f4d5064486e821&key=bf89ceeb93564ddc603ba6afd8c9266a",
+        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=deeed0f44c6b45e064f4d5064486e821&key=bf89ceeb93564ddc603ba6afd8c9266a",
         "icono": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/5252/5252WHORIZONTAL.jpg?size=290x163",
         "headers": {
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
@@ -434,7 +434,7 @@
         "name": "ESPN 4 ARG",
         "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://fullplay.com.py/playtvpre/results.php?keyid=d02981e6faeacef49c90fdb053ab641d&key=645e13624e933841b1ea35cda1b55bd1",
+        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=d02981e6faeacef49c90fdb053ab641d&key=645e13624e933841b1ea35cda1b55bd1",
         "icono": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/1132/1132WHORIZONTAL.jpg?size=290x163",
         "headers": {
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
@@ -446,7 +446,7 @@
         "name": "ESPN 5 ARG",
         "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c7eds/ESPN4/SA_Live_dash_enc/ESPN4.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://fullplay.com.py/playtvpre/results.php?keyid=d02981e6faeacef49c90fdb053ab641d&key=645e13624e933841b1ea35cda1b55bd1",
+        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=d02981e6faeacef49c90fdb053ab641d&key=645e13624e933841b1ea35cda1b55bd1",
         "icono": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3180/3180WHORIZONTAL.jpg?size=290x163",
         "headers": {
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
@@ -458,7 +458,7 @@
         "name": "ESPN 6 ARG",
         "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c7eds/FoxSports3_UY/SA_Live_dash_enc/FoxSports3_UY.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://fullplay.com.py/playtvpre/results.php?keyid=fdac9b45f19959b848f498c8efe15d12&key=c2a6e7acabc370ef792ffacc5e2610a9",
+        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=fdac9b45f19959b848f498c8efe15d12&key=c2a6e7acabc370ef792ffacc5e2610a9",
         "icono": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3899/3899WHORIZONTAL.jpg?size=290x163",
         "headers": {
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
@@ -470,7 +470,7 @@
         "name": "ESPN 7 ARG",
         "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c7eds/FoxSports2_UY/SA_Live_dash_enc/FoxSports2_UY.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://fullplay.com.py/playtvpre/results.php?keyid=fdac9b45f19959b848f498c8efe15d12&key=c2a6e7acabc370ef792ffacc5e2610a9",
+        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=fdac9b45f19959b848f498c8efe15d12&key=c2a6e7acabc370ef792ffacc5e2610a9",
         "icono": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3463/3463WHORIZONTAL.jpg?size=290x163",
         "headers": {
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
@@ -482,7 +482,7 @@
         "name": "ESPN URU",
         "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c4eds/ESPN_UY/SA_Live_dash_enc/ESPN_UY.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://fullplay.com.py/playtvpre/results.php?keyid=e95fe84b9f73e6655fde711d5c896056&key=267a0e514deb984803bec43cc607c4cb",
+        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=e95fe84b9f73e6655fde711d5c896056&key=267a0e514deb984803bec43cc607c4cb",
         "icono": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3528/3528WHORIZONTAL.jpg?size=290x163",
         "headers": {
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
@@ -494,7 +494,7 @@
         "name": "ESPN PRY",
         "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c4eds/ESPN2_PY/SA_Live_dash_enc/ESPN2_PY.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://fullplay.com.py/playtvpre/results.php?keyid=88003c992a67f3221dc4502fcf4a8086&key=dade5af67461fdacecb721dbbb500fb1",
+        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=88003c992a67f3221dc4502fcf4a8086&key=dade5af67461fdacecb721dbbb500fb1",
         "icono": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3528/3528WHORIZONTAL.jpg?size=290x163",
         "headers": {
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
@@ -506,7 +506,7 @@
         "name": "ESPN 2 URU",
         "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c4eds/ESPN2_UY/SA_Live_dash_enc/ESPN2_UY.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://fullplay.com.py/playtvpre/results.php?keyid=3f2e12c72e1a011be0569fbd9ca486ab&key=1273deabb3c043560fe264dd2b1690f1",
+        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=3f2e12c72e1a011be0569fbd9ca486ab&key=1273deabb3c043560fe264dd2b1690f1",
         "icono": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/5256/5256WHORIZONTAL.jpg?size=290x163",
         "headers": {
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
@@ -518,7 +518,7 @@
         "name": "ESPN 2 PRY",
         "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c4eds/ESPN_PY/SA_Live_dash_enc/ESPN_PY.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://fullplay.com.py/playtvpre/results.php?keyid=4877bd947da661d72eb9cd6c42c0767b&key=d103d5e7c2d80f17e72b13f88071681c",
+        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=4877bd947da661d72eb9cd6c42c0767b&key=d103d5e7c2d80f17e72b13f88071681c",
         "icono": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/5256/5256WHORIZONTAL.jpg?size=290x163",
         "headers": {
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
@@ -530,7 +530,7 @@
         "name": "ESPN 3 URU-PRY",
         "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c7eds/ESPN3_Uy-Py/SA_Live_dash_enc/ESPN3_Uy-Py.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://fullplay.com.py/playtvpre/results.php?keyid=3f2e12c72e1a011be0569fbd9ca486ab&key=1273deabb3c043560fe264dd2b1690f1",
+        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=3f2e12c72e1a011be0569fbd9ca486ab&key=1273deabb3c043560fe264dd2b1690f1",
         "icono": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/5252/5252WHORIZONTAL.jpg?size=290x163",
         "headers": {
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
@@ -572,7 +572,7 @@
         "name": "FLOW SPORTS",
         "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c3eds/Eventos1HD/SA_Live_dash_enc/Eventos1HD.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://fullplay.com.py/playtvpre/results.php?keyid=fdb996352a45b339b86f3eb336af36c6&key=21b8543c13b2b87e0e097602a71f3f91",
+        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=fdb996352a45b339b86f3eb336af36c6&key=21b8543c13b2b87e0e097602a71f3f91",
         "icono": "https://static.flow.com.ar/images/673/CH_LOGO/500/500/0/0/53028730071359.png",
         "headers": {
           "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
@@ -584,7 +584,7 @@
         "name": "FLOW SPORTS 2",
         "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c6eds/Eventos_2_HD/SA_Live_dash_enc/Eventos_2_HD.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://fullplay.com.py/playtvpre/results.php?keyid=02c5f46dec4c3feadde6f5b0b0c6e9b6&key=89186f8c250f8291b4211ac1b2bdc103",
+        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=02c5f46dec4c3feadde6f5b0b0c6e9b6&key=89186f8c250f8291b4211ac1b2bdc103",
         "icono": "https://static.flow.com.ar/images/673/CH_LOGO/500/500/0/0/81153935071360.png",
         "headers": {
           "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
@@ -596,7 +596,7 @@
         "name": "DSPORTS",
         "uri": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://fullplay.com.py/playtvpre/results.php?keyid=4f4c3a9912ea752e88f4497864a1bc8b&key=278128004fe8c6ffb2cd2a0c154a241a",
+        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=4f4c3a9912ea752e88f4497864a1bc8b&key=278128004fe8c6ffb2cd2a0c154a241a",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png",
         "headers": {
           "referer": "https://www.primevideo.com/",
@@ -607,7 +607,7 @@
         "name": "DSPORTS 2",
         "uri": "http://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://fullplay.com.py/playtvpre/results.php?keyid=03f12d6a3dbfd3a6fa7dd7f6417e0c11&key=ea07b87acdf2e45be824cde4a1cf3504",
+        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=03f12d6a3dbfd3a6fa7dd7f6417e0c11&key=ea07b87acdf2e45be824cde4a1cf3504",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg/960px-DIRECTV_Sports_2_Latin_America_%282018%29.svg.png",
         "headers": {
           "referer": "https://www.primevideo.com/",
@@ -618,7 +618,7 @@
         "name": "DSPORTS +",
         "uri": "http://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://fullplay.com.py/playtvpre/results.php?keyid=83f81c4cc1443991543de4e22eea7586&key=ddfd7ca653d6f35543d8edb3c688e20f",
+        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=83f81c4cc1443991543de4e22eea7586&key=ddfd7ca653d6f35543d8edb3c688e20f",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png/960px-DirecTV_Sports%2B_Latin_America_%282018%29.png",
         "headers": {
           "referer": "https://www.primevideo.com/",
@@ -649,7 +649,7 @@
         "name": "BEIN SPORTS Ñ CA",
         "uri": "https://lott2-reach-opus.cdn.avp.telus.net/232006003149/vxfmt=dp/manifest.mpd?device_profile=dashvmx",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://fullplay.com.py/playtvpre/results.php?keyid=11111111111111118111000000000000&key=fdee3698ea4f78fb92ff11dbc3d49028",
+        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=11111111111111118111000000000000&key=fdee3698ea4f78fb92ff11dbc3d49028",
         "icono": "https://images.fubo.tv/channel-config-ui/station-logos/on-white/bein-sports-en-espanol-logo-main-copy-2.png",
         "headers": {
           "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.7258.143 Safari/537.36"
@@ -672,7 +672,7 @@
         "name": "TYC SPORTS INT",
         "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc/TyC_Internacional.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://fullplay.com.py/playtvpre/results.php?keyid=e7880e1b0d50ca324646b9d73d781e1f&key=2bef2d7912ee52310d421c1d7756d072",
+        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=e7880e1b0d50ca324646b9d73d781e1f&key=2bef2d7912ee52310d421c1d7756d072",
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMQ5Ho-kHmogi_PzgR205SUuIajQW4FAIGSO33cIcIXQ&s=10",
         "headers": {
           "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
@@ -692,7 +692,7 @@
         "name": "TNT SPORTS AR",
         "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_wl/TNT_Sports_HD.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://fullplay.com.py/playtvpre/results.php?keyid=9fb56301bc7687baf0b1a61def9a007a&key=947d2294ba67256827e8e97f267e71e0",
+        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=9fb56301bc7687baf0b1a61def9a007a&key=947d2294ba67256827e8e97f267e71e0",
         "icono": "https://cdn.aptoide.com/imgs/4/2/f/42f9af941ee13c06b9a90420f2accc64_icon.png",
         "headers": {
           "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
@@ -704,7 +704,7 @@
         "name": "FOX SPORTS",
         "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc/FoxSports.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://play-fulltv.com.ar/zuperplay/playtv/results.php?keyid=37730b00a5f92084c47a8129e84559f3&key=a2e20a45a057ff4e7c0bc2ad49e6f3e5",
+        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=37730b00a5f92084c47a8129e84559f3&key=a2e20a45a057ff4e7c0bc2ad49e6f3e5",
         "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/979.png",
         "headers": {
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
@@ -716,7 +716,7 @@
         "name": "FOX SPORTS 2",
         "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc/FoxSports2HD.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://play-fulltv.com.ar/zuperplay/playtv/results.php?keyid=1b0ab680ef94a1842185fa78a830cbd7&key=23129ab5572aeda7607c920655c0dbea",
+        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=1b0ab680ef94a1842185fa78a830cbd7&key=23129ab5572aeda7607c920655c0dbea",
         "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/2785.png",
         "headers": {
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
@@ -728,7 +728,7 @@
         "name": "FOX SPORTS 3",
         "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc/FoxSports3HD.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://play-fulltv.com.ar/zuperplay/playtv/results.php?keyid=4629bd0ae30c0e72af111fb948fada1c&key=7864154c679e769e7f164ba083c8fad3",
+        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=4629bd0ae30c0e72af111fb948fada1c&key=7864154c679e769e7f164ba083c8fad3",
         "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/2366.png",
         "headers": {
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
@@ -740,35 +740,35 @@
         "name": "NACION DEPORTES",
         "uri": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://play-fulltv.com.ar/zuperplay/playtv/results.php?keyid=2fbdaa3bea0d0323ae011b318d1db716&key=8726ef7eaf5b9dce15fb6aa9f80bd53f",
+        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=2fbdaa3bea0d0323ae011b318d1db716&key=8726ef7eaf5b9dce15fb6aa9f80bd53f",
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1IrML8pQa70l0cnrc7RtryeftgXpxc--OpClm8uHSeA&s=10"
       },
       {
         "name": "NACION DEPORTES 2",
         "uri": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://play-fulltv.com.ar/zuperplay/playtv/results.php?keyid=8836fb04d62dc64c9f8a39ef8640d5eb&key=d4f05ce56c5231b7cdf53455bea58621",
+        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=8836fb04d62dc64c9f8a39ef8640d5eb&key=d4f05ce56c5231b7cdf53455bea58621",
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1IrML8pQa70l0cnrc7RtryeftgXpxc--OpClm8uHSeA&s=10"
       },
       {
         "name": "NACION DEPORTES 3",
         "uri": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wybgz0orr8/out/v1/2f6d1612abd44f5883917f8a585b955f/cenc.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://play-fulltv.com.ar/zuperplay/playtv/results.php?keyid=11c8c1c2ef0385cf1e64d44bb9c3a395&key=5769730ffbdc4b2fd8945929d9ace063",
+        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=11c8c1c2ef0385cf1e64d44bb9c3a395&key=5769730ffbdc4b2fd8945929d9ace063",
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1IrML8pQa70l0cnrc7RtryeftgXpxc--OpClm8uHSeA&s=10"
       },
       {
         "name": "ND PREMIUM",
         "uri": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://play-fulltv.com.ar/zuperplay/playtv/results.php?keyid=9f327d24c66fbd84e15ab5c9ead7c7a4&key=83837185529c0c4048f81386c2d36426",
+        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=9f327d24c66fbd84e15ab5c9ead7c7a4&key=83837185529c0c4048f81386c2d36426",
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1IrML8pQa70l0cnrc7RtryeftgXpxc--OpClm8uHSeA&s=10"
       },
       {
         "name": "FOX DEPORTES",
         "uri": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://play-fulltv.com.ar/zuperplay/playtv/results.php?keyid=d1a163914db8ffad2c3e94f979896a0d&key=9728800a3959aafdd5b0bcfbf3768811",
+        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=d1a163914db8ffad2c3e94f979896a0d&key=9728800a3959aafdd5b0bcfbf3768811",
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqnWoMgNNVSs7Mz64A3PW7Q_N9oFYapHkwLX8ol_hM2w&s=10",
         "headers": {
           "User-Agent": "AivAndroidPlayer/1.0 (AndroidDevice)",
@@ -781,7 +781,7 @@
         "uri": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/worucjnctz/out/v1/20ac5ecdc9b848dc92e7f1188bdf6ff6/cenc.mpd",
         "icono": "https://foxone.asset.viewlift.com/images/2025/12/01/fox-tubi-logo-1764604643459.png",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://play-fulltv.com.ar/zuperplay/playtv/results.php?keyid=8ec2e6248abe2e10e16e439c9b85ffd8&key=f121b015c2a5197828355fb6a874c297",
+        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=8ec2e6248abe2e10e16e439c9b85ffd8&key=f121b015c2a5197828355fb6a874c297",
         "headers": {
           "User-Agent": "AivAndroidPlayer/1.0 (AndroidDevice)",
           "Referer": "https://www.primevideo.com/"
@@ -821,7 +821,7 @@
         "name": "TUDN USA",
         "uri": "https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/26hxutyti4/out/v1/c7064d5b251a4564b53e0854426b9c8f/cenc.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://play-fulltv.com.ar/zuperplay/playtv/results.php?keyid=763ce1ebcaf23502c8cf357c6ef423e1&key=0c5e6c0820a1ea28753721db00272411",
+        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=763ce1ebcaf23502c8cf357c6ef423e1&key=0c5e6c0820a1ea28753721db00272411",
         "icono": "https://i.imgur.com/oT5CAvd.png"
       },
       {
@@ -832,7 +832,7 @@
       {
         "name": "EUROSPORT",
         "uri": "https://cache2.zapitv.com/live/eds_c2/eurosport_1_hd/dash_live_ez/eurosport_1_hd.mpd",
-        "drm_license_uri": "https://play-fulltv.com.ar/zuperplay/playtv/results.php?keyid=0f4751abc997473d9138d17b5944be04&key=a0aefedd2376a54b8b50f9b7c2d50ac7",
+        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=0f4751abc997473d9138d17b5944be04&key=a0aefedd2376a54b8b50f9b7c2d50ac7",
         "icono": "https://i.imgur.com/olQJgm7.png",
         "headers": {
           "Referer": "https://www.primevideo.com/",
@@ -843,7 +843,7 @@
       {
         "name": "EUROSPORT 2",
         "uri": "https://cache2.zapitv.com/live/eds_c2/eurosport_2_hd/dash_live_ez/eurosport_2_hd.mpd",
-        "drm_license_uri": "https://play-fulltv.com.ar/zuperplay/playtv/results.php?keyid=e369d9ab101d4b60ba13c0384f503528&key=041e35e31381521b3398af5c6dd99414",
+        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=e369d9ab101d4b60ba13c0384f503528&key=041e35e31381521b3398af5c6dd99414",
         "icono": "https://i.imgur.com/f56dHgR.png",
         "headers": {
           "Referer": "https://www.primevideo.com/",
