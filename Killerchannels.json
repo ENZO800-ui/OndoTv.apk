@@ -1039,7 +1039,7 @@
         "name": "COMEDY CENTRAL",
         "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c7eds/ComedyCentral/SA_Live_dash_enc/ComedyCentral.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/COMEDY_CENTRAL",
+        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=797eb97d11b7ee31e7da456248464879&key=93a54e23d6fb5e7d05420a279923988c",
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTLo0QouNINvoB0ZKEb2Fgggp6yaD1G15MhB5hP3RD5w&s=10",
         "headers": {
           "Origin": "https://portal.app.flow.com.py",
@@ -1053,22 +1053,10 @@
     "name": "🎥 CINE Y SERIES",
     "samples": [
       {
-        "name": "A3SEIRES",
-        "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c7eds/A3_Series/SA_Live_dash_enc_wl/A3_Series.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/A3SEIRES",
-        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoSNFbWzvgbgCHqOiWOu_MP8FemTgljfmlstEutPLQZQ&s=10",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-          "referer": "https://portal.app.flow.com.py/",
-          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
-        }
-      },
-      {
         "name": "A&E",
         "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c7eds/AEHD/SA_Live_dash_enc/AEHD.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/A-E",
+        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=46d4dda63edf221dae86a32c6e1c8fdb&key=40d66cb806ec1fa0f5649d800a43ec44",
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkHKJVrKm8SEqKbnqXaU-EJHtAOFtQ5onu6NbnxI5Q-Q&s=10",
         "headers": {
           "Origin": "https://portal.app.flow.com.py",
