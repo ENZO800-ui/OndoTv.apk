@@ -711,6 +711,18 @@
         }
       },
       {
+        "name": "BEIN SPORTS Ñ USA",
+        "uri": "http://151.245.32.107:8080/ctv/90.m3u8",
+        "type": "hls",
+        "icono": "https://images.fubo.tv/channel-config-ui/station-logos/on-white/bein-sports-en-espanol-logo-main-copy-2.png",
+        "headers": {
+          "X-App": "ps",
+          "X-Version": "10/1.0.9",
+          "X-Did": "3db485a932e81c10",
+          "User-Agent": "Magma Player/10"
+        }
+      },
+      {
         "name": "BEIN SPORTS XTRA Ñ",
         "icono": "https://images.fubo.tv/channel-config-ui/station-logos/on-white/bein-sports-xtra-en-espanol-main-copy.png",
         "uri": "https://bein-esp-xumo.amagi.tv/playlist.m3u8"
