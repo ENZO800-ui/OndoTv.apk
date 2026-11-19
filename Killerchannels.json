@@ -2995,7 +2995,14 @@
       {
         "name": "PRUEBA",
         "uri": "http://151.245.32.107:8080/ctv/874.m3u8",
-        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCjSwCiBLKyykxUqEITIOjJrAZCx4dNlGTpIP_skEy6A&s"
+        "type": "hls",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCjSwCiBLKyykxUqEITIOjJrAZCx4dNlGTpIP_skEy6A&s",
+        "headers": {
+          "X-App": "ps",
+          "X-Version": "10/1.0.9",
+          "X-Did": "3db485a932e81c10",
+          "User-Agent": "Magma Player/10"
+        }
       },
       {
         "name": "Sky Sports: La Liga",
