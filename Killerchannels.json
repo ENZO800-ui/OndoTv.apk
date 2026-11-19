@@ -566,6 +566,61 @@
     ]
   },
   {
+    "name": "🏆 DAZN PACK",
+    "samples": [
+      {
+        "name": "DAZN 1",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS_iYfzg5DSQCAXg7ONRaroi88RIoYlAJ695EaS_bLyw&s=10",
+        "uri": "https://tvf90.com/online.php?stream=dazn1"
+      },
+      {
+        "name": "DAZN 2",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS_iYfzg5DSQCAXg7ONRaroi88RIoYlAJ695EaS_bLyw&s=10",
+        "uri": "https://tvf90.com/online.php?stream=dazn2"
+      },
+      {
+        "name": "DAZN 3",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS_iYfzg5DSQCAXg7ONRaroi88RIoYlAJ695EaS_bLyw&s=10",
+        "uri": "https://tvf90.com/online.php?stream=dazn3"
+      },
+      {
+        "name": "DAZN 4",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS_iYfzg5DSQCAXg7ONRaroi88RIoYlAJ695EaS_bLyw&s=10",
+        "uri": "https://tvf90.com/online.php?stream=dazn4"
+      },
+      {
+        "name": "DAZN LALIGA",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS_iYfzg5DSQCAXg7ONRaroi88RIoYlAJ695EaS_bLyw&s=10",
+        "uri": "https://tvf90.com/online.php?stream=dazn_laliga"
+      },
+      {
+        "name": "DAZN F1",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS_iYfzg5DSQCAXg7ONRaroi88RIoYlAJ695EaS_bLyw&s=10",
+        "uri": "http://45.134.141.161:2200/ARG/Formula_1_HD/tracks-v1a1/mono.m3u8"
+      },
+      {
+        "name": "DAZN COMBAT",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS_iYfzg5DSQCAXg7ONRaroi88RIoYlAJ695EaS_bLyw&s=10",
+        "uri": "https://jmp2.uk/plu-64d626ac9b414d000820e2fc.m3u8"
+      },
+      {
+        "name": "DAZN RINGSIDE",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS_iYfzg5DSQCAXg7ONRaroi88RIoYlAJ695EaS_bLyw&s=10",
+        "uri": "https://a.tubi1.apollo.adrise.io/live/dazn-ringside-mzlqsq.m3u8"
+      },
+      {
+        "name": "DAZN FAST",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS_iYfzg5DSQCAXg7ONRaroi88RIoYlAJ695EaS_bLyw&s=10",
+        "uri": "https://ac-003.live.p7s1video.net/63f8995e/t_003/dazn-fast-hd/cenc-default.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=8bcec6b31cc9edcb6768ab26548e22c3&key=e3c5b07328894c33734a4de6ae55a87f",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+        }
+      }
+    ]
+  },
+  {
     "name": "🏆 MAS DEPORTES",
     "samples": [
       {
@@ -2940,11 +2995,6 @@
       {
         "name": "PRUEBA",
         "uri": "https://files.catbox.moe/lqy01f.mp4",
-        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCjSwCiBLKyykxUqEITIOjJrAZCx4dNlGTpIP_skEy6A&s"
-      },
-      {
-        "name": "DAZN 1",
-        "uri": "https://tvf90.com/online.php?stream=dazn1",
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCjSwCiBLKyykxUqEITIOjJrAZCx4dNlGTpIP_skEy6A&s"
       },
       {
