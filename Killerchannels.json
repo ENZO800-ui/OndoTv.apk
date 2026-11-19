@@ -716,6 +716,18 @@
         "uri": "https://bein-esp-xumo.amagi.tv/playlist.m3u8"
       },
       {
+        "name": "M+ LIGA DE CAMPEONES",
+        "uri": "http://151.245.32.107:8080/ctv/616.m3u8",
+        "type": "hls",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI0gccEnJarwzMbI_ziQfHngfjR_OWAPfuPKJEuVRDhMwLAghPHQGvLIQ&s=10",
+        "headers": {
+          "X-App": "ps",
+          "X-Version": "10/1.0.9",
+          "X-Did": "3db485a932e81c10",
+          "User-Agent": "Magma Player/10"
+        }
+      },
+      {
         "name": "TYC SPORTS",
         "uri": "https://live-04-11-tyc-app-web.vodgc.net/tyc24/index.m3u8",
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMQ5Ho-kHmogi_PzgR205SUuIajQW4FAIGSO33cIcIXQ&s=10",
