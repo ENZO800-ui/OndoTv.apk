@@ -45,12 +45,7 @@
       },
       {
         "name": "EVENTOS PY",
-        "uri": "https://play-fulltv.com.ar/playtvpre/eventos001.m3u8",
-        "icono": "https://i.ibb.co/5X20hxjL/KN-copia-4.png"
-      },
-      {
-        "name": "EVENTOS 2 PY",
-        "uri": "https://play-fulltv.com.ar/playtvpre/eventos002.m3u8",
+        "uri": "http://179.198.126.40:8090/hls/tigoplay01/stream.m3u8",
         "icono": "https://i.ibb.co/5X20hxjL/KN-copia-4.png"
       },
       {
