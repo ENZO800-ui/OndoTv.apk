@@ -45,12 +45,7 @@
       },
       {
         "name": "EVENTOS PY",
-        "uri": "http://179.198.126.40:8090/hls/tigoplay01/stream.m3u8",
-        "icono": "https://i.ibb.co/5X20hxjL/KN-copia-4.png"
-      },
-      {
-        "name": "EVENTOS CATS",
-        "uri": "https://prod-fastly-a.video.pscp.tv/a/Transcoding/v1/hls/2EmPLgKoyZjaNo/non_transcode/pdxa/periscope-replays-public/master_dynamic_delta.m3u8?type=live",
+        "uri": "http://179.198.126.40:8090/hls/thekingdx/stream.m3u8",
         "icono": "https://i.ibb.co/5X20hxjL/KN-copia-4.png"
       },
       {
@@ -536,27 +531,62 @@
       {
         "name": "ESPN MX",
         "icono": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3528/3528WHORIZONTAL.jpg?size=290x163",
-        "uri": "https://tvf90.com/online.php?stream=espnmx"
+        "uri": "http://151.245.32.107:8080/ctv/401.m3u8",
+        "type": "hls",
+        "headers": {
+          "X-App": "ps",
+          "X-Version": "10/1.0.9",
+          "X-Did": "3db485a932e81c10",
+          "User-Agent": "Magma Player/10"
+        }
       },
       {
         "name": "ESPN 2 MX",
         "icono": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/5256/5256WHORIZONTAL.jpg?size=290x163",
-        "uri": "https://tvf90.com/online.php?stream=espn2mx"
+        "uri": "http://151.245.32.107:8080/ctv/378.m3u8",
+        "type": "hls",
+        "headers": {
+          "X-App": "ps",
+          "X-Version": "10/1.0.9",
+          "X-Did": "3db485a932e81c10",
+          "User-Agent": "Magma Player/10"
+        }
       },
       {
         "name": "ESPN 3 MX",
         "icono": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/5252/5252WHORIZONTAL.jpg?size=290x163",
-        "uri": "https://tvf90.com/online.php?stream=espn3mx"
+        "uri": "http://151.245.32.107:8080/ctv/1110.m3u8",
+        "type": "hls",
+        "headers": {
+          "X-App": "ps",
+          "X-Version": "10/1.0.9",
+          "X-Did": "3db485a932e81c10",
+          "User-Agent": "Magma Player/10"
+        }
       },
       {
         "name": "ESPN 4 MX",
         "icono": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/1132/1132WHORIZONTAL.jpg?size=290x163",
-        "uri": "https://tvf90.com/online.php?stream=espn4mx"
+        "uri": "http://151.245.32.107:8080/ctv/404.m3u8",
+        "type": "hls",
+        "headers": {
+          "X-App": "ps",
+          "X-Version": "10/1.0.9",
+          "X-Did": "3db485a932e81c10",
+          "User-Agent": "Magma Player/10"
+        }
       },
       {
         "name": "ESPN DEPORTES",
+        "uri": "http://151.245.32.107:8080/ctv/1165.m3u8",
+        "type": "hls",
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4rPMfgRk27gmjBxJ7t05VQM-mquFf9_urdwl25TDv6g&s=10",
-        "uri": "https://streamxhd.sbs/live1.php?stream=espndeportes"
+        "headers": {
+          "X-App": "ps",
+          "X-Version": "10/1.0.9",
+          "X-Did": "3db485a932e81c10",
+          "User-Agent": "Magma Player/10"
+        }
       }
     ]
   },
@@ -1364,13 +1394,37 @@
       },
       {
         "name": "TELEMUNDO",
-        "uri": "https://barinaslive1.boldmss.com/TELEMUNDO/TELEMUNDO.isml/TELEMUNDO.m3u8",
+        "uri": "https://streamer1.nexgen.bz/TELEMUNDO/index.m3u8",
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKtR6DAhB8R9643xeX4SeStMOv8R-LfjqNN7UC5yyazw&s=10"
+      },
+      {
+        "name": "TELEMUNDO INT",
+        "uri": "http://151.245.32.107:8080/ctv/1108.m3u8",
+        "type": "hls",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKtR6DAhB8R9643xeX4SeStMOv8R-LfjqNN7UC5yyazw&s=10",
+        "headers": {
+          "X-App": "ps",
+          "X-Version": "10/1.0.9",
+          "X-Did": "3db485a932e81c10",
+          "User-Agent": "Magma Player/10"
+        }
       },
       {
         "name": "UNIVISON",
         "uri": "https://barinaslive1.boldmss.com/UNIVISION/UNIVISION.isml/UNIVISION.m3u8",
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJcEVrzPoY4xlQByM719uO3YbYI7GqAnvgF5UmTHjGtw&s=10"
+      },
+      {
+        "name": "UNIVISION INT",
+        "uri": "http://151.245.32.107:8080/ctv/1009.m3u8",
+        "type": "hls",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJcEVrzPoY4xlQByM719uO3YbYI7GqAnvgF5UmTHjGtw&s=10",
+        "headers": {
+          "X-App": "ps",
+          "X-Version": "10/1.0.9",
+          "X-Did": "3db485a932e81c10",
+          "User-Agent": "Magma Player/10"
+        }
       },
       {
         "name": "RCN+",
