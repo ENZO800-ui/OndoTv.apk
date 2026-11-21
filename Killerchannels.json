@@ -240,27 +240,13 @@
       },
       {
         "name": "AMERICA PY",
-        "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c7eds/America_PY/SA_Live_dash_enc/America_PY.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=cfec17aceb86d821cb6f704e48c52588&key=3ba71285a8c6c9c15c937083ef424a6d",
-        "icono": "https://i.ibb.co/FbvZ6t5t/america-py.png",
-        "headers": {
-          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/"
-        }
+        "uri": "https://america-live.argosworkspace.com/america/index.m3u8",
+        "icono": "https://i.ibb.co/FbvZ6t5t/america-py.png"
       },
       {
         "name": "A24",
-        "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c7eds/A24_PY/SA_Live_dash_enc_wl/A24_PY.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=3ca6efbbe0202efe4bba7ca50433537a&key=4c896a4ac1c9d89d38e7b68b21a40837",
-        "icono": "https://i.ibb.co/ZpPpv9tJ/a24-py.png",
-        "headers": {
-          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/"
-        }
+        "uri": "https://a24-live.argosworkspace.com/a24/index.m3u8",
+        "icono": "https://i.ibb.co/ZpPpv9tJ/a24-py.png"
       },
       {
         "name": "HEI",
