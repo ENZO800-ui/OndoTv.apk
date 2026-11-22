@@ -1075,6 +1075,18 @@
         }
       },
       {
+        "name": "DISCOVERY",
+        "uri": "http://151.245.32.107:8080/ctv/247.m3u8",
+        "type": "hls",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeN7SQHBptic655yBnFczLBRlw-lL-uZ8bx9eXFaOhPQ&s=10",
+        "headers": {
+          "X-App": "ps",
+          "X-Version": "10/1.0.9",
+          "X-Did": "3db485a932e81c10",
+          "User-Agent": "Magma Player/10"
+        }
+      },
+      {
         "name": "DISCOVERY TURBO",
         "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c7eds/DiscoveryTurbo/SA_Live_dash_enc/DiscoveryTurbo.mpd",
         "drm_scheme": "clearkey",
@@ -1142,6 +1154,30 @@
   {
     "name": "🎥 CINE Y SERIES",
     "samples": [
+      {
+        "name": "A3CINE",
+        "uri": "http://151.245.32.107:8080/ctv/14.m3u8",
+        "type": "hls",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeTmpXRhkKK7NV50d-wuXfsd2FBSX-Pk03j2KWl2dQxcV3boU6F2jGKig&s=10",
+        "headers": {
+          "X-App": "ps",
+          "X-Version": "10/1.0.9",
+          "X-Did": "3db485a932e81c10",
+          "User-Agent": "Magma Player/10"
+        }
+      },
+      {
+        "name": "A3SERIES",
+        "uri": "http://151.245.32.107:8080/ctv/17.m3u8",
+        "type": "hls",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6se8BPE13voi-AkAUo3wKlEpD-J6seEx_fcvo_9ZZ3A&s",
+        "headers": {
+          "X-App": "ps",
+          "X-Version": "10/1.0.9",
+          "X-Did": "3db485a932e81c10",
+          "User-Agent": "Magma Player/10"
+        }
+      },
       {
         "name": "A&E",
         "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c7eds/AEHD/SA_Live_dash_enc/AEHD.mpd",
