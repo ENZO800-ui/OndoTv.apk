@@ -371,6 +371,18 @@
         }
       },
       {
+        "name": "ESPN PREMIUM",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXmrojjvvtDE6CEn5tfBhPpFO6OEeWT8MeT4mvuhqB71Wq9wsJ_uhllR2c&s=10",
+        "uri": "http://151.245.32.107:8080/ctv/405.m3u8",
+        "type": "hls",
+        "headers": {
+          "X-App": "ps",
+          "X-Version": "10/1.0.9",
+          "X-Did": "3db485a932e81c10",
+          "User-Agent": "Magma Player/10"
+        }
+      },
+      {
         "name": "ESPN ARG",
         "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd",
         "drm_scheme": "clearkey",
@@ -1064,14 +1076,14 @@
     "samples": [
       {
         "name": "ANIMAL PLANET",
-        "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c7eds/AnimalPlanet/SA_Live_dash_enc/AnimalPlanet.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=bd3391cf0c35692dbaca16b76169e211&key=0dd3924a07b0a4051f6db1d57e75a700",
+        "uri": "http://151.245.32.107:8080/ctv/42.m3u8",
+        "type": "hls",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png",
         "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-          "referer": "https://portal.app.flow.com.py/",
-          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+          "X-App": "ps",
+          "X-Version": "10/1.0.9",
+          "X-Did": "3db485a932e81c10",
+          "User-Agent": "Magma Player/10"
         }
       },
       {
@@ -1087,15 +1099,63 @@
         }
       },
       {
-        "name": "DISCOVERY TURBO",
-        "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c7eds/DiscoveryTurbo/SA_Live_dash_enc/DiscoveryTurbo.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=0f55ecc6486bcae9fd3f53271fc16ad8&key=eeb7df5969fc58b5771f2f3bc7502ad5",
-        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcHxpOVKnUe9L8VyarWFKx1mkDBiI3EhvuLjv-ipdZYw&s",
+        "name": "DISCOVERY SCI",
+        "uri": "http://151.245.32.107:8080/ctv/267.m3u8",
+        "type": "hls",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKUJWHPRM5lu9OQKkSO7pQC1cBPOHkcpqM5Ig_a193OA&s=10",
         "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-          "referer": "https://portal.app.flow.com.py/",
-          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+          "X-App": "ps",
+          "X-Version": "10/1.0.9",
+          "X-Did": "3db485a932e81c10",
+          "User-Agent": "Magma Player/10"
+        }
+      },
+      {
+        "name": "DISCOVERY THEATER",
+        "uri": "http://151.245.32.107:8080/ctv/271.m3u8",
+        "type": "hls",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdTeyEDelyiV_MouvjA2oUXlv41s68xr-TFdrVSrNwpg&s=10",
+        "headers": {
+          "X-App": "ps",
+          "X-Version": "10/1.0.9",
+          "X-Did": "3db485a932e81c10",
+          "User-Agent": "Magma Player/10"
+        }
+      },
+      {
+        "name": "DISCOVERY TURBO",
+        "uri": "http://151.245.32.107:8080/ctv/274.m3u8",
+        "type": "hls",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZwB6pybtgX4Q8UWMSwR28O4hHP6IIm0Ji5BwO4f9Ltg&s=10",
+        "headers": {
+          "X-App": "ps",
+          "X-Version": "10/1.0.9",
+          "X-Did": "3db485a932e81c10",
+          "User-Agent": "Magma Player/10"
+        }
+      },
+      {
+        "name": "DISCOVERY WORLD",
+        "uri": "http://151.245.32.107:8080/ctv/276.m3u8",
+        "type": "hls",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6rKWih5vntNOYD9kL379KMhhD4O7gTc-VY3yAhRPF3w&s=10",
+        "headers": {
+          "X-App": "ps",
+          "X-Version": "10/1.0.9",
+          "X-Did": "3db485a932e81c10",
+          "User-Agent": "Magma Player/10"
+        }
+      },
+      {
+        "name": "DISCOVERY H&H",
+        "uri": "http://151.245.32.107:8080/ctv/258.m3u8",
+        "type": "hls",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT1nQVbm_R0ZCDrPt-VIrIvjgIDva-Zl5Q6a5gu0mz_Q&s=10",
+        "headers": {
+          "X-App": "ps",
+          "X-Version": "10/1.0.9",
+          "X-Did": "3db485a932e81c10",
+          "User-Agent": "Magma Player/10"
         }
       },
       {
