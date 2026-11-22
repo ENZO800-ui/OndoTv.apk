@@ -45,7 +45,7 @@
       },
       {
         "name": "EVENTOS PY",
-        "uri": "http://179.198.126.40:8090/hls/thekingdx/stream.m3u8",
+        "uri": "http://45.170.130.224:8000/play/a04k/index.m3u8?hls",
         "icono": "https://i.ibb.co/5X20hxjL/KN-copia-4.png"
       },
       {
