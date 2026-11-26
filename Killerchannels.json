@@ -1,5 +1,42 @@
 [
   {
+    "name": "🏆 CONMEBOL LIBERTADORES FINAL",
+    "samples": [
+      {
+        "name": "SEÑAL 1 (RECOMENDADO)",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC3xQF6j0CVmDsv50laadOkLSvnbQ3o4OzdraRoCoNIA&s=10",
+        "uri": "https://jmp2.uk/plu-5dcde07af1c85b0009b18651.m3u8",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "Origin": "https://pluto.tv",
+          "Referer": "https://pluto.tv/"
+        }
+      },
+      {
+        "name": "SEÑAL 2",
+        "uri": "http://151.245.32.107:8080/ctv/616.m3u8",
+        "type": "hls",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC3xQF6j0CVmDsv50laadOkLSvnbQ3o4OzdraRoCoNIA&s=10",
+        "headers": {
+          "X-App": "ps",
+          "X-Version": "10/1.0.9",
+          "X-Did": "3db485a932e81c10",
+          "User-Agent": "Magma Player/10"
+        }
+      },
+      {
+        "name": "SEÑAL 3",
+        "uri": "https://lott2-reach-opus.cdn.avp.telus.net/232006003149/vxfmt=dp/manifest.mpd?device_profile=dashvmx",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=11111111111111118111000000000000&key=fdee3698ea4f78fb92ff11dbc3d49028",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC3xQF6j0CVmDsv50laadOkLSvnbQ3o4OzdraRoCoNIA&s=10",
+        "headers": {
+          "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.7258.143 Safari/537.36"
+        }
+      }
+    ]
+  },
+  {
     "name": "🏆 EVENTOS TIGO PY",
     "samples": [
       {
@@ -45,78 +82,13 @@
       },
       {
         "name": "EVENTOS PY",
-        "uri": "http://45.170.130.224:8000/play/a04k/index.m3u8?hls",
+        "uri": "https://183.giatvcdn.com/ssh101/ssh101/playtv1/chunks.m3u8",
         "icono": "https://i.ibb.co/5X20hxjL/KN-copia-4.png"
       },
       {
         "name": "TIGO SPORTS 24/7",
         "uri": "http://45.134.141.161:2200/ARG/Tigo_Sports/tracks-v1a1/mono.m3u8",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/500px-Tigo_Sports_2025.png"
-      }
-    ]
-  },
-  {
-    "name": "🏆 STREAMING EVENTOS",
-    "samples": [
-      {
-        "name": "DISNEY+",
-        "icono": "https://i.pinimg.com/originals/7b/02/ca/7b02ca068cc60479987d5052f842fdf3.jpg",
-        "uri": "https://streamxhd.sbs/live1.php?stream=disney1"
-      },
-      {
-        "name": "DISNEY+ 2",
-        "icono": "https://i.pinimg.com/originals/7b/02/ca/7b02ca068cc60479987d5052f842fdf3.jpg",
-        "uri": "https://streamxhd.sbs/live1.php?stream=disney2"
-      },
-      {
-        "name": "DISNEY+ 3",
-        "icono": "https://i.pinimg.com/originals/7b/02/ca/7b02ca068cc60479987d5052f842fdf3.jpg",
-        "uri": "https://streamxhd.sbs/live1.php?stream=disney3"
-      },
-      {
-        "name": "DISNEY+ 4",
-        "icono": "https://i.pinimg.com/originals/7b/02/ca/7b02ca068cc60479987d5052f842fdf3.jpg",
-        "uri": "https://streamxhd.sbs/live1.php?stream=disney4"
-      },
-      {
-        "name": "DISNEY+ 5",
-        "icono": "https://i.pinimg.com/originals/7b/02/ca/7b02ca068cc60479987d5052f842fdf3.jpg",
-        "uri": "https://streamxhd.sbs/live1.php?stream=disney5"
-      },
-      {
-        "name": "DISNEY+ 6",
-        "icono": "https://i.pinimg.com/originals/7b/02/ca/7b02ca068cc60479987d5052f842fdf3.jpg",
-        "uri": "https://streamxhd.sbs/live1.php?stream=disney6"
-      },
-      {
-        "name": "DISNEY+ 7",
-        "icono": "https://i.pinimg.com/originals/7b/02/ca/7b02ca068cc60479987d5052f842fdf3.jpg",
-        "uri": "https://streamxhd.sbs/live1.php?stream=disney7"
-      },
-      {
-        "name": "DISNEY+ 8",
-        "icono": "https://i.pinimg.com/originals/7b/02/ca/7b02ca068cc60479987d5052f842fdf3.jpg",
-        "uri": "https://streamxhd.sbs/live1.php?stream=disney8"
-      },
-      {
-        "name": "VIX+",
-        "icono": "https://images2.revistafama.com/QVIvxmNOa5BpvDHQOgRlocSoMHA=/320x200/uploads/media/2026/07/22/gratis-lcdlf-mexico-vix-premium.jpg",
-        "uri": "https://streamxhd.sbs/live1.php?stream=vix1"
-      },
-      {
-        "name": "VIX+ 2",
-        "icono": "https://images2.revistafama.com/QVIvxmNOa5BpvDHQOgRlocSoMHA=/320x200/uploads/media/2026/07/22/gratis-lcdlf-mexico-vix-premium.jpg",
-        "uri": "https://streamxhd.sbs/live1.php?stream=vix2"
-      },
-      {
-        "name": "VIX+ 3",
-        "icono": "https://images2.revistafama.com/QVIvxmNOa5BpvDHQOgRlocSoMHA=/320x200/uploads/media/2026/07/22/gratis-lcdlf-mexico-vix-premium.jpg",
-        "uri": "https://streamxhd.sbs/live1.php?stream=vix3"
-      },
-      {
-        "name": "VIX+ 4",
-        "icono": "https://images2.revistafama.com/QVIvxmNOa5BpvDHQOgRlocSoMHA=/320x200/uploads/media/2026/07/22/gratis-lcdlf-mexico-vix-premium.jpg",
-        "uri": "https://streamxhd.sbs/live1.php?stream=vix4"
       }
     ]
   },
@@ -584,61 +556,6 @@
           "X-Version": "10/1.0.9",
           "X-Did": "3db485a932e81c10",
           "User-Agent": "Magma Player/10"
-        }
-      }
-    ]
-  },
-  {
-    "name": "🏆 DAZN PACK",
-    "samples": [
-      {
-        "name": "DAZN 1",
-        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS_iYfzg5DSQCAXg7ONRaroi88RIoYlAJ695EaS_bLyw&s=10",
-        "uri": "https://tvf90.com/online.php?stream=dazn1"
-      },
-      {
-        "name": "DAZN 2",
-        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS_iYfzg5DSQCAXg7ONRaroi88RIoYlAJ695EaS_bLyw&s=10",
-        "uri": "https://tvf90.com/online.php?stream=dazn2"
-      },
-      {
-        "name": "DAZN 3",
-        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS_iYfzg5DSQCAXg7ONRaroi88RIoYlAJ695EaS_bLyw&s=10",
-        "uri": "https://tvf90.com/online.php?stream=dazn3"
-      },
-      {
-        "name": "DAZN 4",
-        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS_iYfzg5DSQCAXg7ONRaroi88RIoYlAJ695EaS_bLyw&s=10",
-        "uri": "https://tvf90.com/online.php?stream=dazn4"
-      },
-      {
-        "name": "DAZN LALIGA",
-        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS_iYfzg5DSQCAXg7ONRaroi88RIoYlAJ695EaS_bLyw&s=10",
-        "uri": "https://tvf90.com/online.php?stream=dazn_laliga"
-      },
-      {
-        "name": "DAZN F1",
-        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS_iYfzg5DSQCAXg7ONRaroi88RIoYlAJ695EaS_bLyw&s=10",
-        "uri": "http://45.134.141.161:2200/ARG/Formula_1_HD/tracks-v1a1/mono.m3u8"
-      },
-      {
-        "name": "DAZN COMBAT",
-        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS_iYfzg5DSQCAXg7ONRaroi88RIoYlAJ695EaS_bLyw&s=10",
-        "uri": "https://jmp2.uk/plu-64d626ac9b414d000820e2fc.m3u8"
-      },
-      {
-        "name": "DAZN RINGSIDE",
-        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS_iYfzg5DSQCAXg7ONRaroi88RIoYlAJ695EaS_bLyw&s=10",
-        "uri": "https://a.tubi1.apollo.adrise.io/live/dazn-ringside-mzlqsq.m3u8"
-      },
-      {
-        "name": "DAZN FAST",
-        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS_iYfzg5DSQCAXg7ONRaroi88RIoYlAJ695EaS_bLyw&s=10",
-        "uri": "https://ac-003.live.p7s1video.net/63f8995e/t_003/dazn-fast-hd/cenc-default.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=8bcec6b31cc9edcb6768ab26548e22c3&key=e3c5b07328894c33734a4de6ae55a87f",
-        "headers": {
-          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
         }
       }
     ]
