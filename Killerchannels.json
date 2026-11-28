@@ -622,7 +622,7 @@
       },
       {
         "name": "PLUTO DEPORTES",
-        "icono": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/5dcde07af1c85b0009b18651/colorLogoPNG_1766080575034.png?format=webp&trim=true",
+        "icono": "https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG.png?format=webp&trim=true",
         "uri": "https://jmp2.uk/plu-5dcde07af1c85b0009b18651.m3u8",
         "headers": {
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
@@ -632,7 +632,7 @@
       },
       {
         "name": "PLUTO FUTBOL",
-        "icono": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/63c6e37e636b7e0007ccb635/colorLogoPNG_1766080575034.png?format=webp&trim=true",
+        "icono": "https://images.pluto.tv/channels/63c6e37e636b7e0007ccb635/colorLogoPNG.png?format=webp&trim=true",
         "uri": "https://jmp2.uk/plu-63c6e37e636b7e0007ccb635.m3u8?appName=web",
         "headers": {
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
@@ -807,14 +807,14 @@
         }
       },
       {
-        "name": "CLARO SPORTS LATAM",
-        "icono": "https://i.ibb.co/6chwhjB2/claro-sports.png",
+        "name": "CLARO SPORTS",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj1wIab7Sn21u76TecNl3MN34Gs-dVlLkHlPv6GBu_yA&s=10",
         "uri": "https://d1cfxove8uup6f.cloudfront.net/live/20d97871-da2b-4b9a-9ad5-5c1be98c37e1/live.isml/manifest.mpd"
       },
       {
-        "name": "CLARO SPORTS MX/C.A.",
-        "uri": "https://dai.google.com/linear/hls/event/_OKWx76jT7mivD6d-25QAw/master.m3u8",
-        "icono": "https://i.ibb.co/6chwhjB2/claro-sports.png"
+        "name": "CLARO SPORTS FAST",
+        "uri": "https://jmp2.uk/plu-6320d2755e54db000783fd87.m3u8",
+        "icono": "https://images.pluto.tv/channels/6320d2755e54db000783fd87/thumbnail.jpg"
       },
       {
         "name": "Red Bull TV",
@@ -827,7 +827,7 @@
       {
         "name": "RALLY TV",
         "uri": "https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/es_US/playlist.m3u8",
-        "icono": "https://i.postimg.cc/Mp0VCRjd/rally-tv.png"
+        "icono": "https://m.media-amazon.com/images/I/71T58FsuUPL.png"
       },
       {
         "name": "TUDN",
@@ -1209,6 +1209,11 @@
         "icono": "https://i.imgur.com/L1h6W5Q.png"
       },
       {
+        "name": "CBS SERIES",
+        "uri": "https://jmp2.uk/plu-668c5cb4f01dbe0008dd4082.m3u8",
+         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX1dx402Z59SdfLMA5ETxyGb-07WHCYsEE9cOp0XVgZw&s=10"
+      },
+      {
         "name": "CINECANAL",
         "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c3eds/CinecanalHD/SA_Live_dash_enc/CinecanalHD.mpd",
         "drm_scheme": "clearkey",
@@ -1380,6 +1385,16 @@
     "name": "🎥 NOVELAS",
     "samples": [
       {
+        "name": "KANAL D DRAMA",
+        "uri": "https://amg01602-amg01602c2-canelatv-international-5561.playouts.now.amagi.tv/playlist/amg01602-themahqfrancefast-themavivekanalddrama-canelatvinternational/playlist.m3u8?worldtv6?rights_holder_id=vive-kanal-d-drama&ic=IAB1-7&content_livestream=1&app_bundle=canela.tv&app_name=CanelaTV&app_store_url=NA&dnt=0&did=0e5adb91-3380-43f4-afa6-574df288f505&url=https://www.canela.tv/player/channel/vive-kanal-d-drama&us_privacy=null_us_privacy&coppa=0&ifa_type=NA&lmt=NA&device_language=es",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdJP7rFux_O-hmEwJsbXVgECuKRTGqQw7m2NCXGR_67B5TBZx_m2KsIpwC&s=10"
+      },
+      {
+        "name": "CANELA TV",
+        "uri": "https://amg00658-amg00658c108-canelatv-international-7664.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg00658-canelamediafast-canelatvlatamapp-canelatvinternational/playlist.m3u8",
+        "icono": "https://play-lh.googleusercontent.com/iLusoR_ZTaY42j1sndiQnyKOTk48R2VMkg0mK6r-yjXaqP8wttXbrMPswQxjY9wiDSh0Zg2JEztUmJBQsUv2gw"
+      },
+      {
         "name": "TNT NOVELAS",
         "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c6eds/TBS/SA_Live_dash_enc/TBS.mpd",
         "drm_scheme": "clearkey",
@@ -1409,12 +1424,7 @@
         }
       },
       {
-        "name": "UNIVISON",
-        "uri": "https://barinaslive1.boldmss.com/UNIVISION/UNIVISION.isml/UNIVISION.m3u8",
-        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJcEVrzPoY4xlQByM719uO3YbYI7GqAnvgF5UmTHjGtw&s=10"
-      },
-      {
-        "name": "UNIVISION INT",
+        "name": "UNIVISION",
         "uri": "http://151.245.32.107:8080/ctv/1009.m3u8",
         "type": "hls",
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJcEVrzPoY4xlQByM719uO3YbYI7GqAnvgF5UmTHjGtw&s=10",
@@ -1476,7 +1486,7 @@
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk9JnR-AA7rzhgj-0WAYBf8qFKIHxWM5O0srGW3AOB8Q&s=10"
       },
       {
-        "name": "TLNovelas",
+        "name": "TLNOVELAS",
         "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c6eds/Telenovelas/SA_Live_dash_enc_wl/Telenovelas.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/TLNovelas",
@@ -1536,6 +1546,11 @@
         "name": "TODO PASION",
         "uri": "https://d3ng12uij4vzn7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zxw9tagebrg7m/TodoPasion_ES.m3u8",
         "icono": "https://yt3.googleusercontent.com/u2gkc-Eg5qHkWA6LwxcYmLocZqn9cgyaXhenZGwxlUzwcUrCxXZzeF-CqsHng6ojzUYA7OgH-A=s900-c-k-c0x00ffffff-no-rj"
+      },
+      {
+        "name": "WEDOTV AMOR",
+        "uri": "https://amg00735-videosolutions-amg00735c15-wedotv-eu-1915.playouts.now.amagi.tv/playlist/amg00735-videosolutionsagfast-wedoamor-wedotveu/playlist.m3u8",
+        "icono": "https://cdn-01.watch4.com/01/1720621000_wedo-amor_white_logo.png"
       }
     ]
   },
